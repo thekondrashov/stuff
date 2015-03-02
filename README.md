@@ -33,6 +33,7 @@
 
 ## Справочники
 
+* [CSS selectors](#css-selectors)
 * [Markdown](#markdown)
 * [Unicode](#unicode)
 
@@ -102,6 +103,10 @@
 
 
 # Справочники
+
+## CSS selectors
+
+* [30 CSS селекторов, которые вы должны запомнить](http://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048) - Russian (Pусский) translation by [Dmitriy Troy](http://tutsplus.com/authors/dmitriy-troy) (you can also [view the original English article](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)).
 
 ## Markdown
 
