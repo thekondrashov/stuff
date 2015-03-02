@@ -6,6 +6,9 @@
 - [JavaScript](#javascript)
 - [Web performance optimization](#web-performance-optimization)
 - [Справочники](#Справочники)
+- [Хостинг](#Хостинг)
+
+
 
 ## JavaScript
 
@@ -19,13 +22,22 @@
 
 * [Markdown](#markdown)
 
+## Хостинг
+
+* [Бесплатный хостинг](#Бесплатный-хостинг)
+
+
+
 # Интересности
 
-# jQuery
 
-## jQuery plugins
+
+# JavaScript
+
+## jQuery
 
 * [Unheap](http://www.unheap.com/) - A tidy repository of jQuery plugins.
+
 
 
 # Web performance optimization
@@ -35,8 +47,17 @@
 * [jsDelivr](https://github.com/jsdelivr/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open source CDN that allows developers to host their own projects and anyone to link to our hosted files in their websites.
 
 
+
 # Справочники
 
 ## Markdown
 
 * [Markdown Basics](https://help.github.com/articles/markdown-basics/) - Markdown Basics on GitHub.
+
+
+
+# Хостинг
+
+## Бесплатный хостинг
+
+* [Хостинг tcphost.net](https://sohabr.net/habr/post/250037/) - Бесплатный хостинг для студентов.
