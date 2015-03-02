@@ -5,6 +5,7 @@
 ## Категории
 - [Icon fonts](#icon-fonts)
 - [JavaScript](#javascript)
+- [QR Codes](#qr-codes)
 - [Security](#security)
 - [Web performance optimization](#web-performance-optimization)
 - [Справочники](#Справочники)
@@ -18,6 +19,10 @@
 ## JavaScript
 
 * [jQuery](#jquery)
+
+## QR Codes
+
+* [Online QR Code Generators](#online-qr-code-generators)
 
 ## Security
 
@@ -64,6 +69,13 @@
 ## jQuery
 
 * [Unheap](http://www.unheap.com/) - A tidy repository of jQuery plugins.
+
+
+
+# Online QR Code Generators
+
+* [QR Code Generator](https://www.the-qrcode-generator.com/) - Free Online QR Code Generator to make your own QR Codes.
+
 
 
 # Security
