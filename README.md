@@ -105,6 +105,8 @@
 ## Image optimization
 
 ### Online image optimization tools
+
+* [SVG Editor](https://petercollingridge.appspot.com/svg-editor) - Online SVG Editor by [Peter Collingridge](http://www.petercollingridge.co.uk).
 * [Kraken Image Optimizer](https://kraken.io/web-interface) - Free online web interface. Support PNG, JPG, GIF, SVG formats.
 
 
