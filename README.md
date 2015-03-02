@@ -3,8 +3,8 @@
 Мой личный список всяких интересностей.
 
 ## Категории
-- [Web performance optimization](#wpo)
-- [Справочники](#справочники)
+- [Web performance optimization](#web-performance-optimization)
+- [Справочники](#Справочники)
 
 ## Web performance optimization
 
