@@ -30,6 +30,7 @@
 ## Web performance optimization
 
 * [CDN](#cdn)
+* [Image optimization](#image-optimization)
 
 ## Справочники
 
@@ -100,6 +101,12 @@
 ## CDN
 
 * [jsDelivr](https://github.com/jsdelivr/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open source CDN that allows developers to host their own projects and anyone to link to our hosted files in their websites.
+
+## Image optimization
+
+### Online image optimization tools
+* [Kraken Image Optimizer](https://kraken.io/web-interface) - Free online web interface. Support PNG, JPG, GIF, SVG formats.
+
 
 
 
