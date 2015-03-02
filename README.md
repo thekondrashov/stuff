@@ -17,8 +17,9 @@
 
 ## Security
 
+* [HTTP headers](#http-headers)
 * [Online security scanners](#online-security-scanners)
-* [SSL](#ssl)
+* [SSL certificates](#ssl-certificates)
 
 ## Web performance optimization
 
@@ -47,11 +48,20 @@
 
 # Security
 
+## HTTP headers
+
+### Content Security Policy
+
+* [CSP Quick Reference Guide](http://content-security-policy.com/) - CSP Reference & Examples.
+* [Default Browser Content Security Policy](https://redbooth.com/engineering/security/default-content-security-policy) - to reject suspicious accesses to local networks and trust other urls.
+* [MDN: CSP policy directives](https://developer.mozilla.org/en-US/docs/Web/Security/CSP/CSP_policy_directives) - are several policy areas that web site administrators can define using CSP.
+
+
 ## Online security scanners
 
 * [SecurityHeaders.io](https://securityheaders.io/) - An easy way to asses the security based HTTP response headers of other sites.
 
-## SSL
+## SSL certificates
 
 * [TinyCert](https://www.tinycert.org/) - Generate and manage SSL certificates free.
 
