@@ -17,6 +17,7 @@
 
 ## Security
 
+* [Online security scanners](#online-security-scanners)
 * [SSL](#ssl)
 
 ## Web performance optimization
@@ -45,6 +46,10 @@
 
 
 # Security
+
+## Online security scanners
+
+* [SecurityHeaders.io](https://securityheaders.io/) - An easy way to asses the security based HTTP response headers of other sites.
 
 ## SSL
 
