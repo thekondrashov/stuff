@@ -53,6 +53,7 @@
 
 * [GLYPHICONS](https://glyphicons.com/) - library of precisely prepared monochromatic icons and symbols.
 * [Font Awesome Cheat Sheet](http://fontawesome.bootstrapcheatsheets.com/) - Font Awesome | Bootstrap Cheat Sheets
+* [Font Awesome 3.2.1](http://fontawesome.io/3.2.1/icons/) - supports IE7.
 
 
 
