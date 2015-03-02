@@ -23,6 +23,7 @@
 
 * [HTTP headers](#http-headers)
 * [Online security scanners](#online-security-scanners)
+* [Personal privacy](#personal-privacy)
 * [SSL certificates](#ssl-certificates)
 
 ## Web performance optimization
@@ -74,6 +75,10 @@
 ## Online security scanners
 
 * [SecurityHeaders.io](https://securityheaders.io/) - An easy way to asses the security based HTTP response headers of other sites.
+
+## Personal privacy
+
+* [Check login status](http://status.phplernen.org/) - Check your login status at different internet services at once.
 
 ## SSL certificates
 
