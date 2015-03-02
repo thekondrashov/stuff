@@ -25,6 +25,7 @@
 * [Online security scanners](#online-security-scanners)
 * [Personal privacy](#personal-privacy)
 * [SSL certificates](#ssl-certificates)
+* [Web security blogs](#web-security-blogs)
 
 ## Web performance optimization
 
@@ -83,6 +84,11 @@
 ## SSL certificates
 
 * [TinyCert](https://www.tinycert.org/) - Generate and manage SSL certificates free.
+
+## Web security blogs
+
+* [Scott Helme](https://scotthelme.co.uk/) - Information Security Consultant.
+* [oxdef](https://www.oxdef.info/) - Some thoughts about web security.
 
 
 
