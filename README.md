@@ -3,6 +3,7 @@
 Мой личный список всяких интересностей.
 
 ## Категории
+- [Icon fonts](#icon-fonts)
 - [JavaScript](#javascript)
 - [Security](#security)
 - [Web performance optimization](#web-performance-optimization)
@@ -10,6 +11,9 @@
 - [Хостинг](#Хостинг)
 
 
+## Icon fonts
+
+* [Icon font kits](#icon-font-kits)
 
 ## JavaScript
 
@@ -37,6 +41,15 @@
 
 
 # Интересности
+
+
+
+# Icon fonts
+
+## Icon font kits
+
+* [GLYPHICONS](https://glyphicons.com/) - library of precisely prepared monochromatic icons and symbols.
+
 
 
 
