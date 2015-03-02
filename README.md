@@ -60,6 +60,7 @@
 * [GLYPHICONS](https://glyphicons.com/) - library of precisely prepared monochromatic icons and symbols.
 * [Font Awesome Cheat Sheet](http://fontawesome.bootstrapcheatsheets.com/) - Font Awesome | Bootstrap Cheat Sheets
 * [Font Awesome 3.2.1](http://fontawesome.io/3.2.1/icons/) - supports IE7.
+* [MFG Labs Icon set](http://mfglabs.github.io/mfglabs-iconset/) - An icon webfont you can easely embed anywhere on your website and web application.
 
 
 
