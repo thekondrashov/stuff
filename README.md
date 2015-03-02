@@ -51,6 +51,7 @@
 ## Icon font kits
 
 * [GLYPHICONS](https://glyphicons.com/) - library of precisely prepared monochromatic icons and symbols.
+* [Font Awesome Cheat Sheet](http://fontawesome.bootstrapcheatsheets.com/) - Font Awesome | Bootstrap Cheat Sheets
 
 
 
