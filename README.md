@@ -73,7 +73,9 @@
 
 
 
-# Online QR Code Generators
+# QR Codes
+
+## Online QR Code Generators
 
 * [QR Code Generator](https://www.the-qrcode-generator.com/) - Free Online QR Code Generator to make your own QR Codes.
 
