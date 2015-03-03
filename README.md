@@ -29,7 +29,7 @@
 
 ## Lessons
 
-* [HTML, CSS & JavaScript](#)
+* [HTML, CSS & JavaScript](#html-css--javascript)
 
 
 ## QR Codes
