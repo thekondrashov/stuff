@@ -3,6 +3,7 @@
 Мой личный список всяких интересностей.
 
 ## Категории
+- [Color](#color)
 - [Icon fonts](#icon-fonts)
 - [JavaScript](#javascript)
 - [QR Codes](#qr-codes)
@@ -11,6 +12,11 @@
 - [Справочники](#Справочники)
 - [Хостинг](#Хостинг)
 
+
+
+## Color
+
+* [Color Scheme Generators](#color-scheme-generators)
 
 ## Icon fonts
 
@@ -50,6 +56,13 @@
 
 
 # Интересности
+
+
+# Color
+
+## Color Scheme Generators
+
+* [Flatuicolorpicker](http://www.flatuicolorpicker.com/) - A project digging the Flat Color Picker which gives you the perfect colors for flat designs.
 
 
 
