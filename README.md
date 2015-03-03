@@ -148,3 +148,4 @@
 ## Бесплатный хостинг
 
 * [Хостинг tcphost.net](https://sohabr.net/habr/post/250037/) - Бесплатный хостинг для студентов.
+* [YouHosting](http://www.youhosting.com/en/page/plans) - Become a Web Hosting Reseller For Free!
