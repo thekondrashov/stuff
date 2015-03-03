@@ -6,6 +6,7 @@
 - [Color](#color)
 - [Icon fonts](#icon-fonts)
 - [JavaScript](#javascript)
+- [Lessons](#lessons)
 - [QR Codes](#qr-codes)
 - [Security](#security)
 - [Web performance optimization](#web-performance-optimization)
@@ -25,6 +26,11 @@
 ## JavaScript
 
 * [jQuery](#jquery)
+
+## Lessons
+
+* [HTML, CSS & JavaScript](#)
+
 
 ## QR Codes
 
@@ -83,6 +89,13 @@
 ## jQuery
 
 * [Unheap](http://www.unheap.com/) - A tidy repository of jQuery plugins.
+
+# Lessons
+
+## HTML, CSS & JavaScript
+
+* [Learn to Code HTML & CSS](http://learn.shayhowe.com/) - Beginner & Advanced lessons.
+
 
 
 
