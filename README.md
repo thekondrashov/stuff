@@ -58,6 +58,7 @@
 
 ## Хостинг
 
+* [WHOIS](#whois)
 * [Бесплатный хостинг](#Бесплатный-хостинг)
 
 
@@ -176,6 +177,11 @@
 
 
 # Хостинг
+
+## WHOIS
+
+* [ICANN WHOIS](http://whois.icann.org/) - Official ICANN WHOIS Search.
+
 
 ## Бесплатный хостинг
 
