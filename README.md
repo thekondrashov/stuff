@@ -188,7 +188,7 @@
 
 ## HTTP Status Codes
 
-* [HTTP Status Codes &mdash; httpstatus.es](http://httpstatus.es/) - HTTP Status code list / directory with wikipedia and ietf descriptions.
+* [HTTP Status Codes &mdash; httpstatus.es](http://httpstatus.es/) - HTTP Status code list / directory with wikipedia and ietf descriptions. [Github](https://github.com/citricsquid/httpstatus.es)
 
 
 ## Markdown
