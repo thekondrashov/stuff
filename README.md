@@ -60,6 +60,7 @@
 
 * [CSS selectors](#css-selectors)
 * [Emoji](#emoji)
+* [HTTP Status Codes](#http-status-codes)
 * [Markdown](#markdown)
 * [Unicode](#unicode)
 * [Misc](#misc)
@@ -184,6 +185,11 @@
 ## Emoji
 
 * [Emoji Unicode Tables](http://apps.timwhitlock.info/emoji/tables/unicode) - Emoji code points and example glyphs using web fonts, sprites and native OS representation of Emoji characters.
+
+## HTTP Status Codes
+
+* [HTTP Status Codes &mdash; httpstatus.es](http://httpstatus.es/) - HTTP Status code list / directory with wikipedia and ietf descriptions.
+
 
 ## Markdown
 
