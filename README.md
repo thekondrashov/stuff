@@ -28,6 +28,7 @@
 ## Icon fonts
 
 * [Icon font kits](#icon-font-kits)
+* [Icon font generators](#icon-font-generators)
 
 ## JavaScript
 
@@ -94,11 +95,14 @@
 
 ## Icon font kits
 
-* [GLYPHICONS](https://glyphicons.com/) - library of precisely prepared monochromatic icons and symbols.
+* [GLYPHICONS](https://glyphicons.com/) - Library of precisely prepared monochromatic icons and symbols.
 * [Font Awesome Cheat Sheet](http://fontawesome.bootstrapcheatsheets.com/) - Font Awesome | Bootstrap Cheat Sheets
 * [Font Awesome 3.2.1](http://fontawesome.io/3.2.1/icons/) - supports IE7.
 * [MFG Labs Icon set](http://mfglabs.github.io/mfglabs-iconset/) - An icon webfont you can easely embed anywhere on your website and web application.
 
+## Icon font generators
+
+* [Font Awesome to PNG online generator](http://fa2png.io/) - A small web app returning Font Awesome icons as png. You can define the color and size of the icons and download them directly.
 
 
 
