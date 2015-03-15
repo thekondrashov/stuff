@@ -58,6 +58,7 @@
 ## Справочники
 
 * [CSS selectors](#css-selectors)
+* [Emoji](#emoji)
 * [Markdown](#markdown)
 * [Unicode](#unicode)
 * [Misc](#misc)
@@ -175,6 +176,10 @@
 ## CSS selectors
 
 * [30 CSS селекторов, которые вы должны запомнить](http://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048) - Russian (Pусский) translation by [Dmitriy Troy](http://tutsplus.com/authors/dmitriy-troy) (you can also [view the original English article](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)).
+
+## Emoji
+
+* [Emoji Unicode Tables](http://apps.timwhitlock.info/emoji/tables/unicode) - Emoji code points and example glyphs using web fonts, sprites and native OS representation of Emoji characters.
 
 ## Markdown
 
