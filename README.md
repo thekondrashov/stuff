@@ -67,6 +67,7 @@
 
 ## Хостинг
 
+* [Google App Engine](#google-app-engine)
 * [WHOIS](#whois)
 * [Бесплатный хостинг](#Бесплатный-хостинг)
 
@@ -207,6 +208,12 @@
 
 
 # Хостинг
+
+## Google App Engine
+
+* [Custom Domain with Google App Engine now that Google Apps is not free anymore](http://stackoverflow.com/questions/18560247) - Stack Overflow.
+* [Using App Engine with a custom domain, without paying for Google Apps?](http://stackoverflow.com/questions/17619204) - Stack Overflow.
+
 
 ## WHOIS
 
