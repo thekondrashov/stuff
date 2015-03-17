@@ -10,6 +10,7 @@
 - [Lessons](#lessons)
 - [QR Codes](#qr-codes)
 - [Security](#security)
+- [Utils](#utils)
 - [Web performance optimization](#web-performance-optimization)
 - [Справочники](#Справочники)
 - [Хостинг](#Хостинг)
@@ -50,6 +51,11 @@
 * [Personal privacy](#personal-privacy)
 * [SSL certificates](#ssl-certificates)
 * [Web security blogs](#web-security-blogs)
+
+## Utils
+
+* [Convert anything to anything](#convert-anything-to-anything)
+
 
 ## Web performance optimization
 
@@ -159,6 +165,12 @@
 * [Scott Helme](https://scotthelme.co.uk/) - Information Security Consultant.
 * [oxdef](https://www.oxdef.info/) - Some thoughts about web security.
 
+
+# Utils
+
+## Convert anything to anything
+
+* [HEX to RGB Converter](http://hex.colorrrs.com/) - A simple tool for converting HEX values to RGB and vice versa.
 
 
 # Web performance optimization
