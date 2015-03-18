@@ -159,6 +159,8 @@
 ## SSL certificates
 
 * [TinyCert](https://www.tinycert.org/) - Generate and manage SSL certificates free.
+* [Let's Encrypt](https://letsencrypt.org/) - It’s free, automated, and open certificate authority.
+* [30-day free trial SSL certificate from RapidSSL](https://www.freessl.com/) - These SSL certificates are fully functional for 30 days, ideal for testing.
 
 ## Web security blogs
 
