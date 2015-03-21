@@ -24,6 +24,7 @@
 ## CSS
 
 * [Bootstrap](#bootstrap)
+* [CSS Hacks](#css-hacks)
 
 
 ## Icon fonts
@@ -95,6 +96,11 @@
 ### Offcanvas navigation menu
 
 * [Mobile navigation menu for Bootstrap](https://255kb.github.io/bs-mobilenav/) - BS-Mobilenav is a package allowing you to create a mobile friendly and swipeable menu from any regular Bootstrap grid element. [Github](https://github.com/255kb/bs-mobilenav)
+
+## CSS Hacks
+
+* [Puerh CSS Hacks](http://baixing.github.io/Puerh/start/#css-hack).
+
 
 
 
