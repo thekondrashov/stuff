@@ -20,6 +20,7 @@
 ## Color
 
 * [Color Scheme Generators](#color-scheme-generators)
+* [Color Misc](#color-misc)
 
 ## CSS
 
@@ -89,6 +90,12 @@
 ## Color Scheme Generators
 
 * [Flatuicolorpicker](http://www.flatuicolorpicker.com/) - A project digging the Flat Color Picker which gives you the perfect colors for flat designs.
+
+## Color Misc
+
+* [GitHub language colour codes](https://github.com/librariesio/favicon/blob/master/lib/colours.json)
+
+
 
 # CSS
 
