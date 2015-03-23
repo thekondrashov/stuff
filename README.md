@@ -225,6 +225,7 @@
 
 * [SVG Editor](https://petercollingridge.appspot.com/svg-editor) - Online SVG Editor by [Peter Collingridge](http://www.petercollingridge.co.uk).
 * [Kraken Image Optimizer](https://kraken.io/web-interface) - Free online web interface. Support PNG, JPG, GIF, SVG formats.
+* [b64.io](http://b64.io/) - online image optimizer and base64 encoder.
 
 
 
