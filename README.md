@@ -157,6 +157,7 @@
 
 * [Loco - Translation Management System](https://localise.biz/) - Free translation management and localisation software for developers building multi-language apps.
 * [Crowdin - Localization Management Platform](https://crowdin.com/) - Crowdin is a free trial localization project management platfom and translation tool for developers and website owners. We make it easy to work with content being translated using our collaboration platform. [Example](https://crowdin.com/project/ublock)
+* [Google Translator Toolkit](http://translate.google.com/toolkit) - Google Translator Toolkit is a web application designed to allow translators to edit the translations that Google Translate automatically generates. With the Google Translator Toolkit, translators can organize their work and use shared translations, glossaries and translation memories. They can upload and translate Microsoft Word documents, OpenOffice.org, RTF, HTML, text, and Wikipedia articles (from [Wikipedia](https://en.wikipedia.org/wiki/Google_Translator_Toolkit)).
 
 
 
