@@ -73,6 +73,7 @@
 
 ## Справочники
 
+* [Cheat Sheets](#cheat-sheets)
 * [CSS selectors](#css-selectors)
 * [Emoji](#emoji)
 * [HTTP Status Codes](#http-status-codes)
@@ -228,6 +229,10 @@
 
 
 # Справочники
+
+## Cheat Sheets
+
+* [Cheat Sheets - Added Bytes](https://www.addedbytes.com/cheat-sheets/) - A selection of 31 awesome, printable quick references for a variety of languages and web technologies. These and more are also available at [Cheatography](http://www.cheatography.com).
 
 ## CSS selectors
 
