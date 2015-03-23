@@ -260,6 +260,7 @@
 ## Misc
 
 * [RFC](http://rfc2.ru/) - Наиболее полная в Рунете коллекция документов RFC, переведённых на русский язык.
+* [IANA Database of Top Level Domains](http://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 
 
 
