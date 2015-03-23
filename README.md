@@ -56,6 +56,7 @@
 ## Utils
 
 * [Convert anything to anything](#convert-anything-to-anything)
+* [Favicon Generators](#favicon-generators)
 
 
 ## Web performance optimization
@@ -182,6 +183,10 @@
 ## Convert anything to anything
 
 * [HEX to RGB Converter](http://hex.colorrrs.com/) - A simple tool for converting HEX values to RGB and vice versa.
+
+## Favicon Generators
+
+* [Epic Favicon Generator by BCCO](https://epicfavicongenerator.com/) - The Epic Favicon Generator offers 20+ favicon sizes, is mobile friendly, and free!
 
 
 # Web performance optimization
