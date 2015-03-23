@@ -134,6 +134,7 @@
 ## jQuery
 
 * [Unheap](http://www.unheap.com/) - A tidy repository of jQuery plugins. Огромная коллекция реально качественных и нужных jQuery плагинов, грамотно расфасованная по области применения. В Unheap 5 основных разделов UI, Inputs, Media, Nav, Other и каждый из них содержит еще с десяток подкатегорий. В общей сложности на данный момент каталог содержит более 1000 различных плагинов.
+* [jQuery Plugins](http://jquery-plugins.net/) - Daily Latest, Popular, Free jQuery Plugins & jQuery Tutorials & jQuery Articles & Demos.
 
 # Lessons
 
