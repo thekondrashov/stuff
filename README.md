@@ -10,6 +10,7 @@
 - [Lessons](#lessons)
 - [QR Codes](#qr-codes)
 - [Security](#security)
+- [Translation](#translation)
 - [Utils](#utils)
 - [Web performance optimization](#web-performance-optimization)
 - [Справочники](#Справочники)
@@ -53,6 +54,11 @@
 * [Personal privacy](#personal-privacy)
 * [SSL certificates](#ssl-certificates)
 * [Web security blogs](#web-security-blogs)
+
+## Translation
+
+* [Translation Management](#translation-management)
+
 
 ## Utils
 
@@ -184,6 +190,14 @@
 
 * [Scott Helme](https://scotthelme.co.uk/) - Information Security Consultant.
 * [oxdef](https://www.oxdef.info/) - Some thoughts about web security.
+
+
+# Translation
+
+## Translation Management
+
+* [Loco - Translation Management System](https://localise.biz/) - Free translation management and localisation software for developers building multi-language apps.
+
 
 
 # Utils
