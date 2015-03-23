@@ -160,6 +160,7 @@
 * [Google Translator Toolkit](http://translate.google.com/toolkit) - Google Translator Toolkit is a web application designed to allow translators to edit the translations that Google Translate automatically generates. With the Google Translator Toolkit, translators can organize their work and use shared translations, glossaries and translation memories. They can upload and translate Microsoft Word documents, OpenOffice.org, RTF, HTML, text, and Wikipedia articles (from [Wikipedia](https://en.wikipedia.org/wiki/Google_Translator_Toolkit)).
 * [Transifex | Localization Platform for Web Apps, Mobile Apps, Websites](https://www.transifex.com/) - Transifex makes it easy to collect, translate and deliver digital content, web and mobile apps in multiple languages. 30-day free trial.
 * [OneSky - Translation Services, Translation Management System and Collaborative Translation Solutions](https://oneskyapp.com/) - OneSky offers professional translation services, free translation management system & crowd-sourcing solutions that enable companies to expand internationally.
+* [Lokalise - Локализуйте ваше приложение в команде](https://lokali.se/) ([on Russian](https://lokali.se/ru)) - Lokalise предлагает систему управления переводами и услуги профессиональных переводов, которые позволяют компаниям выйти на международный рынок.
 
 
 
