@@ -156,7 +156,7 @@
 ## Localization Management Platforms
 
 * [Loco - Translation Management System](https://localise.biz/) - Free translation management and localisation software for developers building multi-language apps.
-* [Crowdin - Localization Management Platform](https://crowdin.com/) - Crowdin is a free trial localization project management platfom and translation tool for developers and website owners. We make it easy to work with content being translated using our collaboration platform.
+* [Crowdin - Localization Management Platform](https://crowdin.com/) - Crowdin is a free trial localization project management platfom and translation tool for developers and website owners. We make it easy to work with content being translated using our collaboration platform. [Example](https://crowdin.com/project/ublock)
 
 
 
