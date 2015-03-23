@@ -8,9 +8,9 @@
 - [Icon fonts](#icon-fonts)
 - [JavaScript](#javascript)
 - [Lessons](#lessons)
+- [Localization](#localization)
 - [QR Codes](#qr-codes)
 - [Security](#security)
-- [Translation](#translation)
 - [Utils](#utils)
 - [Web performance optimization](#web-performance-optimization)
 - [Справочники](#Справочники)
@@ -42,6 +42,11 @@
 
 * [HTML, CSS & JavaScript](#html-css--javascript)
 
+## Localization
+
+* [Localization Management Platforms](#localization-management-platforms)
+
+
 
 ## QR Codes
 
@@ -54,10 +59,6 @@
 * [Personal privacy](#personal-privacy)
 * [SSL certificates](#ssl-certificates)
 * [Web security blogs](#web-security-blogs)
-
-## Translation
-
-* [Translation Management](#translation-management)
 
 
 ## Utils
@@ -150,6 +151,13 @@
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/) - Beginner & Advanced lessons.
 
 
+# Localization
+
+## Localization Management Platforms
+
+* [Loco - Translation Management System](https://localise.biz/) - Free translation management and localisation software for developers building multi-language apps.
+* [Crowdin - Localization Management Platform](https://crowdin.com/) - Crowdin is a free trial localization project management platfom and translation tool for developers and website owners. We make it easy to work with content being translated using our collaboration platform.
+
 
 
 # QR Codes
@@ -191,13 +199,6 @@
 
 * [Scott Helme](https://scotthelme.co.uk/) - Information Security Consultant.
 * [oxdef](https://www.oxdef.info/) - Some thoughts about web security.
-
-
-# Translation
-
-## Translation Management
-
-* [Loco - Translation Management System](https://localise.biz/) - Free translation management and localisation software for developers building multi-language apps.
 
 
 
