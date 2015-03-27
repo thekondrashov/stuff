@@ -161,6 +161,7 @@
 * [Transifex | Localization Platform for Web Apps, Mobile Apps, Websites](https://www.transifex.com/) - Transifex makes it easy to collect, translate and deliver digital content, web and mobile apps in multiple languages. 30-day free trial.
 * [OneSky - Translation Services, Translation Management System and Collaborative Translation Solutions](https://oneskyapp.com/) - OneSky offers professional translation services, free translation management system & crowd-sourcing solutions that enable companies to expand internationally.
 * [Lokalise - Локализуйте ваше приложение в команде](https://lokali.se/) ([on Russian](https://lokali.se/ru)) - Lokalise предлагает систему управления переводами и услуги профессиональных переводов, которые позволяют компаниям выйти на международный рынок.
+* [Online software translation and project management · WebTranslateIt](https://webtranslateit.com/) - WebTranslateIt is a translation project management and collaborative translation platform for software and dynamic content translation. 30-days free trial.
 
 
 
