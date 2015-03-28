@@ -71,7 +71,7 @@
 
 * [CDN](#cdn)
 * [Image optimization](#image-optimization)
-* [A/B Testing](#a/b-testing)
+* [A/B Testing](#ab-testing)
 
 ## Справочники
 
