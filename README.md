@@ -71,6 +71,7 @@
 
 * [CDN](#cdn)
 * [Image optimization](#image-optimization)
+* [A/B Testing](#a/b-testing)
 
 ## Справочники
 
@@ -233,6 +234,9 @@
 * [Kraken Image Optimizer](https://kraken.io/web-interface) - Free online web interface. Support PNG, JPG, GIF, SVG formats.
 * [b64.io](http://b64.io/) - online image optimizer and base64 encoder.
 
+## A/B Testing
+
+* [A/B Testing Tool and Split Testing Software - Visual Website Optimizer](https://vwo.com/) - AB testing software for data-driven marketers. Signup for a 30-day free trial of our A/B testing tool to improve conversion rate and sales from your website.
 
 
 
