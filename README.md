@@ -34,10 +34,11 @@
 * [Donation Management](#donation-management)
 
 
-## Icon fonts
+## Icons
 
 * [Icon font kits](#icon-font-kits)
 * [Icon font generators](#icon-font-generators)
+* [Search Icons](#search-icons)
 
 ## JavaScript
 
@@ -133,7 +134,7 @@
 
 
 
-# Icon fonts
+# Icons
 
 ## Icon font kits
 
@@ -146,6 +147,10 @@
 ## Icon font generators
 
 * [Font Awesome to PNG online generator](http://fa2png.io/) - A small web app returning Font Awesome icons as png. You can define the color and size of the icons and download them directly.
+
+## Search Icons
+
+* [Free download of 10000+ icons in Windows 8, iOS 8 and Android style — Icons8](http://icons8.com/) - The world's largest original set of free icons for Windows8/Metro and iOS 8 (iPhone). Daily updates based on most voted ideas..
 
 
 
