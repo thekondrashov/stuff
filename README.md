@@ -200,6 +200,7 @@
 * [Let's Encrypt](https://letsencrypt.org/) - It’s free, automated, and open certificate authority.
 * [30-day free trial SSL certificate from RapidSSL](https://www.freessl.com/) - These SSL certificates are fully functional for 30 days, ideal for testing.
 * [Бесплатные SSL-сертификаты на 2 года от WoSign / Хабрахабр](http://habr.ru/p/252529/)
+* [Бесплатные SSL-сертификаты на 3 года с поддержкой до 100 доменов](https://blog.kai-zer.ru/besplatnyy-ssl-sertifikaty-na-3-goda-s-pod/)
 * [StartSSL™ Certificates](https://www.startssl.com/) - StartCom Free SSL Client, S/Mime, Server, Domain Controller, Smartcard Certificates.
 
 ## Web security blogs
