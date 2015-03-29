@@ -5,6 +5,7 @@
 ## Категории
 - [Color](#color)
 - [CSS](#css)
+- [Donations](#donations)
 - [Icon fonts](#icon-fonts)
 - [JavaScript](#javascript)
 - [Lessons](#lessons)
@@ -27,6 +28,10 @@
 
 * [Bootstrap](#bootstrap)
 * [CSS Hacks](#css-hacks)
+
+## Donations
+
+* [Donation Management](#donation-management)
 
 
 ## Icon fonts
@@ -119,6 +124,12 @@
 * [Puerh CSS Hacks](http://baixing.github.io/Puerh/start/#css-hack).
 
 
+
+# Donations
+
+## Donation Management
+
+* [Flattr - Social microdonations](https://flattr.com/) - Flattr is a social microdonation system. With it you can easily share money to support things you like, and get support from your fans.
 
 
 
