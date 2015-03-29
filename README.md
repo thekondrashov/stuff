@@ -6,7 +6,7 @@
 - [Color](#color)
 - [CSS](#css)
 - [Donations](#donations)
-- [Icon fonts](#icon-fonts)
+- [Icons](#icons)
 - [JavaScript](#javascript)
 - [Lessons](#lessons)
 - [Localization](#localization)
