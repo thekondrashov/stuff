@@ -283,7 +283,12 @@
 
 ### Online Picture Resizer
 
-* [Resize, shrink, and crop your pictures online for free at PicResize.com](http://picresize.com/) - Crop and Resize photos, images, or pictures online for FREE! Resize photos before posting them on Facebook, Twitter, Pinterest, Reddit, Tumblr, or blog!.
+* [Resize, shrink, and crop your pictures online for free at PicResize.com](http://picresize.com/) - Crop and Resize photos, images, or pictures online for FREE! Resize photos before posting them on Facebook, Twitter, Pinterest, Reddit, Tumblr, or blog!
+
+### Compress GIF
+
+* [Cockos Incorporated | LICEcap](http://cockos.com/licecap/) - simple animated screen captures. [Анимированные GIF для новых пользователей](http://habr.ru/p/254331/)
+
 
 
 
