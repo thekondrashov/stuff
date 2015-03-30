@@ -17,7 +17,7 @@
 - [Utils](#utils)
 - [Web performance optimization](#web-performance-optimization)
 - [Справочники](#Справочники)
-- [Хостинг](#Хостинг)
+- [Web Hosting](#web-hosting)
 
 
 ## CAPTCHA
@@ -101,11 +101,12 @@
 * [Unicode](#unicode)
 * [Misc](#misc)
 
-## Хостинг
+## Web Hosting
 
 * [Google App Engine](#google-app-engine)
 * [WHOIS](#whois)
 * [Бесплатный хостинг](#Бесплатный-хостинг)
+* [Domain Name Registration](#domain-name-registration)
 
 
 
@@ -337,7 +338,12 @@
 
 
 
-# Хостинг
+# Web Hosting
+
+## Domain Name Registration
+
+* [Namecheap.com](https://www.namecheap.com/) - Cheap Domain Name Registration & Web Hosting. The Best Domain Name Registrar when it comes to Customer Service.
+
 
 ## Google App Engine
 
