@@ -12,6 +12,7 @@
 - [Localization](#localization)
 - [QR Codes](#qr-codes)
 - [Security](#security)
+- [SEO](#seo)
 - [Utils](#utils)
 - [Web performance optimization](#web-performance-optimization)
 - [Справочники](#Справочники)
@@ -65,6 +66,11 @@
 * [Personal privacy](#personal-privacy)
 * [SSL certificates](#ssl-certificates)
 * [Web security blogs](#web-security-blogs)
+
+## SEO
+
+* [Микроразметка (семантическая разметка)](#)
+
 
 
 ## Utils
@@ -223,6 +229,13 @@
 
 * [Scott Helme](https://scotthelme.co.uk/) - Information Security Consultant.
 * [oxdef](https://www.oxdef.info/) - Some thoughts about web security.
+
+
+# SEO
+
+## Микроразметка (семантическая разметка)
+
+* [Микроразметка статьи | ИТ "Шеф"](http://itchief.ru/lessons/modx-revo/modx-revo-microcosmica-article) - Микроразметка статьи с помощью "Schema.org".
 
 
 
