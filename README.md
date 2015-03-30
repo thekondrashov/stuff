@@ -103,10 +103,10 @@
 
 ## Web Hosting
 
+* [Domain Name Registration](#domain-name-registration)
 * [Google App Engine](#google-app-engine)
 * [WHOIS](#whois)
 * [Бесплатный хостинг](#Бесплатный-хостинг)
-* [Domain Name Registration](#domain-name-registration)
 
 
 
