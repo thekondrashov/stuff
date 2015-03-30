@@ -75,6 +75,7 @@
 ## SEO
 
 * [Микроразметка (семантическая разметка)](#Микроразметка-семантическая-разметка)
+* [SEO Articles](#seo-articles)
 
 
 
@@ -249,6 +250,9 @@
 
 * [Микроразметка статьи | ИТ "Шеф"](http://itchief.ru/lessons/modx-revo/modx-revo-microcosmica-article) - Микроразметка статьи с помощью "Schema.org".
 
+## SEO Articles
+* [What Every Programmer Should Know About SEO - kate{mats}](http://katemats.com/what-every-programmer-should-know-about-seo/)
+
 
 
 # Utils
@@ -321,6 +325,9 @@
 
 * [RFC](http://rfc2.ru/) - Наиболее полная в Рунете коллекция документов RFC, переведённых на русский язык.
 * [IANA Database of Top Level Domains](http://data.iana.org/TLD/tlds-alpha-by-domain.txt)
+* [What should every programmer know about security?](http://stackoverflow.com/questions/2794016/what-should-every-programmer-know-about-security) - Stack Overflow.
+* [What technical details should a programmer of a web application consider before making the site public?](http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before) - Programmers Stack Exchange.
+* [Some notes about time](https://unix4lyfe.org/time/?v=1)
 
 
 
