@@ -3,6 +3,7 @@
 Мой личный список всяких интересностей.
 
 ## Категории
+- [CAPTCHA](#captcha)
 - [Color](#color)
 - [CSS](#css)
 - [Donations](#donations)
@@ -18,6 +19,10 @@
 - [Справочники](#Справочники)
 - [Хостинг](#Хостинг)
 
+
+## CAPTCHA
+
+* [CAPTCHA plugins](#captcha-plugins)
 
 
 ## Color
@@ -104,6 +109,13 @@
 
 
 # Интересности
+
+
+# CAPTCHA
+
+## CAPTCHA plugins
+
+* [KeyCAPTCHA - Innovative Anti-Spam Solution](https://www.keycaptcha.com/) - Powerful anti-spam website protection.
 
 
 # Color
