@@ -362,6 +362,7 @@
 * [What technical details should a programmer of a web application consider before making the site public?](http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before) - Programmers Stack Exchange.
 * [Some notes about time](https://unix4lyfe.org/time/?v=1)
 * [Пример резюме на анг](https://goo.gl/QrZbLQ)
+* [Сравнение онлайн-консультантов для сайта: муки выбора / Хабрахабр](http://habr.ru/p/254529/)
 
 
 
