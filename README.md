@@ -361,6 +361,7 @@
 * [What should every programmer know about security?](http://stackoverflow.com/questions/2794016/what-should-every-programmer-know-about-security) - Stack Overflow.
 * [What technical details should a programmer of a web application consider before making the site public?](http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before) - Programmers Stack Exchange.
 * [Some notes about time](https://unix4lyfe.org/time/?v=1)
+* [Пример резюме на анг](https://goo.gl/QrZbLQ)
 
 
 
