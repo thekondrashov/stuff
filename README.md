@@ -166,6 +166,7 @@
 ### Offcanvas navigation menu
 
 * [Mobile navigation menu for Bootstrap](https://255kb.github.io/bs-mobilenav/) - BS-Mobilenav is a package allowing you to create a mobile friendly and swipeable menu from any regular Bootstrap grid element. [Github](https://github.com/255kb/bs-mobilenav)
+* [Off Canvas design patterns, Jason Weaver (and Luke Wroblewski)](http://jasonweaver.name/lab/offcanvas/)
 
 ## CSS Hacks
 
