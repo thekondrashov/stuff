@@ -3,6 +3,7 @@
 Мой личный список всяких интересностей.
 
 ## Категории
+- [Books](#books)
 - [CAPTCHA](#captcha)
 - [Color](#color)
 - [CSS](#css)
@@ -18,6 +19,11 @@
 - [Web performance optimization](#web-performance-optimization)
 - [Справочники](#Справочники)
 - [Web Hosting](#web-hosting)
+
+
+## Books
+
+* [C/C++ Books](#cc++-books)
 
 
 ## CAPTCHA
@@ -111,6 +117,13 @@
 
 
 # Интересности
+
+
+# Books
+
+## C/C++ Books
+
+* [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html/)
 
 
 # CAPTCHA
