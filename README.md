@@ -4,6 +4,7 @@
 
 ## Категории
 - [Books](#books)
+- [Browsers](#browsers)
 - [CAPTCHA](#captcha)
 - [Color](#color)
 - [CSS](#css)
@@ -24,6 +25,11 @@
 ## Books
 
 * [C/C++ Books](#cc-books)
+
+## Browsers
+
+* [Browser Tests](#browser-tests)
+
 
 
 ## CAPTCHA
@@ -124,6 +130,14 @@
 ## C/C++ Books
 
 * [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html/)
+
+
+# Browsers
+
+## Browser Tests
+
+* [HTML5test](http://html5test.com/) - The HTML5 test score is an indication of how well your browser supports the upcoming HTML5 standard and related specifications. How well does your browser support HTML5?
+
 
 
 # CAPTCHA
