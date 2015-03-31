@@ -23,7 +23,7 @@
 
 ## Books
 
-* [C/C++ Books](#cc++-books)
+* [C/C++ Books](#cc-books)
 
 
 ## CAPTCHA
