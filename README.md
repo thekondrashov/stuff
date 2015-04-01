@@ -419,6 +419,7 @@
 
 * [Custom Domain with Google App Engine now that Google Apps is not free anymore](http://stackoverflow.com/questions/18560247) - Stack Overflow.
 * [Using App Engine with a custom domain, without paying for Google Apps?](http://stackoverflow.com/questions/17619204) - Stack Overflow.
+* [Google App Engine: SSL Certificate Installation](https://www.digicert.com/ssl-certificate-installation-google-app-engine.htm) - DigiCert.
 
 
 ## WHOIS
