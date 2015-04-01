@@ -69,6 +69,7 @@
 ## JavaScript
 
 * [jQuery](#jquery)
+* [Vanilla JS](#vanilla-js)
 
 ## Lessons
 
@@ -201,6 +202,11 @@
 
 * [The ultimate guide to Bootstrap | Webdesigner Depot](http://www.webdesignerdepot.com/2014/10/the-ultimate-guide-to-bootstrap/)
 
+
+### Bootstrap Misc
+
+* [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.
+
 ## CSS Hacks
 
 * [Puerh CSS Hacks](http://baixing.github.io/Puerh/start/#css-hack).
@@ -243,6 +249,15 @@
 * [Unheap](http://www.unheap.com/) - A tidy repository of jQuery plugins. Огромная коллекция реально качественных и нужных jQuery плагинов, грамотно расфасованная по области применения. В Unheap 5 основных разделов UI, Inputs, Media, Nav, Other и каждый из них содержит еще с десяток подкатегорий. В общей сложности на данный момент каталог содержит более 1000 различных плагинов.
 * [jQuery Plugins](http://jquery-plugins.net/) - Daily Latest, Popular, Free jQuery Plugins & jQuery Tutorials & jQuery Articles & Demos.
 * [jQuery 2 DotNet](http://www.jquery2dotnet.com/) - jquery and mvc tutorial with examples.
+
+## Vanilla JS
+
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/) - Examples of how to do common event, element, ajax and utility operations with plain javascript.
+* [Vanilla Query - GitHub](https://github.com/makesites/vanilla-query/blob/master/build/vanilla-query.js) - A syntax-conversion for Vanilla JS & CSS3 methods using traditional jQuery conventions.
+* [10 Tips for Writing JavaScript without jQuery](http://tutorialzine.com/2014/06/10-tips-for-writing-javascript-without-jquery/) - Tutorialzine.
+* [Native JavaScript Equivalents of jQuery Methods: the DOM and Forms](http://www.sitepoint.com/jquery-vs-raw-javascript-1-dom-forms/) - SitePoint.
+* [Moving from jQuery](https://gist.github.com/harmstyler/7468978) - GitHub Gist.
+
 
 # Lessons
 
@@ -333,6 +348,7 @@
 ### Sublime Text plugins
 
 * [Как сделать из Sublime Text удобный переводчик или обзор полезного плагина YandexTranslate](http://pafnuty.name/statyi/146-yandex-translate.html)
+* [Markdown plugin for Sublime Text - GitHub](https://github.com/SublimeText-Markdown/MarkdownEditing) - Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
 
 ### Sublime Text custom icons
 
@@ -433,6 +449,7 @@
 * [Сравнение онлайн-консультантов для сайта: муки выбора / Хабрахабр](http://habr.ru/p/254529/)
 * [DevDocs: Offline API Documentation Browser](http://devdocs.io/) - DevDocs combines 64 reference documentations in a fast, organized, and searchable interface: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, etc.
 * [О кодировках и кодовых страницах](http://geektimes.ru/p/238497/) - Geektimes.
+* [Руководство по написанию кода от @mdo](http://instanceof.pro/code-guide/) - Стандарты для разработки гибкого, надежного и поддерживаемого кода на HTML и CSS..
 
 
 
@@ -455,6 +472,8 @@
 * [Google App Engine Archives - Ivan Kristianto](http://www.ivankristianto.com/tag/google-app-engine/)
 * [Статьи - Русская информация о Google App Engine](http://googleappengine.ru/articles/) - Все о Google App Engine на русском языке.
 * [PHP applications on Google App Engine | codediesel](http://www.codediesel.com/php/php-applications-on-google-app-engine/) - building PHP applications on Google App Engine.
+* [Google App Engine and PHP: Getting Started](http://www.sitepoint.com/google-app-engine-php-getting-started/) - SitePoint.
+* [Use Google App Engine as your own personal CDN](https://brandonb.io/use-google-app-engine-as-your-own-personal-cdn) - Brandons Blog.
 
 
 ## WHOIS
