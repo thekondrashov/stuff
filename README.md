@@ -378,6 +378,7 @@
 * [Some notes about time](https://unix4lyfe.org/time/?v=1)
 * [Пример резюме на анг](https://goo.gl/QrZbLQ)
 * [Сравнение онлайн-консультантов для сайта: муки выбора / Хабрахабр](http://habr.ru/p/254529/)
+* [DevDocs: Offline API Documentation Browser](http://devdocs.io/) - DevDocs combines 64 reference documentations in a fast, organized, and searchable interface: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, etc.
 
 
 
