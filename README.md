@@ -14,6 +14,7 @@
 - [JavaScript](#javascript)
 - [Lessons](#lessons)
 - [Localization](#localization)
+- [PHP](#php)
 - [QR Codes](#qr-codes)
 - [Security](#security)
 - [SEO](#seo)
@@ -76,6 +77,10 @@
 ## Localization
 
 * [Localization Management Platforms](#localization-management-platforms)
+
+## PHP
+
+* [Phar](#phar)
 
 
 
@@ -183,10 +188,18 @@
 
 ## Bootstrap
 
+### Bootstrap themes & templates
+
+* [BootstrapBay - Bootstrap Themes & Templates](http://bootstrapbay.com/) - Buy & sell premium Bootstrap themes & templates in the BootstrapBay marketplace. Find a high quality theme for your next web project today!
+
 ### Offcanvas navigation menu
 
 * [Mobile navigation menu for Bootstrap](https://255kb.github.io/bs-mobilenav/) - BS-Mobilenav is a package allowing you to create a mobile friendly and swipeable menu from any regular Bootstrap grid element. [Github](https://github.com/255kb/bs-mobilenav)
 * [Off Canvas design patterns, Jason Weaver (and Luke Wroblewski)](http://jasonweaver.name/lab/offcanvas/)
+
+### Guide to Bootstrap
+
+* [The ultimate guide to Bootstrap | Webdesigner Depot](http://www.webdesignerdepot.com/2014/10/the-ultimate-guide-to-bootstrap/)
 
 ## CSS Hacks
 
@@ -249,6 +262,15 @@
 * [OneSky - Translation Services, Translation Management System and Collaborative Translation Solutions](https://oneskyapp.com/) - OneSky offers professional translation services, free translation management system & crowd-sourcing solutions that enable companies to expand internationally.
 * [Lokalise - Локализуйте ваше приложение в команде](https://lokali.se/) ([on Russian](https://lokali.se/ru)) - Lokalise предлагает систему управления переводами и услуги профессиональных переводов, которые позволяют компаниям выйти на международный рынок.
 * [Online software translation and project management · WebTranslateIt](https://webtranslateit.com/) - WebTranslateIt is a translation project management and collaborative translation platform for software and dynamic content translation. 30-days free trial.
+
+
+# PHP
+
+## Phar
+
+* [php - How to make an executable phar?](http://stackoverflow.com/questions/11082337/how-to-make-an-executable-phar/11082338#11082338) - Stack Overflow.
+* [Phar в PHP: преимущества и работа с PHAR](http://sitear.ru/material/phar-php) - SiteAR.ru.
+* [.phar — исполняемые PHP-архивы](http://habr.ru/p/118269/) - Хабрахабр.
 
 
 
@@ -318,6 +340,7 @@
 ## Convert anything to anything
 
 * [HEX to RGB Converter](http://hex.colorrrs.com/) - A simple tool for converting HEX values to RGB and vice versa.
+* [UnPhar: Unpack PHAR files online](http://unphar.com/) - Unpack phar archives online. Free. In just 2 minutes.
 
 ## Favicon Generators
 
