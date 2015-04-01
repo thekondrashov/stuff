@@ -12,6 +12,7 @@
 - [Donations](#donations)
 - [Email](#email)
 - [Icons](#icons)
+- [GIT](#git)
 - [JavaScript](#javascript)
 - [Lessons](#lessons)
 - [Localization](#localization)
@@ -70,6 +71,11 @@
 * [Icon font kits](#icon-font-kits)
 * [Icon font generators](#icon-font-generators)
 * [Search Icons](#search-icons)
+
+## GIT
+
+* [Code hostings](#code-hostings)
+
 
 ## JavaScript
 
@@ -252,6 +258,13 @@
 ## Search Icons
 
 * [Free download of 10000+ icons in Windows 8, iOS 8 and Android style — Icons8](http://icons8.com/) - The world's largest original set of free icons for Windows8/Metro and iOS 8 (iPhone). Daily updates based on most voted ideas..
+
+# GIT
+
+## Code hostings
+
+* [GitLab](https://gitlab.com/) - Create, review and deploy code together. Better than GitHub.
+
 
 
 
