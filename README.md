@@ -333,7 +333,9 @@
 
 * [Cockos Incorporated | LICEcap](http://cockos.com/licecap/) - simple animated screen captures. [Анимированные GIF для новых пользователей](http://habr.ru/p/254331/)
 
+### SVG-editors (offline)
 
+* [Inkscape](https://inkscape.org/) - Inkscape - это профессиональный векторный графический редактор для Windows, Mac OS X и Linux. Он бесплатен и имеет открытый исходный код..
 
 
 
