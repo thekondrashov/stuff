@@ -17,6 +17,7 @@
 - [QR Codes](#qr-codes)
 - [Security](#security)
 - [SEO](#seo)
+- [Text editors](#text-editors)
 - [Utils](#utils)
 - [Web performance optimization](#web-performance-optimization)
 - [Справочники](#Справочники)
@@ -94,6 +95,10 @@
 
 * [Микроразметка (семантическая разметка)](#Микроразметка-семантическая-разметка)
 * [SEO Articles](#seo-articles)
+
+## Text editors
+
+* [Sublime Text](#sublime-text)
 
 
 
@@ -297,6 +302,13 @@
 
 ## SEO Articles
 * [What Every Programmer Should Know About SEO - kate{mats}](http://katemats.com/what-every-programmer-should-know-about-seo/)
+
+# Text editors
+
+## Sublime Text
+
+* [Как сделать из Sublime Text удобный переводчик или обзор полезного плагина YandexTranslate](http://pafnuty.name/statyi/146-yandex-translate.html)
+
 
 
 
