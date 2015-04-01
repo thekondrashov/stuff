@@ -10,6 +10,7 @@
 - [CMS](#cms)
 - [CSS](#css)
 - [Donations](#donations)
+- [Email](#email)
 - [Icons](#icons)
 - [JavaScript](#javascript)
 - [Lessons](#lessons)
@@ -58,6 +59,10 @@
 ## Donations
 
 * [Donation Management](#donation-management)
+
+## Email
+
+* [Email Verification](#email-verification)
 
 
 ## Icons
@@ -181,6 +186,7 @@
 
 * [Dru.io](http://dru.io/) - Drupal сообщество (Nikita Malyshev).
 * [Niklan](http://niklan.net/) - Блог начинающего веб-разработчика (Nikita Malyshev).
+* [How to Use Bootswatch Themes in Drupal 7](http://www.webwash.net/tutorials/how-use-bootswatch-themes-drupal-7) - Web Wash.
 
 
 
@@ -218,6 +224,12 @@
 ## Donation Management
 
 * [Flattr - Social microdonations](https://flattr.com/) - Flattr is a social microdonation system. With it you can easily share money to support things you like, and get support from your fans.
+
+# Email
+
+## Email Verification
+
+* [Email Address Verification Service | Kickbox](https://kickbox.io/) - Determine which email addresses are real and high-quality for free. Upload and verify email lists our use our API for Node.js, PHP, Python, and Ruby. Kickbox offers 100 free daily verifications.
 
 
 
