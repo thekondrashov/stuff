@@ -117,6 +117,7 @@
 * [HTTP Status Codes](#http-status-codes)
 * [Markdown](#markdown)
 * [Unicode](#unicode)
+* [XPath](#xpath)
 * [Misc](#misc)
 
 ## Web Hosting
@@ -371,6 +372,14 @@
 ## Unicode
 
 * [Graphemica](http://graphemica.com/) - Browse Unicode Characters.
+
+## XPath
+
+* [Примеры XPath](https://msdn.microsoft.com/ru-ru/library/vstudio/ms256086%28v=vs.100%29.aspx) - В этом разделе проводится обзор синтаксических примеров, используемых в справочной документации по XPath.
+* [XPath Axes - W3SCHOOLS](http://www.w3schools.com/xpath/xpath_axes.asp)
+* [XPath axes - Jesper Tverskov](http://www.xmlplease.com/axis)
+* [Выражения XPath](http://zvon.org/xxl/XPathTutorial/Output_rus/examples.html)
+
 
 ## Misc
 
