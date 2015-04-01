@@ -167,7 +167,8 @@
 
 ## Drupal
 
-* [Dru.io](http://dru.io/) - Drupal сообщество.
+* [Dru.io](http://dru.io/) - Drupal сообщество (Nikita Malyshev).
+* [Niklan](http://niklan.net/) - Блог начинающего веб-разработчика (Nikita Malyshev).
 
 
 
