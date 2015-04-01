@@ -168,6 +168,7 @@
 ## CAPTCHA plugins
 
 * [KeyCAPTCHA - Innovative Anti-Spam Solution](https://www.keycaptcha.com/) - Powerful anti-spam website protection.
+* [MotionCAPTCHA jQuery Plugin - GitHub](https://github.com/josscrowcroft/MotionCAPTCHA) - MotionCAPTCHA is a jQuery CAPTCHA plugin that requires users to sketch the shape they see in the canvas in order to submit a form..
 
 
 # Color
