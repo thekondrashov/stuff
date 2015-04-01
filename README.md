@@ -330,8 +330,13 @@
 
 ## Sublime Text
 
+### Sublime Text plugins
+
 * [Как сделать из Sublime Text удобный переводчик или обзор полезного плагина YandexTranslate](http://pafnuty.name/statyi/146-yandex-translate.html)
 
+### Sublime Text custom icons
+
+* [Sublime Text Token-style Icon by HannzK on DeviantArt](http://hannzk.deviantart.com/art/Sublime-Text-Token-style-Icon-315466623) - Credits go to ~brsev from deviantART for creating this awesome icon style and to the creators of Sublime Text, the awesome semi-IDE! Also, there's an is... Sublime Text Token-style Icon.
 
 
 
@@ -427,6 +432,7 @@
 * [Пример резюме на анг](https://goo.gl/QrZbLQ)
 * [Сравнение онлайн-консультантов для сайта: муки выбора / Хабрахабр](http://habr.ru/p/254529/)
 * [DevDocs: Offline API Documentation Browser](http://devdocs.io/) - DevDocs combines 64 reference documentations in a fast, organized, and searchable interface: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, etc.
+* [О кодировках и кодовых страницах](http://geektimes.ru/p/238497/) - Geektimes.
 
 
 
@@ -436,6 +442,7 @@
 ## Domain Name Registration
 
 * [Namecheap.com](https://www.namecheap.com/) - Cheap Domain Name Registration & Web Hosting. The Best Domain Name Registrar when it comes to Customer Service.
+* [Namecheap Education Program: Free Domains for Students](https://nc.me/) - The Namecheap Education Program provides free domains and email hosting for university students in the US, UK, and Canada.
 
 
 ## Google App Engine
@@ -443,6 +450,11 @@
 * [Custom Domain with Google App Engine now that Google Apps is not free anymore](http://stackoverflow.com/questions/18560247) - Stack Overflow.
 * [Using App Engine with a custom domain, without paying for Google Apps?](http://stackoverflow.com/questions/17619204) - Stack Overflow.
 * [Google App Engine: SSL Certificate Installation](https://www.digicert.com/ssl-certificate-installation-google-app-engine.htm) - DigiCert.
+* [Getting Started with the Cloud Datastore on PHP App Engine](https://gae-php-tips.appspot.com/2013/12/23/getting-started-with-the-cloud-datastore-on-php-app-engine/) - Tips and Tricks for PHP on Google App Engine.
+* [Подключаем Google в качестве CDN за полчаса](http://webo.in/articles/all/2009/08-google-cdn-in-minutes/) - webo.in.
+* [Google App Engine Archives - Ivan Kristianto](http://www.ivankristianto.com/tag/google-app-engine/)
+* [Статьи - Русская информация о Google App Engine](http://googleappengine.ru/articles/) - Все о Google App Engine на русском языке.
+* [PHP applications on Google App Engine | codediesel](http://www.codediesel.com/php/php-applications-on-google-app-engine/) - building PHP applications on Google App Engine.
 
 
 ## WHOIS
