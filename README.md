@@ -506,6 +506,7 @@
 ## WHOIS
 
 * [ICANN WHOIS](http://whois.icann.org/) - Official ICANN WHOIS Search.
+* [Whois7.ru](http://whois7.ru/) - Whois Service, IP Whois, DNS Digger.
 
 
 ## Бесплатный хостинг
