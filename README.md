@@ -491,7 +491,8 @@
 * [Сравнение онлайн-консультантов для сайта: муки выбора / Хабрахабр](http://habr.ru/p/254529/)
 * [DevDocs: Offline API Documentation Browser](http://devdocs.io/) - DevDocs combines 64 reference documentations in a fast, organized, and searchable interface: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, etc.
 * [О кодировках и кодовых страницах](http://geektimes.ru/p/238497/) - Geektimes.
-* [Руководство по написанию кода от @mdo](http://instanceof.pro/code-guide/) - Стандарты для разработки гибкого, надежного и поддерживаемого кода на HTML и CSS..
+* [Руководство по написанию кода от @mdo](http://instanceof.pro/code-guide/) - Стандарты для разработки гибкого, надежного и поддерживаемого кода на HTML и CSS.
+* [IQDQ.ru](http://iqdq.ru/) - Сервисы управления качеством данных: веб-сервис по распознаванию и исправлению адресов.
 
 
 
