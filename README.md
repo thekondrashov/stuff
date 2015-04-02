@@ -104,6 +104,7 @@
 
 * [Bounty programes](#bounty-programes)
 * [HTTP headers](#http-headers)
+* [Leaked account checkers](#leaked-account-checkers)
 * [Online security scanners](#online-security-scanners)
 * [Personal privacy](#personal-privacy)
 * [SSL certificates](#ssl-certificates)
@@ -341,6 +342,13 @@
 * [CSP Quick Reference Guide](http://content-security-policy.com/) - CSP Reference & Examples.
 * [Default Browser Content Security Policy](https://redbooth.com/engineering/security/default-content-security-policy) - to reject suspicious accesses to local networks and trust other urls.
 * [MDN: CSP policy directives](https://developer.mozilla.org/en-US/docs/Web/Security/CSP/CSP_policy_directives) - are several policy areas that web site administrators can define using CSP.
+
+
+## Leaked account checkers
+
+* [IsLeaked.com](https://isleaked.com/) - Is leaked? - check your account!
+* [Have I been pwned?](https://haveibeenpwned.com/) - Have I been pwned? allows you to search across multiple data breaches to see if your email addresses has been compromised.
+
 
 
 ## Online security scanners
