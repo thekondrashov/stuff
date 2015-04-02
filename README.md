@@ -439,6 +439,8 @@
 ## Cheat Sheets
 
 * [Cheat Sheets - Added Bytes](https://www.addedbytes.com/cheat-sheets/) - A selection of 31 awesome, printable quick references for a variety of languages and web technologies. These and more are also available at [Cheatography](http://www.cheatography.com).
+* [205 шпаргалок для разработчика](http://habr.ru/p/254585/) - Хабрахабр.
+* [Learn X in Y minutes](http://learnxinyminutes.com/) - Whirlwind tours of (several, hopefully many someday) popular and ought-to-be-more-popular programming languages, presented as valid, commented code and explained as they go. [GitHub](https://github.com/adambard/learnxinyminutes-docs)
 
 ## CSS selectors
 
