@@ -330,6 +330,8 @@
 ## Bounty programes
 
 * [Bounty programes](http://bugbounty.info/) - This is a simple site intended to keep track of the bug bounty programmes.
+* [Bugcrowd | List Of Bug Bounty Programs](https://bugcrowd.com/list-of-bug-bounty-programs) - A comprehensive, up to date list of bug bounty and disclosure programs from across the web curated by the Bugcrowd researcher community.
+* [Security Response & Bug Bounty Platform - HackerOne](https://hackerone.com/) - HackerOne is a platform for an improved security coordination process. Security teams use HackerOne to implement their responsible disclosure policy and host bug bounty programs.
 
 
 ## HTTP headers
