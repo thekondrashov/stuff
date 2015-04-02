@@ -129,6 +129,7 @@
 
 * [CDN](#cdn)
 * [Image optimization](#image-optimization)
+* [JS minifiers](#js-minifiers)
 * [A/B Testing](#ab-testing)
 
 ## Справочники
@@ -421,6 +422,10 @@
 
 * [Inkscape](https://inkscape.org/) - Inkscape - это профессиональный векторный графический редактор для Windows, Mac OS X и Linux. Он бесплатен и имеет открытый исходный код..
 
+
+## JS minifiers
+
+* [A JavaScript Compressor Rater](http://compressorrater.thruhere.net/) - JavaScript Compressor and Comparison Tool.
 
 
 ## A/B Testing
