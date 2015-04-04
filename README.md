@@ -508,6 +508,7 @@
 * [О кодировках и кодовых страницах](http://geektimes.ru/p/238497/) - Geektimes.
 * [Руководство по написанию кода от @mdo](http://instanceof.pro/code-guide/) - Стандарты для разработки гибкого, надежного и поддерживаемого кода на HTML и CSS.
 * [IQDQ.ru](http://iqdq.ru/) - Сервисы управления качеством данных: веб-сервис по распознаванию и исправлению адресов.
+* [Learn To Google It](http://learntogoogleit.com/) - I'm a software engineer specializing in Java/PHP/Go on App Engine. Here are my thoughts on Google's Cloud Platform. Have a question? Ask on App Engine's official mailing list.
 
 
 
