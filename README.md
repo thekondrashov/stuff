@@ -112,6 +112,7 @@
 
 ## SEO
 
+* [A/B Testing](#ab-testing)
 * [Микроразметка (семантическая разметка)](#Микроразметка-семантическая-разметка)
 * [SEO Articles](#seo-articles)
 * [Website Analytics](#website-analytics)
@@ -133,7 +134,7 @@
 * [CDN](#cdn)
 * [Image optimization](#image-optimization)
 * [JS minifiers](#js-minifiers)
-* [A/B Testing](#ab-testing)
+
 
 ## Справочники
 
@@ -379,6 +380,12 @@
 
 # SEO
 
+## A/B Testing
+
+* [A/B Testing Tool and Split Testing Software - Visual Website Optimizer](https://vwo.com/) - AB testing software for data-driven marketers. Signup for a 30-day free trial of our A/B testing tool to improve conversion rate and sales from your website.
+* [Hamburger vs Menu: The Final AB Test](http://exisweb.net/menu-eats-hamburger)
+
+
 ## Микроразметка (семантическая разметка)
 
 * [Микроразметка статьи | ИТ "Шеф"](http://itchief.ru/lessons/modx-revo/modx-revo-microcosmica-article) - Микроразметка статьи с помощью "Schema.org".
@@ -451,11 +458,6 @@
 
 * [A JavaScript Compressor Rater](http://compressorrater.thruhere.net/) - JavaScript Compressor and Comparison Tool.
 * [minify - Google Project Hosting](https://code.google.com/p/minify/) - Combines, minifies, and caches JavaScript and CSS files on demand to speed up page loads.
-
-
-## A/B Testing
-
-* [A/B Testing Tool and Split Testing Software - Visual Website Optimizer](https://vwo.com/) - AB testing software for data-driven marketers. Signup for a 30-day free trial of our A/B testing tool to improve conversion rate and sales from your website.
 
 
 
