@@ -450,6 +450,7 @@
 ## JS minifiers
 
 * [A JavaScript Compressor Rater](http://compressorrater.thruhere.net/) - JavaScript Compressor and Comparison Tool.
+* [minify - Google Project Hosting](https://code.google.com/p/minify/) - Combines, minifies, and caches JavaScript and CSS files on demand to speed up page loads.
 
 
 ## A/B Testing
