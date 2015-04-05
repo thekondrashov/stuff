@@ -282,6 +282,15 @@
 * [jQuery Plugins](http://jquery-plugins.net/) - Daily Latest, Popular, Free jQuery Plugins & jQuery Tutorials & jQuery Articles & Demos.
 * [jQuery 2 DotNet](http://www.jquery2dotnet.com/) - jquery and mvc tutorial with examples.
 
+### jQuery Plugin Template
+
+* [Plugins | jQuery Learning Center](https://learn.jquery.com/plugins/)
+* [jQuery Boilerplate](http://jqueryboilerplate.com/) - Jump-starting jQuery plugins development.
+* [Essential jQuery Plugin Patterns By Addy Osmani](http://www.smashingmagazine.com/2011/10/11/essential-jquery-plugin-patterns/) - Smashing Magazine.
+* [Good jQuery Plugin Template](http://www.sitepoint.com/good-jquery-plugin-template/) - SitePoint.
+* [jQuery Plugin Boilerplate, revisited](http://stefangabos.ro/jquery/jquery-plugin-boilerplate-revisited/) - Stefan Gabos.
+* [jQuery Coding Standards and Best Practices](http://lab.abhinayrathore.com/jquery-standards/) - jQuery Coding Standards and Best Practices guide for helping prgrammers write better jQuery code.
+
 ## Vanilla JS
 
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com/) - Examples of how to do common event, element, ajax and utility operations with plain javascript.
