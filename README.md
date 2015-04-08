@@ -193,6 +193,7 @@
 ## Color Misc
 
 * [GitHub language colour codes](https://github.com/librariesio/favicon/blob/master/lib/colours.json)
+* [GitHub color codes for programming languages](https://github.com/doda/github-language-colors) - A mapping of which colors github uses to represent different programming languages in their "Languages" tab on each repository.
 * [What colour is it?](http://whatcolourisit.scn9a.org/) - the time....... now in colour.
 
 # CMS
