@@ -279,7 +279,7 @@
 ## Code hostings
 
 * [GitLab](https://gitlab.com/) - Create, review and deploy code together. Better than GitHub.
-
+* [Comparison of source code hosting facilities](https://en.wikipedia.org/wiki/Comparison_of_source_code_hosting_facilities) - Wikipedia, the free encyclopedia.
 
 
 
