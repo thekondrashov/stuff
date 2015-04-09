@@ -205,6 +205,7 @@
 * [Niklan](http://niklan.net/) - Блог начинающего веб-разработчика (Nikita Malyshev).
 * [How to Use Bootswatch Themes in Drupal 7](http://www.webwash.net/tutorials/how-use-bootswatch-themes-drupal-7) - Web Wash.
 
+* [Usage of content management systems for websites](http://w3techs.com/technologies/overview/content_management/all)
 
 
 
@@ -315,6 +316,7 @@
 * [Native JavaScript Equivalents of jQuery Methods: the DOM and Forms](http://www.sitepoint.com/jquery-vs-raw-javascript-1-dom-forms/) - SitePoint.
 * [Moving from jQuery](https://gist.github.com/harmstyler/7468978) - GitHub Gist.
 
+* [Usage of JavaScript libraries for websites](http://w3techs.com/technologies/overview/javascript_library/all)
 
 # Lessons
 
