@@ -173,6 +173,7 @@
 ## Browser Tests
 
 * [HTML5test](http://html5test.com/) - The HTML5 test score is an indication of how well your browser supports the upcoming HTML5 standard and related specifications. How well does your browser support HTML5?
+* [Browserscope](http://www.browserscope.org/?category=network) - Browserscope is a community-driven project for profiling web browsers. The goals are to foster innovation by tracking browser functionality and to be a resource for web developers.
 
 
 
