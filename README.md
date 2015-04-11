@@ -20,6 +20,7 @@
 - [QR Codes](#qr-codes)
 - [Security](#security)
 - [SEO](#seo)
+- [Testing](#testing)
 - [Text editors](#text-editors)
 - [Utils](#utils)
 - [Web performance optimization](#web-performance-optimization)
@@ -119,6 +120,11 @@
 * [Микроразметка (семантическая разметка)](#Микроразметка-семантическая-разметка)
 * [SEO Articles](#seo-articles)
 * [Website Analytics](#website-analytics)
+
+## Testing
+
+* [Continuous Integration](#continuous-integration)
+
 
 ## Text editors
 
@@ -438,6 +444,15 @@
 * [Real time analytics service | Gauges](https://gaug.es/) - Analyze all your traffic in real time with our beautiful, easy to understand interface. FREE Trial for 7 Days.
 * [Аналитика. Ruward Track - все рейтинги рунета](http://track.ruward.ru/) - Актуальная технологическая аналитика Рунета: исследования сегментов CMS, систем веб-аналитики, e-commerce платформ, SMM-плагинов и др.
 * [Check your bad backlinks and your competitors good backlinks - Monitor Backlinks](https://monitorbacklinks.com/) - Get notified (via e-mail) if someone removes or adds nofollow to your backlinks. Monitor your backlinks for good SEO rankings.
+
+
+# Testing
+
+## Continuous Integration
+
+* [Jenkins CI](http://jenkins-ci.org/) - Jenkins CI is the leading open-source continuous integration server. Built with Java, it provides 985 plugins to support building and testing virtually any project.
+* [Travis CI](https://travis-ci.org/) - Easily sync your GitHub projects with Travis CI and you’ll be testing your code in minutes!
+* [Semaphore CI](https://semaphoreci.com/) - Semaphore is a hosted continuous integration and deployment service for open source and private projects.
 
 
 
