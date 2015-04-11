@@ -80,6 +80,7 @@
 
 ## JavaScript
 
+* [JavaScript tutorials](#javascript-tutorials)
 * [jQuery](#jquery)
 * [Vanilla JS](#vanilla-js)
 
@@ -288,6 +289,10 @@
 
 
 # JavaScript
+
+## JavaScript tutorials
+
+* [Современный учебник JavaScript](https://learn.javascript.ru/tutorial) - Перед вами учебник по JavaScript, начиная с основ, включающий в себя много тонкостей и фишек JavaScript/DOM.
 
 ## jQuery
 
