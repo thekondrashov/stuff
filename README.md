@@ -292,7 +292,7 @@
 
 ## JavaScript tutorials
 
-* [Современный учебник JavaScript](https://learn.javascript.ru/tutorial) - Перед вами учебник по JavaScript, начиная с основ, включающий в себя много тонкостей и фишек JavaScript/DOM.
+* [Современный учебник JavaScript](https://learn.javascript.ru/tutorial) - Перед вами учебник по JavaScript, начиная с основ, включающий в себя много тонкостей и фишек JavaScript/DOM. [GitHub](https://github.com/iliakan/javascript-nodejs)
 
 ## jQuery
 
