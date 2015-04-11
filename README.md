@@ -453,6 +453,7 @@
 * [Jenkins CI](http://jenkins-ci.org/) - Jenkins CI is the leading open-source continuous integration server. Built with Java, it provides 985 plugins to support building and testing virtually any project.
 * [Travis CI](https://travis-ci.org/) - Easily sync your GitHub projects with Travis CI and you’ll be testing your code in minutes!
 * [Semaphore CI](https://semaphoreci.com/) - Semaphore is a hosted continuous integration and deployment service for open source and private projects.
+* [Scrutinizer CI](https://scrutinizer-ci.com/) - Scrutinizer is a continuous inspection platform helping you to write better software.
 
 
 
