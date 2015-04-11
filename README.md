@@ -109,6 +109,7 @@
 * [Online security scanners](#online-security-scanners)
 * [Personal privacy](#personal-privacy)
 * [SSL certificates](#ssl-certificates)
+* [Two Factor Auth](#two-factor-auth)
 * [Web security blogs](#web-security-blogs)
 
 ## SEO
@@ -399,6 +400,12 @@
 * [Бесплатные SSL-сертификаты на 3 года с поддержкой до 100 доменов](https://blog.kai-zer.ru/besplatnyy-ssl-sertifikaty-na-3-goda-s-pod/)
 * [StartSSL™ Certificates](https://www.startssl.com/) - StartCom Free SSL Client, S/Mime, Server, Domain Controller, Smartcard Certificates.
 * [Бесплатный валидный (подписанный) SSL-сертификат через StartSSL](http://valera.ws/2012.03.11~free-valid-signed-ssl-certificate-with-sratssl/) - Персональный блог Валерия Леонтьева.
+
+## Two Factor Auth
+
+* [Two Factor Auth List](https://twofactorauth.org/) - List of sites with Two Factor Auth support which includes SMS, email, phone calls, hardware, and software. [GitHub](https://github.com/jdavis/twofactorauth)
+
+
 
 ## Web security blogs
 
