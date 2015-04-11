@@ -276,6 +276,8 @@
 * [MFG Labs Icon set](http://mfglabs.github.io/mfglabs-iconset/) - An icon webfont you can easely embed anywhere on your website and web application.
 * [Font - Puerh](http://baixing.github.io/Puerh/font/) - Puerh Icon Font.
 * [Freddicons | MailChimp](http://ux.mailchimp.com/patterns/icons) - 133 icons by MailChimp.
+* [Stroke Icons 7 - by Pixeden](http://themes-pixeden.com/font-demos/7-stroke/index.html) - A series of iOS 7 inspired vector icons in a custom@font-face icon font that can be styled dynamically using CSS.
+Those retina ready icons have a very modern style that will beautifully complement any project.
 
 ## Icon font generators
 
