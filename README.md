@@ -352,6 +352,8 @@ Those retina ready icons have a very modern style that will beautifully compleme
 * [Lokalise - Локализуйте ваше приложение в команде](https://lokali.se/) ([on Russian](https://lokali.se/ru)) - Lokalise предлагает систему управления переводами и услуги профессиональных переводов, которые позволяют компаниям выйти на международный рынок.
 * [Online software translation and project management · WebTranslateIt](https://webtranslateit.com/) - WebTranslateIt is a translation project management and collaborative translation platform for software and dynamic content translation. 30-days free trial.
 
+* [Duolingo](https://www.duolingo.com/) - Learn languages completely free, without ads or hidden charges. It's fun, easy, and scientifically proven.
+
 
 # PHP
 
