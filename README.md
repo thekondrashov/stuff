@@ -321,7 +321,8 @@ Those retina ready icons have a very modern style that will beautifully compleme
 * [Good jQuery Plugin Template](http://www.sitepoint.com/good-jquery-plugin-template/) - SitePoint.
 * [jQuery Plugin Boilerplate, revisited](http://stefangabos.ro/jquery/jquery-plugin-boilerplate-revisited/) - Stefan Gabos.
 * [jQuery Coding Standards and Best Practices](http://lab.abhinayrathore.com/jquery-standards/) - jQuery Coding Standards and Best Practices guide for helping prgrammers write better jQuery code.
-* [Signs of a poorly written jQuery plugin](https://remysharp.com/2010/06/03/signs-of-a-poorly-written-jquery-plugin) - How do you know if the plugin is good to use?.
+* [Signs of a poorly written jQuery plugin](https://remysharp.com/2010/06/03/signs-of-a-poorly-written-jquery-plugin) - How do you know if the plugin is good to use?
+* [шаблон для плагинов jQuery, который позволяет отказаться от стиля, навязываемого им](http://habrahabr.ru/post/172975/#comment_6009529) - Хабрахабр. [Pastebin](http://pastebin.com/ydqFcZpR)
 
 ## Vanilla JS
 
