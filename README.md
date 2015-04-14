@@ -130,6 +130,7 @@
 ## Text editors
 
 * [Sublime Text](#sublime-text)
+* [WebStorm](#webStorm)
 
 
 
@@ -482,6 +483,11 @@ Those retina ready icons have a very modern style that will beautifully compleme
 ### Sublime Text custom icons
 
 * [Sublime Text Token-style Icon by HannzK on DeviantArt](http://hannzk.deviantart.com/art/Sublime-Text-Token-style-Icon-315466623) - Credits go to ~brsev from deviantART for creating this awesome icon style and to the creators of Sublime Text, the awesome semi-IDE! Also, there's an is... Sublime Text Token-style Icon.
+
+
+## WebStorm
+
+* [Лучший редактор для веб-разработки / СоХабр](https://sohabr.net/habr/post/254329/)
 
 
 
