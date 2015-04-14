@@ -625,6 +625,8 @@ Those retina ready icons have a very modern style that will beautifully compleme
 * [PHP applications on Google App Engine | codediesel](http://www.codediesel.com/php/php-applications-on-google-app-engine/) - building PHP applications on Google App Engine.
 * [Google App Engine and PHP: Getting Started](http://www.sitepoint.com/google-app-engine-php-getting-started/) - SitePoint.
 * [Use Google App Engine as your own personal CDN](https://brandonb.io/use-google-app-engine-as-your-own-personal-cdn) - Brandons Blog.
+* [Google Cloud Datastore Error](https://gist.github.com/damimolo/37d0d0938aa821e004a2) - GitHub Gist.
+* [PHP Example - Cloud Storage](https://cloud.google.com/storage/docs/json_api/v1/json-api-php-samples) - Google Cloud Platform.
 
 
 ## WHOIS
