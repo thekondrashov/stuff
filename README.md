@@ -136,7 +136,7 @@
 
 * [Convert anything to anything](#convert-anything-to-anything)
 * [Favicon Generators](#favicon-generators)
-* [Push-notifications](#pushnotifications)
+* [Push-notifications](#push-notifications)
 
 
 ## Web performance optimization
@@ -494,7 +494,7 @@ Those retina ready icons have a very modern style that will beautifully compleme
 ## Push-notifications
 
 * [Pusher](https://pusher.com/) - Pusher is a hosted API for quickly, easily and securely adding scalable realtime functionality to web and mobile apps.
-* [Post Hawk](http://post-hawk.com/) - это сервис, предоставляющий простое и понятное API, для организации связи между приложенияими в реальном времени. Это могут быть, например, два браузера (чат между пользователями) или сервер и браузер (push-уведомления) или иная программа, имеющая возможность работы по протоколу Web Sockets.
+* [Post Hawk](http://post-hawk.com/) - это сервис, предоставляющий простое и понятное API, для организации связи между приложенияими в реальном времени. Это могут быть, например, два браузера (чат между пользователями) или сервер и браузер (push-уведомления) или иная программа, имеющая возможность работы по протоколу Web Sockets. [Bitbucket](https://bitbucket.org/Slavenin/hawk_api)
 
 
 
