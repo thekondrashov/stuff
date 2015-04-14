@@ -106,6 +106,7 @@
 ## Security
 
 * [Bounty programes](#bounty-programes)
+* [Cryptography](#cryptography)
 * [HTTP headers](#http-headers)
 * [Leaked account checkers](#leaked-account-checkers)
 * [Online security scanners](#online-security-scanners)
@@ -384,6 +385,10 @@ Those retina ready icons have a very modern style that will beautifully compleme
 * [Bounty programes](http://bugbounty.info/) - This is a simple site intended to keep track of the bug bounty programmes.
 * [Bugcrowd | List Of Bug Bounty Programs](https://bugcrowd.com/list-of-bug-bounty-programs) - A comprehensive, up to date list of bug bounty and disclosure programs from across the web curated by the Bugcrowd researcher community.
 * [Security Response & Bug Bounty Platform - HackerOne](https://hackerone.com/) - HackerOne is a platform for an improved security coordination process. Security teams use HackerOne to implement their responsible disclosure policy and host bug bounty programs.
+
+## Cryptography
+
+* [ircmaxell's blog: Seven Ways To Screw Up BCrypt](http://blog.ircmaxell.com/2012/12/seven-ways-to-screw-up-bcrypt.html)
 
 
 ## HTTP headers
