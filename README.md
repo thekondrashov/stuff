@@ -56,6 +56,7 @@
 ## CSS
 
 * [Bootstrap](#bootstrap)
+* [CSS Animation](#css-animation)
 * [CSS Hacks](#css-hacks)
 * [CSS Misc](#css-misc)
 
@@ -245,6 +246,11 @@
 ### Bootstrap Misc
 
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.
+
+## CSS Animation
+
+* [CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/) - Justin Aguilar.
+
 
 ## CSS Hacks
 
