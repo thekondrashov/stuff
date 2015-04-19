@@ -290,6 +290,7 @@
 * [Freddicons | MailChimp](http://ux.mailchimp.com/patterns/icons) - 133 icons by MailChimp.
 * [Stroke Icons 7 - by Pixeden](http://themes-pixeden.com/font-demos/7-stroke/index.html) - A series of iOS 7 inspired vector icons in a custom@font-face icon font that can be styled dynamically using CSS. Those retina ready icons have a very modern style that will beautifully complement any project.
 * [Material Design Icons](http://materialdesignicons.com/) - View all the Material Design icons and more from the community.
+* [Elusive Icons v2.0](http://elusiveicons.com/icons/) - The iconic font and CSS toolkit. [GitHub](https://github.com/ReduxFramework/Elusive-Icons)
 
 ## Icon font generators
 
