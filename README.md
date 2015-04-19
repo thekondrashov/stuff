@@ -126,6 +126,7 @@
 ## Testing
 
 * [Continuous Integration](#continuous-integration)
+* [Website speed tests](#website-speed-tests)
 
 
 ## Text editors
@@ -474,6 +475,12 @@
 * [Travis CI](https://travis-ci.org/) - Easily sync your GitHub projects with Travis CI and you’ll be testing your code in minutes!
 * [Semaphore CI](https://semaphoreci.com/) - Semaphore is a hosted continuous integration and deployment service for open source and private projects.
 * [Scrutinizer CI](https://scrutinizer-ci.com/) - Scrutinizer is a continuous inspection platform helping you to write better software.
+
+## Website speed tests
+
+* [MaxCDN Tools](http://tools.maxcdn.com/) - Compare the speed of two websites in 5 seconds from different locations around the world.
+
+
 
 
 
