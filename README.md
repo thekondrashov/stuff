@@ -532,6 +532,12 @@
 ## CDN
 
 * [jsDelivr](https://github.com/jsdelivr/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open source CDN that allows developers to host their own projects and anyone to link to our hosted files in their websites.
+* [Microsoft Ajax Content Delivery Network](http://www.asp.net/ajax/cdn)
+* [Handpicked jQuery Plugins CDN](http://cdn.jque.re/) - The Handpicked jQuery Plugins Repository. A handpicked collection of jQuery plugins. [GitHub](https://github.com/SoHiggo/www.jque.re)
+* [Baidu Open CDN Service](https://github.com/Clouda-team/baiducdnstatic) - GitHub.
+* [Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn/) - Bootstrap中文网开源项目免费 CDN 服务 - 我们致力于为Bootstrap一样优秀的开源项目提供稳定、快速的免费 CDN 服务.
+* [开放静态文件 CDN (STATICFILE.ORG)](http://www.staticfile.org/) - 为开源库提供稳定、快速的免费 CDN 服务. [GitHub](https://github.com/staticfile/static)
+* [Cached Commons](http://cachedcommons.org/) - NO LONGER SUPPORTED. [GitHub](https://github.com/lancejpollard/cached-commons)
 
 ## Image optimization
 
