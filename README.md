@@ -433,6 +433,7 @@
 * [Бесплатные SSL-сертификаты на 3 года с поддержкой до 100 доменов](https://blog.kai-zer.ru/besplatnyy-ssl-sertifikaty-na-3-goda-s-pod/)
 * [StartSSL™ Certificates](https://www.startssl.com/) - StartCom Free SSL Client, S/Mime, Server, Domain Controller, Smartcard Certificates.
 * [Бесплатный валидный (подписанный) SSL-сертификат через StartSSL](http://valera.ws/2012.03.11~free-valid-signed-ssl-certificate-with-sratssl/) - Персональный блог Валерия Леонтьева.
+* [Устанавливаем бесплатный SSL–сертификат StartSSL на облачный VPS от Infobox](http://habr.ru/p/256283) -  Блог компании Infobox / Хабрахабр.
 
 ## Two Factor Auth
 
