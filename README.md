@@ -68,6 +68,7 @@
 ## Email
 
 * [Email Verification](#email-verification)
+* [Spam test](#spam-test)
 
 
 ## Icons
@@ -283,6 +284,9 @@
 
 * [Email Address Verification Service | Kickbox](https://kickbox.io/) - Determine which email addresses are real and high-quality for free. Upload and verify email lists our use our API for Node.js, PHP, Python, and Ruby. Kickbox offers 100 free daily verifications.
 
+## Spam test
+
+* [Newsletters spam test by mail-tester.com](https://www.mail-tester.com/) - Check your newsletter's spam score and quality. This tool's free, and pretty.
 
 
 # Icons
