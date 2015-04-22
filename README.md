@@ -20,6 +20,7 @@
 - [QR Codes](#qr-codes)
 - [Security](#security)
 - [SEO](#seo)
+- [Social](#social)
 - [Testing](#testing)
 - [Text editors](#text-editors)
 - [Utils](#utils)
@@ -123,6 +124,10 @@
 * [Микроразметка (семантическая разметка)](#Микроразметка-семантическая-разметка)
 * [SEO Articles](#seo-articles)
 * [Website Analytics](#website-analytics)
+
+## Social
+
+* [Share buttons](#share-buttons)
 
 ## Testing
 
@@ -474,6 +479,12 @@
 * [Real time analytics service | Gauges](https://gaug.es/) - Analyze all your traffic in real time with our beautiful, easy to understand interface. FREE Trial for 7 Days.
 * [Аналитика. Ruward Track - все рейтинги рунета](http://track.ruward.ru/) - Актуальная технологическая аналитика Рунета: исследования сегментов CMS, систем веб-аналитики, e-commerce платформ, SMM-плагинов и др.
 * [Check your bad backlinks and your competitors good backlinks - Monitor Backlinks](https://monitorbacklinks.com/) - Get notified (via e-mail) if someone removes or adds nofollow to your backlinks. Monitor your backlinks for good SEO rankings.
+
+# Social
+
+## Share buttons
+
+* [Pluso - кнопки для добавления контента в социальные сети](https://share.pluso.ru/) - Кнопки для всех сервисов закладок и социальных сетей - для Вашего сайта.
 
 
 # Testing
