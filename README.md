@@ -115,6 +115,7 @@
 * [SSL certificates](#ssl-certificates)
 * [Two Factor Auth](#two-factor-auth)
 * [Web security blogs](#web-security-blogs)
+* [Security Misc](#security-misc)
 
 ## SEO
 
@@ -445,6 +446,12 @@
 
 * [Scott Helme](https://scotthelme.co.uk/) - Information Security Consultant.
 * [oxdef](https://www.oxdef.info/) - Some thoughts about web security.
+
+
+## Security Misc
+
+* [Как сделать JSON Vulnerability Protection в ответе сервера под Yii2](http://habr.ru/p/256213) - Хабрахабр.
+
 
 
 # SEO
