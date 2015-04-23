@@ -640,6 +640,7 @@
 * [Пример резюме на анг](https://goo.gl/QrZbLQ)
 * [Пример резюме на анг #2](http://registry.jsonresume.org/brandonbrown)
 * [Пример резюме на анг #3](http://www.toptal.com/resume/mahmud-ridwan)
+* [Пример резюме на рус](http://bioinformaticsinstitute.ru/resumes)
 * [Сравнение онлайн-консультантов для сайта: муки выбора / Хабрахабр](http://habr.ru/p/254529/)
 * [DevDocs: Offline API Documentation Browser](http://devdocs.io/) - DevDocs combines 64 reference documentations in a fast, organized, and searchable interface: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, etc.
 * [О кодировках и кодовых страницах](http://geektimes.ru/p/238497/) - Geektimes.
