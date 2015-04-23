@@ -63,6 +63,7 @@
 
 ## Donations
 
+* [Crowdfunding platforms](#crowdfunding-platforms)
 * [Donation Management](#donation-management)
 
 ## Email
@@ -273,6 +274,10 @@
 
 
 # Donations
+
+## Crowdfunding platforms
+
+* [Indiegogo: The Largest Global Crowdfunding & Fundraising Site Online](https://www.indiegogo.com/) - As the largest global site for fundraisers, Indiegogo helps individuals, groups and non-profits raise money online to make their ideas a reality through crowdfunding.
 
 ## Donation Management
 
