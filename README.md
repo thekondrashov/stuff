@@ -87,6 +87,7 @@
 
 * [JavaScript tutorials](#javascript-tutorials)
 * [jQuery](#jquery)
+* [Autocomplete](#autocomplete)
 * [Vanilla JS](#vanilla-js)
 
 ## Lessons
@@ -354,6 +355,12 @@
 * [jQuery Coding Standards and Best Practices](http://lab.abhinayrathore.com/jquery-standards/) - jQuery Coding Standards and Best Practices guide for helping prgrammers write better jQuery code.
 * [Signs of a poorly written jQuery plugin](https://remysharp.com/2010/06/03/signs-of-a-poorly-written-jquery-plugin) - How do you know if the plugin is good to use?
 * [шаблон для плагинов jQuery, который позволяет отказаться от стиля, навязываемого им](http://habrahabr.ru/post/172975/#comment_6009529) - Хабрахабр. [Pastebin](http://pastebin.com/ydqFcZpR)
+
+
+## Autocomplete
+
+* [Ajax AutoComplete for jQuery](https://github.com/devbridge/jQuery-Autocomplete) - Ajax Autocomplete for jQuery allows you to easily create autocomplete/autosuggest boxes for text input fields. Has no dependencies other than jQuery. The standard jquery.autocomplete.js file is around 2.7KB when minified via Closure Compiler and gzipped.
+
 
 ## Vanilla JS
 
