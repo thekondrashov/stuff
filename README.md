@@ -177,6 +177,7 @@
 * [Google App Engine](#google-app-engine)
 * [WHOIS](#whois)
 * [Бесплатный хостинг](#Бесплатный-хостинг)
+* [Платный хостинг](#платный-хостинг)
 
 
 
@@ -698,3 +699,7 @@
 * [Хостинг tcphost.net](https://sohabr.net/habr/post/250037/) - Бесплатный хостинг для студентов.
 * [YouHosting](http://www.youhosting.com/en/page/plans) - Become a Web Hosting Reseller For Free!
 * [Бесплатный хостинг JH5.Studio](http://jh5.ru/osp.html) - JH5.Studio предлагаем интересным проектам бессрочный, бесплатный хостинг. Внимание количество заявок ограничено! [ВКонтакте](https://vk.com/wall-3183750_48714)
+
+## Платный хостинг
+
+* [Хостинг от Timeweb](http://timeweb.com/ru/) - Ваш платный, но доступный и мощный веб хостинг сайтов.
