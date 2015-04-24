@@ -114,6 +114,7 @@
 * [HTTP headers](#http-headers)
 * [Leaked account checkers](#leaked-account-checkers)
 * [Online security scanners](#online-security-scanners)
+* [Password Strength Meters](#password-strength-meters)
 * [Personal privacy](#personal-privacy)
 * [SSL certificates](#ssl-certificates)
 * [Two Factor Auth](#two-factor-auth)
@@ -435,6 +436,12 @@
 ## Online security scanners
 
 * [SecurityHeaders.io](https://securityheaders.io/) - An easy way to asses the security based HTTP response headers of other sites.
+
+## Password Strength Meters
+
+* [YAPSM - GitHub](https://github.com/trimentor/YAPSM) - YAPSM (Yet Another Password Strength Meter) is a jQuery plugin. Take no risk and help your users to choose good passwords!
+
+
 
 ## Personal privacy
 
