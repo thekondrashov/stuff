@@ -677,6 +677,7 @@
 
 * [Namecheap.com](https://www.namecheap.com/) - Cheap Domain Name Registration & Web Hosting. The Best Domain Name Registrar when it comes to Customer Service.
 * [Namecheap Education Program: Free Domains for Students](https://nc.me/) - The Namecheap Education Program provides free domains and email hosting for university students in the US, UK, and Canada.
+* [Подбор красивого доменного имени / СоХабр](https://sohabr.net/habr/post/256507/)
 
 
 ## Google App Engine
