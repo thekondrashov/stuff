@@ -110,6 +110,7 @@
 
 ## Security
 
+* [Anti-spam services](#antispam-services)
 * [Bounty programes](#bounty-programes)
 * [Cryptography](#cryptography)
 * [HTTP headers](#http-headers)
@@ -414,6 +415,11 @@
 
 
 # Security
+
+## Anti-spam services
+
+* [Comment spam prevention for your blog - Akismet](https://akismet.com/) - Akismet is an advanced hosted anti-spam service aimed at thwarting the underbelly of the web. It efficiently processes and analyzes masses of data from millions of sites and communities in real time.
+
 
 ## Bounty programes
 
