@@ -110,7 +110,7 @@
 
 ## Security
 
-* [Anti-spam services](#antispam-services)
+* [Anti-spam services](#anti-spam-services)
 * [Bounty programes](#bounty-programes)
 * [Cryptography](#cryptography)
 * [HTTP headers](#http-headers)
