@@ -719,3 +719,4 @@
 ## Платный хостинг
 
 * [Хостинг от Timeweb](http://timeweb.com/ru/) - Ваш платный, но доступный и мощный веб хостинг сайтов.
+* [Платный хостинг сайтов от RadiusHost](http://www.radiushost.ru/ru/services/hosting/)
