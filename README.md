@@ -69,6 +69,7 @@
 ## Email
 
 * [Email Verification](#email-verification)
+* [Send email](#send-email)
 * [Spam test](#spam-test)
 
 
@@ -294,6 +295,11 @@
 ## Email Verification
 
 * [Email Address Verification Service | Kickbox](https://kickbox.io/) - Determine which email addresses are real and high-quality for free. Upload and verify email lists our use our API for Node.js, PHP, Python, and Ruby. Kickbox offers 100 free daily verifications.
+
+## Send email
+
+* [Mandrill](https://mandrill.com/) - Mandrill is a transactional email platform from MailChimp.
+
 
 ## Spam test
 
