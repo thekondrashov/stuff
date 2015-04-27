@@ -154,6 +154,7 @@
 * [Favicon Generators](#favicon-generators)
 * [Placeholder images](#placeholder-images)
 * [Push-notifications](#push-notifications)
+* [URL Shorteners](#url-shorteners)
 
 
 ## Web performance optimization
@@ -585,6 +586,11 @@
 
 * [Pusher](https://pusher.com/) - Pusher is a hosted API for quickly, easily and securely adding scalable realtime functionality to web and mobile apps.
 * [Post Hawk](http://post-hawk.com/) - это сервис, предоставляющий простое и понятное API, для организации связи между приложенияими в реальном времени. Это могут быть, например, два браузера (чат между пользователями) или сервер и браузер (push-уведомления) или иная программа, имеющая возможность работы по протоколу Web Sockets. [Bitbucket](https://bitbucket.org/Slavenin/hawk_api)
+
+## URL Shorteners
+
+* [Google URL Shortener](https://goo.gl/)
+* [GitIO](https://git.io/)
 
 
 
