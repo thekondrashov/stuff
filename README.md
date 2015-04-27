@@ -152,6 +152,7 @@
 
 * [Convert anything to anything](#convert-anything-to-anything)
 * [Favicon Generators](#favicon-generators)
+* [Placeholder images](#placeholder-images)
 * [Push-notifications](#push-notifications)
 
 
@@ -573,6 +574,11 @@
 ## Favicon Generators
 
 * [Epic Favicon Generator by BCCO](https://epicfavicongenerator.com/) - The Epic Favicon Generator offers 20+ favicon sizes, is mobile friendly, and free!
+
+## Placeholder images
+
+* [lorempixel](http://lorempixel.com) - Placeholder Images for every case. Webdesign or Print. Just put a custom url in your html and you receive a proper placeholder picture.
+
 
 ## Push-notifications
 
