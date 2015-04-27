@@ -154,6 +154,7 @@
 * [Favicon Generators](#favicon-generators)
 * [Placeholder images](#placeholder-images)
 * [Push-notifications](#push-notifications)
+* [Status Pages](#status-pages)
 * [URL Shorteners](#url-shorteners)
 
 
@@ -586,6 +587,15 @@
 
 * [Pusher](https://pusher.com/) - Pusher is a hosted API for quickly, easily and securely adding scalable realtime functionality to web and mobile apps.
 * [Post Hawk](http://post-hawk.com/) - это сервис, предоставляющий простое и понятное API, для организации связи между приложенияими в реальном времени. Это могут быть, например, два браузера (чат между пользователями) или сервер и браузер (push-уведомления) или иная программа, имеющая возможность работы по протоколу Web Sockets. [Bitbucket](https://bitbucket.org/Slavenin/hawk_api)
+
+## Status Pages
+
+* [StatusDashboard | Downtime happens...be prepared](https://www.statusdashboard.com/) - Setup a hosted status dashboard for your mission critical services in minutes with our intuitive and cost effective platform.
+* [Status.io - Hosted System Status Pages](https://www.status.io/) - Status.io makes it simple to create a beautiful status page for your network, app, web service, SaaS or developer API. Integrate your existing monitoring tools to automate your system status page. Show off response time, uptime, Apdex and more metrics. Update subscribers with status notifications and planned maintenance events.
+* [StatusPage.io - Hosted Status Pages for Your Company](https://www.statuspage.io/) - StatusPage.io is the best way for web infrastructure, developer API, and SaaS companies to get set up with their very own status page in minutes. Integrate public metrics and allow your customers to subscribe to be updated automatically.
+* [StatusHub](https://statushub.io/) - Bulletproof, hosted status pages for your web application or service - register now for a free beta account.
+
+
 
 ## URL Shorteners
 
