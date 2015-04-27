@@ -595,6 +595,7 @@
 * [Status.io - Hosted System Status Pages](https://www.status.io/) - Status.io makes it simple to create a beautiful status page for your network, app, web service, SaaS or developer API. Integrate your existing monitoring tools to automate your system status page. Show off response time, uptime, Apdex and more metrics. Update subscribers with status notifications and planned maintenance events.
 * [StatusPage.io - Hosted Status Pages for Your Company](https://www.statuspage.io/) - StatusPage.io is the best way for web infrastructure, developer API, and SaaS companies to get set up with their very own status page in minutes. Integrate public metrics and allow your customers to subscribe to be updated automatically.
 * [StatusHub](https://statushub.io/) - Bulletproof, hosted status pages for your web application or service - register now for a free beta account.
+* [OffsiteStatus - Hosted System Status Page](http://www.offsitestatus.com/) - OffsiteStatus provides an off-site, hosted system status page for SaaS applications. Let customers know what is going on when your site is having issues.
 
 
 
