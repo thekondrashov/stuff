@@ -249,6 +249,7 @@
 ### Bootstrap themes & templates
 
 * [BootstrapBay - Bootstrap Themes & Templates](http://bootstrapbay.com/) - Buy & sell premium Bootstrap themes & templates in the BootstrapBay marketplace. Find a high quality theme for your next web project today!
+* [40 лучших шаблонов, основанных на Bootstrap 3. Некоторые даже бесплатны.](http://webdesignledger.com/resources/premium-bootstrap-themes-templates)
 
 ### Offcanvas navigation menu
 
