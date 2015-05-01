@@ -347,6 +347,7 @@
 ## JavaScript tutorials
 
 * [Современный учебник JavaScript](https://learn.javascript.ru/tutorial) - Перед вами учебник по JavaScript, начиная с основ, включающий в себя много тонкостей и фишек JavaScript/DOM. [GitHub](https://github.com/iliakan/javascript-nodejs)
+* [JS: The Right Way](http://jstherightway.org/) - A quick reference to best practices for writing JavaScript -- links to code patterns and tutorials from around the web.
 
 ## jQuery
 
