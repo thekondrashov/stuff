@@ -236,6 +236,7 @@
 * [Dru.io](http://dru.io/) - Drupal сообщество (Nikita Malyshev).
 * [Niklan](http://niklan.net/) - Блог начинающего веб-разработчика (Nikita Malyshev).
 * [How to Use Bootswatch Themes in Drupal 7](http://www.webwash.net/tutorials/how-use-bootswatch-themes-drupal-7) - Web Wash.
+* [Drupal CDN](http://maxcdn4support.wpengine.com/tutorial/drupal-cdn/)
 * https://www.drupal.org/project/bu
 
 * [Usage of content management systems for websites](http://w3techs.com/technologies/overview/content_management/all)
