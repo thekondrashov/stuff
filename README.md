@@ -667,6 +667,8 @@
 ## CSS selectors
 
 * [30 CSS селекторов, которые вы должны запомнить](http://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048) - Russian (Pусский) translation by [Dmitriy Troy](http://tutsplus.com/authors/dmitriy-troy) (you can also [view the original English article](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)).
+* [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/) - CSS Selectors & CSS Properties.
+* [CSS Reference | Codrops](http://tympanus.net/codrops/css_reference/) - An extensive CSS reference with all the important CSS properties and info to learn CSS from the basics.
 
 ## Emoji
 
@@ -710,6 +712,7 @@
 * [Руководство по написанию кода от @mdo](http://instanceof.pro/code-guide/) - Стандарты для разработки гибкого, надежного и поддерживаемого кода на HTML и CSS.
 * [IQDQ.ru](http://iqdq.ru/) - Сервисы управления качеством данных: веб-сервис по распознаванию и исправлению адресов.
 * [Learn To Google It](http://learntogoogleit.com/) - I'm a software engineer specializing in Java/PHP/Go on App Engine. Here are my thoughts on Google's Cloud Platform. Have a question? Ask on App Engine's official mailing list.
+* [HTML5 Doctor, helping you implement HTML5 today](http://html5doctor.com/)
 
 
 
