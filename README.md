@@ -636,6 +636,7 @@
 * [Kraken Image Optimizer](https://kraken.io/web-interface) - Free online web interface. Support PNG, JPG, GIF, SVG formats.
 * [b64.io](http://b64.io/) - online image optimizer and base64 encoder.
 * [Compress PNG Images Online](http://compresspng.com/) - PNG compression and optimization tool to compress PNG images into PNG-8 format with transparency support.
+* [Grumpicon. A Web app for the Grunticon workflow.](http://www.grumpicon.com)
 
 ### Online Picture Resizer
 
