@@ -687,6 +687,7 @@
 ## Unicode
 
 * [Graphemica](http://graphemica.com/) - Browse Unicode Characters.
+* [HTML Symbol Codes and Entities — HTML Arrows](http://htmlarrows.com/) - The most beautiful HTML arrows, currency and copyright symbols you will ever see, plus all those other pesky ASCII and HEX codes you can never remember.
 
 ## XPath
 
