@@ -326,6 +326,7 @@ My(A) curated list of goodies.
 * [Material Design Icons](http://materialdesignicons.com/) - View all the Material Design icons and more from the community.
 * [Elusive Icons v2.0](http://elusiveicons.com/icons/) - The iconic font and CSS toolkit. [GitHub](https://github.com/ReduxFramework/Elusive-Icons)
 * [Financial Times icons](http://registry.origami.ft.com/components/o-ft-icons) - Icons for FT sites. [GitHub](https://github.com/Financial-Times/o-ft-icons)
+* [Icons | Creative Tail](https://www.creativetail.com/icons/) - Hand Crafted, Pixel Perfect Icons.
 
 ## Icon font generators
 
