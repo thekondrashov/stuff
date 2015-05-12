@@ -691,6 +691,7 @@ My(A) curated list of goodies.
 ## HTTP Status Codes
 
 * [HTTP Status Codes &mdash; httpstatus.es](http://httpstatus.es/) - HTTP Status code list / directory with wikipedia and ietf descriptions. [Github](https://github.com/citricsquid/httpstatus.es)
+* [HTTP Status Code Errors](http://pcsupport.about.com/od/findtheproblem/tp/browsererror.htm) - A list of HTTP status code errors (4xx client and 5xx server HTTP status codes) and how to fix them. HTTP status code errors appear inside the browser.
 
 
 ## Markdown
