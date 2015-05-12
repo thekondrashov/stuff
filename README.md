@@ -569,9 +569,11 @@ My(A) curated list of goodies.
 
 * [Sublime Text Token-style Icon by HannzK on DeviantArt](http://hannzk.deviantart.com/art/Sublime-Text-Token-style-Icon-315466623) - Credits go to ~brsev from deviantART for creating this awesome icon style and to the creators of Sublime Text, the awesome semi-IDE! Also, there's an is... Sublime Text Token-style Icon.
 
-### Sublime Text theme editors
+### Sublime Text themes
 
 * [TMTheme Editor](http://tmtheme-editor.herokuapp.com) - TmTheme Editor is the a visual color-scheme/theme editor for SublimeText, Textmate and a bunch of other text editors. [GitHub](https://github.com/aziz/tmTheme-Editor)
+* [Dayle Rees Colour Scheme Previews](https://daylerees.github.io) - Colour schemes for a variety of editors created by Dayle Rees. [GitHub](https://github.com/daylerees/colour-schemes)
+* [Colorsublime](http://colorsublime.com) - Color your Sublime Text editor trying your favorite theme online before downloading it for free. [GitHub](https://github.com/Colorsublime/Colorsublime-Themes)
 
 
 ## WebStorm
