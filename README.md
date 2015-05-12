@@ -228,6 +228,9 @@ My(A) curated list of goodies.
 * [GitHub color codes for programming languages](https://github.com/doda/github-language-colors) - A mapping of which colors github uses to represent different programming languages in their "Languages" tab on each repository.
 * [What colour is it?](http://whatcolourisit.scn9a.org/) - the time....... now in colour.
 * [DinPattern - Free seamless patterns](http://www.dinpattern.com/) - DinPattern is a free seamless background pattern resource for designers, developers and artists.
+* [Snazzy Maps - Free Styles for Google Maps](https://snazzymaps.com) - Snazzy Maps is a repository of different color schemes for Google Maps aimed towards web designers and developers.
+
+
 
 # CMS
 
@@ -718,7 +721,7 @@ My(A) curated list of goodies.
 * [Руководство по написанию кода от @mdo](http://instanceof.pro/code-guide/) - Стандарты для разработки гибкого, надежного и поддерживаемого кода на HTML и CSS.
 * [IQDQ.ru](http://iqdq.ru/) - Сервисы управления качеством данных: веб-сервис по распознаванию и исправлению адресов.
 * [Learn To Google It](http://learntogoogleit.com/) - I'm a software engineer specializing in Java/PHP/Go on App Engine. Here are my thoughts on Google's Cloud Platform. Have a question? Ask on App Engine's official mailing list.
-* [HTML5 Doctor, helping you implement HTML5 today](http://html5doctor.com/)
+* [HTML5 Doctor, helping you implement HTML5 today](http://html5doctor.com)
 
 
 
