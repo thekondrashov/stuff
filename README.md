@@ -165,7 +165,7 @@ My(A) curated list of goodies.
 ## Web performance optimization
 
 * [WPO Checklist](#wpo-checklist)
-* [WPO test tools]("wpo-test-tools")
+* [WPO test tools](#wpo-test-tools)
 * [CDN](#cdn)
 * [Image optimization](#image-optimization)
 * [JS minifiers](#js-minifiers)
