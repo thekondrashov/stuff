@@ -17,6 +17,7 @@ My(A) curated list of goodies.
 - [Lessons](#lessons)
 - [Localization](#localization)
 - [PHP](#php)
+- [Regular expressions](#regular-expressions)
 - [QR Codes](#qr-codes)
 - [Security](#security)
 - [SEO](#seo)
@@ -103,6 +104,9 @@ My(A) curated list of goodies.
 
 * [Phar](#phar)
 
+## Regular expressions
+
+* [Online regex testers](#online-regex-testers)
 
 
 ## QR Codes
@@ -423,6 +427,13 @@ My(A) curated list of goodies.
 * [php - How to make an executable phar?](http://stackoverflow.com/questions/11082337/how-to-make-an-executable-phar/11082338#11082338) - Stack Overflow.
 * [Phar в PHP: преимущества и работа с PHAR](http://sitear.ru/material/phar-php) - SiteAR.ru.
 * [.phar — исполняемые PHP-архивы](http://habr.ru/p/118269/) - Хабрахабр.
+
+
+# Regular expressions
+
+## Online regex testers
+
+* [Debuggex: Online visual regex tester](https://www.debuggex.com) - Test your regex by visualizing it with a live editor. JavaScript, Python, and PCRE.
 
 
 
