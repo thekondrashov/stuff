@@ -769,6 +769,7 @@ My(A) curated list of goodies.
 * [Хостинг tcphost.net](https://sohabr.net/habr/post/250037/) - Бесплатный хостинг для студентов.
 * [YouHosting](http://www.youhosting.com/en/page/plans) - Become a Web Hosting Reseller For Free!
 * [Бесплатный хостинг JH5.Studio](http://jh5.ru/osp.html) - JH5.Studio предлагаем интересным проектам бессрочный, бесплатный хостинг. Внимание количество заявок ограничено! [ВКонтакте](https://vk.com/wall-3183750_48714)
+* [Divshot - Static Web Hosting for Developers and Designers](https://divshot.com) - One platform for static web hosting and Bootstrap Builder for single page apps. CDN, SSL, and pushState support with amazing developer and CLI tools.
 
 ## Платный хостинг
 
