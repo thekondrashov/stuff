@@ -165,6 +165,7 @@ My(A) curated list of goodies.
 ## Web performance optimization
 
 * [WPO Checklist](#wpo-checklist)
+* [WPO test tools]("wpo-test-tools")
 * [CDN](#cdn)
 * [Image optimization](#image-optimization)
 * [JS minifiers](#js-minifiers)
@@ -639,6 +640,11 @@ My(A) curated list of goodies.
 ## WPO Checklist
 
 * [Website Performance Optimization Checklist](http://lab.abhinayrathore.com/website-performance-optimization-checklist/) - Website Performance Optimization Checklist for building high performace websites.
+
+## WPO test tools
+
+* [DareBoost - Website Performance and Quality Test Tool](https://dareboost.com) - DareBoost is an online tool to test, analyze and monitor your website: speed, SEO, quality, security. All you need for website optimization in a single service.
+
 
 
 ## CDN
