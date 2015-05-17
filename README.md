@@ -313,6 +313,7 @@ My(A) curated list of goodies.
 ## Send email
 
 * [Mandrill](https://mandrill.com/) - Mandrill is a transactional email platform from MailChimp.
+* [Formspree | Functional HTML forms](https://formspree.io) - Just send your form to our URL and we'll forward it to your email. No PHP, Javascript or sign up required — perfect for static sites! Formspree are free for 1000 submissions per email each month.
 
 
 ## Spam test
