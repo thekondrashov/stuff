@@ -6,6 +6,7 @@ My(A) curated list of goodies.
 - [Books](#books)
 - [Browsers](#browsers)
 - [CAPTCHA](#captcha)
+- [Chat](#chat)
 - [Color](#color)
 - [CMS](#cms)
 - [CSS](#css)
@@ -43,6 +44,12 @@ My(A) curated list of goodies.
 ## CAPTCHA
 
 * [CAPTCHA plugins](#captcha-plugins)
+
+
+## Chat
+
+* [Chat providers](#chat-providers)
+
 
 
 ## Color
@@ -219,6 +226,13 @@ My(A) curated list of goodies.
 * [MotionCAPTCHA jQuery Plugin - GitHub](https://github.com/josscrowcroft/MotionCAPTCHA) - MotionCAPTCHA is a jQuery CAPTCHA plugin that requires users to sketch the shape they see in the canvas in order to submit a form.
 * [Некапча Mail.Ru – капча, которая не показывается](http://habr.ru/p/255633/) - Блог компании Mail.Ru Group / Хабрахабр.
 * [Вышла новая версия reCaptcha API 2.0](http://habr.ru/p/244779/) - Хабрахабр.
+
+
+# Chat
+
+## Chat providers
+
+* [Olark live chat: Software that lifts customer support and sales!](https://www.olark.com) - Answer customers immediately and monitor website visitor behavior in real time for higher conversions, soaring sales and easy support. Make customers smile!
 
 
 # Color
