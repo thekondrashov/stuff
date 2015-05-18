@@ -286,6 +286,7 @@ My(A) curated list of goodies.
 
 * [Puerh CSS Hacks](http://baixing.github.io/puerh/start/#css-hack).
 * [Browser Strangeness - Jeff Clayton's CSS Hack Test Page](http://browserstrangeness.bitbucket.org/css_hacks.html) - This is my public LIVE browser test page for my own CSS hack contributions to the universe.
+* [Browserhacks](http://browserhacks.com) - An extensive list of browser specific CSS and JavaScript hacks from all over the interwebs.
 
 ## CSS Misc
 
