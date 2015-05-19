@@ -355,6 +355,7 @@ My(A) curated list of goodies.
 * [Financial Times icons](http://registry.origami.ft.com/components/o-ft-icons) - Icons for FT sites. [GitHub](https://github.com/Financial-Times/o-ft-icons)
 * [Icons | Creative Tail](https://www.creativetail.com/icons/) - Hand Crafted, Pixel Perfect Icons.
 * [OpenWeb Icons... a font!](http://pfefferle.github.io/openwebicons/) - Why OpenWeb Icons? Because Font Awesome had no RSS-icon and a font with only one icon would be a bit boring...! [GitHub](https://github.com/pfefferle/openwebicons)
+* [Transformicons](http://www.transformicons.com) - Animated icons, symbols and buttons using SVG and CSS. [GitHub](https://github.com/grayghostvisuals/transformicons)
 
 ## Icon font generators
 
