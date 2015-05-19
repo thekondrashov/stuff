@@ -769,6 +769,7 @@ My(A) curated list of goodies.
 * [Learn To Google It](http://learntogoogleit.com/) - I'm a software engineer specializing in Java/PHP/Go on App Engine. Here are my thoughts on Google's Cloud Platform. Have a question? Ask on App Engine's official mailing list.
 * [HTML5 Doctor, helping you implement HTML5 today](http://html5doctor.com)
 * [How to Scale SVG | CSS-Tricks](https://css-tricks.com/scale-svg/) - The following is a guest post by Amelia Bellamy-Royds. Amelia has lots of experience with SVG, as the co-author of SVG Essentials and author of the upcomin.
+* [Making SVGs Responsive](http://tympanus.net/Tutorials/ResponsiveSVGs/) - Codrops.
 
 
 
