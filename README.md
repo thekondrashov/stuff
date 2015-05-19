@@ -353,14 +353,16 @@ My(A) curated list of goodies.
 * [Elusive Icons v2.0](http://elusiveicons.com/icons/) - The iconic font and CSS toolkit. [GitHub](https://github.com/ReduxFramework/Elusive-Icons)
 * [Financial Times icons](http://registry.origami.ft.com/components/o-ft-icons) - Icons for FT sites. [GitHub](https://github.com/Financial-Times/o-ft-icons)
 * [Icons | Creative Tail](https://www.creativetail.com/icons/) - Hand Crafted, Pixel Perfect Icons.
+* [OpenWeb Icons... a font!](http://pfefferle.github.io/openwebicons/) - Why OpenWeb Icons? Because Font Awesome had no RSS-icon and a font with only one icon would be a bit boring...! [GitHub](https://github.com/pfefferle/openwebicons)
 
 ## Icon font generators
 
-* [Font Awesome to PNG online generator](http://fa2png.io/) - A small web app returning Font Awesome icons as png. You can define the color and size of the icons and download them directly.
+* [Font Awesome to PNG online generator](http://fa2png.io) - A small web app returning Font Awesome icons as png. You can define the color and size of the icons and download them directly.
 
 ## Search Icons
 
-* [Free download of 10000+ icons in Windows 8, iOS 8 and Android style — Icons8](http://icons8.com/) - The world's largest original set of free icons for Windows8/Metro and iOS 8 (iPhone). Daily updates based on most voted ideas..
+* [Free download of 10000+ icons in Windows 8, iOS 8 and Android style — Icons8](http://icons8.com) - The world's largest original set of free icons for Windows8/Metro and iOS 8 (iPhone). Daily updates based on most voted ideas.
+* [We Love Icon Fonts](http://weloveiconfonts.com) - A free & open source icon fonts hosting service for testing purposes. [GitHub](https://github.com/TimPietrusky/weloveiconfonts)
 
 # GIT
 
