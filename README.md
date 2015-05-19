@@ -319,23 +319,24 @@ My(A) curated list of goodies.
 
 ## Donation Management
 
-* [Flattr - Social microdonations](https://flattr.com/) - Flattr is a social microdonation system. With it you can easily share money to support things you like, and get support from your fans.
+* [Flattr - Social microdonations](https://flattr.com) - Flattr is a social microdonation system. With it you can easily share money to support things you like, and get support from your fans.
 
 # Email
 
 ## Email Verification
 
-* [Email Address Verification Service | Kickbox](https://kickbox.io/) - Determine which email addresses are real and high-quality for free. Upload and verify email lists our use our API for Node.js, PHP, Python, and Ruby. Kickbox offers 100 free daily verifications.
+* [Email Address Verification Service | Kickbox](https://kickbox.io) - Determine which email addresses are real and high-quality for free. Upload and verify email lists our use our API for Node.js, PHP, Python, and Ruby. Kickbox offers 100 free daily verifications.
 
 ## Send email
 
-* [Mandrill](https://mandrill.com/) - Mandrill is a transactional email platform from MailChimp.
+* [Transactional Email API Service for Developers - Mailgun](https://mailgun.com) - A set of powerful APIs that enable you to send, receive and track email from your app effortlessly whether you use Python, Ruby, PHP, C#, Node.js or Java.
+* [Mandrill](https://mandrill.com) - Mandrill is a transactional email platform from MailChimp.
 * [Formspree | Functional HTML forms](https://formspree.io) - Just send your form to our URL and we'll forward it to your email. No PHP, Javascript or sign up required — perfect for static sites! Formspree are free for 1000 submissions per email each month.
 
 
 ## Spam test
 
-* [Newsletters spam test by mail-tester.com](https://www.mail-tester.com/) - Check your newsletter's spam score and quality. This tool's free, and pretty.
+* [Newsletters spam test by mail-tester.com](https://www.mail-tester.com) - Check your newsletter's spam score and quality. This tool's free, and pretty.
 
 
 # Icons
