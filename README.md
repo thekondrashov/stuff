@@ -690,13 +690,14 @@ My(A) curated list of goodies.
 
 * [SVG Editor](https://petercollingridge.appspot.com/svg-editor) - Online SVG Editor by [Peter Collingridge](http://www.petercollingridge.co.uk).
 * [Kraken Image Optimizer](https://kraken.io/web-interface) - Free online web interface. Support PNG, JPG, GIF, SVG formats.
-* [b64.io](http://b64.io/) - online image optimizer and base64 encoder.
-* [Compress PNG Images Online](http://compresspng.com/) - PNG compression and optimization tool to compress PNG images into PNG-8 format with transparency support.
+* [b64.io](http://b64.io) - online image optimizer and base64 encoder.
+* [Compress PNG Images Online](http://compresspng.com) - PNG compression and optimization tool to compress PNG images into PNG-8 format with transparency support.
 * [Grumpicon. A Web app for the Grunticon workflow.](http://www.grumpicon.com)
+* [ImageOptim — better Save For Web](https://imageoptim.com) - ImageOptim is a free app that makes images take up less disk space and load faster, without sacrificing quality. It optimizes compression parameters, removes junk metadata and unnecessary color profiles.
 
 ### Online Picture Resizer
 
-* [Resize, shrink, and crop your pictures online for free at PicResize.com](http://picresize.com/) - Crop and Resize photos, images, or pictures online for FREE! Resize photos before posting them on Facebook, Twitter, Pinterest, Reddit, Tumblr, or blog!
+* [Resize, shrink, and crop your pictures online for free at PicResize.com](http://picresize.com) - Crop and Resize photos, images, or pictures online for FREE! Resize photos before posting them on Facebook, Twitter, Pinterest, Reddit, Tumblr, or blog!
 
 ### Compress GIF
 
