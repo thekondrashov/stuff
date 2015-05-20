@@ -358,6 +358,7 @@ My(A) curated list of goodies.
 * [Icons | Creative Tail](https://www.creativetail.com/icons/) - Hand Crafted, Pixel Perfect Icons.
 * [OpenWeb Icons... a font!](http://pfefferle.github.io/openwebicons/) - Why OpenWeb Icons? Because Font Awesome had no RSS-icon and a font with only one icon would be a bit boring...! [GitHub](https://github.com/pfefferle/openwebicons)
 * [Transformicons](http://www.transformicons.com) - Animated icons, symbols and buttons using SVG and CSS. [GitHub](https://github.com/grayghostvisuals/transformicons)
+* [icono | Pure CSS icons](https://git.io/icono) - icono is an icon pack that needs no external resources. Every tag can be an icon made with pure CSS. [GitHub](https://github.com/saeedalipoor/icono)
 
 ## Icon font generators
 
