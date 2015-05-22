@@ -627,6 +627,7 @@ My(A) curated list of goodies.
 * [HEX to RGB Converter](http://hex.colorrrs.com/) - A simple tool for converting HEX values to RGB and vice versa.
 * [UnPhar: Unpack PHAR files online](http://unphar.com/) - Unpack phar archives online. Free. In just 2 minutes.
 * [Prince - Convert HTML to PDF with CSS](http://princexml.com) - Convert HTML documents to PDF. Beautiful printing with CSS. Support for JavaScript and SVG.
+* [Online Font Converter](http://onlinefontconverter.com) - converts fonts to/from: .dfont .eot .otf .pfb .pfm .suit .svg .ttf .pfa .bin .pt3 .ps .t42 .cff .afm .ttc, .pdf & .woff. [GitHub](https://github.com/jimmywarting/ofc)
 
 ## Favicon Generators
 
