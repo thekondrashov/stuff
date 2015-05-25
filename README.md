@@ -696,6 +696,7 @@ My(A) curated list of goodies.
 * [Compress PNG Images Online](http://compresspng.com) - PNG compression and optimization tool to compress PNG images into PNG-8 format with transparency support.
 * [Grumpicon. A Web app for the Grunticon workflow.](http://www.grumpicon.com)
 * [ImageOptim — better Save For Web](https://imageoptim.com) - ImageOptim is a free app that makes images take up less disk space and load faster, without sacrificing quality. It optimizes compression parameters, removes junk metadata and unnecessary color profiles.
+* [Compressor.io - optimize and compress your images and photos](https://compressor.io) - Optimize and compress your images online. Compressor is a lossy and lossless photo compression tool.
 
 ### Online Picture Resizer
 
