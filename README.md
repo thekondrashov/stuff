@@ -67,6 +67,7 @@ My(A) curated list of goodies.
 * [Bootstrap](#bootstrap)
 * [CSS Animation](#css-animation)
 * [CSS Hacks](#css-hacks)
+* [CSS Selectors](#css-selectors)
 * [CSS Misc](#css-misc)
 
 ## Donations
@@ -181,7 +182,6 @@ My(A) curated list of goodies.
 ## Справочники
 
 * [Cheat Sheets](#cheat-sheets)
-* [CSS selectors](#css-selectors)
 * [Emoji](#emoji)
 * [HTTP Status Codes](#http-status-codes)
 * [Markdown](#markdown)
@@ -304,6 +304,14 @@ My(A) curated list of goodies.
 * [Puerh CSS Hacks](http://baixing.github.io/puerh/start/#css-hack).
 * [Browser Strangeness - Jeff Clayton's CSS Hack Test Page](http://browserstrangeness.bitbucket.org/css_hacks.html) - This is my public LIVE browser test page for my own CSS hack contributions to the universe.
 * [Browserhacks](http://browserhacks.com) - An extensive list of browser specific CSS and JavaScript hacks from all over the interwebs.
+
+## CSS Selectors
+
+* [30 CSS селекторов, которые вы должны запомнить](http://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048) - Russian (Pусский) translation by [Dmitriy Troy](http://tutsplus.com/authors/dmitriy-troy) (you can also [view the original English article](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)).
+* [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/) - CSS Selectors & CSS Properties.
+* [CSS Reference | Codrops](http://tympanus.net/codrops/css_reference/) - An extensive CSS reference with all the important CSS properties and info to learn CSS from the basics.
+* [10 CSS Hacks and Tips You May Not Know - Inspirational Pixels](http://inspirationalpixels.com/articles/10-css-hacks-and-tips) - 10 of most helpful and intriguing CSS hacks and tips I've been able to find anywhere online.
+
 
 ## CSS Misc
 
@@ -728,11 +736,6 @@ My(A) curated list of goodies.
 * [205 шпаргалок для разработчика](http://habr.ru/p/254585/) - Хабрахабр.
 * [Learn X in Y minutes](http://learnxinyminutes.com/) - Whirlwind tours of (several, hopefully many someday) popular and ought-to-be-more-popular programming languages, presented as valid, commented code and explained as they go. [GitHub](https://github.com/adambard/learnxinyminutes-docs)
 
-## CSS selectors
-
-* [30 CSS селекторов, которые вы должны запомнить](http://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048) - Russian (Pусский) translation by [Dmitriy Troy](http://tutsplus.com/authors/dmitriy-troy) (you can also [view the original English article](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)).
-* [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/) - CSS Selectors & CSS Properties.
-* [CSS Reference | Codrops](http://tympanus.net/codrops/css_reference/) - An extensive CSS reference with all the important CSS properties and info to learn CSS from the basics.
 
 ## Emoji
 
