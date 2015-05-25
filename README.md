@@ -296,6 +296,7 @@ My(A) curated list of goodies.
 * [CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/) - Justin Aguilar.
 * [Loaders.css](http://connoratherton.com/loaders) - Delightful, performance-focused pure css loading animations. [GitHub](https://github.com/ConnorAtherton/loaders.css)
 * [Animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations. As easy to use as an easy thing. [GitHub](https://github.com/daneden/animate.css)
+* [iconate.js](https://bitshadow.github.io/iconate) - is a tiny performant library for cross-browser icon transformation animations in your projects. [GitHub](https://github.com/bitshadow/iconate)
 
 
 ## CSS Hacks
@@ -422,6 +423,7 @@ My(A) curated list of goodies.
 * [Vanilla Query - GitHub](https://github.com/makesites/vanilla-query/blob/master/build/vanilla-query.js) - A syntax-conversion for Vanilla JS & CSS3 methods using traditional jQuery conventions.
 * [10 Tips for Writing JavaScript without jQuery](http://tutorialzine.com/2014/06/10-tips-for-writing-javascript-without-jquery/) - Tutorialzine.
 * [Native JavaScript Equivalents of jQuery Methods: the DOM and Forms](http://www.sitepoint.com/jquery-vs-raw-javascript-1-dom-forms/) - SitePoint.
+* [Plain JavaScript - Functions and Helpers](http://plainjs.com/javascript/) - Vanilla JavaScript utilities for writing powerful web applications without jQuery.
 * [Moving from jQuery](https://gist.github.com/harmstyler/7468978) - GitHub Gist.
 
 * [Usage of JavaScript libraries for websites](http://w3techs.com/technologies/overview/javascript_library/all)
