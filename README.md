@@ -281,6 +281,7 @@ My(A) curated list of goodies.
 * [Off Canvas design patterns, Jason Weaver (and Luke Wroblewski)](http://jasonweaver.name/lab/offcanvas/)
 * [Off-canvas component - UIkit documentation](http://getuikit.com/docs/offcanvas.html)
 * [Responsive Off-Canvas Navigation - Skel documentation](http://getskel.com/docs/layers#examples-roffcanvasnav) - [Demo](http://getskel.com/demos/responsive-offcanvasnav.html).
+* [Slideout.js](https://mango.github.io/slideout/) - Slideout.js is a touch slideout navigation menu for your mobile web apps. [GitHub](https://github.com/mango/slideout)
 
 ### Guide to Bootstrap
 
