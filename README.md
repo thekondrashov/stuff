@@ -79,7 +79,7 @@ My(A) curated list of goodies.
 
 * [Email Verification](#email-verification)
 * [Send email](#send-email)
-* [Spam test](#spam-test)
+* [Email test](#email-test)
 
 
 ## Icons
@@ -347,9 +347,10 @@ My(A) curated list of goodies.
 * [Pechkin-mail.ru](https://pechkin-mail.ru/pricing/) - Сервис почтовых рассылок Печкин-mail позволят быстро настроить массовую рассылку, оформить красиво письмо и эффективно разослать Вашим клиентам, минуя спам-фильтр. Есть бесплатная версия!
 
 
-## Spam test
+## Email test
 
 * [Newsletters spam test by mail-tester.com](https://www.mail-tester.com) - Check your newsletter's spam score and quality. This tool's free, and pretty.
+* [Litmus PutsMail - Test your HTML emails before sending them](https://putsmail.com) - Test in real time your HTML emails for campaigns, newsletters and others before sending them.
 
 
 # Icons
