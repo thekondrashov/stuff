@@ -350,6 +350,7 @@ My(A) curated list of goodies.
 ## Email test
 
 * [Newsletters spam test by mail-tester.com](https://www.mail-tester.com) - Check your newsletter's spam score and quality. This tool's free, and pretty.
+* [Email Testing and Email Marketing Analytics - Litmus](https://litmus.com) - litmus tests and tracks your email campaigns, so you can always put your best design forward.
 * [Litmus PutsMail - Test your HTML emails before sending them](https://putsmail.com) - Test in real time your HTML emails for campaigns, newsletters and others before sending them.
 
 
