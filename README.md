@@ -782,6 +782,7 @@ My(A) curated list of goodies.
 * [Пример резюме на анг #4](http://fluice.com)
 * [Пример резюме на анг #5](https://represent.io/dthms)
 * [Пример резюме на анг #6](http://waldobronchart.be/resume/)
+* [Пример резюме на анг #7](http://kardash.net)
 * [Пример резюме на рус](http://bioinformaticsinstitute.ru/resumes)
 * [Сравнение онлайн-консультантов для сайта: муки выбора / Хабрахабр](http://habr.ru/p/254529/)
 * [DevDocs: Offline API Documentation Browser](http://devdocs.io/) - DevDocs combines 64 reference documentations in a fast, organized, and searchable interface: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, etc.
