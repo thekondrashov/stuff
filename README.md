@@ -513,6 +513,10 @@ My(A) curated list of goodies.
 * [CSP Quick Reference Guide](http://content-security-policy.com/) - CSP Reference & Examples.
 * [Default Browser Content Security Policy](https://redbooth.com/engineering/security/default-content-security-policy) - to reject suspicious accesses to local networks and trust other urls.
 * [MDN: CSP policy directives](https://developer.mozilla.org/en-US/docs/Web/Security/CSP/CSP_policy_directives) - are several policy areas that web site administrators can define using CSP.
+* [Content Security Policy Builder](https://cspbuilder.info) - Collect CSP alerts, review and approve legitimate content sources. Get a fully functional Content Security Policy for your website in just a few minutes.
+* [report-uri.io by Scott Helme](https://report-uri.io) - Violation reporting for CSP and HPKP policies.
+
+
 
 
 ## Leaked account checkers
