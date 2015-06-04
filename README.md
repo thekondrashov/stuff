@@ -692,6 +692,7 @@ My(A) curated list of goodies.
 ## WPO test tools
 
 * [DareBoost - Website Performance and Quality Test Tool](https://dareboost.com) - DareBoost is an online tool to test, analyze and monitor your website: speed, SEO, quality, security. All you need for website optimization in a single service.
+* [SPDYCheck: Testing Websites for SPDY Support](https://spdycheck.org) - Check if a website properly supports the SPDY protocol, the super fast HTTP replacement, and troubleshoot any problems with the configuration.
 
 
 
