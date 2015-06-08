@@ -270,6 +270,11 @@ My(A) curated list of goodies.
 
 ## Bootstrap
 
+### Bootstrap snippets
+
+* [Bootsnipp.com](http://bootsnipp.com) - Bootsnipp is an element gallery for web designers and web developers, anybody who is using Bootstrap will find this website essential in their craft.
+* [Amazing Bootstrap snippets in one place | snipplicious](http://snipplicious.com) - Snipplicious is a gallery of FREE Twitter Bootstrap snippets for web designers and web developers. Snippets can be easily copied and pasted and will work just out of the box!
+
 ### Bootstrap themes & templates
 
 * [BootstrapBay - Bootstrap Themes & Templates](http://bootstrapbay.com/) - Buy & sell premium Bootstrap themes & templates in the BootstrapBay marketplace. Find a high quality theme for your next web project today!
