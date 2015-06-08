@@ -738,6 +738,11 @@ My(A) curated list of goodies.
 
 * [Cockos Incorporated | LICEcap](http://cockos.com/licecap/) - simple animated screen captures. [Анимированные GIF для новых пользователей](http://habr.ru/p/254331/)
 
+### SVG-editors (online)
+
+* [Mondrian](http://mondrian.io) - Easy to use vector graphics program that works in your browser. No installation required. Try it for free.
+
+
 ### SVG-editors (offline)
 
 * [Inkscape](https://inkscape.org/) - Inkscape - это профессиональный векторный графический редактор для Windows, Mac OS X и Linux. Он бесплатен и имеет открытый исходный код..
