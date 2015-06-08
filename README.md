@@ -298,6 +298,7 @@ My(A) curated list of goodies.
 ### Bootstrap Misc
 
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.
+* [50 Must-have plugins for extending Twitter Bootstrap | Tutorialzine](http://tutorialzine.com/2013/07/50-must-have-plugins-for-extending-twitter-bootstrap/) - In this article, you will find a collection of 50 must-have plugins you should know about for effective development with Twitter Bootstrap.
 
 ## CSS Animation
 
