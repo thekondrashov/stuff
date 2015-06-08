@@ -495,7 +495,7 @@ My(A) curated list of goodies.
 
 ## Online QR Code Generators
 
-* [QR Code Generator](https://www.the-qrcode-generator.com/) - Free Online QR Code Generator to make your own QR Codes.
+* [QR Code Generator](https://www.the-qrcode-generator.com) - Free Online QR Code Generator to make your own QR Codes.
 
 
 
@@ -503,14 +503,16 @@ My(A) curated list of goodies.
 
 ## Anti-spam services
 
-* [Comment spam prevention for your blog - Akismet](https://akismet.com/) - Akismet is an advanced hosted anti-spam service aimed at thwarting the underbelly of the web. It efficiently processes and analyzes masses of data from millions of sites and communities in real time.
+* [Comment spam prevention for your blog - Akismet](https://akismet.com) - Akismet is an advanced hosted anti-spam service aimed at thwarting the underbelly of the web. It efficiently processes and analyzes masses of data from millions of sites and communities in real time.
 
 
 ## Bounty programes
 
-* [Bounty programes](http://bugbounty.info/) - This is a simple site intended to keep track of the bug bounty programmes.
+* [Bounty programes](http://bugbounty.info) - This is a simple site intended to keep track of the bug bounty programmes.
 * [Bugcrowd | List Of Bug Bounty Programs](https://bugcrowd.com/list-of-bug-bounty-programs) - A comprehensive, up to date list of bug bounty and disclosure programs from across the web curated by the Bugcrowd researcher community.
-* [Security Response & Bug Bounty Platform - HackerOne](https://hackerone.com/) - HackerOne is a platform for an improved security coordination process. Security teams use HackerOne to implement their responsible disclosure policy and host bug bounty programs.
+* [Security Response & Bug Bounty Platform - HackerOne](https://hackerone.com) - HackerOne is a platform for an improved security coordination process. Security teams use HackerOne to implement their responsible disclosure policy and host bug bounty programs.
+* [Bug Bounty Programs & Security Assessment | Crowdcurity](https://www.crowdcurity.com) - Crowdcurity's bug bounty platform connects your business with our global security researchers. Start your bug bounty program with us now.
+* [Synack](https://www.synack.com) - Synack provides a subscription Security-as-a-Service solution that brings the best and brightest minds of the security world into the reach of enterprises.
 
 ## Cryptography
 
@@ -521,7 +523,7 @@ My(A) curated list of goodies.
 
 ### Content Security Policy
 
-* [CSP Quick Reference Guide](http://content-security-policy.com/) - CSP Reference & Examples.
+* [CSP Quick Reference Guide](http://content-security-policy.com) - CSP Reference & Examples.
 * [Default Browser Content Security Policy](https://redbooth.com/engineering/security/default-content-security-policy) - to reject suspicious accesses to local networks and trust other urls.
 * [MDN: CSP policy directives](https://developer.mozilla.org/en-US/docs/Web/Security/CSP/CSP_policy_directives) - are several policy areas that web site administrators can define using CSP.
 * [Content Security Policy Builder](https://cspbuilder.info) - Collect CSP alerts, review and approve legitimate content sources. Get a fully functional Content Security Policy for your website in just a few minutes.
