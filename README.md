@@ -810,6 +810,7 @@ My(A) curated list of goodies.
 * [HTML5 Doctor, helping you implement HTML5 today](http://html5doctor.com)
 * [How to Scale SVG | CSS-Tricks](https://css-tricks.com/scale-svg/) - The following is a guest post by Amelia Bellamy-Royds. Amelia has lots of experience with SVG, as the co-author of SVG Essentials and author of the upcomin.
 * [Making SVGs Responsive](http://tympanus.net/Tutorials/ResponsiveSVGs/) - Codrops.
+* [A Compendium of SVG Information | CSS-Tricks](https://css-tricks.com/mega-list-svg-information/) - A huge pile of information about SVG. How to Use SVG These are overview articles covering lots of stuff relating to SVG. Why to use it and the basics of how to use it.
 
 
 
