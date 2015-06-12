@@ -332,6 +332,7 @@ My(A) curated list of goodies.
 * [CSS Stats](http://cssstats.com) - Visualize heuristic stats from your css. [GitHub](https://github.com/cssstats/cssstats)
 * [CSS Formatter and Beautifier](http://www.cleancss.com/css-beautify/) - Format your CSS to clean it up and beautify it. Make your CSS easier to read and validate it.
 * [Про CSS](http://css.yoksel.ru) - Статьи про Css.
+* [CSS inliner | Campaign Monitor](http://inliner.cm) - Writing inline CSS can be a pain, so we built a tool that'll do the hard work for you.
 
 
 
