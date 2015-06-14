@@ -289,6 +289,7 @@ My(A) curated list of goodies.
 * [Off-canvas component - UIkit documentation](http://getuikit.com/docs/offcanvas.html)
 * [Responsive Off-Canvas Navigation - Skel documentation](http://getskel.com/docs/layers#examples-roffcanvasnav) - [Demo](http://getskel.com/demos/responsive-offcanvasnav.html).
 * [Slideout.js](https://mango.github.io/slideout/) - Slideout.js is a touch slideout navigation menu for your mobile web apps. [GitHub](https://github.com/mango/slideout)
+* [Trunk-js | A Responsive Web Solution](http://www.roblukedesign.com/trunk/trunk.html) - A responsive web design to hide top navigation into a navigation drawer on Tablets and Mobile Phones.
 
 ### Guide to Bootstrap
 
