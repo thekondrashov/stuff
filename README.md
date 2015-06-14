@@ -67,7 +67,7 @@ My(A) curated list of goodies.
 * [Bootstrap](#bootstrap)
 * [CSS Animation](#css-animation)
 * [CSS Hacks](#css-hacks)
-* [CSS Selectors](#css-selectors)
+* [CSS References](#css-references)
 * [CSS Misc](#css-misc)
 
 ## Donations
@@ -318,7 +318,7 @@ My(A) curated list of goodies.
 * [Big list of CSS hacks](http://mynthon.net/howto/-/webdev/CSS-big-list-of-css-hacks.txt) - CSS hacks for Chrome, Chromium, Opera, Safari, Firefox, Internet Explorer.
 * [IECC](http://edskes.com/ie/ieconditional.htm) - Test Page For Conditional Comments For IE.
 
-## CSS Selectors
+## CSS References
 
 * [30 CSS селекторов, которые вы должны запомнить](http://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048) - Russian (Pусский) translation by [Dmitriy Troy](http://tutsplus.com/authors/dmitriy-troy) (you can also [view the original English article](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)).
 * [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/) - CSS Selectors & CSS Properties.
