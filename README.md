@@ -689,6 +689,7 @@ My(A) curated list of goodies.
 * [StatusPage.io - Hosted Status Pages for Your Company](https://www.statuspage.io/) - StatusPage.io is the best way for web infrastructure, developer API, and SaaS companies to get set up with their very own status page in minutes. Integrate public metrics and allow your customers to subscribe to be updated automatically.
 * [StatusHub](https://statushub.io/) - Bulletproof, hosted status pages for your web application or service - register now for a free beta account.
 * [OffsiteStatus - Hosted System Status Page](http://www.offsitestatus.com/) - OffsiteStatus provides an off-site, hosted system status page for SaaS applications. Let customers know what is going on when your site is having issues.
+* [Runbook - DevOps, automated](https://runbook.io) - Solve problems in your sleep with IFTTT-style mitigation of alerts.
 
 
 
