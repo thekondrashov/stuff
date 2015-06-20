@@ -743,6 +743,7 @@ My(A) curated list of goodies.
 * [ImageOptim — better Save For Web](https://imageoptim.com) - ImageOptim is a free app that makes images take up less disk space and load faster, without sacrificing quality. It optimizes compression parameters, removes junk metadata and unnecessary color profiles.
 * [ImageAlpha](http://pngmini.com) - ImageAlpha greatly reduces file sizes of 24-bit PNG files (including alpha transparency) by applying lossy compression and conversion to a more efficient PNG8+alpha format.
 * [Compressor.io - optimize and compress your images and photos](https://compressor.io) - Optimize and compress your images online. Compressor is a lossy and lossless photo compression tool.
+* [JPEGmini](http://www.jpegmini.com) - Optimization tool which significantly reduces the size of photographs without affecting their perceptual quality. JPEGmini is capable of reducing the file size of standard JPEG photos by up to 80% (5X).
 
 ### Online Picture Resizer
 
