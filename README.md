@@ -665,7 +665,7 @@ My(A) curated list of goodies.
 * [UnPhar: Unpack PHAR files online](http://unphar.com/) - Unpack phar archives online. Free. In just 2 minutes.
 * [Prince - Convert HTML to PDF with CSS](http://princexml.com) - Convert HTML documents to PDF. Beautiful printing with CSS. Support for JavaScript and SVG.
 * [Online Font Converter](http://onlinefontconverter.com) - converts fonts to/from: .dfont .eot .otf .pfb .pfm .suit .svg .ttf .pfa .bin .pt3 .ps .t42 .cff .afm .ttc, .pdf & .woff. [GitHub](https://github.com/jimmywarting/ofc)
-* [CR2, NEF, ARW, ORF, PEF, RAF, DNG to JPEG, PNG](https://raw.pics.io) - Online Raw Converter.
+* [CR2 (Canon), NEF (Nikon), ARW (Sony), ORF (Olympus), PEF (Pentax), RAF (Fujifilm) and DNG to JPEG, PNG](https://raw.pics.io) - Online Raw Converter.
 
 ## Favicon Generators
 
