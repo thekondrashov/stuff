@@ -248,6 +248,7 @@ My(A) curated list of goodies.
 * [What colour is it?](http://whatcolourisit.scn9a.org/) - the time....... now in colour.
 * [DinPattern - Free seamless patterns](http://www.dinpattern.com/) - DinPattern is a free seamless background pattern resource for designers, developers and artists.
 * [Snazzy Maps - Free Styles for Google Maps](https://snazzymaps.com) - Snazzy Maps is a repository of different color schemes for Google Maps aimed towards web designers and developers.
+* [Flat UI Colors](http://flatuicolors.com) - This small web app helps you to copy the colors from Flat UI. It's kind of responsive, so you can use it with a tiny browser like a widget.
 
 
 
