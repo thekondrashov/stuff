@@ -149,6 +149,7 @@ My(A) curated list of goodies.
 
 ## Testing
 
+* [A/B testing](#ab-testing)
 * [Continuous Integration](#continuous-integration)
 * [Website speed tests](#website-speed-tests)
 
@@ -620,6 +621,12 @@ My(A) curated list of goodies.
 
 
 # Testing
+
+
+## A/B testing
+
+* [Visual Website Optimizer](https://vwo.com) - The easiest A/B, Split and Multivariate testing tool. With VWO’s visual campaign builder, setting up a campaign (such as A/B testing, targeting, etc.) is child’s play.
+
 
 ## Continuous Integration
 
