@@ -279,9 +279,10 @@ My(A) curated list of goodies.
 
 ### Bootstrap themes & templates
 
-* [BootstrapBay - Bootstrap Themes & Templates](http://bootstrapbay.com/) - Buy & sell premium Bootstrap themes & templates in the BootstrapBay marketplace. Find a high quality theme for your next web project today!
+* [BootstrapBay - Bootstrap Themes & Templates](http://bootstrapbay.com) - Buy & sell premium Bootstrap themes & templates in the BootstrapBay marketplace. Find a high quality theme for your next web project today!
 * [40 лучших шаблонов, основанных на Bootstrap 3. Некоторые даже бесплатны.](http://webdesignledger.com/resources/premium-bootstrap-themes-templates)
 * [Free unique bootstrap themes, templates, and bootstrap snippets](http://www.designbootstrap.com) - Designbootstrap offers 100% Free and unique bootstrap themes, templates, and bootstrap snippets for beginners and experts alike.
+* [Flat UI by Designmodo](http://designmodo.com/flat/) - Contains a huge number of basic components, icons and glyphs, which simplify your work when it comes to new projects. Responsive Layout. Based on Bootstrap. [GitHub](https://github.com/designmodo/Flat-UI)
 
 ### Offcanvas navigation menu
 
