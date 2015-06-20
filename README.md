@@ -393,6 +393,7 @@ My(A) curated list of goodies.
 * [Transformicons](http://www.transformicons.com) - Animated icons, symbols and buttons using SVG and CSS. [GitHub](https://github.com/grayghostvisuals/transformicons)
 * [icono | Pure CSS icons](https://git.io/icono) - icono is an icon pack that needs no external resources. Every tag can be an icon made with pure CSS. [GitHub](https://github.com/saeedalipoor/icono)
 * [Batch - 300+ Icons for Web & User Interface Design](http://adamwhitcroft.com/batch/) - Each icon in the Batch PSD is a single shape layer, meaning they can be scaled up—or down—without loss of quality.
+* [100 Free iOS Vector Icons. SKETCH, AI, PNG, SVG files](http://www.streamlineicons.com/free-icons.html) - The Ultimate Icon Collection for Web & Mobile Design.
 
 ## Icon font generators
 
