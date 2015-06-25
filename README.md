@@ -876,9 +876,9 @@ My(A) curated list of goodies.
 * [Бесплатный хостинг JH5.Studio](http://jh5.ru/osp.html) - JH5.Studio предлагаем интересным проектам бессрочный, бесплатный хостинг. Внимание количество заявок ограничено! [ВКонтакте](https://vk.com/wall-3183750_48714)
 * [Divshot - Static Web Hosting for Developers and Designers](https://divshot.com) - One platform for static web hosting and Bootstrap Builder for single page apps. CDN, SSL, and pushState support with amazing developer and CLI tools.
 * [Free Web Hosting with PHP, MySQL and cPanel, No Ads](http://www.000webhost.com) - 000webhost.com ($0.00 webhost), is an industry leader in providing top class free web hosting services without advertising! There are no hidden costs, no adverts, and no restrictive terms.
-* [Поиск виртуальных серверов - VDS.menu](http://vds.menu)
 
 ## Платный хостинг
 
 * [Хостинг от Timeweb](http://timeweb.com/ru/) - Ваш платный, но доступный и мощный веб хостинг сайтов.
 * [Платный хостинг сайтов от RadiusHost](http://www.radiushost.ru/ru/services/hosting/)
+* [Поиск виртуальных серверов - VDS.menu](http://vds.menu)
