@@ -344,6 +344,7 @@ My(A) curated list of goodies.
 * [CSS Formatter and Beautifier](http://www.cleancss.com/css-beautify/) - Format your CSS to clean it up and beautify it. Make your CSS easier to read and validate it.
 * [Про CSS](http://css.yoksel.ru) - Статьи про Css.
 * [CSS inliner | Campaign Monitor](http://inliner.cm) - Writing inline CSS can be a pain, so we built a tool that'll do the hard work for you.
+* [StyleStats - An evaluating tool for writing better CSS](http://www.stylestats.org) - Копируете ссылку на сайт и алгоритм дает исчерпывающую статистику о CSS-файле. [GitHub](https://github.com/t32k/stylestats)
 
 
 
