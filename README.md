@@ -561,6 +561,7 @@ My(A) curated list of goodies.
 
 ## Password Strength Meters
 
+* [zxcvbn: realistic password strength estimation](http://tech.dropbox.com/?p=165) - zxcvbn, named after a crappy password, is a JavaScript password strength estimation library. Use it to implement a custom strength bar on a signup form near you! [Demo](https://dl.dropbox.com/u/209/zxcvbn/test/index.html). [GitHub](https://github.com/dropbox/zxcvbn)
 * [YAPSM - GitHub](https://github.com/trimentor/YAPSM) - YAPSM (Yet Another Password Strength Meter) is a jQuery plugin. Take no risk and help your users to choose good passwords!
 
 
