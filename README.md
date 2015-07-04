@@ -596,6 +596,7 @@ My(A) curated list of goodies.
 ## Security Misc
 
 * [Как сделать JSON Vulnerability Protection в ответе сервера под Yii2](http://habr.ru/p/256213) - Хабрахабр.
+* [Awesome AppSec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security. Contains books, websites, blog posts, and self-assessment quizzes.
 
 
 
