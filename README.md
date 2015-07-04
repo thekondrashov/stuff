@@ -790,7 +790,7 @@ My(A) curated list of goodies.
 
 ## Emoji
 
-* [Emoji Unicode Tables](http://apps.timwhitlock.info/emoji/tables/unicode) - Emoji code points and example glyphs using web fonts, sprites and native OS representation of Emoji characters.
+* [Emoji Unicode Tables](http://apps.timwhitlock.info/emoji/tables/unicode) - Emoji codse points and example glyphs using web fonts, sprites and native OS representation of Emoji characters.
 
 ## HTTP Status Codes
 
@@ -840,6 +840,7 @@ My(A) curated list of goodies.
 * [How to Scale SVG | CSS-Tricks](https://css-tricks.com/scale-svg/) - The following is a guest post by Amelia Bellamy-Royds. Amelia has lots of experience with SVG, as the co-author of SVG Essentials and author of the upcomin.
 * [Making SVGs Responsive](http://tympanus.net/Tutorials/ResponsiveSVGs/) - Codrops.
 * [A Compendium of SVG Information | CSS-Tricks](https://css-tricks.com/mega-list-svg-information/) - A huge pile of information about SVG. How to Use SVG These are overview articles covering lots of stuff relating to SVG. Why to use it and the basics of how to use it.
+* [SVG PORN](https://github.com/gilbarbara/logos) - A collection of svg logos for developers.
 
 
 
