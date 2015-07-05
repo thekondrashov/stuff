@@ -91,6 +91,7 @@ My(A) curated list of goodies.
 ## GIT
 
 * [Code hostings](#code-hostings)
+* [GIT Misc](#git-misc)
 
 
 ## JavaScript
@@ -308,6 +309,7 @@ My(A) curated list of goodies.
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.
 * [50 Must-have plugins for extending Twitter Bootstrap | Tutorialzine](http://tutorialzine.com/2013/07/50-must-have-plugins-for-extending-twitter-bootstrap/) - In this article, you will find a collection of 50 must-have plugins you should know about for effective development with Twitter Bootstrap.
 * [50 Extensions and Plugins for Extending Bootstrap](http://speckyboy.com/2014/06/16/plugins-for-extending-bootstrap/) - Bootstrap may at times not be enough for your project. To help you get more out of it, we have collected 50 plugins for extending Bootstrap.
+* [Библиотека программиста - 25 лучших плагинов для расширения Bootstrap 3](https://vk.com/wall-54530371_3903)
 
 ## CSS Animation
 
@@ -418,6 +420,10 @@ My(A) curated list of goodies.
 
 * [GitLab](https://gitlab.com/) - Create, review and deploy code together. Better than GitHub.
 * [Comparison of source code hosting facilities](https://en.wikipedia.org/wiki/Comparison_of_source_code_hosting_facilities) - Wikipedia, the free encyclopedia.
+
+## GIT Misc
+
+* [Библиотека программиста - Подборка материалов по Git и Github](https://vk.com/wall-54530371_34613)
 
 
 
