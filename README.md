@@ -318,6 +318,7 @@ My(A) curated list of goodies.
 * [Animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations. As easy to use as an easy thing. [GitHub](https://github.com/daneden/animate.css)
 * [iconate.js](https://bitshadow.github.io/iconate) - is a tiny performant library for cross-browser icon transformation animations in your projects. [GitHub](https://github.com/bitshadow/iconate)
 * [CSS3 анимации для начинающих](http://devdocs.ru/verstka/css3-animations-for-beginners/)
+* [Magic Animations CSS3](http://minimamente.com/example/magic_animations/) - CSS3 Animations with special effects. [GitHub](https://github.com/miniMAC/magic)
 
 
 ## CSS Hacks
