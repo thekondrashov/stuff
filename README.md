@@ -344,6 +344,7 @@ My(A) curated list of goodies.
 * [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/) - CSS Selectors & CSS Properties.
 * [CSS Reference | Codrops](http://tympanus.net/codrops/css_reference/) - An extensive CSS reference with all the important CSS properties and info to learn CSS from the basics.
 * [10 CSS Hacks and Tips You May Not Know - Inspirational Pixels](http://inspirationalpixels.com/articles/10-css-hacks-and-tips) - 10 of most helpful and intriguing CSS hacks and tips I've been able to find anywhere online.
+* [CSS4-Selectors](http://css4-selectors.com) - CSS4-Selectors provide information about the upcoming Cascading Style Sheets on Level 4 draft - short CSS4.
 * [20 лучших сайтов со справочниками по CSS](http://www.cssauthor.com/css-reference/)
 
 
