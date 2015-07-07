@@ -19,6 +19,7 @@ My(A) curated list of goodies.
 - [Localization](#localization)
 - [PHP](#php)
 - [Regular expressions](#regular-expressions)
+- [Russian spelling](#russian-spelling)
 - [QR Codes](#qr-codes)
 - [Security](#security)
 - [SEO](#seo)
@@ -117,6 +118,10 @@ My(A) curated list of goodies.
 
 * [Online regex testers](#online-regex-testers)
 
+
+## Russian spelling
+
+* [Spelling test (online)](#spelling-test-online)
 
 ## QR Codes
 
@@ -511,6 +516,13 @@ My(A) curated list of goodies.
 ## Online regex testers
 
 * [Debuggex: Online visual regex tester](https://www.debuggex.com) - Test your regex by visualizing it with a live editor. JavaScript, Python, and PCRE.
+
+
+# Russian spelling
+
+## Spelling test (online)
+
+* [Главред](http://glvrd.ru) - Помогает очистить текст от словесного мусора, проверяет на соответствие информационному стилю.
 
 
 
