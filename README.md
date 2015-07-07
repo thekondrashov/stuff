@@ -356,6 +356,7 @@ My(A) curated list of goodies.
 * [Про CSS](http://css.yoksel.ru) - Статьи про Css.
 * [CSS inliner | Campaign Monitor](http://inliner.cm) - Writing inline CSS can be a pain, so we built a tool that'll do the hard work for you.
 * [StyleStats - An evaluating tool for writing better CSS](http://www.stylestats.org) - Копируете ссылку на сайт и алгоритм дает исчерпывающую статистику о CSS-файле. [GitHub](https://github.com/t32k/stylestats)
+* [CSS Guidelines](http://cssguidelin.es) - High-level advice and guidelines for writing sane, manageable, scalable CSS. On Russian: Cборник дельных советов, рекомендаций и лучших практик по написанию качественного, управляемого и масштабируемого CSS.
 
 
 
@@ -368,6 +369,7 @@ My(A) curated list of goodies.
 ## Donation Management
 
 * [Flattr - Social microdonations](https://flattr.com) - Flattr is a social microdonation system. With it you can easily share money to support things you like, and get support from your fans.
+* [Gumroad](https://gumroad.com) - Sell music, comics, software, books, and films directly to your audience.
 
 # Email
 
