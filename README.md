@@ -26,6 +26,7 @@ My(A) curated list of goodies.
 - [Social](#social)
 - [Testing](#testing)
 - [Text editors](#text-editors)
+- [Textures, patterns, backgrounds](#textures-patterns-backgrounds)
 - [Utils](#utils)
 - [Web performance optimization](#web-performance-optimization)
 - [Справочники](#Справочники)
@@ -164,7 +165,9 @@ My(A) curated list of goodies.
 * [Sublime Text](#sublime-text)
 * [WebStorm](#webStorm)
 
+## Textures, patterns, backgrounds
 
+* [Texture resources](#texture-resources)
 
 ## Utils
 
@@ -254,7 +257,6 @@ My(A) curated list of goodies.
 * [GitHub language colour codes](https://github.com/librariesio/favicon/blob/master/lib/colours.json)
 * [GitHub color codes for programming languages](https://github.com/doda/github-language-colors) - A mapping of which colors github uses to represent different programming languages in their "Languages" tab on each repository.
 * [What colour is it?](http://whatcolourisit.scn9a.org/) - the time....... now in colour.
-* [DinPattern - Free seamless patterns](http://www.dinpattern.com/) - DinPattern is a free seamless background pattern resource for designers, developers and artists.
 * [Snazzy Maps - Free Styles for Google Maps](https://snazzymaps.com) - Snazzy Maps is a repository of different color schemes for Google Maps aimed towards web designers and developers.
 * [GradifyCSS — модуль, который находит основные цвета в изображениях и создает масштабируемый CSS градиент](http://gradifycss.com/). [GitHub](https://github.com/fraser-hemp/gradify)
 
@@ -690,48 +692,55 @@ My(A) curated list of goodies.
 
 
 
+# Textures, patterns, backgrounds
+
+## Texture resources
+
+* [Subtle Patterns](http://subtlepatterns.com) - Free textures for your next web project.
+* [DinPattern - Free seamless patterns](http://www.dinpattern.com) - DinPattern is a free seamless background pattern resource for designers, developers and artists.
+
 # Utils
 
 ## Convert anything to anything
 
-* [HEX to RGB Converter](http://hex.colorrrs.com/) - A simple tool for converting HEX values to RGB and vice versa.
-* [UnPhar: Unpack PHAR files online](http://unphar.com/) - Unpack phar archives online. Free. In just 2 minutes.
+* [HEX to RGB Converter](http://hex.colorrrs.com) - A simple tool for converting HEX values to RGB and vice versa.
+* [UnPhar: Unpack PHAR files online](http://unphar.com) - Unpack phar archives online. Free. In just 2 minutes.
 * [Prince - Convert HTML to PDF with CSS](http://princexml.com) - Convert HTML documents to PDF. Beautiful printing with CSS. Support for JavaScript and SVG.
 * [Online Font Converter](http://onlinefontconverter.com) - converts fonts to/from: .dfont .eot .otf .pfb .pfm .suit .svg .ttf .pfa .bin .pt3 .ps .t42 .cff .afm .ttc, .pdf & .woff. [GitHub](https://github.com/jimmywarting/ofc)
 * [CR2 (Canon), NEF (Nikon), ARW (Sony), ORF (Olympus), PEF (Pentax), RAF (Fujifilm) and DNG to JPEG, PNG](https://raw.pics.io) - Online Raw Converter.
 
 ## Favicon Generators
 
-* [Epic Favicon Generator by BCCO](https://epicfavicongenerator.com/) - The Epic Favicon Generator offers 20+ favicon sizes, is mobile friendly, and free!
+* [Epic Favicon Generator by BCCO](https://epicfavicongenerator.com) - The Epic Favicon Generator offers 20+ favicon sizes, is mobile friendly, and free!
 
 ## Placeholder images
 
 * [lorempixel](http://lorempixel.com) - Placeholder Images for every case. Webdesign or Print. Just put a custom url in your html and you receive a proper placeholder picture.
-* [placemi | the ultimate placeholder generator](http://placemi.com/) - placemi generates beautiful image placeholders. you can even upload your own too.
+* [placemi | the ultimate placeholder generator](http://placemi.com) - placemi generates beautiful image placeholders. you can even upload your own too.
 
 
 ## Push-notifications
 
-* [Pusher](https://pusher.com/) - Pusher is a hosted API for quickly, easily and securely adding scalable realtime functionality to web and mobile apps.
-* [Post Hawk](http://post-hawk.com/) - это сервис, предоставляющий простое и понятное API, для организации связи между приложенияими в реальном времени. Это могут быть, например, два браузера (чат между пользователями) или сервер и браузер (push-уведомления) или иная программа, имеющая возможность работы по протоколу Web Sockets. [Bitbucket](https://bitbucket.org/Slavenin/hawk_api)
+* [Pusher](https://pusher.com) - Pusher is a hosted API for quickly, easily and securely adding scalable realtime functionality to web and mobile apps.
+* [Post Hawk](http://post-hawk.com) - это сервис, предоставляющий простое и понятное API, для организации связи между приложенияими в реальном времени. Это могут быть, например, два браузера (чат между пользователями) или сервер и браузер (push-уведомления) или иная программа, имеющая возможность работы по протоколу Web Sockets. [Bitbucket](https://bitbucket.org/Slavenin/hawk_api)
 
 ## Status Pages
 
-* [Cachet HQ](https://cachethq.io/) - Cachet the open source status page. Beautiful & simple status updates. [GitHub](https://github.com/cachethq/Cachet)
-* [Stashboard](http://www.stashboard.org/) - The open source status page for cloud services and APIs. [GitHub](https://github.com/twilio/stashboard)
+* [Cachet HQ](https://cachethq.io) - Cachet the open source status page. Beautiful & simple status updates. [GitHub](https://github.com/cachethq/Cachet)
+* [Stashboard](http://www.stashboard.org) - The open source status page for cloud services and APIs. [GitHub](https://github.com/twilio/stashboard)
 * [StatusDashboard | Downtime happens...be prepared](https://www.statusdashboard.com/) - Setup a hosted status dashboard for your mission critical services in minutes with our intuitive and cost effective platform.
-* [Status.io - Hosted System Status Pages](https://www.status.io/) - Status.io makes it simple to create a beautiful status page for your network, app, web service, SaaS or developer API. Integrate your existing monitoring tools to automate your system status page. Show off response time, uptime, Apdex and more metrics. Update subscribers with status notifications and planned maintenance events.
-* [StatusPage.io - Hosted Status Pages for Your Company](https://www.statuspage.io/) - StatusPage.io is the best way for web infrastructure, developer API, and SaaS companies to get set up with their very own status page in minutes. Integrate public metrics and allow your customers to subscribe to be updated automatically.
-* [StatusHub](https://statushub.io/) - Bulletproof, hosted status pages for your web application or service - register now for a free beta account.
-* [OffsiteStatus - Hosted System Status Page](http://www.offsitestatus.com/) - OffsiteStatus provides an off-site, hosted system status page for SaaS applications. Let customers know what is going on when your site is having issues.
+* [Status.io - Hosted System Status Pages](https://www.status.io) - Status.io makes it simple to create a beautiful status page for your network, app, web service, SaaS or developer API. Integrate your existing monitoring tools to automate your system status page. Show off response time, uptime, Apdex and more metrics. Update subscribers with status notifications and planned maintenance events.
+* [StatusPage.io - Hosted Status Pages for Your Company](https://www.statuspage.io) - StatusPage.io is the best way for web infrastructure, developer API, and SaaS companies to get set up with their very own status page in minutes. Integrate public metrics and allow your customers to subscribe to be updated automatically.
+* [StatusHub](https://statushub.io) - Bulletproof, hosted status pages for your web application or service - register now for a free beta account.
+* [OffsiteStatus - Hosted System Status Page](http://www.offsitestatus.com) - OffsiteStatus provides an off-site, hosted system status page for SaaS applications. Let customers know what is going on when your site is having issues.
 * [Runbook - DevOps, automated](https://runbook.io) - Solve problems in your sleep with IFTTT-style mitigation of alerts.
 
 
 
 ## URL Shorteners
 
-* [Google URL Shortener](https://goo.gl/)
-* [GitIO](https://git.io/)
+* [Google URL Shortener](https://goo.gl)
+* [GitIO](https://git.io)
 
 
 
