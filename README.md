@@ -110,6 +110,7 @@ My(A) curated list of goodies.
 ## Localization
 
 * [Localization Management Platforms](#localization-management-platforms)
+* [Localization Misc](#localization-misc)
 
 ## PHP
 
@@ -486,22 +487,26 @@ My(A) curated list of goodies.
 
 ## HTML, CSS & JavaScript
 
-* [Learn to Code HTML & CSS](http://learn.shayhowe.com/) - Beginner & Advanced lessons.
+* [Learn to Code HTML & CSS](http://learn.shayhowe.com) - Beginner & Advanced lessons.
 
 
 # Localization
 
 ## Localization Management Platforms
 
-* [Loco - Translation Management System](https://localise.biz/) - Free translation management and localisation software for developers building multi-language apps.
-* [Crowdin - Localization Management Platform](https://crowdin.com/) ([on Russian](https://ru.crowdin.com/)) - Crowdin is a free trial localization project management platfom and translation tool for developers and website owners. We make it easy to work with content being translated using our collaboration platform. [Example](https://crowdin.com/project/ublock).
+* [Loco - Translation Management System](https://localise.biz) - Free translation management and localisation software for developers building multi-language apps.
+* [Crowdin - Localization Management Platform](https://crowdin.com) ([on Russian](https://ru.crowdin.com)) - Crowdin is a free trial localization project management platfom and translation tool for developers and website owners. We make it easy to work with content being translated using our collaboration platform. [Example](https://crowdin.com/project/ublock).
 * [Google Translator Toolkit](http://translate.google.com/toolkit) - Google Translator Toolkit is a web application designed to allow translators to edit the translations that Google Translate automatically generates. With the Google Translator Toolkit, translators can organize their work and use shared translations, glossaries and translation memories. They can upload and translate Microsoft Word documents, OpenOffice.org, RTF, HTML, text, and Wikipedia articles (from [Wikipedia](https://en.wikipedia.org/wiki/Google_Translator_Toolkit)).
-* [Transifex | Localization Platform for Web Apps, Mobile Apps, Websites](https://www.transifex.com/) - Transifex makes it easy to collect, translate and deliver digital content, web and mobile apps in multiple languages. 30-day free trial.
-* [OneSky - Translation Services, Translation Management System and Collaborative Translation Solutions](https://oneskyapp.com/) - OneSky offers professional translation services, free translation management system & crowd-sourcing solutions that enable companies to expand internationally.
-* [Lokalise - Локализуйте ваше приложение в команде](https://lokali.se/) ([on Russian](https://lokali.se/ru)) - Lokalise предлагает систему управления переводами и услуги профессиональных переводов, которые позволяют компаниям выйти на международный рынок.
-* [Online software translation and project management · WebTranslateIt](https://webtranslateit.com/) - WebTranslateIt is a translation project management and collaborative translation platform for software and dynamic content translation. 30-days free trial.
+* [Transifex | Localization Platform for Web Apps, Mobile Apps, Websites](https://www.transifex.com) - Transifex makes it easy to collect, translate and deliver digital content, web and mobile apps in multiple languages. 30-day free trial.
+* [OneSky - Translation Services, Translation Management System and Collaborative Translation Solutions](https://oneskyapp.com) - OneSky offers professional translation services, free translation management system & crowd-sourcing solutions that enable companies to expand internationally.
+* [Lokalise - Локализуйте ваше приложение в команде](https://lokali.se) ([on Russian](https://lokali.se/ru)) - Lokalise предлагает систему управления переводами и услуги профессиональных переводов, которые позволяют компаниям выйти на международный рынок.
+* [Online software translation and project management · WebTranslateIt](https://webtranslateit.com) - WebTranslateIt is a translation project management and collaborative translation platform for software and dynamic content translation. 30-days free trial.
+* [BabelZilla](http://babelzilla.org) - BabelZilla is a community for developers and translators of extension for Mozilla Applications.
 
-* [Duolingo](https://www.duolingo.com/) - Learn languages completely free, without ads or hidden charges. It's fun, easy, and scientifically proven.
+
+## Localization Misc
+
+* [Duolingo](https://www.duolingo.com) - Learn languages completely free, without ads or hidden charges. It's fun, easy, and scientifically proven.
 
 
 # PHP
