@@ -750,6 +750,7 @@ My(A) curated list of goodies.
 
 * [Google URL Shortener](https://goo.gl)
 * [GitIO](https://git.io)
+* [TinyURL.com](http://tinyurl.com) (only HTTP)
 
 
 
