@@ -751,6 +751,7 @@ My(A) curated list of goodies.
 * [Google URL Shortener](https://goo.gl)
 * [GitIO](https://git.io)
 * [TinyURL.com](http://tinyurl.com) (only HTTP)
+* [Url Shorteners: Destroying the Web Since 2002](http://blog.codinghorror.com/url-shorteners-destroying-the-web-since-2002/)
 
 
 
