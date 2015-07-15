@@ -881,6 +881,7 @@ My(A) curated list of goodies.
 * [Making SVGs Responsive](http://tympanus.net/Tutorials/ResponsiveSVGs/) - Codrops.
 * [A Compendium of SVG Information | CSS-Tricks](https://css-tricks.com/mega-list-svg-information/) - A huge pile of information about SVG. How to Use SVG These are overview articles covering lots of stuff relating to SVG. Why to use it and the basics of how to use it.
 * [SVG PORN](https://github.com/gilbarbara/logos) - A collection of svg logos for developers.
+* [Shields.io: Quality metadata badges for open source projects](http://shields.io) - We serve fast and scalable informational images as badges for GitHub, Travis CI, Jenkins, WordPress and many more services. Use them to track the state of your projects, or for promotional purposes. [GitHub](https://github.com/badges/shields)
 
 
 
