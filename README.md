@@ -726,6 +726,8 @@ My(A) curated list of goodies.
 
 * [lorempixel](http://lorempixel.com) - Placeholder Images for every case. Webdesign or Print. Just put a custom url in your html and you receive a proper placeholder picture.
 * [placemi | the ultimate placeholder generator](http://placemi.com) - placemi generates beautiful image placeholders. you can even upload your own too.
+* [{placekitten}](http://placekitten.com) - Kitten-themed placeholder images for developers :3.
+* [Placehold.it](https://placehold.it) - Quick and simple image placeholders.
 
 
 ## Push-notifications
