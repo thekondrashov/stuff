@@ -598,22 +598,24 @@ My(A) curated list of goodies.
 
 ## Personal privacy
 
-* [Check login status](http://status.phplernen.org/) - Check your login status at different internet services at once.
+* [Check login status](http://status.phplernen.org) - Check your login status at different internet services at once.
 
 ## SSL certificates
 
-* [TinyCert](https://www.tinycert.org/) - Generate and manage SSL certificates free.
-* [Let's Encrypt](https://letsencrypt.org/) - It’s free, automated, and open certificate authority.
-* [30-day free trial SSL certificate from RapidSSL](https://www.freessl.com/) - These SSL certificates are fully functional for 30 days, ideal for testing.
-* [Бесплатные SSL-сертификаты на 2 года от WoSign / Хабрахабр](http://habr.ru/p/252529/)
+* [SHAAAAAAAAAAAAA | Check your site for weak SHA-1 certificates](https://shaaaaaaaaaaaaa.com) - SHA-1 certificates are dangerously weak, and you probably have one. It's time to upgrade to SHA-2. Open source tool by @konklone. [GitHub](https://github.com/konklone/shaaaaaaaaaaaaa)
+* [TinyCert](https://www.tinycert.org) - Generate and manage SSL certificates free.
+* [Let's Encrypt](https://letsencrypt.org) - It’s free, automated, and open certificate authority.
+* [30-day free trial SSL certificate from RapidSSL](https://www.freessl.com) - These SSL certificates are fully functional for 30 days, ideal for testing.
+* [Бесплатные SSL-сертификаты на 2 года от WoSign / Хабрахабр](http://habr.ru/p/252529)
 * [Бесплатные SSL-сертификаты на 3 года с поддержкой до 100 доменов](https://blog.kai-zer.ru/besplatnyy-ssl-sertifikaty-na-3-goda-s-pod/)
-* [StartSSL™ Certificates](https://www.startssl.com/) - StartCom Free SSL Client, S/Mime, Server, Domain Controller, Smartcard Certificates.
+* [StartSSL™ Certificates](https://www.startssl.com) - StartCom Free SSL Client, S/Mime, Server, Domain Controller, Smartcard Certificates.
 * [Бесплатный валидный (подписанный) SSL-сертификат через StartSSL](http://valera.ws/2012.03.11~free-valid-signed-ssl-certificate-with-sratssl/) - Персональный блог Валерия Леонтьева.
 * [Устанавливаем бесплатный SSL–сертификат StartSSL на облачный VPS от Infobox](http://habr.ru/p/256283) -  Блог компании Infobox / Хабрахабр.
 
+
 ## Two Factor Auth
 
-* [Two Factor Auth List](https://twofactorauth.org/) - List of sites with Two Factor Auth support which includes SMS, email, phone calls, hardware, and software. [GitHub](https://github.com/jdavis/twofactorauth)
+* [Two Factor Auth List](https://twofactorauth.org) - List of sites with Two Factor Auth support which includes SMS, email, phone calls, hardware, and software. [GitHub](https://github.com/jdavis/twofactorauth)
 
 
 
