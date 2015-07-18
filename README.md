@@ -181,6 +181,7 @@ My(A) curated list of goodies.
 
 * [Convert anything to anything](#convert-anything-to-anything)
 * [Favicon Generators](#favicon-generators)
+* [Make HTTP requests](#make-http-requests)
 * [Placeholder images](#placeholder-images)
 * [Push-notifications](#push-notifications)
 * [Status Pages](#status-pages)
@@ -746,6 +747,12 @@ My(A) curated list of goodies.
 ## Favicon Generators
 
 * [Epic Favicon Generator by BCCO](https://epicfavicongenerator.com) - The Epic Favicon Generator offers 20+ favicon sizes, is mobile friendly, and free!
+
+## Make HTTP requests
+
+* [Hurl.it - Make HTTP requests](https://www.hurl.it) - Choose the request method, customize headers and POST parameters, add basic authorization or OAuth credentials, and even follow redirects. Then view the nicely formatted request and response. It's the perfect tool for testing APIs. Just enter a URL and click send. A [Runscope](https://www.runscope.com) community project. [Follow Hurl.it on Twitter](https://twitter.com/hurlit)
+* [HTTP Web-Sniffer](http://web-sniffer.net) - View request and response header of a HTTP connection, HTTP status codes and HTML source.
+
 
 ## Placeholder images
 
