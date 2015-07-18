@@ -824,7 +824,7 @@ My(A) curated list of goodies.
 
 ### Compress GIF
 
-* [Cockos Incorporated | LICEcap](http://cockos.com/licecap/) - simple animated screen captures. [Анимированные GIF для новых пользователей](http://habr.ru/p/254331/)
+* [Cockos Incorporated | LICEcap](http://cockos.com/licecap/) - simple animated screen captures. [Анимированные GIF для новых пользователей](http://habr.ru/p/254331)
 
 ### SVG-editors (online)
 
@@ -833,12 +833,12 @@ My(A) curated list of goodies.
 
 ### SVG-editors (offline)
 
-* [Inkscape](https://inkscape.org/) - Inkscape - это профессиональный векторный графический редактор для Windows, Mac OS X и Linux. Он бесплатен и имеет открытый исходный код..
+* [Inkscape](https://inkscape.org) - Inkscape - это профессиональный векторный графический редактор для Windows, Mac OS X и Linux. Он бесплатен и имеет открытый исходный код..
 
 
 ## JS minifiers
 
-* [A JavaScript Compressor Rater](http://compressorrater.thruhere.net/) - JavaScript Compressor and Comparison Tool.
+* [A JavaScript Compressor Rater](http://compressorrater.thruhere.net) - JavaScript Compressor and Comparison Tool.
 * [minify - Google Project Hosting](https://code.google.com/p/minify/) - Combines, minifies, and caches JavaScript and CSS files on demand to speed up page loads.
 
 
@@ -848,8 +848,9 @@ My(A) curated list of goodies.
 ## Cheat Sheets
 
 * [Cheat Sheets - Added Bytes](https://www.addedbytes.com/cheat-sheets/) - A selection of 31 awesome, printable quick references for a variety of languages and web technologies. These and more are also available at [Cheatography](http://www.cheatography.com).
-* [205 шпаргалок для разработчика](http://habr.ru/p/254585/) - Хабрахабр.
-* [Learn X in Y minutes](http://learnxinyminutes.com/) - Whirlwind tours of (several, hopefully many someday) popular and ought-to-be-more-popular programming languages, presented as valid, commented code and explained as they go. [GitHub](https://github.com/adambard/learnxinyminutes-docs)
+* [205 шпаргалок для разработчика](http://habr.ru/p/254585) - Хабрахабр.
+* [Learn X in Y minutes](http://learnxinyminutes.com) - Whirlwind tours of (several, hopefully many someday) popular and ought-to-be-more-popular programming languages, presented as valid, commented code and explained as they go. [GitHub](https://github.com/adambard/learnxinyminutes-docs)
+* [OverAPI.com | Collecting all the cheat sheets](http://overapi.com) - OverAPI.com is a site collecting all the cheatsheets,all!
 
 
 ## Emoji
