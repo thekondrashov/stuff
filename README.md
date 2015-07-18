@@ -10,6 +10,7 @@ My(A) curated list of goodies.
 - [Color](#color)
 - [CMS](#cms)
 - [CSS](#css)
+- [Digests](#digests)
 - [Donations](#donations)
 - [Email](#email)
 - [Icons](#icons)
@@ -73,6 +74,10 @@ My(A) curated list of goodies.
 * [CSS Preprocessors](#css-preprocessors)
 * [CSS References](#css-references)
 * [CSS Misc](#css-misc)
+
+## Digests
+
+* [Russian digests](#russian-digests)
 
 ## Donations
 
@@ -371,6 +376,13 @@ My(A) curated list of goodies.
 * [CSS inliner | Campaign Monitor](http://inliner.cm) - Writing inline CSS can be a pain, so we built a tool that'll do the hard work for you.
 * [StyleStats - An evaluating tool for writing better CSS](http://www.stylestats.org) - Копируете ссылку на сайт и алгоритм дает исчерпывающую статистику о CSS-файле. [GitHub](https://github.com/t32k/stylestats)
 * [CSS Guidelines](http://cssguidelin.es) - High-level advice and guidelines for writing sane, manageable, scalable CSS. On Russian: Cборник дельных советов, рекомендаций и лучших практик по написанию качественного, управляемого и масштабируемого CSS.
+
+
+# Digests
+
+## Russian digests
+
+* [DigHub — дайджест интересных материалов из мира Веб-разработки](http://dighub.ru) - DigHub — это коллективный дайджест интересных материалов из мира Веб-разработки за последнюю неделю.
 
 
 
