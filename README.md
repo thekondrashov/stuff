@@ -607,6 +607,7 @@ My(A) curated list of goodies.
 ## Online security scanners
 
 * [SecurityHeaders.io](https://securityheaders.io) - An easy way to asses the security based HTTP response headers of other sites.
+* [Logjam: How Diffie-Hellman Fails in Practice](https://weakdh.org) - The Logjam Attack weaknesses checker.
 
 ## Password Strength Meters
 
