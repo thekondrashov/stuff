@@ -70,6 +70,7 @@ My(A) curated list of goodies.
 * [Bootstrap](#bootstrap)
 * [CSS Animation](#css-animation)
 * [CSS Hacks](#css-hacks)
+* [CSS Preprocessors](#css-preprocessors)
 * [CSS References](#css-references)
 * [CSS Misc](#css-misc)
 
@@ -344,6 +345,11 @@ My(A) curated list of goodies.
 * [Big list of CSS hacks](http://mynthon.net/howto/-/webdev/CSS-big-list-of-css-hacks.txt) - CSS hacks for Chrome, Chromium, Opera, Safari, Firefox, Internet Explorer.
 * [IECC](http://edskes.com/ie/ieconditional.htm) - Test Page For Conditional Comments For IE.
 
+## CSS Preprocessors
+
+* [CSS PRE](http://csspre.com) - CSS Preprocessors - preprocessor comparisons and reference guide, play around with all code snippets, explore tools for conversion from/to CSS. [GitHub](https://github.com/futekov/csspre)
+
+
 ## CSS References
 
 * [30 CSS селекторов, которые вы должны запомнить](http://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048) - Russian (Pусский) translation by [Dmitriy Troy](http://tutsplus.com/authors/dmitriy-troy) (you can also [view the original English article](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)).
@@ -593,14 +599,14 @@ My(A) curated list of goodies.
 
 ## Leaked account checkers
 
-* [IsLeaked.com](https://isleaked.com/) - Is leaked? - check your account!
-* [Have I been pwned?](https://haveibeenpwned.com/) - Have I been pwned? allows you to search across multiple data breaches to see if your email addresses has been compromised.
+* [IsLeaked.com](https://isleaked.com) - Is leaked? - check your account!
+* [Have I been pwned?](https://haveibeenpwned.com) - Have I been pwned? allows you to search across multiple data breaches to see if your email addresses has been compromised.
 
 
 
 ## Online security scanners
 
-* [SecurityHeaders.io](https://securityheaders.io/) - An easy way to asses the security based HTTP response headers of other sites.
+* [SecurityHeaders.io](https://securityheaders.io) - An easy way to asses the security based HTTP response headers of other sites.
 
 ## Password Strength Meters
 
