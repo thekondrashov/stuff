@@ -19,6 +19,7 @@ My(A) curated list of goodies.
 - [Localization](#localization)
 - [PHP](#php)
 - [Regular expressions](#regular-expressions)
+- [RESTful API](#restful-api)
 - [Russian spelling](#russian-spelling)
 - [QR Codes](#qr-codes)
 - [Security](#security)
@@ -119,6 +120,11 @@ My(A) curated list of goodies.
 ## Regular expressions
 
 * [Online regex testers](#online-regex-testers)
+
+## RESTful API
+
+* [REST API Best practices](#rest-api-best-practices)
+
 
 
 ## Russian spelling
@@ -527,6 +533,13 @@ My(A) curated list of goodies.
 ## Online regex testers
 
 * [Debuggex: Online visual regex tester](https://www.debuggex.com) - Test your regex by visualizing it with a live editor. JavaScript, Python, and PCRE.
+
+
+# RESTful API
+
+## REST API Best practices
+
+* [REST API Best practices | saipraveenblog](https://saipraveenblog.wordpress.com/2014/09/29/rest-api-best-practices/) - Understanding best practices for designing RESTful API’s.
 
 
 # Russian spelling
