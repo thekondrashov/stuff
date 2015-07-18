@@ -376,6 +376,7 @@ My(A) curated list of goodies.
 * [CSS inliner | Campaign Monitor](http://inliner.cm) - Writing inline CSS can be a pain, so we built a tool that'll do the hard work for you.
 * [StyleStats - An evaluating tool for writing better CSS](http://www.stylestats.org) - Копируете ссылку на сайт и алгоритм дает исчерпывающую статистику о CSS-файле. [GitHub](https://github.com/t32k/stylestats)
 * [CSS Guidelines](http://cssguidelin.es) - High-level advice and guidelines for writing sane, manageable, scalable CSS. On Russian: Cборник дельных советов, рекомендаций и лучших практик по написанию качественного, управляемого и масштабируемого CSS.
+* [CSS escapes](https://mothereff.in/css-escapes) - Wondering how to escape any character in CSS? There’s a web app for that™. [GitHub](https://github.com/mathiasbynens/mothereff.in/tree/master/css-escapes)
 
 
 # Digests
