@@ -463,6 +463,7 @@ My(A) curated list of goodies.
 ## GIT Misc
 
 * [Библиотека программиста - Подборка материалов по Git и Github](https://vk.com/wall-54530371_34613)
+* [Libraries | GitHub API](https://developer.github.com/libraries) - Use the GitHub API in your favorite language. Use the official Octokit library, or choose between any of the available third party libraries.
 
 
 
