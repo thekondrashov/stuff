@@ -464,6 +464,8 @@ My(A) curated list of goodies.
 
 * [Библиотека программиста - Подборка материалов по Git и Github](https://vk.com/wall-54530371_34613)
 * [Libraries | GitHub API](https://developer.github.com/libraries) - Use the GitHub API in your favorite language. Use the official Octokit library, or choose between any of the available third party libraries.
+* [GitHub Archive](https://www.githubarchive.org) - GitHub Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis. [GitHub](https://github.com/igrigorik/githubarchive.org)
+* [GitHub Awards : Discover your ranking on GitHub](http://github-awards.com) - Find out what is your rank by language, in your city and in your country. [GitHub](https://github.com/vdaubry/github-awards)
 
 
 
