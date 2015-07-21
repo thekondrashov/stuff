@@ -914,7 +914,7 @@ My(A) curated list of goodies.
 
 ## Misc
 
-* [RFC](http://rfc2.ru/) - Наиболее полная в Рунете коллекция документов RFC, переведённых на русский язык.
+* [RFC](http://rfc2.ru) - Наиболее полная в Рунете коллекция документов RFC, переведённых на русский язык.
 * [IANA Database of Top Level Domains](http://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 * [What should every programmer know about security?](http://stackoverflow.com/questions/2794016/what-should-every-programmer-know-about-security) - Stack Overflow.
 * [What technical details should a programmer of a web application consider before making the site public?](http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before) - Programmers Stack Exchange.
@@ -928,19 +928,19 @@ My(A) curated list of goodies.
 * [Пример резюме на анг #7](http://kardash.net)
 * [Пример резюме на анг #8](http://benmetcalfe.com/blog/cv/)
 * [Пример резюме на рус](http://bioinformaticsinstitute.ru/resumes)
-* [Сравнение онлайн-консультантов для сайта: муки выбора / Хабрахабр](http://habr.ru/p/254529/)
-* [DevDocs: Offline API Documentation Browser](http://devdocs.io/) - DevDocs combines 64 reference documentations in a fast, organized, and searchable interface: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, etc.
-* [О кодировках и кодовых страницах](http://geektimes.ru/p/238497/) - Geektimes.
+* [Сравнение онлайн-консультантов для сайта: муки выбора / Хабрахабр](http://habr.ru/p/254529)
+* [DevDocs: Offline API Documentation Browser](http://devdocs.io) - DevDocs combines 64 reference documentations in a fast, organized, and searchable interface: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, etc.
+* [О кодировках и кодовых страницах](http://geektimes.ru/p/238497) - Geektimes.
 * [Руководство по написанию кода от @mdo](http://instanceof.pro/code-guide/) - Стандарты для разработки гибкого, надежного и поддерживаемого кода на HTML и CSS.
-* [IQDQ.ru](http://iqdq.ru/) - Сервисы управления качеством данных: веб-сервис по распознаванию и исправлению адресов.
-* [Learn To Google It](http://learntogoogleit.com/) - I'm a software engineer specializing in Java/PHP/Go on App Engine. Here are my thoughts on Google's Cloud Platform. Have a question? Ask on App Engine's official mailing list.
+* [IQDQ.ru](http://iqdq.ru) - Сервисы управления качеством данных: веб-сервис по распознаванию и исправлению адресов.
+* [Learn To Google It](http://learntogoogleit.com) - I'm a software engineer specializing in Java/PHP/Go on App Engine. Here are my thoughts on Google's Cloud Platform. Have a question? Ask on App Engine's official mailing list.
 * [HTML5 Doctor, helping you implement HTML5 today](http://html5doctor.com)
 * [How to Scale SVG | CSS-Tricks](https://css-tricks.com/scale-svg/) - The following is a guest post by Amelia Bellamy-Royds. Amelia has lots of experience with SVG, as the co-author of SVG Essentials and author of the upcomin.
 * [Making SVGs Responsive](http://tympanus.net/Tutorials/ResponsiveSVGs/) - Codrops.
 * [A Compendium of SVG Information | CSS-Tricks](https://css-tricks.com/mega-list-svg-information/) - A huge pile of information about SVG. How to Use SVG These are overview articles covering lots of stuff relating to SVG. Why to use it and the basics of how to use it.
 * [SVG PORN](https://github.com/gilbarbara/logos) - A collection of svg logos for developers.
 * [Shields.io: Quality metadata badges for open source projects](http://shields.io) - We serve fast and scalable informational images as badges for GitHub, Travis CI, Jenkins, WordPress and many more services. Use them to track the state of your projects, or for promotional purposes. [GitHub](https://github.com/badges/shields)
-
+* [SVG Weirdness](https://github.com/emilbjorklund/svg-weirdness/issues) - A repository for documenting bugs and other weird SVG behaviors, inspired by [Scott Jehl’s “Device Bugs” repo](https://github.com/scottjehl/Device-Bugs). Странности SVG, репозиторий на GitHub, в котором авторы начали собирать проблемы и решения.
 
 
 
@@ -948,8 +948,8 @@ My(A) curated list of goodies.
 
 ## Domain Name Registration
 
-* [Namecheap.com](https://www.namecheap.com/) - Cheap Domain Name Registration & Web Hosting. The Best Domain Name Registrar when it comes to Customer Service.
-* [Namecheap Education Program: Free Domains for Students](https://nc.me/) - The Namecheap Education Program provides free domains and email hosting for university students in the US, UK, and Canada.
+* [Namecheap.com](https://www.namecheap.com) - Cheap Domain Name Registration & Web Hosting. The Best Domain Name Registrar when it comes to Customer Service.
+* [Namecheap Education Program: Free Domains for Students](https://nc.me) - The Namecheap Education Program provides free domains and email hosting for university students in the US, UK, and Canada.
 * [Подбор красивого доменного имени / СоХабр](https://sohabr.net/habr/post/256507/)
 
 
