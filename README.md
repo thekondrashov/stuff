@@ -320,6 +320,7 @@ My(A) curated list of goodies.
 * [Slideout.js](https://mango.github.io/slideout/) - Slideout.js is a touch slideout navigation menu for your mobile web apps. [GitHub](https://github.com/mango/slideout)
 * [Trunk-js | A Responsive Web Solution](http://www.roblukedesign.com/trunk/trunk.html) - A responsive web design to hide top navigation into a navigation drawer on Tablets and Mobile Phones.
 * [jQuery.mmenu, app look-alike menus with sliding submenus](http://mmenu.frebsite.nl) - The best jQuery menu plugin for creating app look-alike, on-canvas and off-canvas, responsive, sliding menus for your website and webapp. [Github](https://github.com/BeSite/jQuery.mmenu)
+* [Navigation - Formstone](https://formstone.it/components/navigation/) - A jQuery plugin for simple responsive navigation.
 
 ### Guide to Bootstrap
 
