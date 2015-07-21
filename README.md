@@ -944,6 +944,7 @@ My(A) curated list of goodies.
 * [SVG PORN](https://github.com/gilbarbara/logos) - A collection of svg logos for developers.
 * [Shields.io: Quality metadata badges for open source projects](http://shields.io) - We serve fast and scalable informational images as badges for GitHub, Travis CI, Jenkins, WordPress and many more services. Use them to track the state of your projects, or for promotional purposes. [GitHub](https://github.com/badges/shields)
 * [SVG Weirdness](https://github.com/emilbjorklund/svg-weirdness/issues) - A repository for documenting bugs and other weird SVG behaviors, inspired by [Scott Jehl’s “Device Bugs” repo](https://github.com/scottjehl/Device-Bugs). Странности SVG, репозиторий на GitHub, в котором авторы начали собирать проблемы и решения.
+* [JSONPlaceholder](http://jsonplaceholder.typicode.com) - Fake online REST API for developers. [GitHub](https://github.com/typicode/jsonplaceholder)
 
 
 
