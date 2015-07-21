@@ -900,6 +900,7 @@ My(A) curated list of goodies.
 ## Markdown
 
 * [Markdown Basics](https://help.github.com/articles/markdown-basics/) - Markdown Basics on GitHub.
+* [A Guide to Markdown for Simpler Web Writing | Scotch](https://scotch.io/bar-talk/a-guide-to-markdown-for-simpler-web-writing) - Руководство по языку разметки Markdown.
 
 ## Unicode
 
