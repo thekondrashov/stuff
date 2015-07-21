@@ -946,6 +946,7 @@ My(A) curated list of goodies.
 * [SVG Weirdness](https://github.com/emilbjorklund/svg-weirdness/issues) - A repository for documenting bugs and other weird SVG behaviors, inspired by [Scott Jehl’s “Device Bugs” repo](https://github.com/scottjehl/Device-Bugs). Странности SVG, репозиторий на GitHub, в котором авторы начали собирать проблемы и решения.
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com) - Fake online REST API for developers. [GitHub](https://github.com/typicode/jsonplaceholder)
 * [Github Party](https://github.party) - Get/Post {links/comments,or cool stuff in github}. [GitHub](https://github.com/httpsgithubparty)
+* [Paths](http://jxnblk.com/paths) - Web app for building and editing SVG path elements. [GitHub](https://github.com/jxnblk/paths)
 
 
 
