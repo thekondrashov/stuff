@@ -480,10 +480,11 @@ My(A) curated list of goodies.
 
 ## jQuery
 
-* [Unheap](http://www.unheap.com/) - A tidy repository of jQuery plugins. Огромная коллекция реально качественных и нужных jQuery плагинов, грамотно расфасованная по области применения. В Unheap 5 основных разделов UI, Inputs, Media, Nav, Other и каждый из них содержит еще с десяток подкатегорий. В общей сложности на данный момент каталог содержит более 1000 различных плагинов.
-* [jQuery Plugins](http://jquery-plugins.net/) - Daily Latest, Popular, Free jQuery Plugins & jQuery Tutorials & jQuery Articles & Demos.
-* [jQuery 2 DotNet](http://www.jquery2dotnet.com/) - jquery and mvc tutorial with examples.
+* [Unheap](http://www.unheap.com) - A tidy repository of jQuery plugins. Огромная коллекция реально качественных и нужных jQuery плагинов, грамотно расфасованная по области применения. В Unheap 5 основных разделов UI, Inputs, Media, Nav, Other и каждый из них содержит еще с десяток подкатегорий. В общей сложности на данный момент каталог содержит более 1000 различных плагинов.
+* [jQuery Plugins](http://jquery-plugins.net) - Daily Latest, Popular, Free jQuery Plugins & jQuery Tutorials & jQuery Articles & Demos.
+* [jQuery 2 DotNet](http://www.jquery2dotnet.com) - jquery and mvc tutorial with examples.
 * [zClip :: jQuery ZeroClipboard](http://steamdev.com/zclip) - zClip is a lightweight jQuery copy to clipboard plugin built using the Zero Clipboard library.
+* [Thoughtfully Crafted Front-End Components - Formstone](https://formstone.it) - Not a framework. Just a collection of thoughtfully crafted front-end components. Библиотека Formstone — активно развивающийся набор плагинов для известной библиотеки jQuery. Сервис содержит огромный инструментарий для выполнения различного рода задач. [GitHub](https://github.com/Formstone/Formstone)
 
 
 ### jQuery Cheatsheet
