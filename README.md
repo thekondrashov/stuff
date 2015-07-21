@@ -996,6 +996,7 @@ My(A) curated list of goodies.
 * [Divshot - Static Web Hosting for Developers and Designers](https://divshot.com) - One platform for static web hosting and Bootstrap Builder for single page apps. CDN, SSL, and pushState support with amazing developer and CLI tools.
 * [Free Web Hosting with PHP, MySQL and cPanel, No Ads](http://www.000webhost.com) - 000webhost.com ($0.00 webhost), is an industry leader in providing top class free web hosting services without advertising! There are no hidden costs, no adverts, and no restrictive terms.
 * [IBM Bluemix - Next-Generation Cloud App Development Platform](https://console.ng.bluemix.net) - Bluemix is an open standards, cloud platform for building, running, and managing apps and services.
+* [Node Hosting · joyent/node Wiki](https://github.com/joyent/node/wiki/node-hosting) - Hosting compatible with Node.
 
 ## Платный хостинг
 
