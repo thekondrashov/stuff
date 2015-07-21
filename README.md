@@ -109,6 +109,7 @@ My(A) curated list of goodies.
 * [jQuery](#jquery)
 * [Autocomplete](#autocomplete)
 * [Vanilla JS](#vanilla-js)
+* [JavaScript Misc](#javascript-misc)
 
 ## Lessons
 
@@ -514,7 +515,13 @@ My(A) curated list of goodies.
 * [Plain JavaScript - Functions and Helpers](http://plainjs.com/javascript/) - Vanilla JavaScript utilities for writing powerful web applications without jQuery.
 * [Moving from jQuery](https://gist.github.com/harmstyler/7468978) - GitHub Gist.
 
+
+## JavaScript Misc
+
 * [Usage of JavaScript libraries for websites](http://w3techs.com/technologies/overview/javascript_library/all)
+* [GitHub: essential-javascript-links - Essential JavaScript website](https://github.com/ericelliott/essential-javascript-links) - A curated list by Eric Elliott and friends.
+
+
 
 # Lessons
 
