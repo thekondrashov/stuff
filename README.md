@@ -89,6 +89,7 @@ My(A) curated list of goodies.
 * [Email Verification](#email-verification)
 * [Send email](#send-email)
 * [Email test](#email-test)
+* [Email Misc](#email-misc)
 
 
 ## Icons
@@ -420,6 +421,11 @@ My(A) curated list of goodies.
 * [Email Testing and Email Marketing Analytics - Litmus](https://litmus.com) - litmus tests and tracks your email campaigns, so you can always put your best design forward.
 * [Litmus PutsMail - Test your HTML emails before sending them](https://putsmail.com) - Test in real time your HTML emails for campaigns, newsletters and others before sending them.
 * [Email Testing and Email Analytics | Email on Acid](https://www.emailonacid.com) - Tools that make Email Testing and Analytics less complicated. Be impeccable in the Inbox. See exactly how your email will look before you send.
+
+## Email Misc
+
+* [Почтовые синонимы в Gmail](http://demin.ws/blog/russian/2012/09/06/gmail-aliases/) - Александр Дëмин.
+
 
 
 # Icons
