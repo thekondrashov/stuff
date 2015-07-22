@@ -750,6 +750,7 @@ My(A) curated list of goodies.
 * [TMTheme Editor](http://tmtheme-editor.herokuapp.com) - TmTheme Editor is the a visual color-scheme/theme editor for SublimeText, Textmate and a bunch of other text editors. [GitHub](https://github.com/aziz/tmTheme-Editor)
 * [Dayle Rees Colour Scheme Previews](https://daylerees.github.io) - Colour schemes for a variety of editors created by Dayle Rees. [GitHub](https://github.com/daylerees/colour-schemes)
 * [Colorsublime](http://colorsublime.com) - Color your Sublime Text editor trying your favorite theme online before downloading it for free. [GitHub](https://github.com/Colorsublime/Colorsublime-Themes)
+* [Solarized - Ethan Schoonover](http://ethanschoonover.com/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes. [GitHub](https://github.com/altercation/solarized). [A port of the popular Solarized Theme for Sublime Text 2](https://github.com/braver/Solarized)
 
 
 ## WebStorm
