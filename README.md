@@ -311,6 +311,7 @@ My(A) curated list of goodies.
 * [Free unique bootstrap themes, templates, and bootstrap snippets](http://www.designbootstrap.com) - Designbootstrap offers 100% Free and unique bootstrap themes, templates, and bootstrap snippets for beginners and experts alike.
 * [Flat UI by Designmodo](http://designmodo.com/flat/) - Contains a huge number of basic components, icons and glyphs, which simplify your work when it comes to new projects. Responsive Layout. Based on Bootstrap. [GitHub](https://github.com/designmodo/Flat-UI)
 * [Bootstrap Stage - Bootstrap themes, templates, and gallery](http://www.bootstrapstage.com/free-themes/) - Find a starting place in this curated list of free Bootstrap themes and templates. Get your next project bootstrap project started now.
+* [50+ Best Free Bootstrap Admin Templates » CSS Author](http://www.cssauthor.com/bootstrap-admin-templates/) - An excellent collection of free bootstrap admin templates for developers, these are enormous timesaver in your workflow, explore for more. [50 лучших Bootstrap шаблонов для админки - Клуб PHP программистов](https://vk.com/wall-3183750_58797)
 
 ### Offcanvas navigation menu
 
