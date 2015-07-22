@@ -367,6 +367,7 @@ My(A) curated list of goodies.
 * [10 CSS Hacks and Tips You May Not Know - Inspirational Pixels](http://inspirationalpixels.com/articles/10-css-hacks-and-tips) - 10 of most helpful and intriguing CSS hacks and tips I've been able to find anywhere online.
 * [CSS4-Selectors](http://css4-selectors.com) - CSS4-Selectors provide information about the upcoming Cascading Style Sheets on Level 4 draft - short CSS4.
 * [20 лучших сайтов со справочниками по CSS](http://www.cssauthor.com/css-reference/)
+* [Шпаргалки по CSS - Клуб PHP программистов](https://vk.com/wall-3183750_58809)
 
 
 ## CSS Misc
@@ -892,6 +893,8 @@ My(A) curated list of goodies.
 * [205 шпаргалок для разработчика](http://habr.ru/p/254585) - Хабрахабр.
 * [Learn X in Y minutes](http://learnxinyminutes.com) - Whirlwind tours of (several, hopefully many someday) popular and ought-to-be-more-popular programming languages, presented as valid, commented code and explained as they go. [GitHub](https://github.com/adambard/learnxinyminutes-docs)
 * [OverAPI.com | Collecting all the cheat sheets](http://overapi.com) - OverAPI.com is a site collecting all the cheatsheets,all!
+* [Best HTML and CSS Cheat Sheets » CSS Author](http://www.cssauthor.com/html-and-css-cheat-sheets/) - The best list of HTML and CSS Cheat sheets for developers, these cheats are really a great reference for developers, students etc..
+* [Шпаргалки по HTML - Клуб PHP программистов](https://vk.com/wall-3183750_58803)
 
 
 ## Emoji
