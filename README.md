@@ -124,6 +124,7 @@ My(A) curated list of goodies.
 ## PHP
 
 * [Phar](#phar)
+* [PHP Misc](#php-misc)
 
 ## Regular expressions
 
@@ -563,9 +564,13 @@ My(A) curated list of goodies.
 
 ## Phar
 
-* [php - How to make an executable phar?](http://stackoverflow.com/questions/11082337/how-to-make-an-executable-phar/11082338#11082338) - Stack Overflow.
+* [php - How to make an executable phar?](https://stackoverflow.com/a/11082338) - Stack Overflow.
 * [Phar в PHP: преимущества и работа с PHAR](http://sitear.ru/material/phar-php) - SiteAR.ru.
-* [.phar — исполняемые PHP-архивы](http://habr.ru/p/118269/) - Хабрахабр.
+* [.phar — исполняемые PHP-архивы](http://habr.ru/p/118269) - Хабрахабр.
+
+## PHP Misc
+
+* [phpToday - Latest PHP news, links and discussions](https://www.phptoday.org) - PHPToday is a website for PHP developers to share useful links and latest news. Learn something new everyday. [GitHub](https://github.com/phptodayorg/php-must-watch)
 
 
 # Regular expressions
