@@ -1005,3 +1005,4 @@ My(A) curated list of goodies.
 * [Хостинг от Timeweb](http://timeweb.com/ru/) - Ваш платный, но доступный и мощный веб хостинг сайтов.
 * [Платный хостинг сайтов от RadiusHost](http://www.radiushost.ru/ru/services/hosting/)
 * [Поиск виртуальных серверов - VDS.menu](http://vds.menu)
+* [Поиск виртуального хостинга - SHARED.menu](http://shared.menu). [Habr](http://habr.ru/p/263273)
