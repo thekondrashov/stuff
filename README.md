@@ -452,6 +452,7 @@ My(A) curated list of goodies.
 * [Batch - 300+ Icons for Web & User Interface Design](http://adamwhitcroft.com/batch/) - Each icon in the Batch PSD is a single shape layer, meaning they can be scaled up—or down—without loss of quality.
 * [100 Free iOS Vector Icons. SKETCH, AI, PNG, SVG files](http://www.streamlineicons.com/free-icons.html) - The Ultimate Icon Collection for Web & Mobile Design.
 * [Simple Line Icons](https://thesabbir.github.io/simple-line-icons/) - Simple line icons with CSS, SAAS, LESS & Web-fonts files. [GitHub](https://github.com/thesabbir/simple-line-icons)
+* [Icon fonts - Explore GitHub](https://github.com/showcases/icon-fonts) - All the icons you could dream of all wrapped up nice and neatly as web fonts.
 
 ## Icon font generators
 
