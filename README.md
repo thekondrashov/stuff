@@ -133,7 +133,7 @@ My(A) curated list of goodies.
 ## RESTful API
 
 * [REST API Best practices](#rest-api-best-practices)
-
+* [API testing tools](#api-testing-tools)
 
 
 ## Russian spelling
@@ -586,6 +586,11 @@ My(A) curated list of goodies.
 ## REST API Best practices
 
 * [REST API Best practices | saipraveenblog](https://saipraveenblog.wordpress.com/2014/09/29/rest-api-best-practices/) - Understanding best practices for designing RESTful API’s.
+
+## API testing tools
+
+* [Postman | Supercharge your API workflow](https://getpostman.com) - Postman is a powerful API testing suite which has become a must-have tool for many developers. Build, test, and document your APIs faster. More than a million developers already do. [GitHub](https://github.com/postmanlabs)
+
 
 
 # Russian spelling
