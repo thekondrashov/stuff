@@ -954,6 +954,7 @@ My(A) curated list of goodies.
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com) - Fake online REST API for developers. [GitHub](https://github.com/typicode/jsonplaceholder)
 * [Github Party](https://github.party) - Get/Post {links/comments,or cool stuff in github}. [GitHub](https://github.com/httpsgithubparty)
 * [Paths](http://jxnblk.com/paths) - Web app for building and editing SVG path elements. [GitHub](https://github.com/jxnblk/paths)
+* [Website Style Guide Resources](http://styleguides.io) - A collaborative collection of resources for creating Front-End Style Guides and Pattern Libraries. [GitHub](https://github.com/maban/styleguides)
 
 
 
