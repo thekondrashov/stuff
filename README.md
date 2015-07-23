@@ -982,6 +982,7 @@ My(A) curated list of goodies.
 
 * [Namecheap.com](https://www.namecheap.com) - Cheap Domain Name Registration & Web Hosting. The Best Domain Name Registrar when it comes to Customer Service.
 * [Namecheap Education Program: Free Domains for Students](https://nc.me) - The Namecheap Education Program provides free domains and email hosting for university students in the US, UK, and Canada.
+* [Simple Domain Name Registrar - iwantmyname](https://iwantmyname.com) - Buy your domain name for the best personal and business web applications, no web hosting required. Register international domains and country code domains for your online identity now.
 * [Подбор красивого доменного имени / СоХабр](https://sohabr.net/habr/post/256507/)
 
 
@@ -1003,8 +1004,8 @@ My(A) curated list of goodies.
 
 ## WHOIS
 
-* [ICANN WHOIS](http://whois.icann.org/) - Official ICANN WHOIS Search.
-* [Whois7.ru](http://whois7.ru/) - Whois Service, IP Whois, DNS Digger.
+* [ICANN WHOIS](http://whois.icann.org) - Official ICANN WHOIS Search.
+* [Whois7.ru](http://whois7.ru) - Whois Service, IP Whois, DNS Digger.
 
 
 ## Бесплатный хостинг
