@@ -497,6 +497,7 @@ My(A) curated list of goodies.
 * [jQuery 2 DotNet](http://www.jquery2dotnet.com) - jquery and mvc tutorial with examples.
 * [zClip :: jQuery ZeroClipboard](http://steamdev.com/zclip) - zClip is a lightweight jQuery copy to clipboard plugin built using the Zero Clipboard library.
 * [Thoughtfully Crafted Front-End Components - Formstone](https://formstone.it) - Not a framework. Just a collection of thoughtfully crafted front-end components. Библиотека Formstone — активно развивающийся набор плагинов для известной библиотеки jQuery. Сервис содержит огромный инструментарий для выполнения различного рода задач. [GitHub](https://github.com/Formstone/Formstone)
+* [ScrollUp](https://github.com/markgoodyear/scrollup) - ScrollUp is a lightweight jQuery plugin to create a customisable "Scroll to top" feature that will work with any website, with ease. Scrollup — удобный плагин jQuery для самых ленивых веб-разработчиков. Он решает единственную задачу — добавить на страницу классический элемент — ссылку, появляющуюся при скроллинге страницы, по клику на которую, страница будет проскроллена назад к верху. В отличие от простой ссылки в самом низу страницы, элемент добавляемый расширением — динамический. Для его кастомизации доступен солидный набор параметров.
 
 
 ### jQuery Cheatsheet
