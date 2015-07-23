@@ -181,6 +181,7 @@ My(A) curated list of goodies.
 
 * [Sublime Text](#sublime-text)
 * [WebStorm](#webStorm)
+* [Text editors Misc](#text-editors-misc)
 
 ## Textures, patterns, backgrounds
 
@@ -779,6 +780,10 @@ My(A) curated list of goodies.
 
 * [Лучший редактор для веб-разработки / СоХабр](https://sohabr.net/habr/post/254329/)
 
+
+## Text editors Misc
+
+* [EditorConfig](http://editorconfig.org) - EditorConfig is a file format and collection of text editor plugins for maintaining consistent coding styles between different editors and IDEs. [GitHub](https://github.com/editorconfig)
 
 
 # Textures, patterns, backgrounds
