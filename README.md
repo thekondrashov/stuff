@@ -575,6 +575,7 @@ My(A) curated list of goodies.
 ## PHP Misc
 
 * [phpToday - Latest PHP news, links and discussions](https://www.phptoday.org) - PHPToday is a website for PHP developers to share useful links and latest news. Learn something new everyday. [GitHub](https://github.com/phptodayorg/php-must-watch)
+* [Introduction to PHP Security - Part 1 - Application Performance Monitoring Blog | AppDynamics](http://blog.appdynamics.com/php/introduction-to-php-security-part-1/) - It is a question that has daunted software engineers for decades: how secure is my software application? Modern web application development has evolved to a point where one can build and launch an entire product or company revolved around a full-fledged software-as-a-service.
 
 
 # Regular expressions
