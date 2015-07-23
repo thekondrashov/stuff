@@ -806,6 +806,7 @@ My(A) curated list of goodies.
 * [placemi | the ultimate placeholder generator](http://placemi.com) - placemi generates beautiful image placeholders. you can even upload your own too.
 * [{placekitten}](http://placekitten.com) - Kitten-themed placeholder images for developers :3.
 * [Placehold.it](https://placehold.it) - Quick and simple image placeholders.
+* [Nice Nice JPG](http://nicenicejpg.com) - The only image placeholder service on the web bringing you nothing but Vanilla Ice jpgs. You're welcome. [GitHub](https://github.com/timboisvert/NiceNiceJPG)
 
 
 ## Push-notifications
