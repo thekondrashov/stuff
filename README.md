@@ -972,6 +972,7 @@ My(A) curated list of goodies.
 * [Github Party](https://github.party) - Get/Post {links/comments,or cool stuff in github}. [GitHub](https://github.com/httpsgithubparty)
 * [Paths](http://jxnblk.com/paths) - Web app for building and editing SVG path elements. [GitHub](https://github.com/jxnblk/paths)
 * [Website Style Guide Resources](http://styleguides.io) - A collaborative collection of resources for creating Front-End Style Guides and Pattern Libraries. [GitHub](https://github.com/maban/styleguides)
+* [Transformy](https://www.transformy.io) - Transform your whole list with just one example. Простой сервис для преобразования списков. В левую колонку вставляете список с данными в одном формате, в правой пишете пример того, как должна выглядеть первая строка.
 
 
 
