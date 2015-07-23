@@ -722,6 +722,11 @@ My(A) curated list of goodies.
 * [Аналитика. Ruward Track - все рейтинги рунета](http://track.ruward.ru/) - Актуальная технологическая аналитика Рунета: исследования сегментов CMS, систем веб-аналитики, e-commerce платформ, SMM-плагинов и др.
 * [Check your bad backlinks and your competitors good backlinks - Monitor Backlinks](https://monitorbacklinks.com/) - Get notified (via e-mail) if someone removes or adds nofollow to your backlinks. Monitor your backlinks for good SEO rankings.
 
+## SEO Misc
+
+* [Humans TXT: We Are People, Not Machines](http://humanstxt.org) - An initiative to know the creators of the  website. Contains the information about humans to the web building.
+
+
 # Social
 
 ## Share buttons
