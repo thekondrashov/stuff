@@ -165,6 +165,7 @@ My(A) curated list of goodies.
 * [Микроразметка (семантическая разметка)](#Микроразметка-семантическая-разметка)
 * [SEO Articles](#seo-articles)
 * [Website Analytics](#website-analytics)
+* [SEO Misc](#seo-misc)
 
 ## Social
 
