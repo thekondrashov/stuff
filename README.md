@@ -361,6 +361,7 @@ My(A) curated list of goodies.
 ## CSS Preprocessors
 
 * [CSS PRE](http://csspre.com) - CSS Preprocessors - preprocessor comparisons and reference guide, play around with all code snippets, explore tools for conversion from/to CSS. [GitHub](https://github.com/futekov/csspre)
+* [Learn LESS in 10 Minutes (or Less) | Tutorialzine](http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/) - In this quick lesson we are going to cover the basics of Less. It is the most widely used CSS pre-processor at the moment, with hugely popular projects like Bootstrap adopting it. Туториал «Изучите Less за 10 минут».
 
 
 ## CSS References
