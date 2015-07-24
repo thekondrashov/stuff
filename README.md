@@ -951,6 +951,7 @@ My(A) curated list of goodies.
 ## Emoji
 
 * [Emoji Unicode Tables](http://apps.timwhitlock.info/emoji/tables/unicode) - Emoji codse points and example glyphs using web fonts, sprites and native OS representation of Emoji characters.
+* [Emoji searcher](http://emoji.muan.co) - Find the emoji that echoes your mind. [![GitHub stars](https://img.shields.io/github/stars/muan/mojibar.svg?label=GitHub%20stars&style=flat-square)](https://github.com/muan/mojibar)
 
 ## HTTP Status Codes
 
@@ -1012,6 +1013,7 @@ My(A) curated list of goodies.
 * [Transformy](https://www.transformy.io) - Transform your whole list with just one example. Простой сервис для преобразования списков. В левую колонку вставляете список с данными в одном формате, в правой пишете пример того, как должна выглядеть первая строка.
 * [20 Best Code Review Tools for Developers - DevsTrend](http://www.devstrend.com/20-best-code-review-tools-for-developers/) - 20 Best Code Review Tools for Developers-Using a good code reviewer can help a programmer to a great extent by increasing the quality and decreasing the chances of errors in the program code. Топ-20 сервисов инспекции кода для разработчиков.
 * [Styling – SVG 1.1 (Second Edition)](https://www.w3.org/TR/SVG/styling.html) - В CSS стили для SVG элементов отличаются от стандартных, полный список стилей поддерживаемых SVG можно посмотреть тут.
+* [Monoid Open Source Coding Font](https://larsenwork.com/monoid/) - Monoid is a customizable, minimal + legible font optimized for coding. It's drawn over a 14px grid for bitmap-like sharpness. [![GitHub stars](https://img.shields.io/github/stars/larsenwork/monoid.svg?label=GitHub%20stars&style=flat-square)](https://github.com/larsenwork/monoid)
 
 
 
