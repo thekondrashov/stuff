@@ -250,10 +250,10 @@ My(A) curated list of goodies.
 
 ## CAPTCHA plugins
 
-* [KeyCAPTCHA - Innovative Anti-Spam Solution](https://www.keycaptcha.com/) - Powerful anti-spam website protection.
-* [MotionCAPTCHA jQuery Plugin - GitHub](https://github.com/josscrowcroft/MotionCAPTCHA) - MotionCAPTCHA is a jQuery CAPTCHA plugin that requires users to sketch the shape they see in the canvas in order to submit a form.
-* [Некапча Mail.Ru – капча, которая не показывается](http://habr.ru/p/255633/) - Блог компании Mail.Ru Group / Хабрахабр.
-* [Вышла новая версия reCaptcha API 2.0](http://habr.ru/p/244779/) - Хабрахабр.
+* [KeyCAPTCHA - Innovative Anti-Spam Solution](https://www.keycaptcha.com) - Powerful anti-spam website protection.
+* [MotionCAPTCHA jQuery Plugin - GitHub](https://github.com/josscrowcroft/MotionCAPTCHA) - MotionCAPTCHA is a jQuery CAPTCHA plugin that requires users to sketch the shape they see in the canvas in order to submit a form. [![GitHub stars](https://img.shields.io/github/stars/josscrowcroft/MotionCAPTCHA.svg?style=flat-square)](https://github.com/josscrowcroft/MotionCAPTCHA)
+* [Некапча Mail.Ru – капча, которая не показывается](http://habr.ru/p/255633) - Блог компании Mail.Ru Group / Хабрахабр.
+* [Вышла новая версия reCaptcha API 2.0](http://habr.ru/p/244779) - Хабрахабр.
 
 
 # Chat
