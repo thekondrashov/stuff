@@ -1009,6 +1009,7 @@ My(A) curated list of goodies.
 * [Website Style Guide Resources](http://styleguides.io) - A collaborative collection of resources for creating Front-End Style Guides and Pattern Libraries. [GitHub](https://github.com/maban/styleguides)
 * [Transformy](https://www.transformy.io) - Transform your whole list with just one example. Простой сервис для преобразования списков. В левую колонку вставляете список с данными в одном формате, в правой пишете пример того, как должна выглядеть первая строка.
 * [20 Best Code Review Tools for Developers - DevsTrend](http://www.devstrend.com/20-best-code-review-tools-for-developers/) - 20 Best Code Review Tools for Developers-Using a good code reviewer can help a programmer to a great extent by increasing the quality and decreasing the chances of errors in the program code. Топ-20 сервисов инспекции кода для разработчиков.
+* [Styling – SVG 1.1 (Second Edition)](https://www.w3.org/TR/SVG/styling.html) - В CSS стили для SVG элементов отличаются от стандартных, полный список стилей поддерживаемых SVG можно посмотреть тут.
 
 
 
