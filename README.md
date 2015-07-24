@@ -770,6 +770,7 @@ My(A) curated list of goodies.
 ## Website speed tests
 
 * [MaxCDN Tools](http://tools.maxcdn.com) - Compare the speed of two websites in 5 seconds from different locations around the world.
+* [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - With PageSpeed Insights you can identify ways to make your site faster and more mobile-friendly. Ускорьте загрузку своих страниц на всех устройствах. PageSpeed Insights анализирует содержание веб-страницы и предлагает решения, которые позволят ускорить ее загрузку.
 
 
 
