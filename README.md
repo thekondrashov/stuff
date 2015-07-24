@@ -346,7 +346,8 @@ My(A) curated list of goodies.
 ## CSS Animation
 
 * [CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/) - Justin Aguilar.
-* [Loaders.css](http://connoratherton.com/loaders) - Delightful, performance-focused pure css loading animations. [GitHub](https://github.com/ConnorAtherton/loaders.css)
+* [Loaders.css](https://connoratherton.com/loaders) - Delightful, performance-focused pure css loading animations. [GitHub](https://github.com/ConnorAtherton/loaders.css)
+* [SpinKit | Simple CSS Spinners](http://tobiasahlin.com/spinkit/) - A collection of loading indicators animated with CSS. SpinKit — небольшая коллекция красивых прелоадеров на CSS. [![GitHub stars](https://img.shields.io/github/stars/tobiasahlin/SpinKit.svg?label=GitHub%20stars&style=flat-square)](https://github.com/tobiasahlin/SpinKit)
 * [Animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations. As easy to use as an easy thing. [GitHub](https://github.com/daneden/animate.css)
 * [iconate.js](https://bitshadow.github.io/iconate) - is a tiny performant library for cross-browser icon transformation animations in your projects. [GitHub](https://github.com/bitshadow/iconate)
 * [CSS3 анимации для начинающих](http://devdocs.ru/verstka/css3-animations-for-beginners/)
