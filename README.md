@@ -174,7 +174,9 @@ My(A) curated list of goodies.
 ## Testing
 
 * [Continuous Integration](#continuous-integration)
+* [Validators](#validators)
 * [Website speed tests](#website-speed-tests)
+
 
 
 ## Text editors
@@ -251,7 +253,7 @@ My(A) curated list of goodies.
 ## CAPTCHA plugins
 
 * [KeyCAPTCHA - Innovative Anti-Spam Solution](https://www.keycaptcha.com) - Powerful anti-spam website protection.
-* [MotionCAPTCHA jQuery Plugin - GitHub](https://github.com/josscrowcroft/MotionCAPTCHA) - MotionCAPTCHA is a jQuery CAPTCHA plugin that requires users to sketch the shape they see in the canvas in order to submit a form. [![GitHub stars](https://img.shields.io/github/stars/josscrowcroft/MotionCAPTCHA.svg?style=flat-square)](https://github.com/josscrowcroft/MotionCAPTCHA)
+* [MotionCAPTCHA jQuery Plugin - GitHub](https://github.com/josscrowcroft/MotionCAPTCHA) - MotionCAPTCHA is a jQuery CAPTCHA plugin that requires users to sketch the shape they see in the canvas in order to submit a form. [![GitHub stars](https://img.shields.io/github/stars/josscrowcroft/MotionCAPTCHA.svg?label=GitHub%20stars&style=flat-square)](https://github.com/josscrowcroft/MotionCAPTCHA)
 * [Некапча Mail.Ru – капча, которая не показывается](http://habr.ru/p/255633) - Блог компании Mail.Ru Group / Хабрахабр.
 * [Вышла новая версия reCaptcha API 2.0](http://habr.ru/p/244779) - Хабрахабр.
 
@@ -749,6 +751,12 @@ My(A) curated list of goodies.
 * [Travis CI](https://travis-ci.org/) - Easily sync your GitHub projects with Travis CI and you’ll be testing your code in minutes!
 * [Semaphore CI](https://semaphoreci.com/) - Semaphore is a hosted continuous integration and deployment service for open source and private projects.
 * [Scrutinizer CI](https://scrutinizer-ci.com/) - Scrutinizer is a continuous inspection platform helping you to write better software.
+
+
+## Validators
+
+* [Validator.nu](https://validator.nu) - Living Validator. [![GitHub stars](https://img.shields.io/github/stars/validator/validator.svg?label=GitHub%20stars&style=flat-square)](https://github.com/validator/validator)
+
 
 ## Website speed tests
 
