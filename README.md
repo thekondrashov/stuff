@@ -174,6 +174,7 @@ My(A) curated list of goodies.
 ## Testing
 
 * [Continuous Integration](#continuous-integration)
+* [Mobile-Friendly tests](#mobile-friendly-tests)
 * [Validators](#validators)
 * [Website speed tests](#website-speed-tests)
 
@@ -741,7 +742,7 @@ My(A) curated list of goodies.
 
 ## Share buttons
 
-* [Pluso - кнопки для добавления контента в социальные сети](https://share.pluso.ru/) - Кнопки для всех сервисов закладок и социальных сетей - для Вашего сайта.
+* [Pluso - кнопки для добавления контента в социальные сети](https://share.pluso.ru) - Кнопки для всех сервисов закладок и социальных сетей - для Вашего сайта.
 * [Сервис социальной активности UpToLike. Социальные кнопки в один клик](https://uptolike.com) - Сервис социальной активности Uptolike.ru позволяет вам установить кнопки социальных сетей в один клик. Предоставьте своим пользователям удобный способ делиться информацией вашего сайта в аккаунтах VKontakte, Facebook, Twitter, Однаклассники и других.
 
 
@@ -749,10 +750,16 @@ My(A) curated list of goodies.
 
 ## Continuous Integration
 
-* [Jenkins CI](http://jenkins-ci.org/) - Jenkins CI is the leading open-source continuous integration server. Built with Java, it provides 985 plugins to support building and testing virtually any project.
-* [Travis CI](https://travis-ci.org/) - Easily sync your GitHub projects with Travis CI and you’ll be testing your code in minutes!
-* [Semaphore CI](https://semaphoreci.com/) - Semaphore is a hosted continuous integration and deployment service for open source and private projects.
-* [Scrutinizer CI](https://scrutinizer-ci.com/) - Scrutinizer is a continuous inspection platform helping you to write better software.
+* [Jenkins CI](http://jenkins-ci.org) - Jenkins CI is the leading open-source continuous integration server. Built with Java, it provides 985 plugins to support building and testing virtually any project.
+* [Travis CI](https://travis-ci.org) - Easily sync your GitHub projects with Travis CI and you’ll be testing your code in minutes!
+* [Semaphore CI](https://semaphoreci.com) - Semaphore is a hosted continuous integration and deployment service for open source and private projects.
+* [Scrutinizer CI](https://scrutinizer-ci.com) - Scrutinizer is a continuous inspection platform helping you to write better software.
+
+
+## Mobile-Friendly tests
+
+* [Google Webmaster Tools - Mobile-Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/) - Проверка удобства просмотра на мобильных устройствах. Узнайте, удобно ли просматривать страницу на мобильных устройствах.
+
 
 
 ## Validators
@@ -762,7 +769,7 @@ My(A) curated list of goodies.
 
 ## Website speed tests
 
-* [MaxCDN Tools](http://tools.maxcdn.com/) - Compare the speed of two websites in 5 seconds from different locations around the world.
+* [MaxCDN Tools](http://tools.maxcdn.com) - Compare the speed of two websites in 5 seconds from different locations around the world.
 
 
 
