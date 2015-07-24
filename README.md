@@ -335,7 +335,7 @@ My(A) curated list of goodies.
 ### Bootstrap Misc
 
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.
-* [50 Must-have plugins for extending Twitter Bootstrap | Tutorialzine](http://tutorialzine.com/2013/07/50-must-have-plugins-for-extending-twitter-bootstrap/) - In this article, you will find a collection of 50 must-have plugins you should know about for effective development with Twitter Bootstrap.
+* [50 Must-have plugins for extending Twitter Bootstrap | Tutorialzine](http://tutorialzine.com/?p=3272) - In this article, you will find a collection of 50 must-have plugins you should know about for effective development with Twitter Bootstrap.
 * [50 Extensions and Plugins for Extending Bootstrap](http://speckyboy.com/2014/06/16/plugins-for-extending-bootstrap/) - Bootstrap may at times not be enough for your project. To help you get more out of it, we have collected 50 plugins for extending Bootstrap.
 * [Библиотека программиста - 25 лучших плагинов для расширения Bootstrap 3](https://vk.com/wall-54530371_3903)
 
@@ -361,7 +361,7 @@ My(A) curated list of goodies.
 ## CSS Preprocessors
 
 * [CSS PRE](http://csspre.com) - CSS Preprocessors - preprocessor comparisons and reference guide, play around with all code snippets, explore tools for conversion from/to CSS. [GitHub](https://github.com/futekov/csspre)
-* [Learn LESS in 10 Minutes (or Less) | Tutorialzine](http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/) - In this quick lesson we are going to cover the basics of Less. It is the most widely used CSS pre-processor at the moment, with hugely popular projects like Bootstrap adopting it. Туториал «Изучите Less за 10 минут».
+* [Learn LESS in 10 Minutes (or Less) | Tutorialzine](http://tutorialzine.com/?p=6208) - In this quick lesson we are going to cover the basics of Less. It is the most widely used CSS pre-processor at the moment, with hugely popular projects like Bootstrap adopting it. Туториал «Изучите Less за 10 минут».
 
 
 ## CSS References
@@ -527,7 +527,7 @@ My(A) curated list of goodies.
 
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com/) - Examples of how to do common event, element, ajax and utility operations with plain javascript.
 * [Vanilla Query - GitHub](https://github.com/makesites/vanilla-query/blob/master/build/vanilla-query.js) - A syntax-conversion for Vanilla JS & CSS3 methods using traditional jQuery conventions.
-* [10 Tips for Writing JavaScript without jQuery](http://tutorialzine.com/2014/06/10-tips-for-writing-javascript-without-jquery/) - Tutorialzine.
+* [10 Tips for Writing JavaScript without jQuery](http://tutorialzine.com/?p=3771) - Tutorialzine.
 * [Native JavaScript Equivalents of jQuery Methods: the DOM and Forms](http://www.sitepoint.com/jquery-vs-raw-javascript-1-dom-forms/) - SitePoint.
 * [Plain JavaScript - Functions and Helpers](http://plainjs.com/javascript/) - Vanilla JavaScript utilities for writing powerful web applications without jQuery.
 * [Moving from jQuery](https://gist.github.com/harmstyler/7468978) - GitHub Gist.
