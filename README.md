@@ -847,6 +847,7 @@ My(A) curated list of goodies.
 ## Favicon Generators
 
 * [Epic Favicon Generator by BCCO](https://epicfavicongenerator.com) - The Epic Favicon Generator offers 20+ favicon sizes, is mobile friendly, and free!
+* :octocat: [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) - A painfully obsessive cheat sheet to favicon sizes/types. [![GitHub stars](https://img.shields.io/github/stars/audreyr/favicon-cheat-sheet.svg?label=GitHub%20stars&style=flat-square)](https://github.com/audreyr/favicon-cheat-sheet)
 
 ## Make HTTP requests
 
