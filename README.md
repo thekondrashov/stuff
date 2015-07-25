@@ -551,7 +551,8 @@ My(A) curated list of goodies.
 ## JavaScript Misc
 
 * [Usage of JavaScript libraries for websites](http://w3techs.com/technologies/overview/javascript_library/all)
-* [GitHub: essential-javascript-links - Essential JavaScript website](https://github.com/ericelliott/essential-javascript-links) - A curated list by Eric Elliott and friends.
+* :octocat: [Essential JavaScript website](https://github.com/ericelliott/essential-javascript-links) - A curated list by Eric Elliott and friends. [![GitHub stars](https://img.shields.io/github/stars/ericelliott/essential-javascript-links.svg?label=GitHub%20stars&style=flat-square)](https://github.com/ericelliott/essential-javascript-links)
+* :octocat: [ECMAScript 6 Tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today by Addy Osmani. [![GitHub stars](https://img.shields.io/github/stars/addyosmani/es6-tools.svg?label=GitHub%20stars&style=flat-square)](https://github.com/addyosmani/es6-tools)
 
 
 
