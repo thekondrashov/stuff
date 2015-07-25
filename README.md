@@ -462,6 +462,7 @@ My(A) curated list of goodies.
 * [Simple Line Icons](https://thesabbir.github.io/simple-line-icons/) - Simple line icons with CSS, SAAS, LESS & Web-fonts files. [GitHub](https://github.com/thesabbir/simple-line-icons)
 * [Icon fonts - Explore GitHub](https://github.com/showcases/icon-fonts) - All the icons you could dream of all wrapped up nice and neatly as web fonts.
 * [Nucleo](https://nucleoapp.com) - A library of 1750 responsive icons and a web app to manage and customize them.
+* [Feather: 130 Free Icons by Cole Bemis](https://gumroad.com/l/feather) - Feather is a growing collection of beautifully simple icons. The set is packaged in PSD, CSH, SVG and Webfont format. Enjoy.
 
 ## Icon font generators
 
