@@ -2,7 +2,7 @@
 
 My(A) curated list of goodies.
 
-## Категории
+## The stuff you are actually looking for
 - [Books](#books)
 - [Browsers](#browsers)
 - [CAPTCHA](#captcha)
