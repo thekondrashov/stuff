@@ -841,11 +841,11 @@ My(A) curated list of goodies.
 
 |Preview|Source|
 |------------ | -------------|
-|[![Placeholder Image](http://lorempixel.com/400/200) http://lorempixel.com/400/200](http://lorempixel.com/400/200)|[lorempixel](http://lorempixel.com) - Placeholder Images for every case. Webdesign or Print. Just put a custom url in your html and you receive a proper placeholder picture.|
-|[![Placeholder Image](http://placemi.com/400x200) http://placemi.com/400x200](http://placemi.com/400x200)|[placemi - the ultimate placeholder generator](http://placemi.com) - placemi generates beautiful image placeholders. you can even upload your own too.|
-|[![Placeholder Image](http://placekitten.com/g/400/200) http://placekitten.com/g/400/200](http://placekitten.com/g/400/200)|[{placekitten}](http://placekitten.com) - Kitten-themed placeholder images for developers :3.|
-|[![Placeholder Image](https://placehold.it/400x200) https://placehold.it/400x200](https://placehold.it/400x200)|[Placehold.it](https://placehold.it) - Quick and simple image placeholders.|
-|[![Placeholder Image](http://nicenicejpg.com/400/200) http://nicenicejpg.com/400/200](http://nicenicejpg.com/400/200)|[Nice Nice JPG](http://nicenicejpg.com) - The only image placeholder service on the web bringing you nothing but Vanilla Ice jpgs. You're welcome. [![GitHub stars](https://img.shields.io/github/stars/timboisvert/NiceNiceJPG.svg?label=GitHub%20stars&style=flat-square)](https://github.com/timboisvert/NiceNiceJPG)|
+|[![Placeholder Image](http://lorempixel.com/400/200)](http://lorempixel.com/400/200)|[lorempixel](http://lorempixel.com) - Placeholder Images for every case. Webdesign or Print. Just put a custom url in your html and you receive a proper placeholder picture.<br>:link: http://lorempixel.com/400/200|
+|[![Placeholder Image](http://placemi.com/400x200)](http://placemi.com/400x200)|[placemi - the ultimate placeholder generator](http://placemi.com) - placemi generates beautiful image placeholders. you can even upload your own too.<br>:link: http://placemi.com/400x200|
+|[![Placeholder Image](http://placekitten.com/g/400/200)](http://placekitten.com/g/400/200)|[{placekitten}](http://placekitten.com) - Kitten-themed placeholder images for developers :3.<br>:link: http://placekitten.com/g/400/200|
+|[![Placeholder Image](https://placehold.it/400x200)](https://placehold.it/400x200)|[Placehold.it](https://placehold.it) - Quick and simple image placeholders.<br>:link: https://placehold.it/400x200|
+|[![Placeholder Image](http://nicenicejpg.com/400/200)](http://nicenicejpg.com/400/200)|[Nice Nice JPG](http://nicenicejpg.com) - The only image placeholder service on the web bringing you nothing but Vanilla Ice jpgs. You're welcome. [![GitHub stars](https://img.shields.io/github/stars/timboisvert/NiceNiceJPG.svg?label=GitHub%20stars&style=flat-square)](https://github.com/timboisvert/NiceNiceJPG)<br>:link: http://nicenicejpg.com/400/200|
 
 
 ## Push-notifications
