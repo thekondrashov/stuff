@@ -685,12 +685,13 @@ My(A) curated list of goodies.
 * [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/analyze.html) - A comprehensive free SSL test for your public web servers.
 * [TinyCert](https://www.tinycert.org) - Generate and manage SSL certificates free.
 * [Let's Encrypt](https://letsencrypt.org) - It’s free, automated, and open certificate authority.
-* [30-day free trial SSL certificate from RapidSSL](https://www.freessl.com) - These SSL certificates are fully functional for 30 days, ideal for testing.
-* [Бесплатные SSL-сертификаты на 2 года от WoSign / Хабрахабр](http://habr.ru/p/252529)
-* [Бесплатные SSL-сертификаты на 3 года с поддержкой до 100 доменов](https://blog.kai-zer.ru/besplatnyy-ssl-sertifikaty-na-3-goda-s-pod/)
 * [StartSSL™ Certificates](https://www.startssl.com) - StartCom Free SSL Client, S/Mime, Server, Domain Controller, Smartcard Certificates.
-* [Бесплатный валидный (подписанный) SSL-сертификат через StartSSL](http://valera.ws/2012.03.11~free-valid-signed-ssl-certificate-with-sratssl/) - Персональный блог Валерия Леонтьева.
-* [Устанавливаем бесплатный SSL–сертификат StartSSL на облачный VPS от Infobox](http://habr.ru/p/256283) -  Блог компании Infobox / Хабрахабр.
+* [Free SSL Certificate from Comodo | Extended Free SSL for 90 days](https://www.instantssl.com/free-ssl-certificate.html) - Learn why Free SSL Certificate from Comodo is trusted by majority of web browsers. Get Extended Free SSL for 90 days and secure your website in minutes.
+* [30-day free trial SSL certificate from RapidSSL](https://www.freessl.com) - These SSL certificates are fully functional for 30 days, ideal for testing.
+* :ru: [Бесплатные SSL-сертификаты на 2 года от WoSign / Хабрахабр](http://habr.ru/p/252529)
+* :ru: [Бесплатные SSL-сертификаты на 3 года с поддержкой до 100 доменов](https://blog.kai-zer.ru/besplatnyy-ssl-sertifikaty-na-3-goda-s-pod/)
+* :ru: [Бесплатный валидный (подписанный) SSL-сертификат через StartSSL](http://valera.ws/2012.03.11~free-valid-signed-ssl-certificate-with-sratssl/) - Персональный блог Валерия Леонтьева.
+* :ru: [Устанавливаем бесплатный SSL–сертификат StartSSL на облачный VPS от Infobox](http://habr.ru/p/256283) -  Блог компании Infobox / Хабрахабр.
 
 
 ## Two Factor Auth
