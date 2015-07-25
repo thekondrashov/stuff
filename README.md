@@ -1014,6 +1014,7 @@ My(A) curated list of goodies.
 * [20 Best Code Review Tools for Developers - DevsTrend](http://www.devstrend.com/20-best-code-review-tools-for-developers/) - 20 Best Code Review Tools for Developers-Using a good code reviewer can help a programmer to a great extent by increasing the quality and decreasing the chances of errors in the program code. Топ-20 сервисов инспекции кода для разработчиков.
 * [Styling – SVG 1.1 (Second Edition)](https://www.w3.org/TR/SVG/styling.html) - В CSS стили для SVG элементов отличаются от стандартных, полный список стилей поддерживаемых SVG можно посмотреть тут.
 * [Monoid Open Source Coding Font](https://larsenwork.com/monoid/) - Monoid is a customizable, minimal + legible font optimized for coding. It's drawn over a 14px grid for bitmap-like sharpness. [![GitHub stars](https://img.shields.io/github/stars/larsenwork/monoid.svg?label=GitHub%20stars&style=flat-square)](https://github.com/larsenwork/monoid)
+* [BLOKK font](http://blokkfont.com) - BLOKK font helps you create good looking mock-ups and wireframes, where layout is more important than latin words.
 
 
 
@@ -1024,7 +1025,7 @@ My(A) curated list of goodies.
 * [Namecheap.com](https://www.namecheap.com) - Cheap Domain Name Registration & Web Hosting. The Best Domain Name Registrar when it comes to Customer Service.
 * [Namecheap Education Program: Free Domains for Students](https://nc.me) - The Namecheap Education Program provides free domains and email hosting for university students in the US, UK, and Canada.
 * [Simple Domain Name Registrar - iwantmyname](https://iwantmyname.com) - Buy your domain name for the best personal and business web applications, no web hosting required. Register international domains and country code domains for your online identity now.
-* [Подбор красивого доменного имени / СоХабр](https://sohabr.net/habr/post/256507/)
+* :ru: [Подбор красивого доменного имени / СоХабр](https://sohabr.net/habr/post/256507/)
 
 
 ## Google App Engine
