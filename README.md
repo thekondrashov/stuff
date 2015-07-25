@@ -270,17 +270,18 @@ My(A) curated list of goodies.
 
 ## Color Scheme Generators
 
-* [Flatuicolorpicker](http://www.flatuicolorpicker.com/) - A project digging the Flat Color Picker which gives you the perfect colors for flat designs.
+* [Flatuicolorpicker](http://www.flatuicolorpicker.com) - A project digging the Flat Color Picker which gives you the perfect colors for flat designs.
 * [Flat UI Colors](http://flatuicolors.com) - This small web app helps you to copy the colors from Flat UI. It's kind of responsive, so you can use it with a tiny browser like a widget.
 * [Coolors](http://coolors.co/app) - Generate infinite color palettes for your designs and share, export or save it in your profile.
+* [dyecol](http://dyecol.com) - dyecol is a beautiful color generator for your web projects. dyecol generates colors at random and they're beautiful. ![tweet](https://img.shields.io/twitter/url/http/dyecol.com.svg?label=tweet&style=flat-square)
 
 ## Color Misc
 
 * [GitHub language colour codes](https://github.com/librariesio/favicon/blob/master/lib/colours.json)
 * [GitHub color codes for programming languages](https://github.com/doda/github-language-colors) - A mapping of which colors github uses to represent different programming languages in their "Languages" tab on each repository.
-* [What colour is it?](http://whatcolourisit.scn9a.org/) - the time....... now in colour.
+* [What colour is it?](http://whatcolourisit.scn9a.org) - the time....... now in colour.
 * [Snazzy Maps - Free Styles for Google Maps](https://snazzymaps.com) - Snazzy Maps is a repository of different color schemes for Google Maps aimed towards web designers and developers.
-* [GradifyCSS — модуль, который находит основные цвета в изображениях и создает масштабируемый CSS градиент](http://gradifycss.com/). [GitHub](https://github.com/fraser-hemp/gradify)
+* [GradifyCSS — модуль, который находит основные цвета в изображениях и создает масштабируемый CSS градиент](http://gradifycss.com). [![GitHub stars](https://img.shields.io/github/stars/fraser-hemp/gradify.svg?label=GitHub%20stars&style=flat-square)](https://github.com/fraser-hemp/gradify)
 
 
 
