@@ -804,7 +804,9 @@ My(A) curated list of goodies.
 
 ### Sublime Text custom icons
 
-* [Sublime Text Token-style Icon by HannzK on DeviantArt](http://hannzk.deviantart.com/art/Sublime-Text-Token-style-Icon-315466623) - Credits go to ~brsev from deviantART for creating this awesome icon style and to the creators of Sublime Text, the awesome semi-IDE! Also, there's an is... Sublime Text Token-style Icon.
+|Preview|Source|
+|------------ | -------------|
+|![Sublime Text Icon](http://img07.deviantart.net/6ff2/i/2012/200/1/f/sublime_text_token_style_icon_by_hannzk-d57tjlr.png)|[Sublime Text Token-style Icon by HannzK on DeviantArt](http://hannzk.deviantart.com/art/Sublime-Text-Token-style-Icon-315466623) - Credits go to ~brsev from deviantART for creating this awesome icon style and to the creators of Sublime Text, the awesome semi-IDE! Also, there's an is... Sublime Text Token-style Icon.|
 
 ### Sublime Text themes
 
