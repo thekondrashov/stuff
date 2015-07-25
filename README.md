@@ -683,6 +683,7 @@ My(A) curated list of goodies.
 * [SHAAAAAAAAAAAAA | Check your site for weak SHA-1 certificates](https://shaaaaaaaaaaaaa.com) - SHA-1 certificates are dangerously weak, and you probably have one. It's time to upgrade to SHA-2. Open source tool by @konklone. [GitHub](https://github.com/konklone/shaaaaaaaaaaaaa)
 * [SSL Certificate Tools - SSLShopper](https://www.sslshopper.com/ssl-certificate-tools.html) - SSL Certificate Tools for troubleshooting SSL certificate related problems.
 * [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/analyze.html) - A comprehensive free SSL test for your public web servers.
+* [SSL Check](https://sslcheck.globalsign.com) - GlobalSign SSL Configuration Checker. Powered by Qualys SSL Labs. Средство проверки конфигурации SSL GlobalSign. Основано на технологиях Qualys SSL Labs.
 * [TinyCert](https://www.tinycert.org) - Generate and manage SSL certificates free.
 * [Let's Encrypt](https://letsencrypt.org) - It’s free, automated, and open certificate authority.
 * [StartSSL™ Certificates](https://www.startssl.com) - StartCom Free SSL Client, S/Mime, Server, Domain Controller, Smartcard Certificates.
