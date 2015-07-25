@@ -213,7 +213,7 @@ My(A) curated list of goodies.
 
 ## Справочники
 
-* [Cheat Sheets](#cheat-sheets)
+* [Cheat Sheets / Curated lists](#cheat-sheets--curated-lists)
 * [Emoji](#emoji)
 * [HTTP Status Codes](#http-status-codes)
 * [Markdown](#markdown)
@@ -950,13 +950,14 @@ My(A) curated list of goodies.
 
 # Справочники
 
-## Cheat Sheets
+## Cheat Sheets / Curated lists
 
 * [Cheat Sheets - Added Bytes](https://www.addedbytes.com/cheat-sheets/) - A selection of 31 awesome, printable quick references for a variety of languages and web technologies. These and more are also available at [Cheatography](http://www.cheatography.com).
-* [205 шпаргалок для разработчика](http://habr.ru/p/254585) - Хабрахабр.
-* [Learn X in Y minutes](http://learnxinyminutes.com) - Whirlwind tours of (several, hopefully many someday) popular and ought-to-be-more-popular programming languages, presented as valid, commented code and explained as they go. [GitHub](https://github.com/adambard/learnxinyminutes-docs)
+* [Learn X in Y minutes](http://learnxinyminutes.com) - Whirlwind tours of (several, hopefully many someday) popular and ought-to-be-more-popular programming languages, presented as valid, commented code and explained as they go. [![GitHub stars](https://img.shields.io/github/stars/adambard/learnxinyminutes-docs.svg?label=GitHub%20stars&style=flat-square)](https://github.com/adambard/learnxinyminutes-docs)
 * [OverAPI.com | Collecting all the cheat sheets](http://overapi.com) - OverAPI.com is a site collecting all the cheatsheets,all!
 * [Best HTML and CSS Cheat Sheets » CSS Author](http://www.cssauthor.com/html-and-css-cheat-sheets/) - The best list of HTML and CSS Cheat sheets for developers, these cheats are really a great reference for developers, students etc..
+* [ZEEF | Curated Directory | Find information through people](https://zeef.com) - In the ZEEF Curated Directory, passionate people create top lists of links about their favourite topics. They have sifted and ranked the best results for you.
+* :ru: [205 шпаргалок для разработчика](http://habr.ru/p/254585) - Хабрахабр.
 * :ru: [Шпаргалки по HTML - Клуб PHP программистов](https://vk.com/wall-3183750_58803)
 
 
