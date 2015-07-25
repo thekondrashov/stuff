@@ -534,7 +534,7 @@ My(A) curated list of goodies.
 
 ## Progress bar
 
-* [ToProgress.js](https://djyde.github.io/ToProgress) - A lightweight, no-dependency top progress bar library. ToProgress — миниатюрная (2.2 KB) и максимально простая библиотека для создания прогресс-баров. Обладает всего семью методами: .increase(), .decrease(), .reset(), .finish(), .show(), .hide(), .setProgress(). [![GitHub stars](https://img.shields.io/github/stars/djyde/ToProgress.svg?label=GitHub%20stars&style=flat-square)](https://github.com/djyde/ToProgress) ![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
+* [ToProgress.js](https://djyde.github.io/ToProgress) - A lightweight, no-dependency top progress bar library. ToProgress — миниатюрная (2.2 KB) и максимально простая библиотека для создания прогресс-баров. Обладает всего семью методами: .increase(), .decrease(), .reset(), .finish(), .show(), .hide(), .setProgress(). [![GitHub stars](https://img.shields.io/github/stars/djyde/ToProgress.svg?label=GitHub%20stars&style=flat-square)](https://github.com/djyde/ToProgress) ![MIT License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)
 
 
 ## Vanilla JS
