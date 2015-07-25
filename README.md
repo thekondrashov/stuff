@@ -109,6 +109,7 @@ My(A) curated list of goodies.
 * [JavaScript tutorials](#javascript-tutorials)
 * [jQuery](#jquery)
 * [Autocomplete](#autocomplete)
+* [Progress bar](#progress-bar)
 * [Vanilla JS](#vanilla-js)
 * [JavaScript Misc](#javascript-misc)
 
@@ -529,6 +530,11 @@ My(A) curated list of goodies.
 ## Autocomplete
 
 * [Ajax AutoComplete for jQuery](https://github.com/devbridge/jQuery-Autocomplete) - Ajax Autocomplete for jQuery allows you to easily create autocomplete/autosuggest boxes for text input fields. Has no dependencies other than jQuery. The standard jquery.autocomplete.js file is around 2.7KB when minified via Closure Compiler and gzipped.
+
+
+## Progress bar
+
+* [ToProgress.js](https://djyde.github.io/ToProgress) - A lightweight, no-dependency top progress bar library. ToProgress — миниатюрная (2.2 KB) и максимально простая библиотека для создания прогресс-баров. Обладает всего семью методами: .increase(), .decrease(), .reset(), .finish(), .show(), .hide(), .setProgress(). [![GitHub stars](https://img.shields.io/github/stars/djyde/ToProgress.svg?label=GitHub%20stars&style=flat-square)](https://github.com/djyde/ToProgress) ![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
 
 
 ## Vanilla JS
