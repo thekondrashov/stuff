@@ -945,7 +945,7 @@ My(A) curated list of goodies.
 * [Learn X in Y minutes](http://learnxinyminutes.com) - Whirlwind tours of (several, hopefully many someday) popular and ought-to-be-more-popular programming languages, presented as valid, commented code and explained as they go. [GitHub](https://github.com/adambard/learnxinyminutes-docs)
 * [OverAPI.com | Collecting all the cheat sheets](http://overapi.com) - OverAPI.com is a site collecting all the cheatsheets,all!
 * [Best HTML and CSS Cheat Sheets » CSS Author](http://www.cssauthor.com/html-and-css-cheat-sheets/) - The best list of HTML and CSS Cheat sheets for developers, these cheats are really a great reference for developers, students etc..
-* [Шпаргалки по HTML - Клуб PHP программистов](https://vk.com/wall-3183750_58803)
+* :ru: [Шпаргалки по HTML - Клуб PHP программистов](https://vk.com/wall-3183750_58803)
 
 
 ## Emoji
