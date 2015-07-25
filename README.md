@@ -794,8 +794,10 @@ My(A) curated list of goodies.
 
 ### Sublime Text plugins
 
-* [Как сделать из Sublime Text удобный переводчик или обзор полезного плагина YandexTranslate](http://pafnuty.name/statyi/146-yandex-translate.html)
 * [Markdown plugin for Sublime Text - GitHub](https://github.com/SublimeText-Markdown/MarkdownEditing) - Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
+* [Sublime Text packages for Front-end Development — Medium](https://medium.com/@vilcins/d7b35a89e16d) - Sublime Text is my favorite text editor for code and it’s the most beautiful editor I have laid eyes on. I just love it!… На Medium: Подборка Sublime Text плагинов для фронтенд разработки.
+* :ru: [Как сделать из Sublime Text удобный переводчик или обзор полезного плагина YandexTranslate](http://pafnuty.name/statyi/146-yandex-translate.html)
+
 
 ### Sublime Text custom icons
 
