@@ -393,7 +393,7 @@ My(A) curated list of goodies.
 * [StyleStats - An evaluating tool for writing better CSS](http://www.stylestats.org) - Копируете ссылку на сайт и алгоритм дает исчерпывающую статистику о CSS-файле. [GitHub](https://github.com/t32k/stylestats)
 * [CSS Guidelines](http://cssguidelin.es) - High-level advice and guidelines for writing sane, manageable, scalable CSS. On Russian: Cборник дельных советов, рекомендаций и лучших практик по написанию качественного, управляемого и масштабируемого CSS.
 * [CSS escapes](https://mothereff.in/css-escapes) - Wondering how to escape any character in CSS? There’s a web app for that™. [GitHub](https://github.com/mathiasbynens/mothereff.in/tree/master/css-escapes)
-* :octokit: [Critical-path (Above-the-fold) CSS Tools](https://github.com/addyosmani/critical-path-css-tools) - Tools to prioritize above-the-fold (critical-path) CSS by Addy Osmani. [![GitHub stars](https://img.shields.io/github/stars/addyosmani/critical-path-css-tools.svg?label=GitHub%20stars&style=flat-square)](https://github.com/addyosmani/critical-path-css-tools)
+* :octocat: [Critical-path (Above-the-fold) CSS Tools](https://github.com/addyosmani/critical-path-css-tools) - Tools to prioritize above-the-fold (critical-path) CSS by Addy Osmani. [![GitHub stars](https://img.shields.io/github/stars/addyosmani/critical-path-css-tools.svg?label=GitHub%20stars&style=flat-square)](https://github.com/addyosmani/critical-path-css-tools)
 
 
 # Digests
@@ -960,7 +960,7 @@ My(A) curated list of goodies.
 * [OverAPI.com | Collecting all the cheat sheets](http://overapi.com) - OverAPI.com is a site collecting all the cheatsheets,all!
 * [Best HTML and CSS Cheat Sheets » CSS Author](http://www.cssauthor.com/html-and-css-cheat-sheets/) - The best list of HTML and CSS Cheat sheets for developers, these cheats are really a great reference for developers, students etc..
 * [ZEEF | Curated Directory | Find information through people](https://zeef.com) - In the ZEEF Curated Directory, passionate people create top lists of links about their favourite topics. They have sifted and ranked the best results for you.
-* :octokit: [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. [![GitHub stars](https://img.shields.io/github/stars/ripienaar/free-for-dev.svg?label=GitHub%20stars&style=flat-square)](https://github.com/ripienaar/free-for-dev)
+* :octocat: [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. [![GitHub stars](https://img.shields.io/github/stars/ripienaar/free-for-dev.svg?label=GitHub%20stars&style=flat-square)](https://github.com/ripienaar/free-for-dev)
 * :ru: [205 шпаргалок для разработчика](http://habr.ru/p/254585) - Хабрахабр.
 * :ru: [Шпаргалки по HTML - Клуб PHP программистов](https://vk.com/wall-3183750_58803)
 
