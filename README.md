@@ -14,8 +14,9 @@ My(A) curated list of goodies.
 - [Digests](#digests)
 - [Donations](#donations)
 - [Email](#email)
-- [Icons](#icons)
+- [Fonts](#fonts)
 - [GIT](#git)
+- [Icons](#icons)
 - [JavaScript](#javascript)
 - [Lessons](#lessons)
 - [Localization](#localization)
@@ -97,6 +98,16 @@ My(A) curated list of goodies.
 * [Email test](#email-test)
 * [Email Misc](#email-misc)
 
+## Fonts
+
+* [Search Fonts](#search-fonts)
+
+
+## GIT
+
+* [Code hostings](#code-hostings)
+* [GIT Misc](#git-misc)
+
 
 ## Icons
 
@@ -104,10 +115,6 @@ My(A) curated list of goodies.
 * [Icon font generators](#icon-font-generators)
 * [Search Icons](#search-icons)
 
-## GIT
-
-* [Code hostings](#code-hostings)
-* [GIT Misc](#git-misc)
 
 
 ## JavaScript
@@ -457,6 +464,28 @@ My(A) curated list of goodies.
 * [Почтовые синонимы в Gmail](http://demin.ws/blog/russian/2012/09/06/gmail-aliases/) - Александр Дëмин.
 
 
+# Fonts
+
+## Search Fonts
+
+* :ru: [Фонтов.нет](http://fontov.net) - Самые красивые шрифты Photoshop и не только. Русские шрифты скачать бесплатно можно сразу же после просмотра. В нашей базе присутствуют бесплатные шрифты самых разных стилей. Стили шрифтов не ограничиваются только готическими шрифтами и шрифтом граффити.
+
+
+# GIT
+
+## Code hostings
+
+* [GitLab](https://gitlab.com) - Create, review and deploy code together. Better than GitHub.
+* [Comparison of source code hosting facilities](https://en.wikipedia.org/wiki/Comparison_of_source_code_hosting_facilities) - Wikipedia, the free encyclopedia.
+
+## GIT Misc
+
+* [Библиотека программиста - Подборка материалов по Git и Github](https://vk.com/wall-54530371_34613)
+* :octocat: [Libraries | GitHub API](https://developer.github.com/libraries) - Use the GitHub API in your favorite language. Use the official Octokit library, or choose between any of the available third party libraries.
+* [GitHub Archive](https://www.githubarchive.org) - GitHub Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis. [![GitHub stars](https://img.shields.io/github/stars/igrigorik/githubarchive.org.svg?label=GitHub%20stars&style=flat-square)](https://github.com/igrigorik/githubarchive.org)
+* [GitHub Awards : Discover your ranking on GitHub](http://github-awards.com) - Find out what is your rank by language, in your city and in your country. [![GitHub stars](https://img.shields.io/github/stars/vdaubry/github-awards.svg?label=GitHub%20stars&style=flat-square)](https://github.com/vdaubry/github-awards) ![license](https://img.shields.io/github/license/vdaubry/github-awards.svg?style=flat-square)
+
+
 
 # Icons
 
@@ -493,20 +522,6 @@ My(A) curated list of goodies.
 * [We Love Icon Fonts](http://weloveiconfonts.com) - A free & open source icon fonts hosting service for testing purposes. [GitHub](https://github.com/TimPietrusky/weloveiconfonts)
 * [Decorator Icons](http://decorator.codable.org/iconsttf). [GitHub](https://github.com/uloga/decorator)
 * [Smashicons](http://smashicons.com) - Smashicons is the world's largest and most complete icon set with over 14000 icons for designers and developers.
-
-# GIT
-
-## Code hostings
-
-* [GitLab](https://gitlab.com/) - Create, review and deploy code together. Better than GitHub.
-* [Comparison of source code hosting facilities](https://en.wikipedia.org/wiki/Comparison_of_source_code_hosting_facilities) - Wikipedia, the free encyclopedia.
-
-## GIT Misc
-
-* [Библиотека программиста - Подборка материалов по Git и Github](https://vk.com/wall-54530371_34613)
-* [Libraries | GitHub API](https://developer.github.com/libraries) - Use the GitHub API in your favorite language. Use the official Octokit library, or choose between any of the available third party libraries.
-* [GitHub Archive](https://www.githubarchive.org) - GitHub Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis. [GitHub](https://github.com/igrigorik/githubarchive.org)
-* [GitHub Awards : Discover your ranking on GitHub](http://github-awards.com) - Find out what is your rank by language, in your city and in your country. [GitHub](https://github.com/vdaubry/github-awards)
 
 
 
