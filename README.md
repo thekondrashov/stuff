@@ -418,6 +418,7 @@ My(A) curated list of goodies.
 * [CSS Guidelines](http://cssguidelin.es) - High-level advice and guidelines for writing sane, manageable, scalable CSS. On Russian: Cборник дельных советов, рекомендаций и лучших практик по написанию качественного, управляемого и масштабируемого CSS.
 * [CSS escapes](https://mothereff.in/css-escapes) - Wondering how to escape any character in CSS? There’s a web app for that™. [GitHub](https://github.com/mathiasbynens/mothereff.in/tree/master/css-escapes)
 * :octocat: [Critical-path (Above-the-fold) CSS Tools](https://github.com/addyosmani/critical-path-css-tools) - Tools to prioritize above-the-fold (critical-path) CSS by Addy Osmani. [![GitHub stars](https://img.shields.io/github/stars/addyosmani/critical-path-css-tools.svg?label=GitHub%20stars&style=flat-square)](https://github.com/addyosmani/critical-path-css-tools)
+* [EnjoyCSS](http://enjoycss.com) - EnjoyCSS is an advanced online CSS3 code generator with a simple graphical interface that saves your time. Its handy and simple UI allows you to adjust rich graphical styles quickly and without coding.
 
 
 # Digests
