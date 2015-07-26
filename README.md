@@ -3,6 +3,7 @@
 My(A) curated list of goodies.
 
 ## The stuff you are actually looking for
+- [Bookmarks](#bookmarks)
 - [Books](#books)
 - [Browsers](#browsers)
 - [CAPTCHA](#captcha)
@@ -33,6 +34,11 @@ My(A) curated list of goodies.
 - [Web performance optimization](#web-performance-optimization)
 - [Справочники](#Справочники)
 - [Web Hosting](#web-hosting)
+
+
+## Bookmarks
+
+* [Bookmark services](#bookmarks-tools)
 
 
 ## Books
@@ -232,6 +238,15 @@ My(A) curated list of goodies.
 
 
 # Интересности
+
+
+# Bookmarks
+
+## Bookmark services
+
+* [Pocket](https://getpocket.com) - Если вы наткнулись на что-то интересное - сохраните это в Pocket и насладитесь позже.
+* [Instapaper](https://instapaper.com) - A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.
+* [GrabDuck!](https://grabduck.com) - It is the only bookmarking service that offers full text search on your bookmarks. GrabDuck helps keep everything interesting that you find on the Web. :ru: Это единственный сервис закладок, который предлагает полнотекстовый поиск по вашим закладкам. GrabDuck помогает сохранять все интересное что Вы находите в интернете.
 
 
 # Books
