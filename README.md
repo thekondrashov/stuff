@@ -847,6 +847,7 @@ My(A) curated list of goodies.
 ## Favicon Generators
 
 * [RealFaviconGenerator](https://realfavicongenerator.net) - Your web site is responsive, your favicon should be too. Generate favicon pictures and HTML code for all major platforms at once: iOS, Android, desktop... [![GitHub stars](https://img.shields.io/github/stars/RealFaviconGenerator/realfavicongenerator.svg?label=GitHub%20stars&style=flat-square)](https://github.com/RealFaviconGenerator/realfavicongenerator)
+* [RealFaviconGenerator - Favicon checker](https://realfavicongenerator.net/favicon_checker) - Check the favicon of your site. Does it look good on Windows? iPhone/iPad? Find out!
 * [Epic Favicon Generator by BCCO](https://epicfavicongenerator.com) - The Epic Favicon Generator offers 20+ favicon sizes, is mobile friendly, and free!
 * [Create a Windows 8.1 tile for your site - Build My Pinned Site - Microsoft Internet Explorer](http://buildmypinnedsite.com) - Create a Windows 8.1 tile for your site in minutes.
 * :octocat: [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) - A painfully obsessive cheat sheet to favicon sizes/types. [![GitHub stars](https://img.shields.io/github/stars/audreyr/favicon-cheat-sheet.svg?label=GitHub%20stars&style=flat-square)](https://github.com/audreyr/favicon-cheat-sheet)
