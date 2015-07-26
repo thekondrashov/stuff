@@ -848,6 +848,7 @@ My(A) curated list of goodies.
 
 * [RealFaviconGenerator](https://realfavicongenerator.net) - Your web site is responsive, your favicon should be too. Generate favicon pictures and HTML code for all major platforms at once: iOS, Android, desktop... [![GitHub stars](https://img.shields.io/github/stars/RealFaviconGenerator/realfavicongenerator.svg?label=GitHub%20stars&style=flat-square)](https://github.com/RealFaviconGenerator/realfavicongenerator)
 * [Epic Favicon Generator by BCCO](https://epicfavicongenerator.com) - The Epic Favicon Generator offers 20+ favicon sizes, is mobile friendly, and free!
+* [Create a Windows 8.1 tile for your site - Build My Pinned Site - Microsoft Internet Explorer](http://buildmypinnedsite.com) - Create a Windows 8.1 tile for your site in minutes.
 * :octocat: [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) - A painfully obsessive cheat sheet to favicon sizes/types. [![GitHub stars](https://img.shields.io/github/stars/audreyr/favicon-cheat-sheet.svg?label=GitHub%20stars&style=flat-square)](https://github.com/audreyr/favicon-cheat-sheet)
 * [Favicons, Touch Icons, Tile Icons, etc. Which Do You Need? | CSS-Tricks](https://css-tricks.com/favicon-quiz/) - Philippe Bernard has done research on what it takes to make a favicon (and all the related graphics and markup). :ru: ![Хабрахабр](https://hsto.org/storage2/c57/b92/af4/c57b92af4ee0d37f787c211a068b1b95.png) [Перевод статьи](http://habr.ru/p/260777)
 
