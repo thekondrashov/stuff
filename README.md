@@ -209,6 +209,7 @@ My(A) curated list of goodies.
 * [Convert anything to anything](#convert-anything-to-anything)
 * [Favicon Generators](#favicon-generators)
 * [Make HTTP requests](#make-http-requests)
+* [Paste sites](#paste-sites)
 * [Placeholder images](#placeholder-images)
 * [Push-notifications](#push-notifications)
 * [Status Pages](#status-pages)
@@ -889,6 +890,18 @@ My(A) curated list of goodies.
 * [HTTP Web-Sniffer](http://web-sniffer.net) - View request and response header of a HTTP connection, HTTP status codes and HTML source.
 
 
+## Paste sites
+
+* [CodePen](https://codepen.io) - CodePen is a playground for the front end side of the web & code editor in the browser. It's all about inspiration, education, and sharing.
+* [JSFiddle](https://jsfiddle.net) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor. :octocat: [JSFiddle Issues](https://github.com/jsfiddle/jsfiddle-issues)
+* [JS Bin - Collaborative JavaScript Debugging](https://jsbin.com) - A live pastebin for HTML, CSS & JavaScript and a range of processors, including SCSS, CoffeeScript, Jade and more... [![GitHub stars](https://img.shields.io/github/stars/jsbin/jsbin.svg?label=GitHub%20stars&style=flat-square)](https://github.com/jsbin/jsbin)
+* [GitHub Gist](https://gist.github.com) - Gist is a simple way to share snippets and pastes with others. All gists are Git repositories, so they are automatically versioned, forkable and usable from Git.
+* [repl.it](https://repl.it) - Online Interpreters in JavaScript. Try Python, Ruby, Java, Node.js, Go, Scheme, C, C++, Lua, CoffeeScript and more programming languages. Online coding and REPL. Run and share code. [![GitHub stars](https://img.shields.io/github/stars/replit/repl.it.svg?label=GitHub%20stars&style=flat-square)](https://github.com/replit/repl.it)
+* [glot.io](https://glot.io) - An open source pastebin with runnable snippets and API. [![GitHub stars](https://img.shields.io/github/stars/prasmussen/glot.svg?label=GitHub%20stars&style=flat-square)](https://github.com/prasmussen/glot)
+* [Pastebin.com](https://pastebin.com) - #1 paste tool since 2002! Pastebin is a website where you can store text online for a set period of time.
+* [Pastie](https://pastie.org)
+
+
 ## Placeholder images
 
 |Preview|Source|
@@ -904,6 +917,7 @@ My(A) curated list of goodies.
 
 * [Pusher](https://pusher.com) - Pusher is a hosted API for quickly, easily and securely adding scalable realtime functionality to web and mobile apps.
 * [Post Hawk](http://post-hawk.com) - это сервис, предоставляющий простое и понятное API, для организации связи между приложенияими в реальном времени. Это могут быть, например, два браузера (чат между пользователями) или сервер и браузер (push-уведомления) или иная программа, имеющая возможность работы по протоколу Web Sockets. [Bitbucket](https://bitbucket.org/Slavenin/hawk_api)
+
 
 ## Status Pages
 
