@@ -463,7 +463,8 @@ My(A) curated list of goodies.
 
 ## Email Misc
 
-* [Почтовые синонимы в Gmail](http://demin.ws/blog/russian/2012/09/06/gmail-aliases/) - Александр Дëмин.
+* [Dmail](https://mail.delicious.com) - Self-Destructing Email. Finally, sent email has a delete button.
+* :ru: [Почтовые синонимы в Gmail](http://demin.ws/blog/russian/2012/09/06/gmail-aliases/) - Александр Дëмин.
 
 
 # Fonts
