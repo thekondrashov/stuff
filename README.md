@@ -216,6 +216,7 @@ My(A) curated list of goodies.
 * [Placeholder images](#placeholder-images)
 * [Push-notifications](#push-notifications)
 * [Status Pages](#status-pages)
+* [Stock Photos](#stock-photos)
 * [URL Shorteners](#url-shorteners)
 
 
@@ -950,6 +951,10 @@ My(A) curated list of goodies.
 * [OffsiteStatus - Hosted System Status Page](http://www.offsitestatus.com) - OffsiteStatus provides an off-site, hosted system status page for SaaS applications. Let customers know what is going on when your site is having issues.
 * [Runbook - DevOps, automated](https://runbook.io) - Solve problems in your sleep with IFTTT-style mitigation of alerts.
 
+
+## Stock Photos
+
+* [Unsplash](https://unsplash.com) - Free (do whatever you want) high-resolution stock photos. Download 10 new free stock photos every 10 days.
 
 
 ## URL Shorteners
