@@ -1156,7 +1156,12 @@ My(A) curated list of goodies.
 * [Making SVGs Responsive](http://tympanus.net/Tutorials/ResponsiveSVGs/) - Codrops.
 * [A Compendium of SVG Information | CSS-Tricks](https://css-tricks.com/mega-list-svg-information/) - A huge pile of information about SVG. How to Use SVG These are overview articles covering lots of stuff relating to SVG. Why to use it and the basics of how to use it.
 * [SVG PORN](https://github.com/gilbarbara/logos) - A collection of svg logos for developers.
-* [Shields.io: Quality metadata badges for open source projects](http://shields.io) - We serve fast and scalable informational images as badges for GitHub, Travis CI, Jenkins, WordPress and many more services. Use them to track the state of your projects, or for promotional purposes. [GitHub](https://github.com/badges/shields)
+
+|Preview|Source|
+|------------ | -------------|
+|[![Build status](https://img.shields.io/travis/joyent/node.svg)](http://shields.io)<br>[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social)](https://github.com/badges/shields)<br>[![tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](http://shields.io)|[Shields.io: Quality metadata badges for open source projects](http://shields.io) - We serve fast and scalable informational images as badges for GitHub, Travis CI, Jenkins, WordPress and many more services. Use them to track the state of your projects, or for promotional purposes. [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?label=GitHub%20stars&style=flat-square)](https://github.com/badges/shields)|
+|[![forthebadge](http://forthebadge.com/images/badges/built-by-hipsters.svg)](http://forthebadge.com)<br>[![forthebadge](http://forthebadge.com/images/badges/compatibility-ie-6.svg)](http://forthebadge.com)<br>[![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)|[For the Badge](http://forthebadge.com). [![GitHub stars](https://img.shields.io/github/stars/BraveUX/for-the-badge.svg?label=GitHub%20stars&style=flat-square)](https://github.com/BraveUX/for-the-badge)|
+
 * [SVG Weirdness](https://github.com/emilbjorklund/svg-weirdness/issues) - A repository for documenting bugs and other weird SVG behaviors, inspired by [Scott Jehl’s “Device Bugs” repo](https://github.com/scottjehl/Device-Bugs). Странности SVG, репозиторий на GitHub, в котором авторы начали собирать проблемы и решения.
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com) - Fake online REST API for developers. [GitHub](https://github.com/typicode/jsonplaceholder)
 * [Github Party](https://github.party) - Get/Post {links/comments,or cool stuff in github}. [GitHub](https://github.com/httpsgithubparty)
