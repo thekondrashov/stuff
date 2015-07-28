@@ -760,20 +760,20 @@ My(A) curated list of goodies.
 
 ## Two Factor Auth
 
-* [Two Factor Auth List](https://twofactorauth.org) - List of sites with Two Factor Auth support which includes SMS, email, phone calls, hardware, and software. [GitHub](https://github.com/jdavis/twofactorauth)
+* [Two Factor Auth List](https://twofactorauth.org) - List of sites with Two Factor Auth support which includes SMS, email, phone calls, hardware, and software. [![GitHub stars](https://img.shields.io/github/stars/jdavis/twofactorauth.svg?label=GitHub%20stars&style=flat-square)](https://github.com/jdavis/twofactorauth)
 
 
 
 ## Web security blogs
 
-* [Scott Helme](https://scotthelme.co.uk/) - Information Security Consultant.
-* [oxdef](https://www.oxdef.info/) - Some thoughts about web security.
+* [Scott Helme](https://scotthelme.co.uk) - Information Security Consultant.
+* [oxdef](https://www.oxdef.info) - Some thoughts about web security.
 
 
 ## Security Misc
 
-* [Как сделать JSON Vulnerability Protection в ответе сервера под Yii2](http://habr.ru/p/256213) - Хабрахабр.
-* [Awesome AppSec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security. Contains books, websites, blog posts, and self-assessment quizzes.
+* :ru: [Как сделать JSON Vulnerability Protection в ответе сервера под Yii2](http://habr.ru/p/256213) - Хабрахабр.
+* :octocat: [Awesome AppSec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security. Contains books, websites, blog posts, and self-assessment quizzes.
 
 
 
@@ -781,28 +781,29 @@ My(A) curated list of goodies.
 
 ## A/B Testing
 
-* [A/B Testing Tool and Split Testing Software - Visual Website Optimizer](https://vwo.com/) - AB testing software for data-driven marketers. Signup for a 30-day free trial of our A/B testing tool to improve conversion rate and sales from your website.
+* [A/B Testing Tool and Split Testing Software - Visual Website Optimizer](https://vwo.com) - AB testing software for data-driven marketers. Signup for a 30-day free trial of our A/B testing tool to improve conversion rate and sales from your website.
 * [Hamburger vs Menu: The Final AB Test](http://exisweb.net/menu-eats-hamburger)
 
 
 ## Микроразметка (семантическая разметка)
 
-* [Микроразметка статьи | ИТ "Шеф"](http://itchief.ru/lessons/modx-revo/modx-revo-microcosmica-article) - Микроразметка статьи с помощью "Schema.org".
+* :ru: [Микроразметка статьи | ИТ "Шеф"](http://itchief.ru/lessons/modx-revo/modx-revo-microcosmica-article) - Микроразметка статьи с помощью "Schema.org".
 
 ## SEO Articles
 * [What Every Programmer Should Know About SEO - kate{mats}](http://katemats.com/what-every-programmer-should-know-about-seo/)
 
 ## Website Analytics
 
-* [Real time analytics service | Gauges](https://gaug.es/) - Analyze all your traffic in real time with our beautiful, easy to understand interface. FREE Trial for 7 Days.
-* [Аналитика. Ruward Track - все рейтинги рунета](http://track.ruward.ru/) - Актуальная технологическая аналитика Рунета: исследования сегментов CMS, систем веб-аналитики, e-commerce платформ, SMM-плагинов и др.
-* [Check your bad backlinks and your competitors good backlinks - Monitor Backlinks](https://monitorbacklinks.com/) - Get notified (via e-mail) if someone removes or adds nofollow to your backlinks. Monitor your backlinks for good SEO rankings.
+* [Real time analytics service | Gauges](https://gaug.es) - Analyze all your traffic in real time with our beautiful, easy to understand interface. FREE Trial for 7 Days.
+* :ru: [Аналитика. Ruward Track - все рейтинги рунета](http://track.ruward.ru) - Актуальная технологическая аналитика Рунета: исследования сегментов CMS, систем веб-аналитики, e-commerce платформ, SMM-плагинов и др.
+* [Check your bad backlinks and your competitors good backlinks - Monitor Backlinks](https://monitorbacklinks.com) - Get notified (via e-mail) if someone removes or adds nofollow to your backlinks. Monitor your backlinks for good SEO rankings.
 * [Facebook & Web Retargeting Made Simple | Perfect Audience](https://perfectaudience.com) - Perfect Audience is the #1 Facebook retargeting platform - a fast and easy way to retarget lost customers on Facebook and the web and bring them back to convert.
 * [Bitdeli](https://bitdeli.com) - Analytics for GitHub.
 
 ## SEO Misc
 
 * [Humans TXT: We Are People, Not Machines](http://humanstxt.org) - An initiative to know the creators of the  website. Contains the information about humans to the web building.
+* [isogrammer](http://isogrammer.com) - Isogram Google Analytics generator. [![GitHub stars](https://img.shields.io/github/stars/jaxgeller/isogrammer.svg?label=GitHub%20stars&style=flat-square)](https://github.com/jaxgeller/isogrammer)
 
 
 # Social
