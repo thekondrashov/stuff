@@ -153,6 +153,7 @@ My(A) curated list of goodies.
 
 ## Russian spelling
 
+* [Literacy](#literacy)
 * [Spelling test (online)](#spelling-test-online)
 
 ## QR Codes
@@ -657,9 +658,13 @@ My(A) curated list of goodies.
 
 # Russian spelling
 
+## Literacy
+
+* :ru: [5 ресурсов, где можно прокачать грамотность](https://vk.com/wall28547762_3823)
+
 ## Spelling test (online)
 
-* [Главред](http://glvrd.ru) - Помогает очистить текст от словесного мусора, проверяет на соответствие информационному стилю.
+* :ru: [Главред](http://glvrd.ru) - Помогает очистить текст от словесного мусора, проверяет на соответствие информационному стилю.
 
 
 
