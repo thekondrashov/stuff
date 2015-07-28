@@ -803,7 +803,7 @@ My(A) curated list of goodies.
 ## SEO Misc
 
 * [Humans TXT: We Are People, Not Machines](http://humanstxt.org) - An initiative to know the creators of the  website. Contains the information about humans to the web building.
-* [isogrammer](http://isogrammer.com) - Isogram Google Analytics generator. [![GitHub stars](https://img.shields.io/github/stars/jaxgeller/isogrammer.svg?label=GitHub%20stars&style=flat-square)](https://github.com/jaxgeller/isogrammer)
+* [isogrammer](http://isogrammer.com) - [Isogram](https://en.wikipedia.org/wiki/Isogram) Google Analytics generator. [![GitHub stars](https://img.shields.io/github/stars/jaxgeller/isogrammer.svg?label=GitHub%20stars&style=flat-square)](https://github.com/jaxgeller/isogrammer)
 
 
 # Social
