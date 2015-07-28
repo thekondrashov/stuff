@@ -32,9 +32,10 @@ My(A) curated list of goodies.
 - [Text editors](#text-editors)
 - [Textures, patterns, backgrounds](#textures-patterns-backgrounds)
 - [Utils](#utils)
-- [Web performance optimization](#web-performance-optimization)
-- [Справочники](#Справочники)
 - [Web Hosting](#web-hosting)
+- [Web performance optimization](#web-performance-optimization)
+- [Others](#others)
+- [Finally](#finally)
 
 
 ## Bookmarks
@@ -216,6 +217,15 @@ My(A) curated list of goodies.
 * [URL Shorteners](#url-shorteners)
 
 
+## Web Hosting
+
+* [Domain Name Registration](#domain-name-registration)
+* [Google App Engine](#google-app-engine)
+* [WHOIS](#whois)
+* [Free hosting](#free-hosting)
+* [Paid hosting](#paid-hosting)
+
+
 ## Web performance optimization
 
 * [WPO Checklist](#wpo-checklist)
@@ -225,7 +235,7 @@ My(A) curated list of goodies.
 * [JS minifiers](#js-minifiers)
 
 
-## Справочники
+## Others
 
 * [Cheat Sheets / Curated lists](#cheat-sheets--curated-lists)
 * [Emoji](#emoji)
@@ -235,14 +245,10 @@ My(A) curated list of goodies.
 * [XPath](#xpath)
 * [Misc](#misc)
 
-## Web Hosting
 
-* [Domain Name Registration](#domain-name-registration)
-* [Google App Engine](#google-app-engine)
-* [WHOIS](#whois)
-* [Бесплатный хостинг](#Бесплатный-хостинг)
-* [Платный хостинг](#Платный-хостинг)
+## Finally
 
+* [-empty-](#-empty-)
 
 
 # Интересности
@@ -943,6 +949,60 @@ My(A) curated list of goodies.
 
 
 
+
+# Web Hosting
+
+## Domain Name Registration
+
+* [Namecheap.com](https://www.namecheap.com) - Cheap Domain Name Registration & Web Hosting. The Best Domain Name Registrar when it comes to Customer Service.
+* [Namecheap Education Program: Free Domains for Students](https://nc.me) - The Namecheap Education Program provides free domains and email hosting for university students in the US, UK, and Canada.
+* [Simple Domain Name Registrar - iwantmyname](https://iwantmyname.com) - Buy your domain name for the best personal and business web applications, no web hosting required. Register international domains and country code domains for your online identity now.
+* :ru: [Подбор красивого доменного имени / СоХабр](https://sohabr.net/habr/post/256507/)
+
+
+## Google App Engine
+
+* [Custom Domain with Google App Engine now that Google Apps is not free anymore](http://stackoverflow.com/questions/18560247) - Stack Overflow.
+* [Using App Engine with a custom domain, without paying for Google Apps?](http://stackoverflow.com/questions/17619204) - Stack Overflow.
+* [Google App Engine: SSL Certificate Installation](https://www.digicert.com/ssl-certificate-installation-google-app-engine.htm) - DigiCert.
+* [Getting Started with the Cloud Datastore on PHP App Engine](https://gae-php-tips.appspot.com/2013/12/23/getting-started-with-the-cloud-datastore-on-php-app-engine/) - Tips and Tricks for PHP on Google App Engine.
+* [Подключаем Google в качестве CDN за полчаса](http://webo.in/articles/all/2009/08-google-cdn-in-minutes/) - webo.in.
+* [Google App Engine Archives - Ivan Kristianto](http://www.ivankristianto.com/tag/google-app-engine/)
+* [Статьи - Русская информация о Google App Engine](http://googleappengine.ru/articles/) - Все о Google App Engine на русском языке.
+* [PHP applications on Google App Engine | codediesel](http://www.codediesel.com/php/php-applications-on-google-app-engine/) - building PHP applications on Google App Engine.
+* [Google App Engine and PHP: Getting Started](http://www.sitepoint.com/google-app-engine-php-getting-started/) - SitePoint.
+* [Use Google App Engine as your own personal CDN](https://brandonb.io/use-google-app-engine-as-your-own-personal-cdn) - Brandons Blog.
+* [Google Cloud Datastore Error](https://gist.github.com/damimolo/37d0d0938aa821e004a2) - GitHub Gist.
+* [PHP Example - Cloud Storage](https://cloud.google.com/storage/docs/json_api/v1/json-api-php-samples) - Google Cloud Platform.
+
+
+## WHOIS
+
+* [ICANN WHOIS](http://whois.icann.org) - Official ICANN WHOIS Search.
+* [Whois7.ru](http://whois7.ru) - Whois Service, IP Whois, DNS Digger.
+
+
+## Free hosting
+
+* [OpenShift by Red Hat](https://www.openshift.com/products/pricing) - OpenShift gives you all the tools you need to develop, host and scale your apps in the public or private cloud. Get started today.
+* :ru: [Хостинг tcphost.net](https://sohabr.net/habr/post/250037/) - Бесплатный хостинг для студентов.
+* [YouHosting](http://www.youhosting.com/en/page/plans) - Become a Web Hosting Reseller For Free!
+* :ru: [Бесплатный хостинг JH5.Studio](http://jh5.ru/osp.html) - JH5.Studio предлагаем интересным проектам бессрочный, бесплатный хостинг. Внимание количество заявок ограничено! [ВКонтакте](https://vk.com/wall-3183750_48714)
+* [Divshot - Static Web Hosting for Developers and Designers](https://divshot.com) - One platform for static web hosting and Bootstrap Builder for single page apps. CDN, SSL, and pushState support with amazing developer and CLI tools.
+* [Free Web Hosting with PHP, MySQL and cPanel, No Ads](http://www.000webhost.com) - 000webhost.com ($0.00 webhost), is an industry leader in providing top class free web hosting services without advertising! There are no hidden costs, no adverts, and no restrictive terms.
+* [IBM Bluemix - Next-Generation Cloud App Development Platform](https://console.ng.bluemix.net) - Bluemix is an open standards, cloud platform for building, running, and managing apps and services.
+* [Node Hosting · joyent/node Wiki](https://github.com/joyent/node/wiki/node-hosting) - Hosting compatible with Node.
+
+## Paid hosting
+
+* :ru: [Хостинг от Timeweb](http://timeweb.com/ru/) - Ваш платный, но доступный и мощный веб хостинг сайтов.
+* :ru: [Платный хостинг сайтов от RadiusHost](http://www.radiushost.ru/ru/services/hosting/)
+* :ru: [Поиск виртуальных серверов - VDS.menu](http://vds.menu)
+* :ru: [Поиск виртуального хостинга - SHARED.menu](http://shared.menu). [Habr](http://habr.ru/p/263273)
+
+
+
+
 # Web performance optimization
 
 ## WPO Checklist
@@ -1006,7 +1066,7 @@ My(A) curated list of goodies.
 
 
 
-# Справочники
+# Others
 
 ## Cheat Sheets / Curated lists
 
@@ -1089,53 +1149,6 @@ My(A) curated list of goodies.
 * [BLOKK font](http://blokkfont.com) - BLOKK font helps you create good looking mock-ups and wireframes, where layout is more important than latin words.
 
 
+# Finally
 
-# Web Hosting
-
-## Domain Name Registration
-
-* [Namecheap.com](https://www.namecheap.com) - Cheap Domain Name Registration & Web Hosting. The Best Domain Name Registrar when it comes to Customer Service.
-* [Namecheap Education Program: Free Domains for Students](https://nc.me) - The Namecheap Education Program provides free domains and email hosting for university students in the US, UK, and Canada.
-* [Simple Domain Name Registrar - iwantmyname](https://iwantmyname.com) - Buy your domain name for the best personal and business web applications, no web hosting required. Register international domains and country code domains for your online identity now.
-* :ru: [Подбор красивого доменного имени / СоХабр](https://sohabr.net/habr/post/256507/)
-
-
-## Google App Engine
-
-* [Custom Domain with Google App Engine now that Google Apps is not free anymore](http://stackoverflow.com/questions/18560247) - Stack Overflow.
-* [Using App Engine with a custom domain, without paying for Google Apps?](http://stackoverflow.com/questions/17619204) - Stack Overflow.
-* [Google App Engine: SSL Certificate Installation](https://www.digicert.com/ssl-certificate-installation-google-app-engine.htm) - DigiCert.
-* [Getting Started with the Cloud Datastore on PHP App Engine](https://gae-php-tips.appspot.com/2013/12/23/getting-started-with-the-cloud-datastore-on-php-app-engine/) - Tips and Tricks for PHP on Google App Engine.
-* [Подключаем Google в качестве CDN за полчаса](http://webo.in/articles/all/2009/08-google-cdn-in-minutes/) - webo.in.
-* [Google App Engine Archives - Ivan Kristianto](http://www.ivankristianto.com/tag/google-app-engine/)
-* [Статьи - Русская информация о Google App Engine](http://googleappengine.ru/articles/) - Все о Google App Engine на русском языке.
-* [PHP applications on Google App Engine | codediesel](http://www.codediesel.com/php/php-applications-on-google-app-engine/) - building PHP applications on Google App Engine.
-* [Google App Engine and PHP: Getting Started](http://www.sitepoint.com/google-app-engine-php-getting-started/) - SitePoint.
-* [Use Google App Engine as your own personal CDN](https://brandonb.io/use-google-app-engine-as-your-own-personal-cdn) - Brandons Blog.
-* [Google Cloud Datastore Error](https://gist.github.com/damimolo/37d0d0938aa821e004a2) - GitHub Gist.
-* [PHP Example - Cloud Storage](https://cloud.google.com/storage/docs/json_api/v1/json-api-php-samples) - Google Cloud Platform.
-
-
-## WHOIS
-
-* [ICANN WHOIS](http://whois.icann.org) - Official ICANN WHOIS Search.
-* [Whois7.ru](http://whois7.ru) - Whois Service, IP Whois, DNS Digger.
-
-
-## Бесплатный хостинг
-
-* [OpenShift by Red Hat](https://www.openshift.com/products/pricing) - OpenShift gives you all the tools you need to develop, host and scale your apps in the public or private cloud. Get started today.
-* [Хостинг tcphost.net](https://sohabr.net/habr/post/250037/) - Бесплатный хостинг для студентов.
-* [YouHosting](http://www.youhosting.com/en/page/plans) - Become a Web Hosting Reseller For Free!
-* [Бесплатный хостинг JH5.Studio](http://jh5.ru/osp.html) - JH5.Studio предлагаем интересным проектам бессрочный, бесплатный хостинг. Внимание количество заявок ограничено! [ВКонтакте](https://vk.com/wall-3183750_48714)
-* [Divshot - Static Web Hosting for Developers and Designers](https://divshot.com) - One platform for static web hosting and Bootstrap Builder for single page apps. CDN, SSL, and pushState support with amazing developer and CLI tools.
-* [Free Web Hosting with PHP, MySQL and cPanel, No Ads](http://www.000webhost.com) - 000webhost.com ($0.00 webhost), is an industry leader in providing top class free web hosting services without advertising! There are no hidden costs, no adverts, and no restrictive terms.
-* [IBM Bluemix - Next-Generation Cloud App Development Platform](https://console.ng.bluemix.net) - Bluemix is an open standards, cloud platform for building, running, and managing apps and services.
-* [Node Hosting · joyent/node Wiki](https://github.com/joyent/node/wiki/node-hosting) - Hosting compatible with Node.
-
-## Платный хостинг
-
-* [Хостинг от Timeweb](http://timeweb.com/ru/) - Ваш платный, но доступный и мощный веб хостинг сайтов.
-* [Платный хостинг сайтов от RadiusHost](http://www.radiushost.ru/ru/services/hosting/)
-* [Поиск виртуальных серверов - VDS.menu](http://vds.menu)
-* [Поиск виртуального хостинга - SHARED.menu](http://shared.menu). [Habr](http://habr.ru/p/263273)
+## -empty-
