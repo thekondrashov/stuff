@@ -123,6 +123,7 @@ My(A) curated list of goodies.
 * [JavaScript tutorials](#javascript-tutorials)
 * [jQuery](#jquery)
 * [Autocomplete](#autocomplete)
+* [Lazy loading](#lazy-loading)
 * [Progress bar](#progress-bar)
 * [Vanilla JS](#vanilla-js)
 * [JavaScript Misc](#javascript-misc)
@@ -571,7 +572,13 @@ My(A) curated list of goodies.
 
 ## Autocomplete
 
-* [Ajax AutoComplete for jQuery](https://github.com/devbridge/jQuery-Autocomplete) - Ajax Autocomplete for jQuery allows you to easily create autocomplete/autosuggest boxes for text input fields. Has no dependencies other than jQuery. The standard jquery.autocomplete.js file is around 2.7KB when minified via Closure Compiler and gzipped.
+* :octocat: [Ajax AutoComplete for jQuery](https://github.com/devbridge/jQuery-Autocomplete) - Ajax Autocomplete for jQuery allows you to easily create autocomplete/autosuggest boxes for text input fields. Has no dependencies other than jQuery. The standard jquery.autocomplete.js file is around 2.7KB when minified via Closure Compiler and gzipped.
+
+
+## Lazy loading
+> Lazy loading boosts page speed by deferring the loading of images until they're in (or near) the viewport.<br>- [Source](https://github.com/callmecavs/layzr.js)
+
+* [Layzr.js](https://callmecavs.github.io/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading. :ru: Layzr.js — компактная, быстрая, современная библиотека для реализации «ленивой загрузки» (lazy loading). [![GitHub stars](https://img.shields.io/github/stars/callmecavs/layzr.js.svg?label=GitHub%20stars&style=flat-square)](https://github.com/callmecavs/layzr.js)
 
 
 ## Progress bar
