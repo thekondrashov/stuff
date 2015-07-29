@@ -803,11 +803,12 @@ My(A) curated list of goodies.
 * [Check your bad backlinks and your competitors good backlinks - Monitor Backlinks](https://monitorbacklinks.com) - Get notified (via e-mail) if someone removes or adds nofollow to your backlinks. Monitor your backlinks for good SEO rankings.
 * [Facebook & Web Retargeting Made Simple | Perfect Audience](https://perfectaudience.com) - Perfect Audience is the #1 Facebook retargeting platform - a fast and easy way to retarget lost customers on Facebook and the web and bring them back to convert.
 * [Bitdeli](https://bitdeli.com) - Analytics for GitHub.
+* [Piwik - Free Web Analytics Software](https://piwik.org) - Piwik is the leading open-source analytics platform that gives you more than just powerful analytics: Free open-source software, 100% data ownership, User privacy protection, User-centric insights, Customisable and extensible. :ru: Piwik.org— мощный инструмент для веб-аналитики. Сервис предоставляет информацию по множествам метрик: посетители, действия, источники трафика, цели. Вокруг проекта сформировалось мощное комьюнити, написаны плагины практически под все популярные CMS, а также существуют мобильные версии под iOS и Android. [![GitHub stars](https://img.shields.io/github/stars/piwik/piwik.svg?style=social)](https://github.com/piwik/piwik)
 
 ## SEO Misc
 
 * [Humans TXT: We Are People, Not Machines](http://humanstxt.org) - An initiative to know the creators of the  website. Contains the information about humans to the web building.
-* [isogrammer](http://isogrammer.com) - [Isogram](https://en.wikipedia.org/wiki/Isogram) Google Analytics generator. [![GitHub stars](https://img.shields.io/github/stars/jaxgeller/isogrammer.svg?label=GitHub%20stars&style=flat-square)](https://github.com/jaxgeller/isogrammer)
+* [isogrammer](http://isogrammer.com) - [Isogram](https://en.wikipedia.org/wiki/Isogram) Google Analytics generator. [![GitHub stars](https://img.shields.io/github/stars/jaxgeller/isogrammer.svg?style=social)](https://github.com/jaxgeller/isogrammer)
 
 
 # Social
