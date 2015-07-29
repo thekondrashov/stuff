@@ -854,7 +854,9 @@ My(A) curated list of goodies.
 ## Website speed tests
 
 * [MaxCDN Tools](http://tools.maxcdn.com) - Compare the speed of two websites in 5 seconds from different locations around the world.
-* [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - With PageSpeed Insights you can identify ways to make your site faster and more mobile-friendly. Ускорьте загрузку своих страниц на всех устройствах. PageSpeed Insights анализирует содержание веб-страницы и предлагает решения, которые позволят ускорить ее загрузку.
+* [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - With PageSpeed Insights you can identify ways to make your site faster and more mobile-friendly. :ru: Ускорьте загрузку своих страниц на всех устройствах. PageSpeed Insights анализирует содержание веб-страницы и предлагает решения, которые позволят ускорить ее загрузку. Сервис PageSpeed Insight проверяет сайт как с точки зрения десктопного ПК, так и со стороны мобильного устройства, выдавая оценку по 100-балльной шкале.
+* [YSlow](http://yslow.org) - Official YSlow Open Source Project Website. YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages. [![GitHub stars](https://img.shields.io/github/stars/marcelduran/yslow.svg?style=social)](https://github.com/marcelduran/yslow)
+* [GTmetrix | Website Speed and Performance Optimization](https://gtmetrix.com) - GTmetrix is a free tool that analyzes your page's speed performance. Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them. :ru: GTMetrix основан на руководстве по повышению производительности ресурса от Yahoo, оценка выводится по 100-балльной шкале. GTMetrix работает с не менее чем 50 различными метриками. GTMetrix предлагает диаграмму-водопад, препарируя процесс загрузки, а также весьма продвинутую историю загрузки. [Если вы хотите понять, как повысить производительность вашего ресурса, это один из лучших инструментов.](http://habr.ru/p/263781)
 
 
 
