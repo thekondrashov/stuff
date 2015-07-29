@@ -604,6 +604,7 @@ My(A) curated list of goodies.
 * [Usage of JavaScript libraries for websites](http://w3techs.com/technologies/overview/javascript_library/all)
 * :octocat: [Essential JavaScript website](https://github.com/ericelliott/essential-javascript-links) - A curated list by Eric Elliott and friends. [![GitHub stars](https://img.shields.io/github/stars/ericelliott/essential-javascript-links.svg?label=GitHub%20stars&style=flat-square)](https://github.com/ericelliott/essential-javascript-links)
 * :octocat: [ECMAScript 6 Tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today by Addy Osmani. [![GitHub stars](https://img.shields.io/github/stars/addyosmani/es6-tools.svg?label=GitHub%20stars&style=flat-square)](https://github.com/addyosmani/es6-tools)
+* [Waves](http://fian.my.id/Waves) - Click effect inspired by Google's Material Design. [![GitHub stars](https://img.shields.io/github/stars/fians/Waves.svg?style=social)](https://github.com/fians/Waves)
 
 
 
