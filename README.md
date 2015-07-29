@@ -72,6 +72,8 @@ My(A) curated list of goodies.
 ## CMS
 
 * [Drupal](#drupal)
+* [WordPress](#wordpress)
+* [CMS Misc](#cms-misc)
 
 
 ## CSS
@@ -324,12 +326,20 @@ My(A) curated list of goodies.
 
 ## Drupal
 
-* [Dru.io](http://dru.io/) - Drupal сообщество (Nikita Malyshev).
-* [Niklan](http://niklan.net/) - Блог начинающего веб-разработчика (Nikita Malyshev).
+* [Dru.io](http://dru.io) - Drupal сообщество (Nikita Malyshev).
+* [Niklan](http://niklan.net) - Блог начинающего веб-разработчика (Nikita Malyshev).
 * [How to Use Bootswatch Themes in Drupal 7](http://www.webwash.net/tutorials/how-use-bootswatch-themes-drupal-7) - Web Wash.
 * [Drupal CDN](http://maxcdn4support.wpengine.com/tutorial/drupal-cdn/)
 * [HTTP Parallel Request & Threading Library](https://www.drupal.org/project/httprl/)
 * https://www.drupal.org/project/bu
+
+
+## WordPress
+
+* [WP Dev Shed » Free WordPress Designs](http://wpdevshed.com) - Browse our free WordPress themes, or contact us if you are looking for affordable premium WordPress theme design and hosting services.
+
+
+## CMS Misc
 
 * [Usage of content management systems for websites](http://w3techs.com/technologies/overview/content_management/all)
 
