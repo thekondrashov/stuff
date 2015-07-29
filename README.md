@@ -1172,6 +1172,7 @@ My(A) curated list of goodies.
 * [Styling – SVG 1.1 (Second Edition)](https://www.w3.org/TR/SVG/styling.html) - В CSS стили для SVG элементов отличаются от стандартных, полный список стилей поддерживаемых SVG можно посмотреть тут.
 * [Monoid Open Source Coding Font](https://larsenwork.com/monoid/) - Monoid is a customizable, minimal + legible font optimized for coding. It's drawn over a 14px grid for bitmap-like sharpness. [![GitHub stars](https://img.shields.io/github/stars/larsenwork/monoid.svg?label=GitHub%20stars&style=flat-square)](https://github.com/larsenwork/monoid)
 * [BLOKK font](http://blokkfont.com) - BLOKK font helps you create good looking mock-ups and wireframes, where layout is more important than latin words.
+* [Better Error Pages - StatusPage.io](https://better-error-pages.statuspage.io) - Build free 404, 500-level, and maintenance pages in 60 seconds. :ru: Better Error Pages — ресурс для создания страниц ошибок 404, 50X. Сначала нужно предоставить некоторую информацию о сайте: адрес, e-mail обратной связи и т.п. После этого остаётся выбрать один из шаблонов, изменить цвет текста и фона и указать e-mail, куда будет отправлена готовая страница ошибок.
 
 
 # Finally
