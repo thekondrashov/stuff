@@ -729,7 +729,9 @@ My(A) curated list of goodies.
 * [Content Security Policy Builder](https://cspbuilder.info) - Collect CSP alerts, review and approve legitimate content sources. Get a fully functional Content Security Policy for your website in just a few minutes.
 * [report-uri.io by Scott Helme](https://report-uri.io) - Violation reporting for CSP and HPKP policies.
 
+### Last-Modified & If-Modified-Since
 
+* :ru: [HTTP заголовки Last-Modified и If-Modified-Since](http://last-modified.com/ru/if-modified-since.html)
 
 
 ## Leaked account checkers
@@ -815,6 +817,7 @@ My(A) curated list of goodies.
 * [Facebook & Web Retargeting Made Simple | Perfect Audience](https://perfectaudience.com) - Perfect Audience is the #1 Facebook retargeting platform - a fast and easy way to retarget lost customers on Facebook and the web and bring them back to convert.
 * [Bitdeli](https://bitdeli.com) - Analytics for GitHub.
 * [Piwik - Free Web Analytics Software](https://piwik.org) - Piwik is the leading open-source analytics platform that gives you more than just powerful analytics: Free open-source software, 100% data ownership, User privacy protection, User-centric insights, Customisable and extensible. :ru: Piwik.org— мощный инструмент для веб-аналитики. Сервис предоставляет информацию по множествам метрик: посетители, действия, источники трафика, цели. Вокруг проекта сформировалось мощное комьюнити, написаны плагины практически под все популярные CMS, а также существуют мобильные версии под iOS и Android. [![GitHub stars](https://img.shields.io/github/stars/piwik/piwik.svg?style=social)](https://github.com/piwik/piwik)
+* :ru: [SiteControl - панель контроля за сайтами](http://site-control.ru) - SiteControl - удобное веб-приложение для вебмастера и оптимизатора. Оно позволяет контролировать множество seo параметров и рейтинг сайта в поисковых системах.
 
 ## SEO Misc
 
@@ -1128,8 +1131,9 @@ My(A) curated list of goodies.
 
 ## HTTP Status Codes
 
-* [HTTP Status Codes &mdash; httpstatus.es](http://httpstatus.es/) - HTTP Status code list / directory with wikipedia and ietf descriptions. [Github](https://github.com/citricsquid/httpstatus.es)
+* [HTTP Status Codes - httpstatus.es](http://httpstatus.es/) - HTTP Status code list / directory with wikipedia and ietf descriptions. [Github](https://github.com/citricsquid/httpstatus.es)
 * [HTTP Status Code Errors](http://pcsupport.about.com/od/findtheproblem/tp/browsererror.htm) - A list of HTTP status code errors (4xx client and 5xx server HTTP status codes) and how to fix them. HTTP status code errors appear inside the browser.
+* [Checking 304 Not Modified](http://last-modified.com) - Checking If-Modified-Since header.
 
 
 ## Markdown
