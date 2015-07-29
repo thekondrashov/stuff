@@ -578,7 +578,7 @@ My(A) curated list of goodies.
 
 
 ## Lazy loading
-> Lazy loading boosts page speed by deferring the loading of images until they're in (or near) the viewport.<br>- [Source](https://github.com/callmecavs/layzr.js)
+> *Lazy loading boosts page speed by deferring the loading of images until they're in (or near) the viewport.<br>- [Source](https://github.com/callmecavs/layzr.js)*
 
 * [Layzr.js](https://callmecavs.github.io/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading. :ru: Layzr.js — компактная, быстрая, современная библиотека для реализации «ленивой загрузки» (lazy loading). [![GitHub stars](https://img.shields.io/github/stars/callmecavs/layzr.js.svg?label=GitHub%20stars&style=flat-square)](https://github.com/callmecavs/layzr.js)
 * [Unveil.js](https://luis-almeida.github.io/unveil) - A very lightweight (less than 1k) plugin to lazy load images for jQuery or Zepto.js. [![GitHub stars](https://img.shields.io/github/stars/luis-almeida/unveil.svg?label=GitHub%20stars&style=flat-square)](https://github.com/luis-almeida/unveil)
