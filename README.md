@@ -889,7 +889,9 @@ My(A) curated list of goodies.
 
 * [Subtle Patterns](http://subtlepatterns.com) - Free textures for your next web project.
 * [DinPattern - Free seamless patterns](http://www.dinpattern.com) - DinPattern is a free seamless background pattern resource for designers, developers and artists.
-* [Gridprint](http://gridprint.in) - Free alternative sketchbooks for web-designers and app-designers. It's a library of grids for easy creation of sketches of your projects. Printing is done directly from the website. [Библиотека сеток для эскизов сайтов и мобильных приложений с возможностью печати из браузера](https://vk.com/wall-46465252_43993)
+* [Gridprint](http://gridprint.in) - Free alternative sketchbooks for web-designers and app-designers. It's a library of grids for easy creation of sketches of your projects. Printing is done directly from the website. :ru: [Библиотека сеток для эскизов сайтов и мобильных приложений с возможностью печати из браузера](https://vk.com/wall-46465252_43993)
+* [\[CG Textures\] - Textures for 3D, graphic design and Photoshop!](http://cgtextures.com) - 100.000+ high resolution textures, free for personal and commercial use!
+* [EPISCURA](https://episcura.com) - Huge Free Library of CG Textures, HDRs, and Snapshots. :ru: Сайт с разнообразными бесплатными текстурами.
 
 # Utils
 
