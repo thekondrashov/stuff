@@ -575,6 +575,7 @@ My(A) curated list of goodies.
 ## Autocomplete
 
 * :octocat: [Ajax AutoComplete for jQuery](https://github.com/devbridge/jQuery-Autocomplete) - Ajax Autocomplete for jQuery allows you to easily create autocomplete/autosuggest boxes for text input fields. Has no dependencies other than jQuery. The standard jquery.autocomplete.js file is around 2.7KB when minified via Closure Compiler and gzipped.
+* [Awesomplete by Lea Verou](https://leaverou.github.io/awesomplete) - Awesomplete is an ultra lightweight, highly customizable, simple autocomplete widget with zero dependencies, built with modern standards for modern browsers. :ru: Awesomplete — великолепная реализация скрипта для автозаполнения форм. Базовый вариант использования Awesomplete даже не подразумевает написания JavaScript-кода, достаточно лишь указать определенные data-атрибуты c вариантами автозаполнения в HTML-разметке. [![GitHub stars](https://img.shields.io/github/stars/LeaVerou/awesomplete.svg?style=social)](https://github.com/LeaVerou/awesomplete)
 
 
 ## Lazy loading
