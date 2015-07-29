@@ -534,6 +534,7 @@ My(A) curated list of goodies.
 * [We Love Icon Fonts](http://weloveiconfonts.com) - A free & open source icon fonts hosting service for testing purposes. [GitHub](https://github.com/TimPietrusky/weloveiconfonts)
 * [Decorator Icons](http://decorator.codable.org/iconsttf). [GitHub](https://github.com/uloga/decorator)
 * [Smashicons](http://smashicons.com) - Smashicons is the world's largest and most complete icon set with over 14000 icons for designers and developers.
+* [iconmelon](http://iconmelon.com) - svg icons library for web. :ru: iconmelon — набор векторных иконок, к которым можно применить SVG-фильтры и скачать архивом SVG-файлы. [![GitHub stars](https://img.shields.io/github/stars/legomushroom/iconmelon.svg?style=social)](https://github.com/legomushroom/iconmelon)
 
 
 
