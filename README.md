@@ -962,6 +962,7 @@ My(A) curated list of goodies.
 ## Stock Photos
 
 * [Unsplash](https://unsplash.com) - Free (do whatever you want) high-resolution stock photos. Download 10 new free stock photos every 10 days.
+* [30 Amazing Websites for Free Stock and Design Resources - Tuts+ Design & Illustration Article](https://design.tutsplus.com/articles/cms-24256) - Check out the wide range of websites dedicated to providing stocks and design assets in this resource packed article! Available for personal and commercial use, enjoy this list of high-quality freebies! :ru: 30 бесплатных ресурс с фотостоками и всякими халявами для дизайнеров.
 
 
 ## URL Shorteners
