@@ -698,6 +698,9 @@ My(A) curated list of goodies.
 ## Online QR Code Generators
 
 * [QR Code Generator](https://www.the-qrcode-generator.com) - Free Online QR Code Generator to make your own QR Codes.
+|Preview|Source|
+|------------ | -------------|
+|[![I Love QR Codes!!! HI MOM!](https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=I+Love+QR+Codes!++HI+MOM!&choe=UTF-8)](https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=I+Love+QR+Codes!++HI+MOM!&choe=UTF-8)|[How to use Google Charts API to Generate Your Own QR Code - Gregory Strike](http://wp.me/p1jCfP-9r)|
 
 
 
