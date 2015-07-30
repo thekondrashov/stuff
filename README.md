@@ -535,6 +535,7 @@ My(A) curated list of goodies.
 * [Icon fonts - Explore GitHub](https://github.com/showcases/icon-fonts) - All the icons you could dream of all wrapped up nice and neatly as web fonts.
 * [Nucleo](https://nucleoapp.com) - A library of 1750 responsive icons and a web app to manage and customize them.
 * [Feather: 130 Free Icons by Cole Bemis](https://gumroad.com/l/feather) - Feather is a growing collection of beautifully simple icons. The set is packaged in PSD, CSH, SVG and Webfont format. Enjoy.
+* [Glyphish: Great icons for iOS 8](http://glyphish.com) - Icons for iOS 8 apps, nav bars, tab bars and other UI elements. @3x sizes too.
 
 ## Icon font generators
 
