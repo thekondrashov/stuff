@@ -438,6 +438,8 @@ My(A) curated list of goodies.
 * [CSS escapes](https://mothereff.in/css-escapes) - Wondering how to escape any character in CSS? There’s a web app for that™. [GitHub](https://github.com/mathiasbynens/mothereff.in/tree/master/css-escapes)
 * :octocat: [Critical-path (Above-the-fold) CSS Tools](https://github.com/addyosmani/critical-path-css-tools) - Tools to prioritize above-the-fold (critical-path) CSS by Addy Osmani. [![GitHub stars](https://img.shields.io/github/stars/addyosmani/critical-path-css-tools.svg?label=GitHub%20stars&style=flat-square)](https://github.com/addyosmani/critical-path-css-tools)
 * [EnjoyCSS](http://enjoycss.com) - EnjoyCSS is an advanced online CSS3 code generator with a simple graphical interface that saves your time. Its handy and simple UI allows you to adjust rich graphical styles quickly and without coding.
+* :octocat: [uCSS](https://github.com/oyvindeh/ucss) - uCSS is made for crawling (large) websites to find unused and duplicate CSS selectors. [![GitHub stars](https://img.shields.io/github/stars/oyvindeh/ucss.svg?style=social)](https://github.com/oyvindeh/ucss)
+* [Remove unused CSS - CSS Optimizer](https://unused-css.com) - Unused CSS is an online tool to remove unused CSS rules. It will check your pages and mark all unused CSS and then you can download a clean CSS file. See also list of "Similar services".
 
 
 # Digests
