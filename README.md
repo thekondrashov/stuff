@@ -278,6 +278,7 @@ My(A) curated list of goodies.
 ## Free programming books
 
 * [Free programming books by Victor Felder | ZEEF](https://free-programming-books.zeef.com/victor.felder) - More resources on their way! Keep updated… Curated lists of excellent free programming material. Inspired by reSRC listings.
+* [DevFreeBooks](http://devfreebooks.org) - A huge collection of free books for developers.
 
 # Browsers
 
