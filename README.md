@@ -46,6 +46,7 @@ My(A) curated list of goodies.
 ## Books
 
 * [C/C++ Books](#cc-books)
+* [Free programming books](#free-programming-books)
 
 ## Browsers
 
@@ -274,6 +275,9 @@ My(A) curated list of goodies.
 
 * [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html/)
 
+## Free programming books
+
+* [Free programming books by Victor Felder | ZEEF](https://free-programming-books.zeef.com/victor.felder) - More resources on their way! Keep updated… Curated lists of excellent free programming material. Inspired by reSRC listings.
 
 # Browsers
 
