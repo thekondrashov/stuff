@@ -1210,6 +1210,7 @@ My(A) curated list of goodies.
 * [Monoid Open Source Coding Font](https://larsenwork.com/monoid/) - Monoid is a customizable, minimal + legible font optimized for coding. It's drawn over a 14px grid for bitmap-like sharpness. [![GitHub stars](https://img.shields.io/github/stars/larsenwork/monoid.svg?label=GitHub%20stars&style=flat-square)](https://github.com/larsenwork/monoid)
 * [BLOKK font](http://blokkfont.com) - BLOKK font helps you create good looking mock-ups and wireframes, where layout is more important than latin words.
 * [Better Error Pages - StatusPage.io](https://better-error-pages.statuspage.io) - Build free 404, 500-level, and maintenance pages in 60 seconds. :ru: Better Error Pages — ресурс для создания страниц ошибок 404, 50X. Сначала нужно предоставить некоторую информацию о сайте: адрес, e-mail обратной связи и т.п. После этого остаётся выбрать один из шаблонов, изменить цвет текста и фона и указать e-mail, куда будет отправлена готовая страница ошибок.
+* [Транскодер для медленных подключений - Google](https://www.google.com/webmasters/tools/transcoder) - Компания Google тестирует новую функцию: устройства, использующие низкоскоростное соединение, автоматически перенаправляются из Google Поиска на перекодированные версии целевых страниц, которые загружаются в четыре раза быстрее исходных. При этом объем трафика уменьшается на 80%, а количество просмотров страниц увеличивается на 50%.
 
 
 # Finally
