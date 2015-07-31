@@ -295,10 +295,10 @@ My(A) curated list of goodies.
 ## CAPTCHA plugins
 
 * [KeyCAPTCHA - Innovative Anti-Spam Solution](https://www.keycaptcha.com) - Powerful anti-spam website protection.
-* [KCAPTCHA project](http://captcha.ru/en/kcaptcha/) - KCAPTCHA is a free and open source PHP solution to generate human validation images (CAPTCHA). KCAPTCHA is meant to be a very strong protected one but requires no special hosting features, only PHP with GD library. :ru: [Проект KCAPTCHA - CAPTCHA.ru](http://captcha.ru/kcaptcha) — это готовое решение, написанное на языке PHP, которое вы можете бесплатно скачать и установить на свой сайт для защиты от спама и флуда. Проект KCAPTCHA ставит перед собой цель предложить программисту решение с одной стороны весьма защищенное, с другой — максимально малотребовательное к ресурсам и конфигурации хостинга. ![Хабрахабр](https://hsto.org/storage2/c57/b92/af4/c57b92af4ee0d37f787c211a068b1b95.png) [Распознавание KCAPTCHA / Хабрахабр](http://habr.ru/p/263127)
+* [KCAPTCHA project](http://captcha.ru/en/kcaptcha/) - KCAPTCHA is a free and open source PHP solution to generate human validation images (CAPTCHA). KCAPTCHA is meant to be a very strong protected one but requires no special hosting features, only PHP with GD library. :ru: [Проект KCAPTCHA - CAPTCHA.ru](http://captcha.ru/kcaptcha) — это готовое решение, написанное на языке PHP, которое вы можете бесплатно скачать и установить на свой сайт для защиты от спама и флуда. Проект KCAPTCHA ставит перед собой цель предложить программисту решение с одной стороны весьма защищенное, с другой — максимально малотребовательное к ресурсам и конфигурации хостинга. ![Хабрахабр](https://logo.clearbit.com/habr.ru?size=16x16) [Распознавание KCAPTCHA / Хабрахабр](http://habr.ru/p/263127)
 * :octocat: [MotionCAPTCHA jQuery Plugin - GitHub](https://github.com/josscrowcroft/MotionCAPTCHA) - MotionCAPTCHA is a jQuery CAPTCHA plugin that requires users to sketch the shape they see in the canvas in order to submit a form. [![GitHub stars](https://img.shields.io/github/stars/josscrowcroft/MotionCAPTCHA.svg?label=GitHub%20stars&style=flat-square)](https://github.com/josscrowcroft/MotionCAPTCHA)
-* :ru: ![Хабрахабр](https://hsto.org/storage2/c57/b92/af4/c57b92af4ee0d37f787c211a068b1b95.png) [Некапча Mail.Ru – капча, которая не показывается](http://habr.ru/p/255633) - Блог компании Mail.Ru Group / Хабрахабр.
-* :ru: ![Хабрахабр](https://hsto.org/storage2/c57/b92/af4/c57b92af4ee0d37f787c211a068b1b95.png) [Вышла новая версия reCaptcha API 2.0](http://habr.ru/p/244779) - Хабрахабр.
+* :ru: ![Хабрахабр](https://logo.clearbit.com/habr.ru?size=16x16) [Некапча Mail.Ru – капча, которая не показывается](http://habr.ru/p/255633) - Блог компании Mail.Ru Group / Хабрахабр.
+* :ru: ![Хабрахабр](https://logo.clearbit.com/habr.ru?size=16x16) [Вышла новая версия reCaptcha API 2.0](http://habr.ru/p/244779) - Хабрахабр.
 
 
 # Chat
@@ -948,7 +948,7 @@ My(A) curated list of goodies.
 * [Epic Favicon Generator by BCCO](https://epicfavicongenerator.com) - The Epic Favicon Generator offers 20+ favicon sizes, is mobile friendly, and free!
 * [Create a Windows 8.1 tile for your site - Build My Pinned Site - Microsoft Internet Explorer](http://buildmypinnedsite.com) - Create a Windows 8.1 tile for your site in minutes.
 * :octocat: [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) - A painfully obsessive cheat sheet to favicon sizes/types. [![GitHub stars](https://img.shields.io/github/stars/audreyr/favicon-cheat-sheet.svg?label=GitHub%20stars&style=flat-square)](https://github.com/audreyr/favicon-cheat-sheet)
-* [Favicons, Touch Icons, Tile Icons, etc. Which Do You Need? | CSS-Tricks](https://css-tricks.com/favicon-quiz/) - Philippe Bernard has done research on what it takes to make a favicon (and all the related graphics and markup). :ru: ![Хабрахабр](https://hsto.org/storage2/c57/b92/af4/c57b92af4ee0d37f787c211a068b1b95.png) [Перевод статьи](http://habr.ru/p/260777)
+* [Favicons, Touch Icons, Tile Icons, etc. Which Do You Need? | CSS-Tricks](https://css-tricks.com/favicon-quiz/) - Philippe Bernard has done research on what it takes to make a favicon (and all the related graphics and markup). :ru: ![Хабрахабр](https://logo.clearbit.com/habr.ru?size=16x16) [Перевод статьи](http://habr.ru/p/260777)
 
 ## Make HTTP requests
 
