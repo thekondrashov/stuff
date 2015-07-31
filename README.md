@@ -123,6 +123,7 @@ My(A) curated list of goodies.
 
 ## JavaScript
 
+* [Charts](#charts)
 * [JavaScript tutorials](#javascript-tutorials)
 * [jQuery](#jquery)
 * [Autocomplete](#autocomplete)
@@ -560,9 +561,14 @@ My(A) curated list of goodies.
 
 # JavaScript
 
+## Charts
+
+* [Chartist - Simple responsive charts built with SVG](https://gionkunz.github.io/chartist-js/) - Create responsive, scalable and good looking charts with chartist.js. :ru: Chartist.js — инструмент для создания красивых и отзывчивых диаграмм. [![GitHub stars](https://img.shields.io/github/stars/gionkunz/chartist-js.svg?style=social)](https://github.com/gionkunz/chartist-js)
+
+
 ## JavaScript tutorials
 
-* [Современный учебник JavaScript](https://learn.javascript.ru/tutorial) - Перед вами учебник по JavaScript, начиная с основ, включающий в себя много тонкостей и фишек JavaScript/DOM. [GitHub](https://github.com/iliakan/javascript-nodejs)
+* :ru: [Современный учебник JavaScript](https://learn.javascript.ru/tutorial) - Перед вами учебник по JavaScript, начиная с основ, включающий в себя много тонкостей и фишек JavaScript/DOM. [![GitHub stars](https://img.shields.io/github/stars/iliakan/javascript-nodejs.svg?style=social)](https://github.com/iliakan/javascript-nodejs)
 * [JS: The Right Way](http://jstherightway.org/) - A quick reference to best practices for writing JavaScript -- links to code patterns and tutorials from around the web.
 * [Airbnb JavaScript Style Guide - GitHub](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript.
 
@@ -589,7 +595,7 @@ My(A) curated list of goodies.
 * [jQuery Plugin Boilerplate, revisited](http://stefangabos.ro/jquery/jquery-plugin-boilerplate-revisited/) - Stefan Gabos.
 * [jQuery Coding Standards and Best Practices](http://lab.abhinayrathore.com/jquery-standards/) - jQuery Coding Standards and Best Practices guide for helping prgrammers write better jQuery code.
 * [Signs of a poorly written jQuery plugin](https://remysharp.com/2010/06/03/signs-of-a-poorly-written-jquery-plugin) - How do you know if the plugin is good to use?
-* [шаблон для плагинов jQuery, который позволяет отказаться от стиля, навязываемого им](http://habrahabr.ru/post/172975/#comment_6009529) - Хабрахабр. [Pastebin](http://pastebin.com/ydqFcZpR)
+* [шаблон для плагинов jQuery, который позволяет отказаться от стиля, навязываемого им](http://habr.ru/p/172975#comment_6009529) - Хабрахабр. [Pastebin](http://pastebin.com/ydqFcZpR)
 
 
 ## Autocomplete
