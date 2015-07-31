@@ -396,12 +396,13 @@ My(A) curated list of goodies.
 ## CSS Animation
 
 * [CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/) - Justin Aguilar.
-* [Loaders.css](https://connoratherton.com/loaders) - Delightful, performance-focused pure css loading animations. [GitHub](https://github.com/ConnorAtherton/loaders.css)
-* [SpinKit | Simple CSS Spinners](http://tobiasahlin.com/spinkit/) - A collection of loading indicators animated with CSS. SpinKit — небольшая коллекция красивых прелоадеров на CSS. [![GitHub stars](https://img.shields.io/github/stars/tobiasahlin/SpinKit.svg?label=GitHub%20stars&style=flat-square)](https://github.com/tobiasahlin/SpinKit)
-* [Animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations. As easy to use as an easy thing. [GitHub](https://github.com/daneden/animate.css)
-* [iconate.js](https://bitshadow.github.io/iconate) - is a tiny performant library for cross-browser icon transformation animations in your projects. [GitHub](https://github.com/bitshadow/iconate)
-* [CSS3 анимации для начинающих](http://devdocs.ru/verstka/css3-animations-for-beginners/)
-* [Magic Animations CSS3](http://minimamente.com/example/magic_animations/) - CSS3 Animations with special effects. [GitHub](https://github.com/miniMAC/magic)
+* [Loaders.css](https://connoratherton.com/loaders) - Delightful, performance-focused pure css loading animations. [![GitHub stars](https://img.shields.io/github/stars/ConnorAtherton/loaders.css.svg?style=social)](https://github.com/ConnorAtherton/loaders.css)
+* [SpinKit | Simple CSS Spinners](http://tobiasahlin.com/spinkit/) - A collection of loading indicators animated with CSS. SpinKit — небольшая коллекция красивых прелоадеров на CSS. [![GitHub stars](https://img.shields.io/github/stars/tobiasahlin/SpinKit.svg?style=social)](https://github.com/tobiasahlin/SpinKit)
+* [Animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations. As easy to use as an easy thing. [![GitHub stars](https://img.shields.io/github/stars/daneden/animate.css.svg?style=social)](https://github.com/daneden/animate.css)
+* [iconate.js](https://bitshadow.github.io/iconate) - is a tiny performant library for cross-browser icon transformation animations in your projects. [![GitHub stars](https://img.shields.io/github/stars/bitshadow/iconate.svg?style=social)](https://github.com/bitshadow/iconate)
+* :ru: [CSS3 анимации для начинающих](http://devdocs.ru/verstka/css3-animations-for-beginners/)
+* [Magic Animations CSS3](http://minimamente.com/example/magic_animations/) - CSS3 Animations with special effects. [![GitHub stars](https://img.shields.io/github/stars/miniMAC/magic.svg?style=social)](https://github.com/miniMAC/magic)
+* [AniCollection](https://anicollection.github.io) - The easiest way to find, use and share CSS3 animations. We are putting together awesome animations from many libraries and many people. :ru: AniCollection, коллекция из 79 примеров CSS-анимаций с примерами кода. [![GitHub stars](https://img.shields.io/github/stars/anicollection/anicollection.svg?style=social)](https://github.com/anicollection/anicollection)
 
 
 ## CSS Hacks
