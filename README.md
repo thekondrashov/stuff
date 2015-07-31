@@ -390,7 +390,7 @@ My(A) curated list of goodies.
 
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.
 * [50 Must-have plugins for extending Twitter Bootstrap | Tutorialzine](http://tutorialzine.com/?p=3272) - In this article, you will find a collection of 50 must-have plugins you should know about for effective development with Twitter Bootstrap.
-* [50 Extensions and Plugins for Extending Bootstrap](http://speckyboy.com/2014/06/16/plugins-for-extending-bootstrap/) - Bootstrap may at times not be enough for your project. To help you get more out of it, we have collected 50 plugins for extending Bootstrap.
+* [50 Extensions and Plugins for Extending Bootstrap](http://speckyboy.com/?p=49574) - Bootstrap may at times not be enough for your project. To help you get more out of it, we have collected 50 plugins for extending Bootstrap.
 * [Библиотека программиста - 25 лучших плагинов для расширения Bootstrap 3](https://vk.com/wall-54530371_3903)
 
 ## CSS Animation
@@ -446,6 +446,7 @@ My(A) curated list of goodies.
 * [EnjoyCSS](http://enjoycss.com) - EnjoyCSS is an advanced online CSS3 code generator with a simple graphical interface that saves your time. Its handy and simple UI allows you to adjust rich graphical styles quickly and without coding.
 * :octocat: [uCSS](https://github.com/oyvindeh/ucss) - uCSS is made for crawling (large) websites to find unused and duplicate CSS selectors. [![GitHub stars](https://img.shields.io/github/stars/oyvindeh/ucss.svg?style=social)](https://github.com/oyvindeh/ucss)
 * [Remove unused CSS - CSS Optimizer](https://unused-css.com) - Unused CSS is an online tool to remove unused CSS rules. It will check your pages and mark all unused CSS and then you can download a clean CSS file. See also list of "Similar services".
+* [40 Tiny Web-Based Tools & Apps for Working With CSS](http://speckyboy.com/?p=56980) - All of the tools have been created with the intention of being time-saving problem solvers to some of the more frustrating aspects of CSS.
 
 
 # Digests
