@@ -117,6 +117,7 @@ My(A) curated list of goodies.
 
 * [Icon font kits](#icon-font-kits)
 * [Icon font generators](#icon-font-generators)
+* [Raster icons](#raster-icons)
 * [Search Icons](#search-icons)
 
 
@@ -548,6 +549,11 @@ My(A) curated list of goodies.
 ## Icon font generators
 
 * [Font Awesome to PNG online generator](http://fa2png.io) - A small web app returning Font Awesome icons as png. You can define the color and size of the icons and download them directly.
+
+## Raster icons
+
+* [famfamfam.com: Icons by Mark James](http://famfamfam.com/lab/icons) - Need icons for your new website or web application, at the best price there is (free!)? Try one of the following sets: Silk, Flags, Mini.
+
 
 ## Search Icons
 
