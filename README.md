@@ -298,7 +298,12 @@ My(A) curated list of goodies.
 
 * [KeyCAPTCHA - Innovative Anti-Spam Solution](https://www.keycaptcha.com) - Powerful anti-spam website protection.
 * [KCAPTCHA project](http://captcha.ru/en/kcaptcha/) - KCAPTCHA is a free and open source PHP solution to generate human validation images (CAPTCHA). KCAPTCHA is meant to be a very strong protected one but requires no special hosting features, only PHP with GD library. :ru: [Проект KCAPTCHA - CAPTCHA.ru](http://captcha.ru/kcaptcha) — это готовое решение, написанное на языке PHP, которое вы можете бесплатно скачать и установить на свой сайт для защиты от спама и флуда. Проект KCAPTCHA ставит перед собой цель предложить программисту решение с одной стороны весьма защищенное, с другой — максимально малотребовательное к ресурсам и конфигурации хостинга. ![Хабрахабр](https://logo.clearbit.com/habr.ru?size=13x13) [Распознавание KCAPTCHA / Хабрахабр](http://habr.ru/p/263127)
-* :octocat: [MotionCAPTCHA jQuery Plugin - GitHub](https://github.com/josscrowcroft/MotionCAPTCHA) - MotionCAPTCHA is a jQuery CAPTCHA plugin that requires users to sketch the shape they see in the canvas in order to submit a form. [![GitHub stars](https://img.shields.io/github/stars/josscrowcroft/MotionCAPTCHA.svg?label=GitHub%20stars&style=flat-square)](https://github.com/josscrowcroft/MotionCAPTCHA)
+* :octocat: [MotionCAPTCHA jQuery Plugin - GitHub](https://github.com/josscrowcroft/MotionCAPTCHA) - MotionCAPTCHA is a jQuery CAPTCHA plugin that requires users to sketch the shape they see in the canvas in order to submit a form. [![GitHub stars](https://img.shields.io/github/stars/josscrowcroft/MotionCAPTCHA.svg?style=social)](https://github.com/josscrowcroft/MotionCAPTCHA)
+
+|Preview|Source|
+|------------ | -------------|
+|[![jQuery Real Person](http://keith-wood.name/img/realPersonTeaser.png)](http://keith-wood.name/realPerson.html)|[jQuery Real Person Plugin](http://keith-wood.name/realPerson.html) - This plugin is designed to help overcome automated form submission by requiring a "real person" to identify text made up of dots. The entered value is compared on the server with the generated value to determine whether processing should continue. [![GitHub stars](https://img.shields.io/github/stars/kbwood/realperson.svg?style=social)](https://github.com/kbwood/realperson)|
+
 * :ru: ![Хабрахабр](https://logo.clearbit.com/habr.ru?size=13x13) [Некапча Mail.Ru – капча, которая не показывается](http://habr.ru/p/255633) - Блог компании Mail.Ru Group / Хабрахабр.
 * :ru: ![Хабрахабр](https://logo.clearbit.com/habr.ru?size=13x13) [Вышла новая версия reCaptcha API 2.0](http://habr.ru/p/244779) - Хабрахабр.
 
@@ -728,6 +733,7 @@ My(A) curated list of goodies.
 ## Online QR Code Generators
 
 * [QR Code Generator](https://www.the-qrcode-generator.com) - Free Online QR Code Generator to make your own QR Codes.
+
 |Preview|Source|
 |------------ | -------------|
 |[![I Love QR Codes!!! HI MOM!](https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=I+Love+QR+Codes!++HI+MOM!&choe=UTF-8)](https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=I+Love+QR+Codes!++HI+MOM!&choe=UTF-8)|[How to use Google Charts API to Generate Your Own QR Code - Gregory Strike](http://wp.me/p1jCfP-9r)|
