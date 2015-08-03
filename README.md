@@ -357,6 +357,10 @@ My(A) curated list of goodies.
 
 ## Bootstrap
 
+### Bootstrap Modal
+
+* [Bootstrap-modal by jschr](https://jschr.github.io/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more. [![GitHub stars](https://img.shields.io/github/stars/jschr/bootstrap-modal.svg?style=social)](https://github.com/jschr/bootstrap-modal)
+
 ### Bootstrap snippets
 
 * [Bootsnipp.com](http://bootsnipp.com) - Bootsnipp is an element gallery for web designers and web developers, anybody who is using Bootstrap will find this website essential in their craft.
