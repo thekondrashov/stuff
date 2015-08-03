@@ -330,7 +330,7 @@ My(A) curated list of goodies.
 * [GitHub color codes for programming languages](https://github.com/doda/github-language-colors) - A mapping of which colors github uses to represent different programming languages in their "Languages" tab on each repository.
 * [What colour is it?](http://whatcolourisit.scn9a.org) - the time....... now in colour.
 * [Snazzy Maps - Free Styles for Google Maps](https://snazzymaps.com) - Snazzy Maps is a repository of different color schemes for Google Maps aimed towards web designers and developers.
-* [GradifyCSS — модуль, который находит основные цвета в изображениях и создает масштабируемый CSS градиент](http://gradifycss.com). [![GitHub stars](https://img.shields.io/github/stars/fraser-hemp/gradify.svg?label=GitHub%20stars&style=flat-square)](https://github.com/fraser-hemp/gradify)
+* [GradifyCSS — модуль, который находит основные цвета в изображениях и создает масштабируемый CSS градиент](http://gradifycss.com). [![GitHub stars](https://img.shields.io/github/stars/fraser-hemp/gradify.svg?style=social)](https://github.com/fraser-hemp/gradify)
 
 
 
@@ -339,12 +339,13 @@ My(A) curated list of goodies.
 
 ## Drupal
 
-* [Dru.io](http://dru.io) - Drupal сообщество (Nikita Malyshev).
-* [Niklan](http://niklan.net) - Блог начинающего веб-разработчика (Nikita Malyshev).
+* :ru: [Dru.io](http://dru.io) - Drupal сообщество (Nikita Malyshev).
+* :ru: [Niklan](http://niklan.net) - Блог начинающего веб-разработчика (Nikita Malyshev).
 * [How to Use Bootswatch Themes in Drupal 7](http://www.webwash.net/tutorials/how-use-bootswatch-themes-drupal-7) - Web Wash.
 * [Drupal CDN](http://maxcdn4support.wpengine.com/tutorial/drupal-cdn/)
 * [HTTP Parallel Request & Threading Library](https://www.drupal.org/project/httprl/)
 * https://www.drupal.org/project/bu
+* :octocat: [Drupal 7 custom module boilerplate](https://github.com/topsitemakers/drupal7-boilerplate) - Full featured custom module boilerplate with already setup structure and default functionality. The module and all example code is built completely using Drupal best practices and standards. [![GitHub stars](https://img.shields.io/github/stars/topsitemakers/drupal7-boilerplate.svg?style=social)](https://github.com/topsitemakers/drupal7-boilerplate)
 
 
 ## WordPress
