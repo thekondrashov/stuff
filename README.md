@@ -381,6 +381,7 @@ My(A) curated list of goodies.
 * [Bootsnipp.com](http://bootsnipp.com) - Bootsnipp is an element gallery for web designers and web developers, anybody who is using Bootstrap will find this website essential in their craft.
 * [Amazing Bootstrap snippets in one place | snipplicious](http://snipplicious.com) - Snipplicious is a gallery of FREE Twitter Bootstrap snippets for web designers and web developers. Snippets can be easily copied and pasted and will work just out of the box!
 * [Snippets | Design Bootstrap](http://www.designbootstrap.com/category/bootstrap-snippets/)
+* [Bootstrap Templates | PrepBootstrap](https://prepbootstrap.com/bootstrap-template) - Free bootstrap templates and other widgets with complete code examples ready for download and setup. Updated to the latest Bootstrap 3 version.
 
 ### Bootstrap themes & templates
 
@@ -391,6 +392,7 @@ My(A) curated list of goodies.
 * [Bootstrap Stage - Bootstrap themes, templates, and gallery](http://www.bootstrapstage.com/free-themes/) - Find a starting place in this curated list of free Bootstrap themes and templates. Get your next project bootstrap project started now.
 * [50+ Best Free Bootstrap Admin Templates » CSS Author](http://www.cssauthor.com/bootstrap-admin-templates/) - An excellent collection of free bootstrap admin templates for developers, these are enormous timesaver in your workflow, explore for more. ![VKontakte](https://logo.clearbit.com/vk.com?size=16x16) [50 лучших Bootstrap шаблонов для админки - Клуб PHP программистов](https://vk.com/wall-3183750_58797)
 * [Best Free Bootstrp 3 Template - DevsTrend](http://www.devstrend.com/best-free-bootstrp-3-template/) - Best Free Bootstrp 3 Template-Bootstrap is the most popular free front-end framework for faster and easier web development.
+* [Bootstrap themes and templates | PrepBootstrap](https://prepbootstrap.com) - The ultimate source of free and premium Bootstrap themes, templates and other widgets in complete code examples. Download a sample and start building your webpage. Updated to the latest Bootstrap 3 version.
 
 ### Offcanvas navigation menu
 
