@@ -295,6 +295,9 @@ My(A) curated list of goodies.
 # CAPTCHA
 
 ## CAPTCHA plugins
+> *A CAPTCHA (an acronym for "Completely Automated Public Turing test to tell Computers and Humans Apart") is a type of challenge-response test used in computing to determine whether or not the user is human.<br>- [Source](https://en.wikipedia.org/wiki/CAPTCHA)*
+
+> :ru: *CAPTCHA (от англ. — полностью автоматизированный публичный тест Тьюринга для различения компьютеров и людей) — компьютерный тест, используемый для того, чтобы определить, кем является пользователь системы: человеком или компьютером.<br>- [Источник](https://ru.wikipedia.org/wiki/Капча)*
 
 |Preview|Source|
 |------------ | -------------|
