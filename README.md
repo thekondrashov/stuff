@@ -303,7 +303,7 @@ My(A) curated list of goodies.
 |Preview|Source|
 |------------ | -------------|
 |[![jQuery Real Person](http://keith-wood.name/img/realPersonTeaser.png)](http://keith-wood.name/realPerson.html)|[jQuery Real Person Plugin](http://keith-wood.name/realPerson.html) - This plugin is designed to help overcome automated form submission by requiring a "real person" to identify text made up of dots. The entered value is compared on the server with the generated value to determine whether processing should continue. [![GitHub stars](https://img.shields.io/github/stars/kbwood/realperson.svg?style=social)](https://github.com/kbwood/realperson)|
-|[![example](https://cool-php-captcha.googlecode.com/files/example.jpg)](https://code.google.com/p/cool-php-captcha)|[cool-php-captcha](https://code.google.com/p/cool-php-captcha) - Simple and cool CAPTCHA PHP implementation. [Demo](http://joserodriguez.cl/cool-php-captcha)|
+|[![example](http://joserodriguez.cl/cool-php-captcha/captcha.php)](http://joserodriguez.cl/cool-php-captcha)|[cool-php-captcha](https://code.google.com/p/cool-php-captcha) - Simple and cool CAPTCHA PHP implementation. [Demo](http://joserodriguez.cl/cool-php-captcha)|
 
 * :ru: ![Хабрахабр](https://logo.clearbit.com/habr.ru?size=13x13) [Некапча Mail.Ru – капча, которая не показывается](http://habr.ru/p/255633) - Блог компании Mail.Ru Group / Хабрахабр.
 * :ru: ![Хабрахабр](https://logo.clearbit.com/habr.ru?size=13x13) [Вышла новая версия reCaptcha API 2.0](http://habr.ru/p/244779) - Хабрахабр.
