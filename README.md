@@ -84,6 +84,7 @@ My(A) curated list of goodies.
 * [CSS Hacks](#css-hacks)
 * [CSS Preprocessors](#css-preprocessors)
 * [CSS References](#css-references)
+* [CSS Sprite Generators](#css-sprite-generators)
 * [CSS Misc](#css-misc)
 
 ## Digests
@@ -431,6 +432,11 @@ My(A) curated list of goodies.
 * [CSS4-Selectors](http://css4-selectors.com) - CSS4-Selectors provide information about the upcoming Cascading Style Sheets on Level 4 draft - short CSS4.
 * :ru: [20 лучших сайтов со справочниками по CSS](http://www.cssauthor.com/css-reference/)
 * :ru: [Шпаргалки по CSS - Клуб PHP программистов](https://vk.com/wall-3183750_58809)
+
+
+## CSS Sprite Generators
+
+* [CSS Sprite Generator, Editor, and Code](http://spritegen.website-performance.org) - A tool for generating image sprites and CSS for your web site. Using this tool can help you dramatically reduce the number of HTTP requests made for higher performance.
 
 
 ## CSS Misc
