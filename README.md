@@ -656,6 +656,7 @@ My(A) curated list of goodies.
 * :octocat: [Essential JavaScript website](https://github.com/ericelliott/essential-javascript-links) - A curated list by Eric Elliott and friends. [![GitHub stars](https://img.shields.io/github/stars/ericelliott/essential-javascript-links.svg?label=GitHub%20stars&style=flat-square)](https://github.com/ericelliott/essential-javascript-links)
 * :octocat: [ECMAScript 6 Tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today by Addy Osmani. [![GitHub stars](https://img.shields.io/github/stars/addyosmani/es6-tools.svg?label=GitHub%20stars&style=flat-square)](https://github.com/addyosmani/es6-tools)
 * [Waves](http://fian.my.id/Waves) - Click effect inspired by Google's Material Design. :ru: Waves — библиотека для создания волнового эффекта при клике на объект с JQuery. [![GitHub stars](https://img.shields.io/github/stars/fians/Waves.svg?style=social)](https://github.com/fians/Waves)
+* [UAParser.js](https://faisalman.github.io/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser. Supports browser & node.js environment. Also available as jQuery/Zepto plugin, Component/Bower/Meteor package, & RequireJS/AMD module. [![GitHub stars](https://img.shields.io/github/stars/faisalman/ua-parser-js.svg?style=social)](https://github.com/faisalman/ua-parser-js)
 
 
 
