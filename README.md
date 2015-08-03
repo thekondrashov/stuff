@@ -877,6 +877,7 @@ My(A) curated list of goodies.
 ## Mobile-Friendly tests
 
 * [Google Webmaster Tools - Mobile-Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/) - Проверка удобства просмотра на мобильных устройствах. Узнайте, удобно ли просматривать страницу на мобильных устройствах.
+* [Free Mobile Performance Testing with Akamai's Mobitest](http://mobitest.akamai.com) - How fast is your mobile website? Find out with free mobile performance testing from Akamai. See a video of your site loading and detailed stats.
 
 
 
