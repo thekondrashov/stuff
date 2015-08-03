@@ -887,6 +887,7 @@ My(A) curated list of goodies.
 
 ## Website speed tests
 
+* [WebPagetest - Website Performance and Optimization Test](https://webpagetest.org) - Run a free website speed test from around the globe using real browsers at consumer connection speeds with detailed optimization recommendations. [![GitHub stars](https://img.shields.io/github/stars/WPO-Foundation/webpagetest.svg?style=social)](https://github.com/WPO-Foundation/webpagetest)
 * [MaxCDN Tools](http://tools.maxcdn.com) - Compare the speed of two websites in 5 seconds from different locations around the world.
 * [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - With PageSpeed Insights you can identify ways to make your site faster and more mobile-friendly. :ru: Ускорьте загрузку своих страниц на всех устройствах. PageSpeed Insights анализирует содержание веб-страницы и предлагает решения, которые позволят ускорить ее загрузку. Сервис PageSpeed Insight проверяет сайт как с точки зрения десктопного ПК, так и со стороны мобильного устройства, выдавая оценку по 100-балльной шкале.
 * [YSlow](http://yslow.org) - Official YSlow Open Source Project Website. YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages. [![GitHub stars](https://img.shields.io/github/stars/marcelduran/yslow.svg?style=social)](https://github.com/marcelduran/yslow)
