@@ -57,6 +57,7 @@ My(A) curated list of goodies.
 ## CAPTCHA
 
 * [CAPTCHA plugins](#captcha-plugins)
+* [CAPTCHA recognition services](#captcha-recognition-services)
 
 
 ## Chat
@@ -306,9 +307,14 @@ My(A) curated list of goodies.
 |[![MotionCAPTCHA iPhone](http://josscrowcroft.com/wp-content/uploads/2011/07/motioncaptcha-iphone.jpg)](http://josscrowcroft.com/demos/motioncaptcha)|:octocat: [MotionCAPTCHA jQuery Plugin - GitHub](https://github.com/josscrowcroft/MotionCAPTCHA) - MotionCAPTCHA is a jQuery CAPTCHA plugin that requires users to sketch the shape they see in the canvas in order to submit a form. [Demo](http://josscrowcroft.com/demos/motioncaptcha) [![GitHub stars](https://img.shields.io/github/stars/josscrowcroft/MotionCAPTCHA.svg?style=social)](https://github.com/josscrowcroft/MotionCAPTCHA)|
 |[![jQuery Real Person](http://keith-wood.name/img/realPersonTeaser.png)](http://keith-wood.name/realPerson.html)|[jQuery Real Person Plugin](http://keith-wood.name/realPerson.html) - This plugin is designed to help overcome automated form submission by requiring a "real person" to identify text made up of dots. The entered value is compared on the server with the generated value to determine whether processing should continue. [![GitHub stars](https://img.shields.io/github/stars/kbwood/realperson.svg?style=social)](https://github.com/kbwood/realperson)|
 |[![example](http://joserodriguez.cl/cool-php-captcha/captcha.php)](http://joserodriguez.cl/cool-php-captcha)|[cool-php-captcha](https://code.google.com/p/cool-php-captcha) - Simple and cool CAPTCHA PHP implementation. [Demo](http://joserodriguez.cl/cool-php-captcha)|
+|![Неверифицированное состояние, требуется ввести капчу.](http://hsto.org/files/9db/f70/13b/9dbf7013b8024b08acdbb6dad3115850.png)<hr>![Верифицированное состояние, проверка капчей не нужна.](http://hsto.org/files/190/15f/3c5/19015f3c56264265adb05b8d8071ad3b.png)|:ru: [НЕКАПЧА@Mail.Ru](https://nocaptcha.mail.ru) - это сервис интеллектуальной капчи, не требующий от человека прохождения проверки. ![Хабрахабр](https://logo.clearbit.com/habr.ru?size=13x13) [Некапча Mail.Ru – капча, которая не показывается](http://habr.ru/p/255633) - Блог компании Mail.Ru Group / Хабрахабр. [![GitHub stars](https://img.shields.io/github/stars/mailru/nocaptcha-php.svg?style=social)](https://github.com/mailru/nocaptcha-php)|
 
-* :ru: ![Хабрахабр](https://logo.clearbit.com/habr.ru?size=13x13) [Некапча Mail.Ru – капча, которая не показывается](http://habr.ru/p/255633) - Блог компании Mail.Ru Group / Хабрахабр.
 * :ru: ![Хабрахабр](https://logo.clearbit.com/habr.ru?size=13x13) [Вышла новая версия reCaptcha API 2.0](http://habr.ru/p/244779) - Хабрахабр.
+
+
+## CAPTCHA recognition services
+
+* [Pixodrom - Online OCR Service](http://pixodrom.com) - The service provides recognizing graphic images consisting of letters and digits with average efficiency 98% and higher. The API is usable and is made in step with the well-established standards. :ru: Автоматизированная система распознавания текста на изображениях.
 
 
 # Chat
