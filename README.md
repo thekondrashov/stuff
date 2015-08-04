@@ -490,10 +490,11 @@ My(A) curated list of goodies.
 
 ## Crowdfunding platforms
 
-* [Indiegogo: The Largest Global Crowdfunding & Fundraising Site Online](https://www.indiegogo.com/) - As the largest global site for fundraisers, Indiegogo helps individuals, groups and non-profits raise money online to make their ideas a reality through crowdfunding.
+* [Indiegogo: The Largest Global Crowdfunding & Fundraising Site Online](https://www.indiegogo.com) - As the largest global site for fundraisers, Indiegogo helps individuals, groups and non-profits raise money online to make their ideas a reality through crowdfunding.
 
 ## Donation Management
 
+* [Gratipay - Voluntary Recurring Payments for Open Work](https://gratipay.com) - Gratipay (formerly Gittip) is a way to give money every week to people and teams you believe in. [Gratipay API](https://github.com/gratipay/gratipay.com#api) [![GitHub stars](https://img.shields.io/github/stars/gratipay/gratipay.com.svg?style=social)](https://github.com/gratipay/gratipay.com)
 * [Flattr - Social microdonations](https://flattr.com) - Flattr is a social microdonation system. With it you can easily share money to support things you like, and get support from your fans.
 * [Gumroad](https://gumroad.com) - Sell music, comics, software, books, and films directly to your audience.
 
@@ -542,8 +543,8 @@ My(A) curated list of goodies.
 
 * :ru: ![VKontakte](https://logo.clearbit.com/vk.com?size=16x16) [Библиотека программиста - Подборка материалов по Git и Github](https://vk.com/wall-54530371_34613)
 * :octocat: [Libraries | GitHub API](https://developer.github.com/libraries) - Use the GitHub API in your favorite language. Use the official Octokit library, or choose between any of the available third party libraries.
-* [GitHub Archive](https://www.githubarchive.org) - GitHub Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis. [![GitHub stars](https://img.shields.io/github/stars/igrigorik/githubarchive.org.svg?label=GitHub%20stars&style=flat-square)](https://github.com/igrigorik/githubarchive.org)
-* [GitHub Awards : Discover your ranking on GitHub](http://github-awards.com) - Find out what is your rank by language, in your city and in your country. [![GitHub stars](https://img.shields.io/github/stars/vdaubry/github-awards.svg?label=GitHub%20stars&style=flat-square)](https://github.com/vdaubry/github-awards) ![license](https://img.shields.io/github/license/vdaubry/github-awards.svg?style=flat-square)
+* [GitHub Archive](https://www.githubarchive.org) - GitHub Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis. [![GitHub stars](https://img.shields.io/github/stars/igrigorik/githubarchive.org.svg?style=social)](https://github.com/igrigorik/githubarchive.org)
+* [GitHub Awards : Discover your ranking on GitHub](http://github-awards.com) - Find out what is your rank by language, in your city and in your country. [![GitHub stars](https://img.shields.io/github/stars/vdaubry/github-awards.svg?style=social)](https://github.com/vdaubry/github-awards) ![license](https://img.shields.io/github/license/vdaubry/github-awards.svg?style=flat-square)
 
 
 
