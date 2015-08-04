@@ -558,20 +558,21 @@ My(A) curated list of goodies.
 * [Font - Puerh](http://baixing.github.io/puerh/font/) - Puerh Icon Font. [GitHub](https://github.com/baixing/baicons). [Demo](http://baixing.github.io/baicons/icons-reference.html)
 * [Freddicons | MailChimp](http://ux.mailchimp.com/patterns/icons) - 133 icons by MailChimp.
 * [Stroke Icons 7 - by Pixeden](http://themes-pixeden.com/font-demos/7-stroke/index.html) - A series of iOS 7 inspired vector icons in a custom@font-face icon font that can be styled dynamically using CSS. Those retina ready icons have a very modern style that will beautifully complement any project.
-* [Material Design Icons](http://materialdesignicons.com/) - View all the Material Design icons and more from the community.
+* [Material Design Icons](http://materialdesignicons.com) - View all the Material Design icons and more from the community.
 * [Elusive Icons v2.0](http://elusiveicons.com/icons/) - The iconic font and CSS toolkit. [GitHub](https://github.com/ReduxFramework/Elusive-Icons)
 * [Financial Times icons](http://registry.origami.ft.com/components/o-ft-icons) - Icons for FT sites. [GitHub](https://github.com/Financial-Times/o-ft-icons)
 * [Icons | Creative Tail](https://www.creativetail.com/icons/) - Hand Crafted, Pixel Perfect Icons.
 * [OpenWeb Icons... a font!](http://pfefferle.github.io/openwebicons/) - Why OpenWeb Icons? Because Font Awesome had no RSS-icon and a font with only one icon would be a bit boring...! [GitHub](https://github.com/pfefferle/openwebicons)
 * [Transformicons](http://www.transformicons.com) - Animated icons, symbols and buttons using SVG and CSS. [GitHub](https://github.com/grayghostvisuals/transformicons)
-* [icono | Pure CSS icons](https://git.io/icono) - icono is an icon pack that needs no external resources. Every tag can be an icon made with pure CSS. [GitHub](https://github.com/saeedalipoor/icono)
+* [icono | Pure CSS icons](https://git.io/icono) - icono is an icon pack that needs no external resources. Every tag can be an icon made with pure CSS. [![GitHub stars](https://img.shields.io/github/stars/saeedalipoor/icono.svg?style=social)](https://github.com/saeedalipoor/icono)
 * [Batch - 300+ Icons for Web & User Interface Design](http://adamwhitcroft.com/batch/) - Each icon in the Batch PSD is a single shape layer, meaning they can be scaled up—or down—without loss of quality.
 * [100 Free iOS Vector Icons. SKETCH, AI, PNG, SVG files](http://www.streamlineicons.com/free-icons.html) - The Ultimate Icon Collection for Web & Mobile Design.
-* [Simple Line Icons](https://thesabbir.github.io/simple-line-icons/) - Simple line icons with CSS, SAAS, LESS & Web-fonts files. [GitHub](https://github.com/thesabbir/simple-line-icons)
+* [Simple Line Icons](https://thesabbir.github.io/simple-line-icons/) - Simple line icons with CSS, SAAS, LESS & Web-fonts files. [![GitHub stars](https://img.shields.io/github/stars/thesabbir/simple-line-icons.svg?style=social)](https://github.com/thesabbir/simple-line-icons)
 * [Icon fonts - Explore GitHub](https://github.com/showcases/icon-fonts) - All the icons you could dream of all wrapped up nice and neatly as web fonts.
 * [Nucleo](https://nucleoapp.com) - A library of 1750 responsive icons and a web app to manage and customize them.
 * [Feather: 130 Free Icons by Cole Bemis](https://gumroad.com/l/feather) - Feather is a growing collection of beautifully simple icons. The set is packaged in PSD, CSH, SVG and Webfont format. Enjoy.
 * [Glyphish: Great icons for iOS 8](http://glyphish.com) - Icons for iOS 8 apps, nav bars, tab bars and other UI elements. @3x sizes too. [Icons from Glyphish.com on Google Chart](https://developers.google.com/chart/infographics/docs/dynamic_icons#icons-from-glyphishcom)
+* :octocat: [Subway Icon Set](https://github.com/mariuszostrowski/subway) - Subway is a set of 306 pixel perfect crafted icons optimized for iOS, Apple Watch, Windows and BlackBerry 10 delivered in PNG, SVG, XALM, PSD, CSH, SKETCH, PDF, AI and EPS format. [![GitHub stars](https://img.shields.io/github/stars/mariuszostrowski/subway.svg?style=social)](https://github.com/mariuszostrowski/subway)
 
 ## Icon font generators
 
