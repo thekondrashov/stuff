@@ -701,7 +701,7 @@ My(A) curated list of goodies.
 
 ## Phar
 
-* [php - How to make an executable phar?](https://stackoverflow.com/a/11082338) - Stack Overflow.
+* ![Stack Overflow](https://raw.githubusercontent.com/Keyamoon/IcoMoon-Free/master/PNG/16px/0464-stackoverflow.png)  [php - How to make an executable phar?](https://stackoverflow.com/a/11082338) - Stack Overflow.
 * [Phar в PHP: преимущества и работа с PHAR](http://sitear.ru/material/phar-php) - SiteAR.ru.
 * [.phar — исполняемые PHP-архивы](http://habr.ru/p/118269) - Хабрахабр.
 
