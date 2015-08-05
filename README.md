@@ -508,6 +508,7 @@ My(A) curated list of goodies.
 
 * [Transactional Email API Service for Developers - Mailgun](https://mailgun.com) - A set of powerful APIs that enable you to send, receive and track email from your app effortlessly whether you use Python, Ruby, PHP, C#, Node.js or Java.
 * [Mandrill](https://mandrill.com) - Mandrill is a transactional email platform from MailChimp.
+* [Zoho Email Hosting](https://zoho.com/mail) - Business Email Hosting with rich web mail client, POP/IMAP access, integrated Calendar, Contacts, Notes, Tasks apps. Get up to 20 FREE users.
 * [Formspree | Functional HTML forms](https://formspree.io) - Just send your form to our URL and we'll forward it to your email. No PHP, Javascript or sign up required — perfect for static sites! Formspree are free for 1000 submissions per email each month.
 * [Pechkin-mail.ru](https://pechkin-mail.ru/pricing/) - Сервис почтовых рассылок Печкин-mail позволят быстро настроить массовую рассылку, оформить красиво письмо и эффективно разослать Вашим клиентам, минуя спам-фильтр. Есть бесплатная версия!
 
