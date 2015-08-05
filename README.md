@@ -1011,6 +1011,7 @@ My(A) curated list of goodies.
 * [Pastebin.com](https://pastebin.com) - #1 paste tool since 2002! Pastebin is a website where you can store text online for a set period of time.
 * [Runnable](https://runnable.io) - Runnable lets you create Sandboxes (collections of one or more servers) to run the code in your GitHub repositories, on‑demand.
 * [eval.in](https://eval.in) - paste and execute code online.
+* [eval.so](http://eval.so) - Eval.so provides a free and open source web platform for you to evaluate code in many situations. Whether you want to make sure your code works on another computer, or you found some code online that you don't trust, simply run it on Eval.so, and have your answer in no time. [GitHub](https://github.com/eval-so)
 * [Pastie](https://pastie.org)
 
 
