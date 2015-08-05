@@ -523,6 +523,8 @@ My(A) curated list of goodies.
 
 * [Dmail](https://mail.delicious.com) - Self-Destructing Email. Finally, sent email has a delete button.
 * :ru: [Почтовые синонимы в Gmail](http://demin.ws/blog/russian/2012/09/06/gmail-aliases/) - Александр Дëмин.
+* [Hacking Gmail to use custom domains for free](http://simplyian.com/2015/01/07/Hacking-GMail-to-use-custom-domains-for-free/) - a free way to use your Gmail account with a custom domain: Mailgun.
+* [How to send and receive custom domain email with Gmail for free](https://medium.com/@gobudgie/7e8cb8574c3e) - via Zoho mail server account.
 
 
 # Fonts
