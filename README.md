@@ -792,7 +792,7 @@ My(A) curated list of goodies.
 ### CORS
 > *__Cross-origin resource sharing (CORS)__ is a mechanism that allows restricted resources (e.g. fonts, JavaScript, etc.) on a web page to be requested from another domain outside the domain from which the resource originated.<br>- [Source](https://en.wikipedia.org/wiki/Cross-Origin_Resource_Sharing)*
 
-* [Enable CORS](http://enable-cors.org) - More details on how to enable CORS on your server.
+* [Enable CORS](http://enable-cors.org) - More details on how to enable CORS on your server. [![GitHub stars](https://img.shields.io/github/stars/monsur/enable-cors.org.svg?style=social)](https://github.com/monsur/enable-cors.org)
 
 ### Last-Modified & If-Modified-Since
 
