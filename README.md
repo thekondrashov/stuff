@@ -789,6 +789,11 @@ My(A) curated list of goodies.
 * [report-uri.io by Scott Helme](https://report-uri.io) - Violation reporting for CSP and HPKP policies.
 * [CSP Playground](http://cspplayground.com)
 
+### CORS
+> *__Cross-origin resource sharing (CORS)__ is a mechanism that allows restricted resources (e.g. fonts, JavaScript, etc.) on a web page to be requested from another domain outside the domain from which the resource originated.<br>- [Source](https://en.wikipedia.org/wiki/Cross-Origin_Resource_Sharing)*
+
+* [Enable CORS](http://enable-cors.org) - More details on how to enable CORS on your server.
+
 ### Last-Modified & If-Modified-Since
 
 * :ru: [HTTP заголовки Last-Modified и If-Modified-Since](http://last-modified.com/ru/if-modified-since.html)
