@@ -793,10 +793,14 @@ My(A) curated list of goodies.
 > *__Cross-origin resource sharing (CORS)__ is a mechanism that allows restricted resources (e.g. fonts, JavaScript, etc.) on a web page to be requested from another domain outside the domain from which the resource originated.<br>- [Source](https://en.wikipedia.org/wiki/Cross-Origin_Resource_Sharing)*
 
 * [Enable CORS](http://enable-cors.org) - More details on how to enable CORS on your server. [![GitHub stars](https://img.shields.io/github/stars/monsur/enable-cors.org.svg?style=social)](https://github.com/monsur/enable-cors.org)
+* [test-cors.org](http://test-cors.org) - A tool to help test CORS requests. You can either send the CORS request to a remote server (to test if CORS is supported), or send the CORS request to a test server (to explore certain features of CORS). [![GitHub stars](https://img.shields.io/github/stars/monsur/test-cors.org.svg?style=social)](https://github.com/monsur/test-cors.org)
 
 ### Last-Modified & If-Modified-Since
 
 * :ru: [HTTP заголовки Last-Modified и If-Modified-Since](http://last-modified.com/ru/if-modified-since.html)
+
+
+
 
 
 ## Leaked account checkers
