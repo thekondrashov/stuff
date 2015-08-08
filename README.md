@@ -806,6 +806,7 @@ My(A) curated list of goodies.
 * [MDN: HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 * [Wikipedia page on List of HTTP headers](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
 * :ru: [Список заголовков HTTP](https://ru.wikipedia.org/wiki/Список_заголовков_HTTP) - Материал из Википедии.
+* :ru: [RFC 2068 — Протокол Передачи Гипертекста - HTTP/1.1](http://www.novopromo.ru/http/rfc2068/index.htm) - Русский перевод спецификации RFC 2068.
 
 
 
