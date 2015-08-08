@@ -800,6 +800,10 @@ My(A) curated list of goodies.
 * :ru: [HTTP заголовки Last-Modified и If-Modified-Since](http://last-modified.com/ru/if-modified-since.html)
 
 
+### HTTP Header References
+
+* [C. HTTP Header Reference - HTTP: The Definitive Guide](https://www.safaribooksonline.com/library/view/http-the-definitive/1565925092/apc.html)
+
 
 
 
