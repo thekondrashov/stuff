@@ -803,6 +803,9 @@ My(A) curated list of goodies.
 ### HTTP Header References
 
 * [C. HTTP Header Reference - HTTP: The Definitive Guide](https://www.safaribooksonline.com/library/view/http-the-definitive/1565925092/apc.html)
+* [MDN: HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+* [Wikipedia page on List of HTTP headers](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
+* :ru: [Список заголовков HTTP](https://ru.wikipedia.org/wiki/Список_заголовков_HTTP) - Материал из Википедии.
 
 
 
