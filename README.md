@@ -1234,6 +1234,7 @@ My(A) curated list of goodies.
 ## Misc
 
 * [RFC](http://rfc2.ru) - Наиболее полная в Рунете коллекция документов RFC, переведённых на русский язык.
+* [Internet FAQ Archives - Online Education - faqs.org](http://faqs.org) - Internet RFC/STD/FYI/BCP Archives.
 * [IANA Database of Top Level Domains](http://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 * [What should every programmer know about security?](http://stackoverflow.com/questions/2794016/what-should-every-programmer-know-about-security) - Stack Overflow.
 * [What technical details should a programmer of a web application consider before making the site public?](http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before) - Programmers Stack Exchange.
