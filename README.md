@@ -805,6 +805,7 @@ My(A) curated list of goodies.
 * [C. HTTP Header Reference - HTTP: The Definitive Guide](https://www.safaribooksonline.com/library/view/http-the-definitive/1565925092/apc.html)
 * [MDN: HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 * [Wikipedia page on List of HTTP headers](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
+* [RFC 2616: Header Field Definitions](http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html)
 * :ru: [Список заголовков HTTP](https://ru.wikipedia.org/wiki/Список_заголовков_HTTP) - Материал из Википедии.
 * :ru: [RFC 2068 — Протокол Передачи Гипертекста - HTTP/1.1](http://www.novopromo.ru/http/rfc2068/index.htm) - Русский перевод спецификации RFC 2068.
 
