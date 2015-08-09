@@ -1219,7 +1219,7 @@ My(A) curated list of goodies.
 
 ## HTTP Status Codes
 
-* [HTTP Status Codes - httpstatus.es](http://httpstatus.es/) - HTTP Status code list / directory with wikipedia and ietf descriptions. [Github](https://github.com/citricsquid/httpstatus.es)
+* [HTTP Status Codes - httpstatus.es](http://httpstatus.es) - HTTP Status code list / directory with wikipedia and ietf descriptions. [Github](https://github.com/citricsquid/httpstatus.es)
 * [HTTP Status Code Errors](http://pcsupport.about.com/od/findtheproblem/tp/browsererror.htm) - A list of HTTP status code errors (4xx client and 5xx server HTTP status codes) and how to fix them. HTTP status code errors appear inside the browser.
 * [Checking 304 Not Modified](http://last-modified.com) - Checking If-Modified-Since header.
 
@@ -1231,8 +1231,9 @@ My(A) curated list of goodies.
 
 ## Unicode
 
-* [Graphemica](http://graphemica.com/) - Browse Unicode Characters.
-* [HTML Symbol Codes and Entities — HTML Arrows](http://htmlarrows.com/) - The most beautiful HTML arrows, currency and copyright symbols you will ever see, plus all those other pesky ASCII and HEX codes you can never remember.
+* [Graphemica](http://graphemica.com) - Browse Unicode Characters.
+* [HTML Symbol Codes and Entities — HTML Arrows](http://htmlarrows.com) - The most beautiful HTML arrows, currency and copyright symbols you will ever see, plus all those other pesky ASCII and HEX codes you can never remember.
+* :octocat: [ᕙ༼ຈل͜ຈ༽ᕗ cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - get some cool ascii faces. [![GitHub stars](https://img.shields.io/github/stars/maxogden/cool-ascii-faces.svg?style=social)](https://github.com/maxogden/cool-ascii-faces)
 
 ## XPath
 
@@ -1275,7 +1276,7 @@ My(A) curated list of goodies.
 |Preview|Source|
 |------------ | -------------|
 |[![Build status](https://img.shields.io/travis/joyent/node.svg)](http://shields.io)<br>[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social)](https://github.com/badges/shields)<br>[![tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](http://shields.io)|[Shields.io: Quality metadata badges for open source projects](http://shields.io) - We serve fast and scalable informational images as badges for GitHub, Travis CI, Jenkins, WordPress and many more services. Use them to track the state of your projects, or for promotional purposes. [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?label=GitHub%20stars&style=flat-square)](https://github.com/badges/shields)|
-|[![forthebadge](http://forthebadge.com/images/badges/built-by-hipsters.svg)](http://forthebadge.com)<br>[![forthebadge](http://forthebadge.com/images/badges/compatibility-ie-6.svg)](http://forthebadge.com)<br>[![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)|[For the Badge](http://forthebadge.com). [![GitHub stars](https://img.shields.io/github/stars/BraveUX/for-the-badge.svg?label=GitHub%20stars&style=flat-square)](https://github.com/BraveUX/for-the-badge)|
+|[![forthebadge](http://forthebadge.com/images/badges/built-by-hipsters.svg)](http://forthebadge.com)<br>[![forthebadge](http://forthebadge.com/images/badges/compatibility-ie-6.svg)](http://forthebadge.com)<br>[![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)|[For the Badge](http://forthebadge.com). [![GitHub stars](https://img.shields.io/github/stars/BraveUX/for-the-badge.svg?style=social)](https://github.com/BraveUX/for-the-badge)|
 
 * [SVG Weirdness](https://github.com/emilbjorklund/svg-weirdness/issues) - A repository for documenting bugs and other weird SVG behaviors, inspired by [Scott Jehl’s “Device Bugs” repo](https://github.com/scottjehl/Device-Bugs). Странности SVG, репозиторий на GitHub, в котором авторы начали собирать проблемы и решения.
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com) - Fake online REST API for developers. [GitHub](https://github.com/typicode/jsonplaceholder)
