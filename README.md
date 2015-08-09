@@ -547,7 +547,8 @@ My(A) curated list of goodies.
 * :ru: ![VKontakte](https://logo.clearbit.com/vk.com?size=16x16) [Библиотека программиста - Подборка материалов по Git и Github](https://vk.com/wall-54530371_34613)
 * :octocat: [Libraries | GitHub API](https://developer.github.com/libraries) - Use the GitHub API in your favorite language. Use the official Octokit library, or choose between any of the available third party libraries.
 * [GitHub Archive](https://www.githubarchive.org) - GitHub Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis. [![GitHub stars](https://img.shields.io/github/stars/igrigorik/githubarchive.org.svg?style=social)](https://github.com/igrigorik/githubarchive.org)
-* [GitHub Awards : Discover your ranking on GitHub](http://github-awards.com) - Find out what is your rank by language, in your city and in your country. [![GitHub stars](https://img.shields.io/github/stars/vdaubry/github-awards.svg?style=social)](https://github.com/vdaubry/github-awards) ![license](https://img.shields.io/github/license/vdaubry/github-awards.svg?style=flat-square)
+* [GitHub Awards : Discover your ranking on GitHub](http://github-awards.com) - Find out what is your rank by language, in your city and in your country. [![GitHub stars](https://img.shields.io/github/stars/vdaubry/github-awards.svg?style=social)](https://github.com/vdaubry/github-awards) ![license](https://img.shields.io/github/license/vdaubry/github-awards.svg?style=social)
+* :octocat: [GitHub Cheat Sheet](https://git.io/sheet) - A collection of cool hidden and not so hidden features of Git and GitHub. [![GitHub stars](https://img.shields.io/github/stars/tiimgreen/github-cheat-sheet.svg?style=social)](https://github.com/tiimgreen/github-cheat-sheet)
 
 
 
