@@ -865,6 +865,9 @@ My(A) curated list of goodies.
 * [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/) - A comprehensive free SSL test for your public web servers.
 * [Free SSL Web Server Tester | Wormly](https://wormly.com/test_ssl) - Free SSL web server testing tool.  Conducts a thorough analysis of your SSL / TLS web server configuration and performance.
 * [SSL Check](https://sslcheck.globalsign.com) - GlobalSign SSL Configuration Checker. Powered by Qualys SSL Labs. Средство проверки конфигурации SSL GlobalSign. Основано на технологиях Qualys SSL Labs.
+* [Cert Logik](https://certlogik.com/about/) - Cert Logik is a collection of PKI and SSL products developed by Red Kestrel Consulting Limited. [SSL Checker](https://certlogik.com/ssl-checker/encrypted.google.com) - Use SSL Checker to test your SSL certificate and its installation. Connects to your website and checks the installation of your SSL certificate.
+* [SSL Certificate Tools and Services](https://redkestrel.co.uk) - Red Kestrel have developed a portfolio of PKI and SSL related products and tool to help businesses better manage their PKIs and digital certificates.
+* [Cert Centre](https://certcentrehq.com) - Manage your SSL certificates. CertCentre discovers, inspects, and tracks all your SSL certificates (both internal and external).
 
 
 
