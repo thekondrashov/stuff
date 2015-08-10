@@ -1145,6 +1145,7 @@ My(A) curated list of goodies.
 
 * [ICANN WHOIS](http://whois.icann.org) - Official ICANN WHOIS Search.
 * [Whois7.ru](http://whois7.ru) - Whois Service, IP Whois, DNS Digger.
+* [DNS Lookup tool, Reverse DNS lookup tool - www.DNSWatch.info](https://www.dnswatch.info) - Lookup DNS records with exact performance measuring, monitor your dns servers!
 
 
 ## Free hosting
