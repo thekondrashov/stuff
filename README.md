@@ -837,17 +837,10 @@ My(A) curated list of goodies.
 
 * [Check login status](http://status.phplernen.org) - Check your login status at different internet services at once.
 
+
 ## SSL certificates
 
-### Tools To Test SSL Configurations
-
-* [SHAAAAAAAAAAAAA | Check your site for weak SHA-1 certificates](https://shaaaaaaaaaaaaa.com) - SHA-1 certificates are dangerously weak, and you probably have one. It's time to upgrade to SHA-2. Open source tool by @konklone. [GitHub](https://github.com/konklone/shaaaaaaaaaaaaa)
-* [SSL Certificate Tools - SSLShopper](https://www.sslshopper.com/ssl-certificate-tools.html) - SSL Certificate Tools for troubleshooting SSL certificate related problems.
-* [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/) - A comprehensive free SSL test for your public web servers.
-* [Free SSL Web Server Tester | Wormly](https://wormly.com/test_ssl) - Free SSL web server testing tool.  Conducts a thorough analysis of your SSL / TLS web server configuration and performance.
-* [SSL Check](https://sslcheck.globalsign.com) - GlobalSign SSL Configuration Checker. Powered by Qualys SSL Labs. Средство проверки конфигурации SSL GlobalSign. Основано на технологиях Qualys SSL Labs.
-
-### Tools To Test SSL Configurations
+### Generate and manage SSL certificates
 
 * [TinyCert](https://www.tinycert.org) - Generate and manage SSL certificates free.
 * [Let's Encrypt](https://letsencrypt.org) - It’s free, automated, and open certificate authority.
@@ -858,6 +851,20 @@ My(A) curated list of goodies.
 * :ru: [Бесплатные SSL-сертификаты на 3 года с поддержкой до 100 доменов](https://blog.kai-zer.ru/besplatnyy-ssl-sertifikaty-na-3-goda-s-pod/)
 * :ru: [Бесплатный валидный (подписанный) SSL-сертификат через StartSSL](http://valera.ws/2012.03.11~free-valid-signed-ssl-certificate-with-sratssl/) - Персональный блог Валерия Леонтьева.
 * :ru: [Устанавливаем бесплатный SSL–сертификат StartSSL на облачный VPS от Infobox](http://habr.ru/p/256283) -  Блог компании Infobox / Хабрахабр.
+
+### Recommended Practices
+
+* [SSL Labs: SSL and TLS Deployment Best Practices](https://www.ssllabs.com/projects/best-practices/)
+* [OWASP: TLS Cheat Sheet](https://owasp.org/index.php/Transport_Layer_Protection_Cheat_Sheet) - This cheat sheet provides a simple model to follow when implementing transport layer protection for an application.
+
+### Tools To Test SSL Configurations
+
+* [SHAAAAAAAAAAAAA | Check your site for weak SHA-1 certificates](https://shaaaaaaaaaaaaa.com) - SHA-1 certificates are dangerously weak, and you probably have one. It's time to upgrade to SHA-2. Open source tool by @konklone. [GitHub](https://github.com/konklone/shaaaaaaaaaaaaa)
+* [SSL Certificate Tools - SSLShopper](https://www.sslshopper.com/ssl-certificate-tools.html) - SSL Certificate Tools for troubleshooting SSL certificate related problems.
+* [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/) - A comprehensive free SSL test for your public web servers.
+* [Free SSL Web Server Tester | Wormly](https://wormly.com/test_ssl) - Free SSL web server testing tool.  Conducts a thorough analysis of your SSL / TLS web server configuration and performance.
+* [SSL Check](https://sslcheck.globalsign.com) - GlobalSign SSL Configuration Checker. Powered by Qualys SSL Labs. Средство проверки конфигурации SSL GlobalSign. Основано на технологиях Qualys SSL Labs.
+
 
 
 ## Two Factor Auth
