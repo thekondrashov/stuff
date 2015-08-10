@@ -173,7 +173,7 @@ My(A) curated list of goodies.
 * [Anti-spam services](#anti-spam-services)
 * [Bounty programes](#bounty-programes)
 * [Cryptography](#cryptography)
-* [HTTP headers](#http-headers)
+* [HTTP Headers for Website and Web Application Security](#http-headers-for-website-and-web-application-security)
 * [Leaked account checkers](#leaked-account-checkers)
 * [Online security scanners](#online-security-scanners)
 * [Password Strength Meters](#password-strength-meters)
@@ -779,7 +779,7 @@ My(A) curated list of goodies.
 * [ircmaxell's blog: Seven Ways To Screw Up BCrypt](http://blog.ircmaxell.com/2012/12/seven-ways-to-screw-up-bcrypt.html)
 
 
-## HTTP headers
+## HTTP Headers for Website and Web Application Security
 
 ### Content Security Policy
 
@@ -801,10 +801,15 @@ My(A) curated list of goodies.
 * :ru: [HTTP заголовки Last-Modified и If-Modified-Since](http://last-modified.com/ru/if-modified-since.html)
 
 ### HTTP Public Key Pinning (HPKP)
-> *__Public Key Pinning__ is a security feature that tells a web browser to associate a public cryptographic key with a server or servers. When a web browser visits a website for the first time, it will read the HPKP header and store the hashes for the certificates that are provided. Each time the browser then revisits that website, the hash from the provided public key is compared against the stored keys, if the hashes do not match, the web browser should display a warning.<br>- [Source](https://kura.io/2015/01/27/hpkp-http-public-key-pinning-with-haproxy/)*
+> *__Public Key Pinning Extension for HTTP (HPKP)__ a.k.a. [RFC 7469](https://tools.ietf.org/html/rfc7469) is an Internet standard for instructing HTTP clients (user agents) to do public key pinning for HTTPS websites that send appropriate HTTP header (or are included in preloaded pins list).<br>- [Source](https://projects.dm.id.lv/Public-Key-Pins_calculator)*
 
 * [HTTP Public Key Pinning](https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning) - Wikipedia, the free encyclopedia.
-* [Pin Creator](https://certpins.appspot.com) - Create your HPKP-pins to add to your site headers! This tool builds upon the go implementation of cert pinning in the key-pinning draft. [![GitHub stars](https://img.shields.io/github/stars/cem-/certpins.svg?style=social)](https://github.com/cem-/certpins)
+* [JavaScript Public-Key-Pins (HPKP) calculator](https://projects.dm.id.lv/Public-Key-Pins_calculator) - is JavaScript library/application for easy calculation of public key hashes for use in Public Key Pinning Extension for HTTP. [![GitHub stars](https://img.shields.io/github/stars/DavisNT/Public-Key-Pins.svg?style=social)](https://github.com/DavisNT/Public-Key-Pins)
+* [MDN article on HTTP Public Key Pinning (HPKP)](https://developer.mozilla.org/en-US/docs/Web/Security/Public_Key_Pinning)
+* [Pin Creator](https://certpins.appspot.com) - Create your HPKP-pins to add to your site headers! Online public key pin calculator that makes calculations on server. This tool builds upon the go implementation of cert pinning in the key-pinning draft. [![GitHub stars](https://img.shields.io/github/stars/cem-/certpins.svg?style=social)](https://github.com/cem-/certpins)
+
+
+### HTTP Strict Transport Security (HSTS)
 
 
 ### HTTP Header References
@@ -815,6 +820,7 @@ My(A) curated list of goodies.
 * [RFC 2616: Header Field Definitions](http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html)
 * :ru: [Список заголовков HTTP](https://ru.wikipedia.org/wiki/Список_заголовков_HTTP) - Материал из Википедии.
 * :ru: [RFC 2068 — Протокол Передачи Гипертекста - HTTP/1.1](http://www.novopromo.ru/http/rfc2068/index.htm) - Русский перевод спецификации RFC 2068.
+* [Presentation: HTTP Security Headers](https://zerdah.github.io/sec-header-talk/) - A Quick Introduction by Adam Hart. [![GitHub stars](https://img.shields.io/github/stars/zerdah/sec-header-talk.svg?style=social)](https://github.com/zerdah/sec-header-talk)
 
 
 
@@ -830,6 +836,8 @@ My(A) curated list of goodies.
 
 * [SecurityHeaders.io](https://securityheaders.io) - An easy way to asses the security based HTTP response headers of other sites.
 * [Logjam: How Diffie-Hellman Fails in Practice](https://weakdh.org) - The Logjam Attack weaknesses checker.
+* [SecurityHeaders.com](https://securityheaders.com) - Test a Website's Headers for Security Features.
+* [HTTP Security Report](https://httpsecurityreport.com) - Get an instant report of how your website measures up to the best practices. Check connection encryption, content security, information disclosure and cookies.
 
 ## Password Strength Meters
 
