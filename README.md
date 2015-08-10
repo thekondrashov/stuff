@@ -800,6 +800,10 @@ My(A) curated list of goodies.
 
 * :ru: [HTTP заголовки Last-Modified и If-Modified-Since](http://last-modified.com/ru/if-modified-since.html)
 
+### Public Key Pinning
+
+* [Pin Creator](https://certpins.appspot.com) - Create your HPKP-pins to add to your site headers! This tool builds upon the go implementation of cert pinning in the key-pinning draft. [![GitHub stars](https://img.shields.io/github/stars/cem-/certpins.svg?style=social)](https://github.com/cem-/certpins)
+
 
 ### HTTP Header References
 
