@@ -839,10 +839,16 @@ My(A) curated list of goodies.
 
 ## SSL certificates
 
+### Tools To Test SSL Configurations
+
 * [SHAAAAAAAAAAAAA | Check your site for weak SHA-1 certificates](https://shaaaaaaaaaaaaa.com) - SHA-1 certificates are dangerously weak, and you probably have one. It's time to upgrade to SHA-2. Open source tool by @konklone. [GitHub](https://github.com/konklone/shaaaaaaaaaaaaa)
 * [SSL Certificate Tools - SSLShopper](https://www.sslshopper.com/ssl-certificate-tools.html) - SSL Certificate Tools for troubleshooting SSL certificate related problems.
-* [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/analyze.html) - A comprehensive free SSL test for your public web servers.
+* [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/) - A comprehensive free SSL test for your public web servers.
+* [Free SSL Web Server Tester | Wormly](https://wormly.com/test_ssl) - Free SSL web server testing tool.  Conducts a thorough analysis of your SSL / TLS web server configuration and performance.
 * [SSL Check](https://sslcheck.globalsign.com) - GlobalSign SSL Configuration Checker. Powered by Qualys SSL Labs. Средство проверки конфигурации SSL GlobalSign. Основано на технологиях Qualys SSL Labs.
+
+### Tools To Test SSL Configurations
+
 * [TinyCert](https://www.tinycert.org) - Generate and manage SSL certificates free.
 * [Let's Encrypt](https://letsencrypt.org) - It’s free, automated, and open certificate authority.
 * [StartSSL™ Certificates](https://www.startssl.com) - StartCom Free SSL Client, S/Mime, Server, Domain Controller, Smartcard Certificates.
@@ -1292,6 +1298,7 @@ My(A) curated list of goodies.
 * [Транскодер для медленных подключений - Google](https://www.google.com/webmasters/tools/transcoder) - Компания Google тестирует новую функцию: устройства, использующие низкоскоростное соединение, автоматически перенаправляются из Google Поиска на перекодированные версии целевых страниц, которые загружаются в четыре раза быстрее исходных. При этом объем трафика уменьшается на 80%, а количество просмотров страниц увеличивается на 50%.
 * [Web developer tools](https://mothereff.in) - Validators, generators and converters.
 * [Your Web, documented · WebPlatform.org](https://webplatform.org) - The latest information on how to use the technology that runs the web — HTML, CSS, JavaScript and more. [![tweet](https://img.shields.io/twitter/url/http/www.webplatform.org.svg?style=social)](https://twitter.com/webplatform)
+* [Free Diagnostic Tools | Wormly](https://wormly.com/tools) - Wormly has a few useful, simple, free tools to make your sysadmin life a bit easier.  Including: Web server security scan, SMTP, POP3, FTP testing and Remote Ping.
 
 
 # Finally
