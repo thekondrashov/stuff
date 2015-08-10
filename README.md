@@ -837,7 +837,7 @@ My(A) curated list of goodies.
 * [SecurityHeaders.io](https://securityheaders.io) - An easy way to asses the security based HTTP response headers of other sites.
 * [Logjam: How Diffie-Hellman Fails in Practice](https://weakdh.org) - The Logjam Attack weaknesses checker.
 * [SecurityHeaders.com](https://securityheaders.com) - Test a Website's Headers for Security Features.
-* [HTTP Security Report](https://httpsecurityreport.com) - Get an instant report of how your website measures up to the best practices. Check connection encryption, content security, information disclosure and cookies.
+* [HTTP Security Report](https://httpsecurityreport.com) - Analyzes websites' HTTP security and offers suggestions for improvement. Get an instant report of how your website measures up to the best practices. Check connection encryption, content security, information disclosure and cookies.
 
 ## Password Strength Meters
 
