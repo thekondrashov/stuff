@@ -845,6 +845,7 @@ My(A) curated list of goodies.
 * [TinyCert](https://www.tinycert.org) - Generate and manage SSL certificates free.
 * [Let's Encrypt](https://letsencrypt.org) - It’s free, automated, and open certificate authority.
 * [StartSSL™ Certificates](https://www.startssl.com) - StartCom Free SSL Client, S/Mime, Server, Domain Controller, Smartcard Certificates.
+* [CAcert.org](http://cacert.org) - a community-driven Certificate Authority that issues certificates to the public at large for free.
 * [Free SSL Certificate from Comodo | Extended Free SSL for 90 days](https://www.instantssl.com/free-ssl-certificate.html) - Learn why Free SSL Certificate from Comodo is trusted by majority of web browsers. Get Extended Free SSL for 90 days and secure your website in minutes.
 * [30-day free trial SSL certificate from RapidSSL](https://www.freessl.com) - These SSL certificates are fully functional for 30 days, ideal for testing.
 * :ru: [Бесплатные SSL-сертификаты на 2 года от WoSign / Хабрахабр](http://habr.ru/p/252529)
