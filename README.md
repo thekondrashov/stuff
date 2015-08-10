@@ -897,6 +897,7 @@ My(A) curated list of goodies.
 * [Scott Helme](https://scotthelme.co.uk) - Information Security Consultant.
 * [oxdef](https://www.oxdef.info) - Some thoughts about web security.
 * [Jonathan Rudenberg](https://titanous.com)
+* [Noncombatant by Chris Palmer](https://nonfreesoftware.org)
 
 
 ## Security Misc
