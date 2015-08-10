@@ -838,6 +838,7 @@ My(A) curated list of goodies.
 * [Logjam: How Diffie-Hellman Fails in Practice](https://weakdh.org) - The Logjam Attack weaknesses checker.
 * [SecurityHeaders.com](https://securityheaders.com) - Test a Website's Headers for Security Features.
 * [HTTP Security Report](https://httpsecurityreport.com) - Analyzes websites' HTTP security and offers suggestions for improvement. Get an instant report of how your website measures up to the best practices. Check connection encryption, content security, information disclosure and cookies.
+* [Shodan](https://shodan.io) - Monitor Network Security.
 
 ## Password Strength Meters
 
