@@ -803,6 +803,7 @@ My(A) curated list of goodies.
 ### HTTP Public Key Pinning (HPKP)
 > *__Public Key Pinning__ is a security feature that tells a web browser to associate a public cryptographic key with a server or servers. When a web browser visits a website for the first time, it will read the HPKP header and store the hashes for the certificates that are provided. Each time the browser then revisits that website, the hash from the provided public key is compared against the stored keys, if the hashes do not match, the web browser should display a warning.<br>- [Source](https://kura.io/2015/01/27/hpkp-http-public-key-pinning-with-haproxy/)*
 
+* [HTTP Public Key Pinning](https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning) - Wikipedia, the free encyclopedia.
 * [Pin Creator](https://certpins.appspot.com) - Create your HPKP-pins to add to your site headers! This tool builds upon the go implementation of cert pinning in the key-pinning draft. [![GitHub stars](https://img.shields.io/github/stars/cem-/certpins.svg?style=social)](https://github.com/cem-/certpins)
 
 
