@@ -331,7 +331,7 @@ My(A) curated list of goodies.
 * [Flatuicolorpicker](http://www.flatuicolorpicker.com) - A project digging the Flat Color Picker which gives you the perfect colors for flat designs.
 * [Flat UI Colors](http://flatuicolors.com) - This small web app helps you to copy the colors from Flat UI. It's kind of responsive, so you can use it with a tiny browser like a widget.
 * [Coolors](http://coolors.co/app) - Generate infinite color palettes for your designs and share, export or save it in your profile.
-* [dyecol](http://dyecol.com) - dyecol is a beautiful color generator for your web projects. dyecol generates colors at random and they're beautiful. ![tweet](https://img.shields.io/twitter/url/http/dyecol.com.svg?label=tweet&style=flat-square)
+* [dyecol](http://dyecol.com) - dyecol is a beautiful color generator for your web projects. dyecol generates colors at random and they're beautiful. ![tweet](https://img.shields.io/twitter/url/http/dyecol.com.svg?label=tweet&style=social)
 
 ## Color Misc
 
@@ -1017,7 +1017,7 @@ My(A) curated list of goodies.
 
 ## Make HTTP requests
 
-* [Hurl.it - Make HTTP requests](https://www.hurl.it) - Choose the request method, customize headers and POST parameters, add basic authorization or OAuth credentials, and even follow redirects. Then view the nicely formatted request and response. It's the perfect tool for testing APIs. Just enter a URL and click send. A [Runscope](https://www.runscope.com) community project. [![Follow Hurl.it on Twitter](https://img.shields.io/twitter/url/http/hurl.it.svg?label=Follow%20Hurl.it%20on%20Twitter&style=flat-square)](https://twitter.com/hurlit)
+* [Hurl.it - Make HTTP requests](https://www.hurl.it) - Choose the request method, customize headers and POST parameters, add basic authorization or OAuth credentials, and even follow redirects. Then view the nicely formatted request and response. It's the perfect tool for testing APIs. Just enter a URL and click send. A [Runscope](https://www.runscope.com) community project. [![Follow Hurl.it on Twitter](https://img.shields.io/twitter/url/http/hurl.it.svg?label=Follow%20Hurl.it%20on%20Twitter&style=social)](https://twitter.com/hurlit)
 * [HTTP Web-Sniffer](http://web-sniffer.net) - View request and response header of a HTTP connection, HTTP status codes and HTML source.
 
 
@@ -1291,6 +1291,7 @@ My(A) curated list of goodies.
 * [Better Error Pages - StatusPage.io](https://better-error-pages.statuspage.io) - Build free 404, 500-level, and maintenance pages in 60 seconds. :ru: Better Error Pages — ресурс для создания страниц ошибок 404, 50X. Сначала нужно предоставить некоторую информацию о сайте: адрес, e-mail обратной связи и т.п. После этого остаётся выбрать один из шаблонов, изменить цвет текста и фона и указать e-mail, куда будет отправлена готовая страница ошибок.
 * [Транскодер для медленных подключений - Google](https://www.google.com/webmasters/tools/transcoder) - Компания Google тестирует новую функцию: устройства, использующие низкоскоростное соединение, автоматически перенаправляются из Google Поиска на перекодированные версии целевых страниц, которые загружаются в четыре раза быстрее исходных. При этом объем трафика уменьшается на 80%, а количество просмотров страниц увеличивается на 50%.
 * [Web developer tools](https://mothereff.in) - Validators, generators and converters.
+* [Your Web, documented · WebPlatform.org](https://webplatform.org) - The latest information on how to use the technology that runs the web — HTML, CSS, JavaScript and more. [![tweet](https://img.shields.io/twitter/url/http/www.webplatform.org.svg?style=social)](https://twitter.com/webplatform)
 
 
 # Finally
