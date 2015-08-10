@@ -902,6 +902,7 @@ My(A) curated list of goodies.
 
 * :ru: [Как сделать JSON Vulnerability Protection в ответе сервера под Yii2](http://habr.ru/p/256213) - Хабрахабр.
 * :octocat: [Awesome AppSec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security. Contains books, websites, blog posts, and self-assessment quizzes.
+* [Play safely in sandboxed IFrames - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/security/sandboxed-iframes/) - Learn how to run IFramed content in a sandbox, greatly reducing the risk associated with third-party widgets, and your own application's code.
 
 
 
