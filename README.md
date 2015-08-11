@@ -801,8 +801,9 @@ My(A) curated list of goodies.
 * :ru: [HTTP заголовки Last-Modified и If-Modified-Since](http://last-modified.com/ru/if-modified-since.html)
 
 ### HTTP Public Key Pinning (HPKP)
-> *__Public Key Pinning Extension for HTTP (HPKP)__ a.k.a. [RFC 7469](https://tools.ietf.org/html/rfc7469) is an Internet standard for instructing HTTP clients (user agents) to do public key pinning for HTTPS websites that send appropriate HTTP header (or are included in preloaded pins list).<br>- [Source](https://projects.dm.id.lv/Public-Key-Pins_calculator)*
+> *__The Public Key Pinning Extension for HTTP__ (HPKP) is a security feature that tells a web client to associate a specific cryptographic public key with a certain web server to prevent [MITM](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) attacks with forged certificates.<br>- [Source](https://developer.mozilla.org/en-US/docs/Web/Security/Public_Key_Pinning)*
 
+* [RFC 7469](https://tools.ietf.org/html/rfc7469)
 * [HTTP Public Key Pinning](https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning) - Wikipedia, the free encyclopedia.
 * [JavaScript Public-Key-Pins (HPKP) calculator](https://projects.dm.id.lv/Public-Key-Pins_calculator) - is JavaScript library/application for easy calculation of public key hashes for use in Public Key Pinning Extension for HTTP. [Online preview](https://projects.dm.id.lv/s/pkp-online/calculator.html) [![GitHub stars](https://img.shields.io/github/stars/DavisNT/Public-Key-Pins.svg?style=social)](https://github.com/DavisNT/Public-Key-Pins)
 * [MDN article on HTTP Public Key Pinning (HPKP)](https://developer.mozilla.org/en-US/docs/Web/Security/Public_Key_Pinning)
@@ -811,6 +812,8 @@ My(A) curated list of goodies.
 
 
 ### HTTP Strict Transport Security (HSTS)
+
+* -empty-
 
 
 ### HTTP Header References
