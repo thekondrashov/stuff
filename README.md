@@ -1263,6 +1263,8 @@ My(A) curated list of goodies.
 * [HTTP Status Codes - httpstatus.es](http://httpstatus.es) - HTTP Status code list / directory with wikipedia and ietf descriptions. [Github](https://github.com/citricsquid/httpstatus.es)
 * [HTTP Status Code Errors](http://pcsupport.about.com/od/findtheproblem/tp/browsererror.htm) - A list of HTTP status code errors (4xx client and 5xx server HTTP status codes) and how to fix them. HTTP status code errors appear inside the browser.
 * [Checking 304 Not Modified](http://last-modified.com) - Checking If-Modified-Since header.
+* [HTTP Status Codes Checker](http://checkhttpstatuscodes.com) - Use our FREE HTTP Status Codes Checker to Check HTTP Status Codes With Descriptions, Quick and Easily.
+* [Test HTTP Status Codes](http://savanttools.com/test-http-status-codes) - Generate any arbitrary HTTP error code or status code or choose one from a list. From SavantTools - The smartest online tools for digital savants.
 
 
 ## Markdown
