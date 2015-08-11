@@ -806,6 +806,7 @@ My(A) curated list of goodies.
 * [HTTP Public Key Pinning](https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning) - Wikipedia, the free encyclopedia.
 * [JavaScript Public-Key-Pins (HPKP) calculator](https://projects.dm.id.lv/Public-Key-Pins_calculator) - is JavaScript library/application for easy calculation of public key hashes for use in Public Key Pinning Extension for HTTP. [Online preview](https://projects.dm.id.lv/s/pkp-online/calculator.html) [![GitHub stars](https://img.shields.io/github/stars/DavisNT/Public-Key-Pins.svg?style=social)](https://github.com/DavisNT/Public-Key-Pins)
 * [MDN article on HTTP Public Key Pinning (HPKP)](https://developer.mozilla.org/en-US/docs/Web/Security/Public_Key_Pinning)
+* :jp: [不正なSSL証明書を見破るPublic Key Pinningを試す - ぼちぼち日記](http://d.hatena.ne.jp/jovi0608/20140902/1409635279)
 * [Pin Creator](https://certpins.appspot.com) - Create your HPKP-pins to add to your site headers! Online public key pin calculator that makes calculations on server. This tool builds upon the go implementation of cert pinning in the key-pinning draft. [![GitHub stars](https://img.shields.io/github/stars/cem-/certpins.svg?style=social)](https://github.com/cem-/certpins)
 
 
