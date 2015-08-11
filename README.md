@@ -728,6 +728,7 @@ My(A) curated list of goodies.
 ## REST API Best practices
 
 * [REST API Best practices | saipraveenblog](https://saipraveenblog.wordpress.com/2014/09/29/rest-api-best-practices/) - Understanding best practices for designing RESTful API’s.
+* [REST API Tutorial](http://restapitutorial.com) - Learn REST API best practices. :ru: Russian translation: [Изучаем REST: Руководство по созданию RESTful сервиса](http://restapitutorial.ru) [![GitHub stars](https://img.shields.io/github/stars/tfredrich/RestApiTutorial.com.svg?style=social)](https://github.com/tfredrich/RestApiTutorial.com)
 
 ## API testing tools
 
@@ -1256,7 +1257,7 @@ My(A) curated list of goodies.
 ## Emoji
 
 * [Emoji Unicode Tables](http://apps.timwhitlock.info/emoji/tables/unicode) - Emoji codse points and example glyphs using web fonts, sprites and native OS representation of Emoji characters.
-* [Emoji searcher](http://emoji.muan.co) - Find the emoji that echoes your mind. [![GitHub stars](https://img.shields.io/github/stars/muan/mojibar.svg?label=GitHub%20stars&style=flat-square)](https://github.com/muan/mojibar)
+* [Emoji searcher](http://emoji.muan.co) - Find the emoji that echoes your mind. [![GitHub stars](https://img.shields.io/github/stars/muan/mojibar.svg?style=social)](https://github.com/muan/mojibar)
 
 ## HTTP Status Codes
 
@@ -1265,6 +1266,8 @@ My(A) curated list of goodies.
 * [Checking 304 Not Modified](http://last-modified.com) - Checking If-Modified-Since header.
 * [HTTP Status Codes Checker](http://checkhttpstatuscodes.com) - Use our FREE HTTP Status Codes Checker to Check HTTP Status Codes With Descriptions, Quick and Easily.
 * [Test HTTP Status Codes](http://savanttools.com/test-http-status-codes) - Generate any arbitrary HTTP error code or status code or choose one from a list. From SavantTools - The smartest online tools for digital savants.
+* [HTTP Status Codes - RestApiTutorial.com](http://www.restapitutorial.com/httpstatuscodes.html) - HTTP status codes and how to use them in RESTful API or Web Services. [![GitHub stars](https://img.shields.io/github/stars/tfredrich/RestApiTutorial.com.svg?style=social)](https://github.com/tfredrich/RestApiTutorial.com)
+* [HTTP response codes - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Response_codes) - HTTP Response Codes indicate whether a specific HTTP requests has been successfully completed. Responses are grouped in five classes: informational responses, successful responses, redirections, client errors, and servers errors.
 
 
 ## Markdown
