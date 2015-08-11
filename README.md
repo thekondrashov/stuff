@@ -803,7 +803,7 @@ My(A) curated list of goodies.
 ### HTTP Public Key Pinning (HPKP)
 > *__The Public Key Pinning Extension for HTTP__ (HPKP) is a security feature that tells a web client to associate a specific cryptographic public key with a certain web server to prevent [MITM](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) attacks with forged certificates.<br>- [Source](https://developer.mozilla.org/en-US/docs/Web/Security/Public_Key_Pinning)*
 
-* [RFC 7469](https://tools.ietf.org/html/rfc7469)
+* [RFC 7469](https://tools.ietf.org/html/rfc7469) - IETF RFC Public Key Pinning Extension for HTTP Specification.
 * [HTTP Public Key Pinning](https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning) - Wikipedia, the free encyclopedia.
 * [JavaScript Public-Key-Pins (HPKP) calculator](https://projects.dm.id.lv/Public-Key-Pins_calculator) - is JavaScript library/application for easy calculation of public key hashes for use in Public Key Pinning Extension for HTTP. [Online preview](https://projects.dm.id.lv/s/pkp-online/calculator.html) [![GitHub stars](https://img.shields.io/github/stars/DavisNT/Public-Key-Pins.svg?style=social)](https://github.com/DavisNT/Public-Key-Pins)
 * [MDN article on HTTP Public Key Pinning (HPKP)](https://developer.mozilla.org/en-US/docs/Web/Security/Public_Key_Pinning)
