@@ -1047,27 +1047,28 @@ My(A) curated list of goodies.
 
 ## Favicon Generators
 
-* [RealFaviconGenerator](https://realfavicongenerator.net) - Your web site is responsive, your favicon should be too. Generate favicon pictures and HTML code for all major platforms at once: iOS, Android, desktop... [![GitHub stars](https://img.shields.io/github/stars/RealFaviconGenerator/realfavicongenerator.svg?label=GitHub%20stars&style=flat-square)](https://github.com/RealFaviconGenerator/realfavicongenerator)
+* [RealFaviconGenerator](https://realfavicongenerator.net) - Your web site is responsive, your favicon should be too. Generate favicon pictures and HTML code for all major platforms at once: iOS, Android, desktop... [![GitHub stars](https://img.shields.io/github/stars/RealFaviconGenerator/realfavicongenerator.svg?style=social)](https://github.com/RealFaviconGenerator/realfavicongenerator)
 * [RealFaviconGenerator - Favicon checker](https://realfavicongenerator.net/favicon_checker) - Check the favicon of your site. Does it look good on Windows? iPhone/iPad? Find out!
 * [Epic Favicon Generator by BCCO](https://epicfavicongenerator.com) - The Epic Favicon Generator offers 20+ favicon sizes, is mobile friendly, and free!
 * [Create a Windows 8.1 tile for your site - Build My Pinned Site - Microsoft Internet Explorer](http://buildmypinnedsite.com) - Create a Windows 8.1 tile for your site in minutes.
-* :octocat: [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) - A painfully obsessive cheat sheet to favicon sizes/types. [![GitHub stars](https://img.shields.io/github/stars/audreyr/favicon-cheat-sheet.svg?label=GitHub%20stars&style=flat-square)](https://github.com/audreyr/favicon-cheat-sheet)
+* :octocat: [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) - A painfully obsessive cheat sheet to favicon sizes/types. [![GitHub stars](https://img.shields.io/github/stars/audreyr/favicon-cheat-sheet.svg?style=social)](https://github.com/audreyr/favicon-cheat-sheet)
 * [Favicons, Touch Icons, Tile Icons, etc. Which Do You Need? | CSS-Tricks](https://css-tricks.com/favicon-quiz/) - Philippe Bernard has done research on what it takes to make a favicon (and all the related graphics and markup). :ru: ![Хабрахабр](https://logo.clearbit.com/habr.ru?size=13x13) [Перевод статьи](http://habr.ru/p/260777)
 
 ## Make HTTP requests
 
 * [Hurl.it - Make HTTP requests](https://www.hurl.it) - Choose the request method, customize headers and POST parameters, add basic authorization or OAuth credentials, and even follow redirects. Then view the nicely formatted request and response. It's the perfect tool for testing APIs. Just enter a URL and click send. A [Runscope](https://www.runscope.com) community project. [![Follow Hurl.it on Twitter](https://img.shields.io/twitter/url/http/hurl.it.svg?label=Follow%20Hurl.it%20on%20Twitter&style=social)](https://twitter.com/hurlit)
 * [HTTP Web-Sniffer](http://web-sniffer.net) - View request and response header of a HTTP connection, HTTP status codes and HTML source.
+* [httpbin(1): HTTP Client Testing Service](https://httpbin.org) - HTTP Request & Response Service, written in Python + Flask. Testing an HTTP Library can become difficult sometimes. RequestBin is fantastic for testing POST requests, but doesn't let you control the response. This exists to cover all kinds of HTTP scenarios. Additional endpoints are being considered. All endpoint responses are JSON-encoded. [![GitHub stars](https://img.shields.io/github/stars/Runscope/httpbin.svg?style=social)](https://github.com/Runscope/httpbin)
 
 
 ## Paste sites
 
 * [CodePen](https://codepen.io) - CodePen is a playground for the front end side of the web & code editor in the browser. It's all about inspiration, education, and sharing.
 * [JSFiddle](https://jsfiddle.net) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor. :octocat: [JSFiddle Issues](https://github.com/jsfiddle/jsfiddle-issues)
-* [JS Bin - Collaborative JavaScript Debugging](https://jsbin.com) - A live pastebin for HTML, CSS & JavaScript and a range of processors, including SCSS, CoffeeScript, Jade and more... [![GitHub stars](https://img.shields.io/github/stars/jsbin/jsbin.svg?label=GitHub%20stars&style=flat-square)](https://github.com/jsbin/jsbin)
+* [JS Bin - Collaborative JavaScript Debugging](https://jsbin.com) - A live pastebin for HTML, CSS & JavaScript and a range of processors, including SCSS, CoffeeScript, Jade and more... [![GitHub stars](https://img.shields.io/github/stars/jsbin/jsbin.svg?style=social)](https://github.com/jsbin/jsbin)
 * [GitHub Gist](https://gist.github.com) - Gist is a simple way to share snippets and pastes with others. All gists are Git repositories, so they are automatically versioned, forkable and usable from Git.
-* [repl.it](https://repl.it) - Online Interpreters in JavaScript. Try Python, Ruby, Java, Node.js, Go, Scheme, C, C++, Lua, CoffeeScript and more programming languages. Online coding and REPL. Run and share code. [![GitHub stars](https://img.shields.io/github/stars/replit/repl.it.svg?label=GitHub%20stars&style=flat-square)](https://github.com/replit/repl.it)
-* [glot.io](https://glot.io) - An open source pastebin with runnable snippets and API. [![GitHub stars](https://img.shields.io/github/stars/prasmussen/glot.svg?label=GitHub%20stars&style=flat-square)](https://github.com/prasmussen/glot)
+* [repl.it](https://repl.it) - Online Interpreters in JavaScript. Try Python, Ruby, Java, Node.js, Go, Scheme, C, C++, Lua, CoffeeScript and more programming languages. Online coding and REPL. Run and share code. [![GitHub stars](https://img.shields.io/github/stars/replit/repl.it.svg?style=social)](https://github.com/replit/repl.it)
+* [glot.io](https://glot.io) - An open source pastebin with runnable snippets and API. [![GitHub stars](https://img.shields.io/github/stars/prasmussen/glot.svg?style=social)](https://github.com/prasmussen/glot)
 * [Pastebin.com](https://pastebin.com) - #1 paste tool since 2002! Pastebin is a website where you can store text online for a set period of time.
 * [Runnable](https://runnable.io) - Runnable lets you create Sandboxes (collections of one or more servers) to run the code in your GitHub repositories, on‑demand.
 * [Ideone.com](https://ideone.com) - Online Compiler and IDE C/C++, Java, PHP, Python, Perl and 40+ other compilers and interpreters. Ideone is something more than a pastebin; it's an online compiler and debugging tool which allows to compile and run code online in more than 40 programming languages.
