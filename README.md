@@ -315,6 +315,7 @@ My(A) curated list of goodies.
 ## CAPTCHA recognition services
 
 * [Pixodrom - Online OCR Service](http://pixodrom.com) - The service provides recognizing graphic images consisting of letters and digits with average efficiency 98% and higher. The API is usable and is made in step with the well-established standards. :ru: Автоматизированная система распознавания текста на изображениях.
+* [CAPTCHA solving service Anti-Captcha.Com](https://anti-captcha.com) - Crowdsource project which allows any automation application to solve hundreds of CAPTCHAs per minute. :ru: Anti Captcha: сервис автоматического распознавания капч - Проект который позволяет любому приложению автоматически распознавать капчу в сотни потоков в минуту.
 
 
 # Chat
