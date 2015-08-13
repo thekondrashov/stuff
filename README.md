@@ -1,8 +1,8 @@
 # Всякие всячины
 
-My(A) curated list of goodies.
+My(A) curated list of goodies. The stuff you are actually looking for:
 
-## The stuff you are actually looking for
+## Table of contents
 - [Bookmarks](#bookmarks)
 - [Books](#books)
 - [Browsers](#browsers)
@@ -260,7 +260,7 @@ My(A) curated list of goodies.
 
 * [-empty-](#-empty-)
 
-
+---
 # Интересности
 
 
@@ -272,6 +272,9 @@ My(A) curated list of goodies.
 * [Instapaper](https://instapaper.com) - A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.
 * [GrabDuck!](https://grabduck.com) - It is the only bookmarking service that offers full text search on your bookmarks. GrabDuck helps keep everything interesting that you find on the Web. :ru: Это единственный сервис закладок, который предлагает полнотекстовый поиск по вашим закладкам. GrabDuck помогает сохранять все интересное что Вы находите в интернете.
 
+[back to top](#table-of-contents)
+
+---
 
 # Books
 
