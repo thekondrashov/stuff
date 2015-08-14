@@ -370,6 +370,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## CMS Misc
 
 * [Usage of content management systems for websites](http://w3techs.com/technologies/overview/content_management/all)
+* :ru: [iTrack - Сервис определения CMS](http://itrack.ru/whatcms/) - Сервис определения CMS позволяет узнать какая система управления сайтом (движок сайта) установлена на нем. Определение CMS идет по характерным признакам систем и не гарантирует идеальной точности. 
 
 
 
