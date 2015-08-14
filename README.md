@@ -875,6 +875,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [CAcert.org](http://cacert.org) - a community-driven Certificate Authority that issues certificates to the public at large for free.
 * [Free SSL Certificate from Comodo | Extended Free SSL for 90 days](https://www.instantssl.com/free-ssl-certificate.html) - Learn why Free SSL Certificate from Comodo is trusted by majority of web browsers. Get Extended Free SSL for 90 days and secure your website in minutes.
 * [30-day free trial SSL certificate from RapidSSL](https://www.freessl.com) - These SSL certificates are fully functional for 30 days, ideal for testing.
+* [Thawte Certificate Center](https://ssl-certificate-center.thawte.com/process/retail/trial_product_selector) - Manage Existing SSL Certificates, Renew SSL Certificates. Free 21-day Thawte trial SSL certificate.
 * :ru: [Бесплатные SSL-сертификаты на 2 года от WoSign / Хабрахабр](http://habr.ru/p/252529)
 * :ru: [Бесплатные SSL-сертификаты на 3 года с поддержкой до 100 доменов](https://blog.kai-zer.ru/besplatnyy-ssl-sertifikaty-na-3-goda-s-pod/)
 * :ru: [Бесплатный валидный (подписанный) SSL-сертификат через StartSSL](http://valera.ws/2012.03.11~free-valid-signed-ssl-certificate-with-sratssl/) - Персональный блог Валерия Леонтьева.
