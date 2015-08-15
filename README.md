@@ -533,6 +533,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Hacking Gmail to use custom domains for free](http://simplyian.com/2015/01/07/Hacking-GMail-to-use-custom-domains-for-free/) - a free way to use your Gmail account with a custom domain: Mailgun.
 * [How to send and receive custom domain email with Gmail for free](https://medium.com/@gobudgie/7e8cb8574c3e) - via Zoho mail server account.
 * [TinyLetter](https://tinyletter.com) - TinyLetter is a personal newsletter service brought to you by the people behind MailChimp. People use it to send updates, digests, and dispatches to their fans and friends. Though they're built on the same infrastructure, TinyLetter is for people who don't need all the business features that come along with MailChimp. Simplicity is at the heart of everything we do at TinyLetter. TinyLetter is a completely free service.
+* :ru: [Кое-что о соглашениях об именах почтовых ящиков / Хабрахабр](http://habr.ru/p/126822)
 
 
 # Fonts
