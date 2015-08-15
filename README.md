@@ -1086,6 +1086,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [eval.in](https://eval.in) - paste and execute code online.
 * [eval.so](http://eval.so) - Eval.so provides a free and open source web platform for you to evaluate code in many situations. Whether you want to make sure your code works on another computer, or you found some code online that you don't trust, simply run it on Eval.so, and have your answer in no time. [GitHub](https://github.com/eval-so)
 * [Pastie](https://pastie.org)
+* :ru: [CopyPaste](https://cp.skobk.in) - Простой сервис. Аналог pastebin.com и других. [Bitbucket](https://bitbucket.org/skobkin/copypaste2/wiki/Home)
 
 
 ## Placeholder images
@@ -1139,6 +1140,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 * [Namecheap.com](https://www.namecheap.com) - Cheap Domain Name Registration & Web Hosting. The Best Domain Name Registrar when it comes to Customer Service.
 * [Namecheap Education Program: Free Domains for Students](https://nc.me) - The Namecheap Education Program provides free domains and email hosting for university students in the US, UK, and Canada.
+* [FreeDNS - Free DNS Hosting Service • Namecheap.com](https://www.namecheap.com/domains/freedns.aspx) - Reliable DNS service from Namecheap is provided completely free of charge, even if your domain is registered elsewhere.
 * [Simple Domain Name Registrar - iwantmyname](https://iwantmyname.com) - Buy your domain name for the best personal and business web applications, no web hosting required. Register international domains and country code domains for your online identity now.
 * :ru: [Подбор красивого доменного имени / СоХабр](https://sohabr.net/habr/post/256507/)
 
