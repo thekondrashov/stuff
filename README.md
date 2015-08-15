@@ -901,7 +901,8 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Cert Logik](https://certlogik.com/about/) - Cert Logik is a collection of PKI and SSL products developed by Red Kestrel Consulting Limited. [SSL Checker](https://certlogik.com/ssl-checker/encrypted.google.com) - Use SSL Checker to test your SSL certificate and its installation. Connects to your website and checks the installation of your SSL certificate.
 * [SSL Certificate Tools and Services](https://redkestrel.co.uk) - Red Kestrel have developed a portfolio of PKI and SSL related products and tool to help businesses better manage their PKIs and digital certificates.
 * [Cert Centre](https://certcentrehq.com) - Manage your SSL certificates. CertCentre discovers, inspects, and tracks all your SSL certificates (both internal and external).
-* [JS Certification Authority :)](https://kjur.github.io/jsrsasign/tool_ca.html) - jsrsasign : The 'jsrsasign' (RSA-Sign JavaScript Library) is a open source free pure JavaScript implementation of PKCS#1 v2.1 RSASSA-PKCS1-v1_5 RSA signing and validation algorithm. [![GitHub stars](https://img.shields.io/github/stars/kjur/jsrsasign.svg?label=GitHub%20stars&style=flat-square)](https://github.com/kjur/jsrsasign)
+* [JS Certification Authority :)](https://kjur.github.io/jsrsasign/tool_ca.html) - jsrsasign : The 'jsrsasign' (RSA-Sign JavaScript Library) is a open source free pure JavaScript implementation of PKCS#1 v2.1 RSASSA-PKCS1-v1_5 RSA signing and validation algorithm. [![GitHub stars](https://img.shields.io/github/stars/kjur/jsrsasign.svg?style=social)](https://github.com/kjur/jsrsasign)
+* [SSLtools.com](http://www.ssltools.com) - SSL Certificate Checker, SSL Diagnostic Tool, and SSL Verification Utility. Does the site have ssl installed? Use this tool to verify if ssl is properly installed. Great for ssl diagnostics.
 
 
 
