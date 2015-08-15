@@ -728,6 +728,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## Online regex testers
 
 * [Debuggex: Online visual regex tester](https://www.debuggex.com) - Test your regex by visualizing it with a live editor. JavaScript, Python, and PCRE.
+* [RegExr: Learn, Build, & Test RegEx](http://regexr.com) - Regular expression tester with syntax highlighting, contextual help, video tutorial, reference, and searchable community patterns.
 
 
 # RESTful API
