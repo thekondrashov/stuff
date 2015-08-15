@@ -1175,6 +1175,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## Free hosting
 
 * [OpenShift by Red Hat](https://www.openshift.com/products/pricing) - OpenShift gives you all the tools you need to develop, host and scale your apps in the public or private cloud. Get started today.
+* [Pagoda Box](https://pagodabox.io) - Deploy and build your app via a single config file. Launch fully customizable servers in the context of your PaaS app.
 * :ru: [Хостинг tcphost.net](https://sohabr.net/habr/post/250037/) - Бесплатный хостинг для студентов.
 * [YouHosting](http://www.youhosting.com/en/page/plans) - Become a Web Hosting Reseller For Free!
 * :ru: [Бесплатный хостинг JH5.Studio](http://jh5.ru/osp.html) - JH5.Studio предлагаем интересным проектам бессрочный, бесплатный хостинг. Внимание количество заявок ограничено! [ВКонтакте](https://vk.com/wall-3183750_48714)
