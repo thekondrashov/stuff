@@ -878,6 +878,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Thawte Certificate Center](https://ssl-certificate-center.thawte.com/process/retail/trial_product_selector) - Manage Existing SSL Certificates, Renew SSL Certificates. Free 21-day Thawte trial SSL certificate.
 * [OpenCA Research Labs](https://pki.openca.org/projects/openca/) - The OpenCA PKI Project is a collaborative effort to develop a robust, full-featured and Open Source out-of-the-box Certification Authority implementing the most used protocols with full-strength cryptography world-wide.
 * [WoSign Digital Certificates](https://buy.wosign.com/free/) - Free Client Certificate, get it within one minute, try it now! Support all types of browsers and servers, and support with Chinese in certificate subject, Support IDN domain names!
+* [List of Third Party Certificate Authorities](http://www.dmoz.org/Computers/Security/Public_Key_Infrastructure/PKIX/Tools_and_Services/Third_Party_Certificate_Authorities/) :ru: Список центров сертификации.
 * :ru: [Бесплатные SSL-сертификаты на 2 года от WoSign / Хабрахабр](http://habr.ru/p/252529)
 * :ru: [Бесплатные SSL-сертификаты на 3 года с поддержкой до 100 доменов](https://blog.kai-zer.ru/besplatnyy-ssl-sertifikaty-na-3-goda-s-pod/)
 * :ru: [Бесплатный валидный (подписанный) SSL-сертификат через StartSSL](http://valera.ws/2012.03.11~free-valid-signed-ssl-certificate-with-sratssl/) - Персональный блог Валерия Леонтьева.
