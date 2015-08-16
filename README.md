@@ -881,6 +881,10 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 ## SSL certificates
 
+### SSL References
+
+* :ru: [Введение в криптографию и сертификаты](http://www.autopark.ru/ASBProgrammerGuide/CRYPTO.HTM)
+
 ### Generate and manage SSL certificates
 
 * [TinyCert](https://www.tinycert.org) - Generate and manage SSL certificates free.
