@@ -52,7 +52,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## Browsers
 
 * [Browser Tests](#browser-tests)
-
+* [Firefox](#firefox)
 
 
 ## CAPTCHA
@@ -299,7 +299,13 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [HTML5test](http://html5test.com) - The HTML5 test score is an indication of how well your browser supports the upcoming HTML5 standard and related specifications. How well does your browser support HTML5?
 * [Browserscope](http://www.browserscope.org/?category=network) - Browserscope is a community-driven project for profiling web browsers. The goals are to foster innovation by tracking browser functionality and to be a resource for web developers.
 
+## Firefox
 
+* :octocat: [firefox-tweaks](https://github.com/dfkt/firefox-tweaks) - Attempt to make Firefox suck less. To apply these tweaks, type about:config in the URL bar, and use the config search bar to look up the individual settings. [![GitHub stars](https://img.shields.io/github/stars/dfkt/firefox-tweaks.svg?style=social)](https://github.com/dfkt/firefox-tweaks)
+
+[↑ back to top](#table-of-contents)
+
+---
 
 # CAPTCHA
 
