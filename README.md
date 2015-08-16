@@ -258,7 +258,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Markdown](#markdown)
 * [Unicode](#unicode)
 * [XPath](#xpath)
-* [Misc](#misc)
+* [Uncategorized](#uncategorized)
 
 
 ## Finally
@@ -1331,7 +1331,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Выражения XPath](http://zvon.org/xxl/XPathTutorial/Output_rus/examples.html)
 
 
-## Misc
+## Uncategorized
 
 * [RFC](http://rfc2.ru) - Наиболее полная в Рунете коллекция документов RFC, переведённых на русский язык.
 * [Internet FAQ Archives - Online Education - faqs.org](http://faqs.org) - Internet RFC/STD/FYI/BCP Archives.
