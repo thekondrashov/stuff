@@ -1107,7 +1107,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 |[![Placeholder Image](http://placemi.com/400x200)](http://placemi.com/400x200)|[placemi - the ultimate placeholder generator](http://placemi.com) - placemi generates beautiful image placeholders. you can even upload your own too.<hr>http://placemi.com/400x200|
 |[![Placeholder Image](http://placekitten.com/g/400/200)](http://placekitten.com/g/400/200)|[{placekitten}](http://placekitten.com) - Kitten-themed placeholder images for developers :3.<hr>http://placekitten.com/g/400/200|
 |[![Placeholder Image](https://placehold.it/400x200)](https://placehold.it/400x200)|[Placehold.it](https://placehold.it) - Quick and simple image placeholders.<hr>https://placehold.it/400x200|
-|[![Placeholder Image](http://nicenicejpg.com/400/200)](http://nicenicejpg.com/400/200)|[Nice Nice JPG](http://nicenicejpg.com) - The only image placeholder service on the web bringing you nothing but Vanilla Ice jpgs. You're welcome. [![GitHub stars](https://img.shields.io/github/stars/timboisvert/NiceNiceJPG.svg?label=GitHub%20stars&style=flat-square)](https://github.com/timboisvert/NiceNiceJPG)<hr>http://nicenicejpg.com/400/200|
+|[![Placeholder Image](http://nicenicejpg.com/400/200)](http://nicenicejpg.com/400/200)|[Nice Nice JPG](http://nicenicejpg.com) - The only image placeholder service on the web bringing you nothing but Vanilla Ice jpgs. You're welcome. [![GitHub stars](https://img.shields.io/github/stars/timboisvert/NiceNiceJPG.svg?style=social)](https://github.com/timboisvert/NiceNiceJPG)<hr>http://nicenicejpg.com/400/200|
 
 
 ## Push-notifications
@@ -1147,7 +1147,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 ## HTML5 video players
 
-* [HTML5 Video Player | Video.js](http://www.videojs.com) - Video.js is a JavaScript and CSS library that makes it easier to work with and build on HTML5 video. This is also known as an HTML5 Video Player.
+* [HTML5 Video Player | Video.js](http://videojs.com) - Video.js is a JavaScript and CSS library that makes it easier to work with and build on HTML5 video. This is also known as an HTML5 Video Player. ![tweet](https://img.shields.io/twitter/url/http/videojs.com.svg?style=social) [![GitHub stars](https://img.shields.io/github/stars/videojs/video.js.svg?style=social)](https://github.com/videojs/video.js)
 
 [↑ back to top](#table-of-contents)
 
