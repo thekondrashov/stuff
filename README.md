@@ -1149,6 +1149,8 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 * [HTML5 Video Player | Video.js](http://videojs.com) - Video.js is a JavaScript and CSS library that makes it easier to work with and build on HTML5 video. This is also known as an HTML5 Video Player. [![tweet](https://img.shields.io/twitter/url/http/videojs.com.svg?label=@videojs&style=social)](https://twitter.com/videojs) [![GitHub stars](https://img.shields.io/github/stars/videojs/video.js.svg?style=social)](https://github.com/videojs/video.js)
 * [Flowplayer: The web video player](https://flowplayer.org) - The HTML5 video player for the web. [![tweet](https://img.shields.io/twitter/url/http/flowplayer.org.svg?label=@flowplayer&style=social)](https://twitter.com/flowplayer) [![GitHub stars](https://img.shields.io/github/stars/flowplayer/flowplayer.svg?style=social)](https://github.com/flowplayer/flowplayer)
+* :ru: [Uppod - плеер для сайта (Flash и HTML5), видео, аудио и фото](http://uppod.ru) [![tweet](https://img.shields.io/twitter/url/http/uppod.ru.svg?label=@uppod_ru&style=social)](https://twitter.com/uppod_ru)
+* :octocat: [jQuery Video Extend](https://github.com/andchir/jquery-video-extend) - HTML5 Video Extend. :ru: [jQuery Video Extend — расширение возможностей HTML5 видео плеера / Хабрахабр](http://habr.ru/p/264719) [![GitHub stars](https://img.shields.io/github/stars/andchir/jquery-video-extend.svg?style=social)](https://github.com/andchir/jquery-video-extend)
 
 [↑ back to top](#table-of-contents)
 
