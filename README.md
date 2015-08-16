@@ -754,6 +754,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## Spelling test (online)
 
 * :ru: [Главред](http://glvrd.ru) - Помогает очистить текст от словесного мусора, проверяет на соответствие информационному стилю.
+* :ru: [Свежий Взгляд online](http://quittance.ru/tautology.php) - поиск паронимии в русскоязычных текстах. Онлайн реализация алгоритма Дмитрия Кирсанова Свежий Взгляд.
 
 
 
