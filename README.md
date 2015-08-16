@@ -32,6 +32,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 - [Text editors](#text-editors)
 - [Textures, patterns, backgrounds](#textures-patterns-backgrounds)
 - [Utils](#utils)
+- [Video players](#video-players)
 - [Web Hosting](#web-hosting)
 - [Web performance optimization](#web-performance-optimization)
 - [Others](#others)
@@ -225,6 +226,10 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Status Pages](#status-pages)
 * [Stock Photos](#stock-photos)
 * [URL Shorteners](#url-shorteners)
+
+## Video players
+
+* [HTML5 video players](#html5-video-players)
 
 
 ## Web Hosting
@@ -1138,6 +1143,15 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 
 
+# Video players
+
+## HTML5 video players
+
+* [HTML5 Video Player | Video.js](http://www.videojs.com) - Video.js is a JavaScript and CSS library that makes it easier to work with and build on HTML5 video. This is also known as an HTML5 Video Player.
+
+[↑ back to top](#table-of-contents)
+
+---
 
 # Web Hosting
 
