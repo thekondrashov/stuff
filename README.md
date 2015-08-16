@@ -905,7 +905,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 ### Tools To Test SSL Configurations
 
-* [SHAAAAAAAAAAAAA | Check your site for weak SHA-1 certificates](https://shaaaaaaaaaaaaa.com) - SHA-1 certificates are dangerously weak, and you probably have one. It's time to upgrade to SHA-2. Open source tool by @konklone. [GitHub](https://github.com/konklone/shaaaaaaaaaaaaa)
+* [SHAAAAAAAAAAAAA | Check your site for weak SHA-1 certificates](https://shaaaaaaaaaaaaa.com) - SHA-1 certificates are dangerously weak, and you probably have one. It's time to upgrade to SHA-2. Open source tool by @konklone. [![GitHub stars](https://img.shields.io/github/stars/konklone/shaaaaaaaaaaaaa.svg?style=social)](https://github.com/konklone/shaaaaaaaaaaaaa)
 * [SSL Certificate Tools - SSLShopper](https://www.sslshopper.com/ssl-certificate-tools.html) - SSL Certificate Tools for troubleshooting SSL certificate related problems.
 * [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/) - A comprehensive free SSL test for your public web servers.
 * [Free SSL Web Server Tester | Wormly](https://wormly.com/test_ssl) - Free SSL web server testing tool.  Conducts a thorough analysis of your SSL / TLS web server configuration and performance.
@@ -920,7 +920,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 ## Two Factor Auth
 
-* [Two Factor Auth List](https://twofactorauth.org) - List of sites with Two Factor Auth support which includes SMS, email, phone calls, hardware, and software. [![GitHub stars](https://img.shields.io/github/stars/jdavis/twofactorauth.svg?label=GitHub%20stars&style=flat-square)](https://github.com/jdavis/twofactorauth)
+* [Two Factor Auth List](https://twofactorauth.org) - List of sites with Two Factor Auth support which includes SMS, email, phone calls, hardware, and software. [![GitHub stars](https://img.shields.io/github/stars/jdavis/twofactorauth.svg?style=social)](https://github.com/jdavis/twofactorauth)
 
 
 
@@ -937,6 +937,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * :ru: [Как сделать JSON Vulnerability Protection в ответе сервера под Yii2](http://habr.ru/p/256213) - Хабрахабр.
 * :octocat: [Awesome AppSec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security. Contains books, websites, blog posts, and self-assessment quizzes.
 * [Play safely in sandboxed IFrames - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/security/sandboxed-iframes/) - Learn how to run IFramed content in a sandbox, greatly reducing the risk associated with third-party widgets, and your own application's code.
+* :octocat: [minimaxir / big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. [![GitHub stars](https://img.shields.io/github/stars/minimaxir/big-list-of-naughty-strings.svg?style=social)](https://github.com/minimaxir/big-list-of-naughty-strings)
 
 
 
