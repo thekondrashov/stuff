@@ -889,6 +889,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [CAcert.org](http://cacert.org) - a community-driven Certificate Authority that issues certificates to the public at large for free.
 * [Free SSL Certificate from Comodo | Extended Free SSL for 90 days](https://www.instantssl.com/free-ssl-certificate.html) - Learn why Free SSL Certificate from Comodo is trusted by majority of web browsers. Get Extended Free SSL for 90 days and secure your website in minutes.
 * [30-day free trial SSL certificate from RapidSSL](https://www.freessl.com) - These SSL certificates are fully functional for 30 days, ideal for testing.
+* [Symantec™ Trust Center](https://trustcenter.websecurity.symantec.com/process/retail/trial_initial) - SSL Test Certificate 30-day FREE Trial.
 * [Thawte Certificate Center](https://ssl-certificate-center.thawte.com/process/retail/trial_product_selector) - Manage Existing SSL Certificates, Renew SSL Certificates. Free 21-day Thawte trial SSL certificate.
 * [OpenCA Research Labs](https://pki.openca.org/projects/openca/) - The OpenCA PKI Project is a collaborative effort to develop a robust, full-featured and Open Source out-of-the-box Certification Authority implementing the most used protocols with full-strength cryptography world-wide.
 * [WoSign Digital Certificates](https://buy.wosign.com/free/) - Free Client Certificate, get it within one minute, try it now! Support all types of browsers and servers, and support with Chinese in certificate subject, Support IDN domain names!
