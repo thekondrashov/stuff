@@ -676,6 +676,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 
 ## Vanilla JS
+> *__Vanilla JavaScript__ is referred to the standard JavaScript – no framework. Vanilla in fact is not only used to describe the standard version of JavaScript but also other languages like CSS.<br>- [JavaScript Jargon: 10 Terms You Should Know](http://hongkiat.com/blog/?p=24420#9_Vanilla)*
 
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com/) - Examples of how to do common event, element, ajax and utility operations with plain javascript.
 * [Vanilla Query - GitHub](https://github.com/makesites/vanilla-query/blob/master/build/vanilla-query.js) - A syntax-conversion for Vanilla JS & CSS3 methods using traditional jQuery conventions.
