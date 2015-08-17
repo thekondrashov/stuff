@@ -801,6 +801,10 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 * [ircmaxell's blog: Seven Ways To Screw Up BCrypt](http://blog.ircmaxell.com/2012/12/seven-ways-to-screw-up-bcrypt.html)
 
+### GOST 28147-89
+
+* :ru: [Алгоритм шифрования ГОСТ 28147-89](http://www.inssl.com/standart-of-cipher.html) - Информация о cтандарте шифрования ГОСТ 28147-89, краткое описание алгоритма шифрования. Криптоанализ алгоритма gost.
+
 
 ## HTTP Headers for Website and Web Application Security
 
