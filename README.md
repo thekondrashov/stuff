@@ -877,6 +877,9 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## Personal privacy
 
 * [Check login status](http://status.phplernen.org) - Check your login status at different internet services at once.
+* [Fix Windows 10 privacy](https://fix10.isleaked.com) - This site describes certain privacy-invading features of Windows 10 and how to fix them. Make sure you disabled all privacy-invasive options. :ru: [Исправь шпионскую Windows 10](https://fix10.isleaked.com/ru) [![@IsLeaked](https://img.shields.io/twitter/url/https/isleaked.com.svg?label=@IsLeaked&style=social)](https://twitter.com/IsLeaked)
+* [Fix Ubuntu](https://fixubuntu.com) - This site criticizes Canonical for certain privacy-invading features of Ubuntu and teaches users how to fix them.
+* [Fix Mac OS X Yosemite](https://fix-macosx.com) -  This site describes certain privacy-invading features of Mac OS X and how to fix them.
 
 
 ## SSL certificates
