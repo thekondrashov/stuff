@@ -525,6 +525,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## Send email
 
 * [Transactional Email API Service for Developers - Mailgun](https://mailgun.com) - A set of powerful APIs that enable you to send, receive and track email from your app effortlessly whether you use Python, Ruby, PHP, C#, Node.js or Java.
+* [Send Better Email | MailChimp](https://mailchimp.com) - MailChimp is the best way to design, send, and share email newsletters.
 * [Mandrill](https://mandrill.com) - Mandrill is a transactional email platform from MailChimp.
 * [Zoho Email Hosting](https://zoho.com/mail) - Business Email Hosting with rich web mail client, POP/IMAP access, integrated Calendar, Contacts, Notes, Tasks apps. Get up to 20 FREE users.
 * [Formspree | Functional HTML forms](https://formspree.io) - Just send your form to our URL and we'll forward it to your email. No PHP, Javascript or sign up required — perfect for static sites! Formspree are free for 1000 submissions per email each month.
