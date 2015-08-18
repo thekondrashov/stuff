@@ -806,6 +806,9 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 * :ru: [Алгоритм шифрования ГОСТ 28147-89](http://www.inssl.com/standart-of-cipher.html) - Информация о cтандарте шифрования ГОСТ 28147-89, краткое описание алгоритма шифрования. Криптоанализ алгоритма gost.
 
+### Hashing
+
+* [Hashids - generate short unique ids from integers](http://hashids.org) - Generate short unique ids from integers. Use in url shortening or as unique ids. Available in JavaScript, Ruby, Python, Java, Scala, PHP, Perl, Swift, Clojure, Objective-C, C, C++11, Go, Erlang, Lua, Haskell, Elixir, Rust, ColdFusion, Groovy, Kotlin, Nim, VBA, CoffeeScript and for Node.js & .NET. [![PHP library](https://img.shields.io/github/stars/ivanakimov/hashids.php.svg?style=social)](https://github.com/ivanakimov/hashids.php)
 
 ## HTTP Headers for Website and Web Application Security
 
