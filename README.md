@@ -53,6 +53,8 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 * [Browser Tests](#browser-tests)
 * [Firefox](#firefox)
+* [User Agent Strings](#user-agent-strings)
+
 
 
 ## CAPTCHA
@@ -292,6 +294,10 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Free programming books by Victor Felder | ZEEF](https://free-programming-books.zeef.com/victor.felder) - More resources on their way! Keep updated… Curated lists of excellent free programming material. Inspired by reSRC listings.
 * [DevFreeBooks](http://devfreebooks.org) - A huge collection of free books for developers. [![GitHub stars](https://img.shields.io/github/stars/caio-ribeiro-pereira/devfreebooks.svg?style=social)](https://github.com/caio-ribeiro-pereira/devfreebooks)
 
+[↑ back to top](#table-of-contents)
+
+---
+
 # Browsers
 
 ## Browser Tests
@@ -302,6 +308,10 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## Firefox
 
 * :octocat: [firefox-tweaks](https://github.com/dfkt/firefox-tweaks) - Attempt to make Firefox suck less. To apply these tweaks, type about:config in the URL bar, and use the config search bar to look up the individual settings. [![GitHub stars](https://img.shields.io/github/stars/dfkt/firefox-tweaks.svg?style=social)](https://github.com/dfkt/firefox-tweaks)
+
+## User Agent Strings
+
+* [UserAgentString.com - List of  User Agent Strings](http://useragentstring.com/pages/useragentstring.php) - Understand what information is contained in a user agent string. Get an analysis of your or any other user agent string. Find lists of user agent strings from browsers, crawlers, spiders, bots, validators and others..
 
 [↑ back to top](#table-of-contents)
 
