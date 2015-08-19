@@ -1001,6 +1001,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Humans TXT: We Are People, Not Machines](http://humanstxt.org) - An initiative to know the creators of the  website. Contains the information about humans to the web building.
 * [isogrammer](http://isogrammer.com) - [Isogram](https://en.wikipedia.org/wiki/Isogram) Google Analytics generator. [![GitHub stars](https://img.shields.io/github/stars/jaxgeller/isogrammer.svg?style=social)](https://github.com/jaxgeller/isogrammer)
 * [Google Ranking Factors: The Complete List](http://backlinko.com/?p=850) - A list of all 200 Google ranking factors. Here you'll learn the ranking signals that search engines use to rank pages and sites.
+* [Varvy.com](https://varvy.com) (formerly Feedthebot.com) - a free SEO resource with tools and information of a quality normally only found on paid sites.
 
 
 # Social
