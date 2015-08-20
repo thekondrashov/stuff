@@ -763,6 +763,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 * [REST API Best practices | saipraveenblog](https://saipraveenblog.wordpress.com/2014/09/29/rest-api-best-practices/) - Understanding best practices for designing RESTful API’s.
 * [REST API Tutorial](http://restapitutorial.com) - Learn REST API best practices. :ru: Russian translation: [Изучаем REST: Руководство по созданию RESTful сервиса](http://restapitutorial.ru) [![GitHub stars](https://img.shields.io/github/stars/tfredrich/RestApiTutorial.com.svg?style=social)](https://github.com/tfredrich/RestApiTutorial.com)
+* :octocat: [WhiteHouse / api-standards](https://github.com/WhiteHouse/api-standards) - This document provides guidelines and examples for White House Web APIs, encouraging consistency, maintainability, and best practices across applications. [![GitHub stars](https://img.shields.io/github/stars/WhiteHouse/api-standards.svg?style=social)](https://github.com/WhiteHouse/api-standards)
 
 ## API testing tools
 
