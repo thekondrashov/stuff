@@ -761,6 +761,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 ## REST API Best practices
 
+* [Best Practices for Designing a Pragmatic RESTful API by Vinay Sahni](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) - An API is a user interface for a developer. Learn the best practices to make an API that is easy to adopt and pleasant to use.
 * [REST API Best practices | saipraveenblog](https://saipraveenblog.wordpress.com/2014/09/29/rest-api-best-practices/) - Understanding best practices for designing RESTful API’s.
 * [REST API Tutorial](http://restapitutorial.com) - Learn REST API best practices. :ru: Russian translation: [Изучаем REST: Руководство по созданию RESTful сервиса](http://restapitutorial.ru) [![GitHub stars](https://img.shields.io/github/stars/tfredrich/RestApiTutorial.com.svg?style=social)](https://github.com/tfredrich/RestApiTutorial.com)
 * :octocat: [WhiteHouse / api-standards](https://github.com/WhiteHouse/api-standards) - This document provides guidelines and examples for White House Web APIs, encouraging consistency, maintainability, and best practices across applications. [![GitHub stars](https://img.shields.io/github/stars/WhiteHouse/api-standards.svg?style=social)](https://github.com/WhiteHouse/api-standards)
