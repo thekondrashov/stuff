@@ -970,6 +970,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * :octocat: [Awesome AppSec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security. Contains books, websites, blog posts, and self-assessment quizzes.
 * [Play safely in sandboxed IFrames - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/security/sandboxed-iframes/) - Learn how to run IFramed content in a sandbox, greatly reducing the risk associated with third-party widgets, and your own application's code.
 * :octocat: [minimaxir / big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. [![GitHub stars](https://img.shields.io/github/stars/minimaxir/big-list-of-naughty-strings.svg?style=social)](https://github.com/minimaxir/big-list-of-naughty-strings)
+* [Pwnie Awards](http://pwnies.com) - The Pwnie Awards is an annual awards ceremony celebrating the achievements and failures of security researchers and the security community.
 
 
 
