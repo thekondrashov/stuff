@@ -1144,6 +1144,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 |Preview|Source|
 |------------ | -------------|
+|[![Theme vine](https://imsky.github.io/holder/images/holder_vine.png)](http://holderjs.com)|[Holder.js - client side image placeholders](http://holderjs.com) - Holder renders image placeholders entirely in browser. Placeholders can have custom colors, fonts, resizing behavior, and rendering engine (Canvas/SVG). [![GitHub stars](https://img.shields.io/github/stars/imsky/holder.svg?style=social)](https://github.com/imsky/holder)|
 |[![Placeholder Image](http://lorempixel.com/400/200)](http://lorempixel.com/400/200)|[lorempixel](http://lorempixel.com) - Placeholder Images for every case. Webdesign or Print. Just put a custom url in your html and you receive a proper placeholder picture.<hr>http://lorempixel.com/400/200|
 |[![Placeholder Image](http://placemi.com/400x200)](http://placemi.com/400x200)|[placemi - the ultimate placeholder generator](http://placemi.com) - placemi generates beautiful image placeholders. you can even upload your own too.<hr>http://placemi.com/400x200|
 |[![Placeholder Image](http://placekitten.com/g/400/200)](http://placekitten.com/g/400/200)|[{placekitten}](http://placekitten.com) - Kitten-themed placeholder images for developers :3.<hr>http://placekitten.com/g/400/200|
