@@ -1012,6 +1012,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 ## Share buttons
 
+* [Sharrre - A plugin for sharing buttons](http://sharrre.com) - A plugin for sharing buttons : Facebook, Twitter, Google Plus, Digg, Delicious. [![Follow @sharrrejs](https://img.shields.io/twitter/url/http/sharrre.com.svg?label=@sharrrejs&style=social)](https://twitter.com/sharrrejs) [![GitHub stars](https://img.shields.io/github/stars/Julienh/Sharrre.svg?style=social)](https://github.com/Julienh/Sharrre)
 * [Pluso - кнопки для добавления контента в социальные сети](https://share.pluso.ru) - Кнопки для всех сервисов закладок и социальных сетей - для Вашего сайта.
 * [Сервис социальной активности UpToLike. Социальные кнопки в один клик](https://uptolike.com) - Сервис социальной активности Uptolike.ru позволяет вам установить кнопки социальных сетей в один клик. Предоставьте своим пользователям удобный способ делиться информацией вашего сайта в аккаунтах VKontakte, Facebook, Twitter, Однаклассники и других.
 
