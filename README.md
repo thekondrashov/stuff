@@ -998,6 +998,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Facebook & Web Retargeting Made Simple | Perfect Audience](https://perfectaudience.com) - Perfect Audience is the #1 Facebook retargeting platform - a fast and easy way to retarget lost customers on Facebook and the web and bring them back to convert.
 * [Bitdeli](https://bitdeli.com) - Analytics for GitHub.
 * [Piwik - Free Web Analytics Software](https://piwik.org) - Piwik is the leading open-source analytics platform that gives you more than just powerful analytics: Free open-source software, 100% data ownership, User privacy protection, User-centric insights, Customisable and extensible. :ru: Piwik.org— мощный инструмент для веб-аналитики. Сервис предоставляет информацию по множествам метрик: посетители, действия, источники трафика, цели. Вокруг проекта сформировалось мощное комьюнити, написаны плагины практически под все популярные CMS, а также существуют мобильные версии под iOS и Android. [![GitHub stars](https://img.shields.io/github/stars/piwik/piwik.svg?style=social)](https://github.com/piwik/piwik)
+* [SharedCount: Social URL Analytics](http://sharedcount.com) - Track URL shares, likes, tweets, and more. Free Plan includes up to 10,000 daily queries.
 * :ru: [SiteControl - панель контроля за сайтами](http://site-control.ru) - SiteControl - удобное веб-приложение для вебмастера и оптимизатора. Оно позволяет контролировать множество seo параметров и рейтинг сайта в поисковых системах.
 
 ## SEO Misc
