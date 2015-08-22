@@ -440,10 +440,11 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 ### Bootstrap Misc
 
-* [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.
+* :octocat: [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom. [![GitHub stars](https://img.shields.io/github/stars/dypsilon/frontend-dev-bookmarks.svg?style=social)](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [50 Must-have plugins for extending Twitter Bootstrap | Tutorialzine](http://tutorialzine.com/?p=3272) - In this article, you will find a collection of 50 must-have plugins you should know about for effective development with Twitter Bootstrap.
 * [50 Extensions and Plugins for Extending Bootstrap](http://speckyboy.com/?p=49574) - Bootstrap may at times not be enough for your project. To help you get more out of it, we have collected 50 plugins for extending Bootstrap.
-* [Библиотека программиста - 25 лучших плагинов для расширения Bootstrap 3](https://vk.com/wall-54530371_3903)
+* :octocat: [cvrebert / bs-css-hacks](https://github.com/cvrebert/bs-css-hacks) - Index of CSS bugs/quirks/incompatibilities that Bootstrap works around. [![GitHub stars](https://img.shields.io/github/stars/cvrebert/bs-css-hacks.svg?style=social)](https://github.com/cvrebert/bs-css-hacks)
+* :ru: [Библиотека программиста - 25 лучших плагинов для расширения Bootstrap 3](https://vk.com/wall-54530371_3903)
 
 ## CSS Animation
 
@@ -499,7 +500,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [StyleStats - An evaluating tool for writing better CSS](http://www.stylestats.org) - Копируете ссылку на сайт и алгоритм дает исчерпывающую статистику о CSS-файле. [GitHub](https://github.com/t32k/stylestats)
 * [CSS Guidelines](http://cssguidelin.es) - High-level advice and guidelines for writing sane, manageable, scalable CSS. On Russian: Cборник дельных советов, рекомендаций и лучших практик по написанию качественного, управляемого и масштабируемого CSS.
 * [CSS escapes](https://mothereff.in/css-escapes) - Wondering how to escape any character in CSS? There’s a web app for that™. [GitHub](https://github.com/mathiasbynens/mothereff.in/tree/master/css-escapes)
-* :octocat: [Critical-path (Above-the-fold) CSS Tools](https://github.com/addyosmani/critical-path-css-tools) - Tools to prioritize above-the-fold (critical-path) CSS by Addy Osmani. [![GitHub stars](https://img.shields.io/github/stars/addyosmani/critical-path-css-tools.svg?label=GitHub%20stars&style=flat-square)](https://github.com/addyosmani/critical-path-css-tools)
+* :octocat: [Critical-path (Above-the-fold) CSS Tools](https://github.com/addyosmani/critical-path-css-tools) - Tools to prioritize above-the-fold (critical-path) CSS by Addy Osmani. [![GitHub stars](https://img.shields.io/github/stars/addyosmani/critical-path-css-tools.svg?style=social)](https://github.com/addyosmani/critical-path-css-tools)
 * [EnjoyCSS](http://enjoycss.com) - EnjoyCSS is an advanced online CSS3 code generator with a simple graphical interface that saves your time. Its handy and simple UI allows you to adjust rich graphical styles quickly and without coding.
 * :octocat: [uCSS](https://github.com/oyvindeh/ucss) - uCSS is made for crawling (large) websites to find unused and duplicate CSS selectors. [![GitHub stars](https://img.shields.io/github/stars/oyvindeh/ucss.svg?style=social)](https://github.com/oyvindeh/ucss)
 * [Remove unused CSS - CSS Optimizer](https://unused-css.com) - Unused CSS is an online tool to remove unused CSS rules. It will check your pages and mark all unused CSS and then you can download a clean CSS file. See also list of "Similar services".
