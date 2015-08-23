@@ -1051,6 +1051,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Pingdom Website Speed Test](http://fpt.pingdom.com) - Use this free Website Speed Test to analyze the load speed of your websites, and learn how to make them faster.
 * [WebWait - Benchmark Your Website](http://webwait.com) - See how fast your website loads, test the speed of your ISP/website connection, with the WebWait web benchmark. :ru: Webwait — простой, но очень полезный инструмент. Основная задача сервиса — показать, за какое время полностью загрузится страница именно в вашем браузере. Таким образом, это не серверный инструмент, сервис запускается локально. Webwait загружает страницу снова и снова, а затем показывает средний и медианный результат времени загрузки. [Habr](http://habr.ru/p/263781)
 * [Website Performance Test](http://website-performance.org) - Test the speed of your webpage's load time for free.  Get suggestions on ways to improve your website's speed, and improve your search ranking.
+* :ru: [webo.in](https://webo.in) - Методы уменьшения времени загрузки страницы и загрузки сайта у конечного пользователя. Проверка сайта и проверка скорости. Оптимизация времени загрузки сайта.
 
 
 
