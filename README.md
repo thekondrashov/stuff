@@ -1090,6 +1090,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## Text editors Misc
 
 * [EditorConfig](http://editorconfig.org) - EditorConfig is a file format and collection of text editor plugins for maintaining consistent coding styles between different editors and IDEs. [GitHub](https://github.com/editorconfig)
+* :ru: :octocat: [shuvalov-anton / code-screenshots](https://github.com/shuvalov-anton/code-screenshots) - Скриншоты редакторов кода разных разработчиков. [![GitHub stars](https://img.shields.io/github/stars/shuvalov-anton/code-screenshots.svg?style=social)](https://github.com/shuvalov-anton/code-screenshots)
 
 
 # Textures, patterns, backgrounds
