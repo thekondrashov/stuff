@@ -165,6 +165,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## Russian spelling
 
 * [Literacy](#literacy)
+* [Plagiarism](#plagiarism)
 * [Spelling test (online)](#spelling-test-online)
 
 ## QR Codes
@@ -778,6 +779,13 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## Literacy
 
 * :ru: [5 ресурсов, где можно прокачать грамотность](https://vk.com/wall28547762_3823)
+
+## Plagiarism
+
+* :ru: [Яндекс.Вебмастер - Оригинальные тексты](https://webmaster.yandex.ru/content/?service=ORIGINALS) - Если вы публикуете на своем сайте оригинальные тексты, а их перепечатывают другие интернет-ресурсы, предупредите Яндекс о скором выходе текста. Мы будем знать, что оригинальный текст впервые появился именно на вашем сайте, и попробуем использовать это в настройке поисковых алгоритмов.
+* [Copyscape Plagiarism Checker - Duplicate Content Detection Software](http://copyscape.com) - Copyscape is a free plagiarism checker. The software lets you detect duplicate content and check if your articles are original.
+* :ru: [Проверка уникальности текстов FindCopy](http://miratools.ru)
+* :ru: [eTXT.ru - eTXT Антиплагиат. Программа проверки текста на уникальность](https://www.etxt.ru/antiplagiat/) - eTXT.ru - Система продажи/покупки контента, рерайтинг, копирайтинг, перевод, готовые статьи.
 
 ## Spelling test (online)
 
