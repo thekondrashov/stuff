@@ -1196,6 +1196,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Google URL Shortener](https://goo.gl)
 * [GitIO](https://git.io)
 * [TinyURL.com](http://tinyurl.com) (only HTTP)
+* [URL Shortener - url shortening service gg.gg](http://gg.gg) (only HTTP)
 * [b1t.co - Shorten your URL](http://b1t.co) - Web's shortest URL minifier! (only HTTP). [b1t.co API](http://b1t.co/5f): For example the call, `http://b1t.co/Site/api/External/MakeUrlWithGet?callback=foo&url=google.com`
 * [Url Shorteners: Destroying the Web Since 2002](http://blog.codinghorror.com/url-shorteners-destroying-the-web-since-2002/)
 
