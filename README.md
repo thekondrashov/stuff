@@ -786,6 +786,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Copyscape Plagiarism Checker - Duplicate Content Detection Software](http://copyscape.com) - Copyscape is a free plagiarism checker. The software lets you detect duplicate content and check if your articles are original.
 * :ru: [Проверка уникальности текстов FindCopy](http://miratools.ru)
 * :ru: [eTXT.ru - eTXT Антиплагиат. Программа проверки текста на уникальность](https://www.etxt.ru/antiplagiat/) - eTXT.ru - Система продажи/покупки контента, рерайтинг, копирайтинг, перевод, готовые статьи.
+* :ru: [Advego Plagiatus](https://advego.ru/plagiatus) - программа поиска в интернете частичных или полных копий текстового документа с интуитивным интерфейсом. Плагиатус показывает степень уникальности текста, источники текста, процент совпадения текста. Также программа проверяет уникальность указанного URL.
 
 ## Spelling test (online)
 
