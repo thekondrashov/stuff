@@ -741,7 +741,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 ## Phar
 
-* ![Stack Overflow](https://raw.githubusercontent.com/Keyamoon/IcoMoon-Free/master/PNG/16px/0464-stackoverflow.png)  [php - How to make an executable phar?](https://stackoverflow.com/a/11082338) - Stack Overflow.
+* ![Stack Overflow](https://cdn.rawgit.com/Keyamoon/IcoMoon-Free/master/PNG/16px/0464-stackoverflow.png)  [php - How to make an executable phar?](https://stackoverflow.com/a/11082338) - Stack Overflow.
 * [Phar в PHP: преимущества и работа с PHAR](http://sitear.ru/material/phar-php) - SiteAR.ru.
 * [.phar — исполняемые PHP-архивы](http://habr.ru/p/118269) - Хабрахабр.
 
@@ -864,6 +864,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [MDN article on HTTP Public Key Pinning (HPKP)](https://developer.mozilla.org/en-US/docs/Web/Security/Public_Key_Pinning)
 * :jp: [不正なSSL証明書を見破るPublic Key Pinningを試す - ぼちぼち日記](http://d.hatena.ne.jp/jovi0608/20140902/1409635279)
 * [Pin Creator](https://certpins.appspot.com) - Create your HPKP-pins to add to your site headers! Online public key pin calculator that makes calculations on server. This tool builds upon the go implementation of cert pinning in the key-pinning draft. [![GitHub stars](https://img.shields.io/github/stars/cem-/certpins.svg?style=social)](https://github.com/cem-/certpins)
+* ![Stack Overflow](https://cdn.rawgit.com/Keyamoon/IcoMoon-Free/master/PNG/16px/0464-stackoverflow.png)  [How to keep public key static, but rotate the certificate](https://stackoverflow.com/q/26290220) - Stack Overflow.
 
 
 ### HTTP Strict Transport Security (HSTS)
