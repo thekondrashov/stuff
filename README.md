@@ -1244,6 +1244,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Use Google App Engine as your own personal CDN](https://brandonb.io/use-google-app-engine-as-your-own-personal-cdn) - Brandons Blog.
 * [Google Cloud Datastore Error](https://gist.github.com/damimolo/37d0d0938aa821e004a2) - GitHub Gist.
 * [PHP Example - Cloud Storage](https://cloud.google.com/storage/docs/json_api/v1/json-api-php-samples) - Google Cloud Platform.
+* [Database aspects: The Memcache vs Datastore  on google app engine](http://dbaspects.blogspot.ru/2010/01/memcache-vs-datastore-on-google-app.html)
 
 
 ## WHOIS
