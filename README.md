@@ -1154,6 +1154,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Runnable](https://runnable.io) - Runnable lets you create Sandboxes (collections of one or more servers) to run the code in your GitHub repositories, on‑demand.
 * [Ideone.com](https://ideone.com) - Online Compiler and IDE C/C++, Java, PHP, Python, Perl and 40+ other compilers and interpreters. Ideone is something more than a pastebin; it's an online compiler and debugging tool which allows to compile and run code online in more than 40 programming languages.
 * [eval.in](https://eval.in) - paste and execute code online.
+* [PHP Sandbox](http://sandbox.onlinephpfunctions.com) - Run, execute and test PHP code from your browser. You can test your PHP code here on many php versions.
 * [eval.so](http://eval.so) - Eval.so provides a free and open source web platform for you to evaluate code in many situations. Whether you want to make sure your code works on another computer, or you found some code online that you don't trust, simply run it on Eval.so, and have your answer in no time. [GitHub](https://github.com/eval-so)
 * [Pastie](https://pastie.org)
 * :ru: [CopyPaste](https://cp.skobk.in) - Простой сервис. Аналог pastebin.com и других. [Bitbucket](https://bitbucket.org/skobkin/copypaste2/wiki/Home)
