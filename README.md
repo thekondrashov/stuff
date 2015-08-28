@@ -1051,7 +1051,8 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 ## Validators
 
-* [Validator.nu](https://validator.nu) - Living Validator. [![GitHub stars](https://img.shields.io/github/stars/validator/validator.svg?label=GitHub%20stars&style=flat-square)](https://github.com/validator/validator)
+* [Validator.nu](https://validator.nu) - Living Validator. [![GitHub stars](https://img.shields.io/github/stars/validator/validator.svg?style=social)](https://github.com/validator/validator)
+* [Microsoft Edge Dev: Static Scan](https://dev.modern.ie/tools/staticscan/) - Run this quick static code scan on any URL to check for out-of-date libraries, layout issues and accessibility. This tool analyzes the HTML, CSS, and JavaScript of a site or application for common coding issues. It warns about practices such as incomplete specification of CSS properties, invalid or incorrect doctypes, and obsolete versions of popular JavaScript libraries. [![GitHub stars](https://img.shields.io/github/stars/MicrosoftEdge/static-code-scan.svg?style=social)](https://github.com/MicrosoftEdge/static-code-scan)
 
 
 ## Website speed tests
