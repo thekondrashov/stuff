@@ -1267,6 +1267,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Free Web Hosting with PHP, MySQL and cPanel, No Ads](http://www.000webhost.com) - 000webhost.com ($0.00 webhost), is an industry leader in providing top class free web hosting services without advertising! There are no hidden costs, no adverts, and no restrictive terms.
 * [IBM Bluemix - Next-Generation Cloud App Development Platform](https://console.ng.bluemix.net) - Bluemix is an open standards, cloud platform for building, running, and managing apps and services.
 * [Node Hosting · joyent/node Wiki](https://github.com/joyent/node/wiki/node-hosting) - Hosting compatible with Node.
+* [Backend as a Service | AppTractor](http://apptractor.ru/?p=387)
 
 ## Paid hosting
 
