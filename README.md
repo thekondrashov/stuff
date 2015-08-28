@@ -976,6 +976,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [oxdef](https://www.oxdef.info) - Some thoughts about web security.
 * [Jonathan Rudenberg](https://titanous.com)
 * [Noncombatant by Chris Palmer](https://nonfreesoftware.org)
+* [kura.io](https://kura.io/t/ssl/)
 
 
 ## Security Misc
