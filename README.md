@@ -1257,6 +1257,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Whois7.ru](http://whois7.ru) - Whois Service, IP Whois, DNS Digger.
 * [DNS Lookup tool, Reverse DNS lookup tool - www.DNSWatch.info](https://www.dnswatch.info) - Lookup DNS records with exact performance measuring, monitor your dns servers!
 * [Global DNS Propagation Checker - What's My DNS?](https://www.whatsmydns.net) - Instantly check your domain names current IP address and DNS record information against multiple name servers located in different parts of the world.
+* [How DNS works](https://howdns.works) - Escapades on a DNS hang-glider.
 
 
 ## Free hosting
