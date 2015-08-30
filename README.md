@@ -1218,6 +1218,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 * [Google URL Shortener](https://goo.gl)
 * [GitIO](https://git.io)
+* [tr.im - url shortener](https://tr.im)
 * [TinyURL.com](http://tinyurl.com) (only HTTP)
 * [URL Shortener - url shortening service gg.gg](http://gg.gg) - GG.gg is the fastest and easy way to share, save, track your links. You can use GG.gg via our website or you can download GG.gg browser extentions. You can create also custom short url if You wanna get easy to remember url. GG.gg uses powerful webservers so all Your links works extremly fast. (only HTTP)
 * [b1t.co - Shorten your URL](http://b1t.co) - Web's shortest URL minifier! (only HTTP). [b1t.co API](http://b1t.co/5f): For example the call, `http://b1t.co/Site/api/External/MakeUrlWithGet?callback=foo&url=google.com`
