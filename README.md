@@ -223,7 +223,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Convert anything to anything](#convert-anything-to-anything)
 * [Favicon Generators](#favicon-generators)
 * [Make HTTP requests](#make-http-requests)
-* [Paste sites](#paste-sites)
+* [Pastebins](#pastebins)
 * [Placeholder images](#placeholder-images)
 * [Push-notifications](#push-notifications)
 * [Status Pages](#status-pages)
@@ -1147,7 +1147,8 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [httpbin(1): HTTP Client Testing Service](https://httpbin.org) - HTTP Request & Response Service, written in Python + Flask. Testing an HTTP Library can become difficult sometimes. RequestBin is fantastic for testing POST requests, but doesn't let you control the response. This exists to cover all kinds of HTTP scenarios. Additional endpoints are being considered. All endpoint responses are JSON-encoded. [![GitHub stars](https://img.shields.io/github/stars/Runscope/httpbin.svg?style=social)](https://github.com/Runscope/httpbin)
 
 
-## Paste sites
+## Pastebins
+> *A __pastebin__ is a type of web application where users can store plain text. They are most commonly used to share short source code snippets for code review via IRC.<br>- [From Wikipedia](https://en.wikipedia.org/wiki/Pastebin)*
 
 * [CodePen](https://codepen.io) - CodePen is a playground for the front end side of the web & code editor in the browser. It's all about inspiration, education, and sharing.
 * [JSFiddle](https://jsfiddle.net) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor. :octocat: [JSFiddle Issues](https://github.com/jsfiddle/jsfiddle-issues)
@@ -1162,6 +1163,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [PHP Sandbox](http://sandbox.onlinephpfunctions.com) - Run, execute and test PHP code from your browser. You can test your PHP code here on many php versions.
 * [eval.so](http://eval.so) - Eval.so provides a free and open source web platform for you to evaluate code in many situations. Whether you want to make sure your code works on another computer, or you found some code online that you don't trust, simply run it on Eval.so, and have your answer in no time. [GitHub](https://github.com/eval-so)
 * [Pastie](https://pastie.org)
+* [codepad](http://codepad.org) - codepad is an online compiler/interpreter, and a simple collaboration tool. Paste your code, and codepad will run it and give you a short URL you can use to share it in chat or email.
 * :ru: [CopyPaste](https://cp.skobk.in) - Простой сервис. Аналог pastebin.com и других. [Bitbucket](https://bitbucket.org/skobkin/copypaste2/wiki/Home)
 
 
