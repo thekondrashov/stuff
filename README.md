@@ -528,6 +528,11 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Gratipay - Voluntary Recurring Payments for Open Work](https://gratipay.com) - Gratipay (formerly Gittip) is a way to give money every week to people and teams you believe in. [Gratipay API](https://github.com/gratipay/gratipay.com#api) [![GitHub stars](https://img.shields.io/github/stars/gratipay/gratipay.com.svg?style=social)](https://github.com/gratipay/gratipay.com)
 * [Flattr - Social microdonations](https://flattr.com) - Flattr is a social microdonation system. With it you can easily share money to support things you like, and get support from your fans.
 * [Gumroad](https://gumroad.com) - Sell music, comics, software, books, and films directly to your audience.
+* [PayPal.Me, the link to getting paid](https://paypal.me) - Share your personal link with anyone so they can send money to your PayPal account in seconds. :ru: [PayPal запустил сервис PayPal.Me / Хабрахабр](http://habr.ru/p/265933)
+* [Keycash - Request Money Anywhere](https://key.cash) - Keycash is a custom iOS keyboard that allows you to request money in any app. Enter the amount you want in the keyboard and send the generated link to your recpient. Let them decide how to pay you.
+* [Ribbon](https://ribbon.co) - Ribbon is the simplest way to send and receive money from friends, even if they don't have an account. It's fast, free, and secure. [![Follow @ribbon](https://img.shields.io/twitter/url/https/ribbon.co.svg?label=@ribbon&style=social)](https://twitter.com/ribbon)
+* [Payy](https://payy.me) - Your page on the web for accepting payments.
+* :ru: [Я соберу](http://yasobe.ru) - Собирайте деньги на подарок другу или на доброе дело с помощью красивой персональной страницы в Яндекс.Деньгах.
 
 # Email
 
