@@ -1071,14 +1071,19 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 ## Validators
 
+### Check the validity of semantic markup
+
 * [Validator.nu](https://validator.nu) - Living Validator. [![GitHub stars](https://img.shields.io/github/stars/validator/validator.svg?style=social)](https://github.com/validator/validator)
-* [Microsoft Edge Dev: Static Scan](https://dev.modern.ie/tools/staticscan/) - Run this quick static code scan on any URL to check for out-of-date libraries, layout issues and accessibility. This tool analyzes the HTML, CSS, and JavaScript of a site or application for common coding issues. It warns about practices such as incomplete specification of CSS properties, invalid or incorrect doctypes, and obsolete versions of popular JavaScript libraries. [![GitHub stars](https://img.shields.io/github/stars/MicrosoftEdge/static-code-scan.svg?style=social)](https://github.com/MicrosoftEdge/static-code-scan)
 * [Structured Data Testing Tool - Google Developers](https://developers.google.com/structured-data/testing-tool/) - Test your structured data markup.
 * [Yandex microformat validator](https://webmaster.yandex.com/microtest.xml). [Structured data validator API](https://tech.yandex.com/validator/)
 * [Structured Data Linter](http://linter.structured-data.org) - a tool aiding webmasters and web developers to verify the structured data present in their HTML pages. Search engines use structured data to understand webpages more accurately and to present enhanced search results. The Linter understands the microdata, JSON-LD and RDFa formats according to their latest specifications.
 * [Bing - Средства проверки разметки](http://www.bing.com/toolbox/markup-validator) - проверьте разметку, добавленную на ваши веб-страницы, включая микроданные HTML Microdata, микроформаты, RDFa, Schema.org и OpenGraph.
 * [JSON-LD Playground](http://json-ld.org/playground/) - Play around with JSON-LD markup by typing out some JSON below and seeing what gets generated from it.
 * [Open Graph Object Debugger](https://developers.facebook.com/tools/debug/)
+
+### Other validators
+
+* [Microsoft Edge Dev: Static Scan](https://dev.modern.ie/tools/staticscan/) - Run this quick static code scan on any URL to check for out-of-date libraries, layout issues and accessibility. This tool analyzes the HTML, CSS, and JavaScript of a site or application for common coding issues. It warns about practices such as incomplete specification of CSS properties, invalid or incorrect doctypes, and obsolete versions of popular JavaScript libraries. [![GitHub stars](https://img.shields.io/github/stars/MicrosoftEdge/static-code-scan.svg?style=social)](https://github.com/MicrosoftEdge/static-code-scan)
 
 
 ## Website speed tests
