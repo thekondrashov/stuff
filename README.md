@@ -1078,7 +1078,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Yandex microformat validator](https://webmaster.yandex.com/microtest.xml). [Structured data validator API](https://tech.yandex.com/validator/)
 * [Structured Data Linter](http://linter.structured-data.org) - a tool aiding webmasters and web developers to verify the structured data present in their HTML pages. Search engines use structured data to understand webpages more accurately and to present enhanced search results. The Linter understands the microdata, JSON-LD and RDFa formats according to their latest specifications.
 * [Bing - Средства проверки разметки](http://www.bing.com/toolbox/markup-validator) - проверьте разметку, добавленную на ваши веб-страницы, включая микроданные HTML Microdata, микроформаты, RDFa, Schema.org и OpenGraph.
-* [JSON-LD Playground](http://json-ld.org/playground/) - Play around with JSON-LD markup by typing out some JSON below and seeing what gets generated from it.
+* [JSON-LD Playground](http://json-ld.org/playground/) - Play around with JSON-LD markup by typing out some JSON below and seeing what gets generated from it. [![GitHub stars](https://img.shields.io/github/stars/json-ld/json-ld.org.svg?style=social)](https://github.com/json-ld/json-ld.org)
 * [Open Graph Object Debugger](https://developers.facebook.com/tools/debug/)
 
 ### Other validators
