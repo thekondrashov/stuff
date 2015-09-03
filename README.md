@@ -943,14 +943,19 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 ### Generate and manage SSL certificates
 
+* [Free SSL Certificates from a Free Certificate Authority](https://www.sslshopper.com/article-free-ssl-certificates-from-a-free-certificate-authority.html) - Are you looking for free SSL Certificates?
 * [TinyCert](https://www.tinycert.org) - Generate and manage SSL certificates free.
 * [Let's Encrypt](https://letsencrypt.org) - It’s free, automated, and open certificate authority.
 * [StartSSL™ Certificates](https://www.startssl.com) - StartCom Free SSL Client, S/Mime, Server, Domain Controller, Smartcard Certificates. :ru: [Получаем бесплатный SSL сертификат / Хабрахабр](http://habr.ru/p/127643)
 * [GlobalSign](https://www.globalsign.com/en/ssl/ssl-open-source/) - Free SSL Certificate for Open Source Projects.
+* [Free Open Source Certificates - GoDaddy](https://www.godaddy.com/ssl/ssl-open-source.aspx) - Supporting the open source community with free GoDaddy SSL certificates. Free first year exclusively for qualified Open Source projects.
 * [CAcert.org](http://cacert.org) - a community-driven Certificate Authority that issues certificates to the public at large for free.
+* [90 days of Free SSL encryption - SSL.com](https://www.ssl.com/certificates/free) - Get your Free Class 1 validated and industrial strength encrypted SSL Certificate from SSL.com. Our free SSL Certificates have the same encryption strength and browser acceptance rates as the higher assurance validation SSL Certificates.
 * [Free SSL Certificate from Comodo | Extended Free SSL for 90 days](https://www.instantssl.com/free-ssl-certificate.html) - Learn why Free SSL Certificate from Comodo is trusted by majority of web browsers. Get Extended Free SSL for 90 days and secure your website in minutes.
+* [Positive Free SSL Certificates](https://www.positivessl.com/free-ssl-certificate.php) - Get your Free 30 day Trial SSL Certificate which is ideal for you to see how SSL can help your business.
 * [30-day free trial SSL certificate from RapidSSL](https://www.freessl.com) - These SSL certificates are fully functional for 30 days, ideal for testing.
 * [Symantec™ Trust Center](https://trustcenter.websecurity.symantec.com/process/retail/trial_initial) - SSL Test Certificate 30-day FREE Trial.
+* [Free SSL Certificate Trial - GeoTrust](https://www.geotrust.com/ssl/free-ssl-certificate/) - The free GeoTrust® SSL Trial offers a fully functioning SSL certificate with 30 day trial period. Now you can make a true evaluation of your SSL needs before you purchase.
 * [Globe FREE SSL - GlobeSSL](https://www.globessl.com/globe-free-ssl/) - A Domain Validation SSL Certificate to test for 30 days. Globe Free SSL Certificate is a 128/256 bit SSL Certificate designed to secure web sites, as well as intranets and extranets. Trusted by over 99.3% of current Internet users, Globe FREE SSL is the perfect solution to test functionality of an SSL Certificate. Globe FREE SSL Certificates do not carry warranty.
 * [Thawte Certificate Center](https://ssl-certificate-center.thawte.com/process/retail/trial_product_selector) - Manage Existing SSL Certificates, Renew SSL Certificates. Free 21-day Thawte trial SSL certificate.
 * [OpenCA Research Labs](https://pki.openca.org/projects/openca/) - The OpenCA PKI Project is a collaborative effort to develop a robust, full-featured and Open Source out-of-the-box Certification Authority implementing the most used protocols with full-strength cryptography world-wide.
@@ -974,6 +979,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/) - A comprehensive free SSL test for your public web servers.
 * [Free SSL Web Server Tester | Wormly](https://wormly.com/test_ssl) - Free SSL web server testing tool.  Conducts a thorough analysis of your SSL / TLS web server configuration and performance.
 * [SSL Check](https://sslcheck.globalsign.com) - GlobalSign SSL Configuration Checker. Powered by Qualys SSL Labs. Средство проверки конфигурации SSL GlobalSign. Основано на технологиях Qualys SSL Labs.
+* [SSL Certificate Checker, SSL Diagnostic Tool, and SSL Verification Utility - SSLtools.com](http://www.ssltools.com) - Does the site have ssl installed? Use this tool to verify if ssl is properly installed. Great for ssl diagnostics.
 * [Cert Logik](https://certlogik.com/about/) - Cert Logik is a collection of PKI and SSL products developed by Red Kestrel Consulting Limited. [SSL Checker](https://certlogik.com/ssl-checker/encrypted.google.com) - Use SSL Checker to test your SSL certificate and its installation. Connects to your website and checks the installation of your SSL certificate.
 * [SSL Certificate Tools and Services](https://redkestrel.co.uk) - Red Kestrel have developed a portfolio of PKI and SSL related products and tool to help businesses better manage their PKIs and digital certificates.
 * [Cert Centre](https://certcentrehq.com) - Manage your SSL certificates. CertCentre discovers, inspects, and tracks all your SSL certificates (both internal and external).
