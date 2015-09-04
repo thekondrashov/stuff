@@ -322,9 +322,9 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 # CAPTCHA
 
 ## CAPTCHA plugins
-> *A CAPTCHA (an acronym for "Completely Automated Public Turing test to tell Computers and Humans Apart") is a type of challenge-response test used in computing to determine whether or not the user is human.<br>- [Source](https://en.wikipedia.org/wiki/CAPTCHA)*
+> *A CAPTCHA (an acronym for "Completely Automated Public Turing test to tell Computers and Humans Apart") is a type of challenge-response test used in computing to determine whether or not the user is human.<br>- [From Wikipedia](https://en.wikipedia.org/wiki/CAPTCHA)*
 
-> :ru: *CAPTCHA (от англ. — полностью автоматизированный публичный тест Тьюринга для различения компьютеров и людей) — компьютерный тест, используемый для того, чтобы определить, кем является пользователь системы: человеком или компьютером.<br>- [Источник](https://ru.wikipedia.org/wiki/Капча)*
+> :ru: *CAPTCHA (от англ. — полностью автоматизированный публичный тест Тьюринга для различения компьютеров и людей) — компьютерный тест, используемый для того, чтобы определить, кем является пользователь системы: человеком или компьютером.<br>- [Из Wikipedia](https://ru.wikipedia.org/wiki/Капча)*
 
 |Preview|Source|
 |------------ | -------------|
@@ -695,7 +695,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 
 ## Lazy loading
-> *Lazy loading boosts page speed by deferring the loading of images until they're in (or near) the viewport.<br>- [Source](https://github.com/callmecavs/layzr.js)*
+> *Lazy loading boosts page speed by deferring the loading of images until they're in (or near) the viewport.<br>- [From GitHub](https://github.com/callmecavs/layzr.js)*
 
 * [Layzr.js](https://callmecavs.github.io/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading. :ru: Layzr.js — компактная, быстрая, современная библиотека для реализации «ленивой загрузки» (lazy loading). [![GitHub stars](https://img.shields.io/github/stars/callmecavs/layzr.js.svg?label=GitHub%20stars&style=flat-square)](https://github.com/callmecavs/layzr.js)
 * [Unveil.js](https://luis-almeida.github.io/unveil) - A very lightweight (less than 1k) plugin to lazy load images for jQuery or Zepto.js. [![GitHub stars](https://img.shields.io/github/stars/luis-almeida/unveil.svg?label=GitHub%20stars&style=flat-square)](https://github.com/luis-almeida/unveil)
@@ -864,7 +864,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [CSP Playground](http://cspplayground.com)
 
 ### CORS
-> *__Cross-origin resource sharing (CORS)__ is a mechanism that allows restricted resources (e.g. fonts, JavaScript, etc.) on a web page to be requested from another domain outside the domain from which the resource originated.<br>- [Source](https://en.wikipedia.org/wiki/Cross-Origin_Resource_Sharing)*
+> *__Cross-origin resource sharing (CORS)__ is a mechanism that allows restricted resources (e.g. fonts, JavaScript, etc.) on a web page to be requested from another domain outside the domain from which the resource originated.<br>- [From Wikipedia](https://en.wikipedia.org/wiki/Cross-Origin_Resource_Sharing)*
 
 * [Enable CORS](http://enable-cors.org) - More details on how to enable CORS on your server. [![GitHub stars](https://img.shields.io/github/stars/monsur/enable-cors.org.svg?style=social)](https://github.com/monsur/enable-cors.org)
 * [test-cors.org](http://test-cors.org) - A tool to help test CORS requests. You can either send the CORS request to a remote server (to test if CORS is supported), or send the CORS request to a test server (to explore certain features of CORS). [![GitHub stars](https://img.shields.io/github/stars/monsur/test-cors.org.svg?style=social)](https://github.com/monsur/test-cors.org)
@@ -874,7 +874,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * :ru: [HTTP заголовки Last-Modified и If-Modified-Since](http://last-modified.com/ru/if-modified-since.html)
 
 ### HTTP Public Key Pinning (HPKP)
-> *__The Public Key Pinning Extension for HTTP__ (HPKP) is a security feature that tells a web client to associate a specific cryptographic public key with a certain web server to prevent [MITM](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) attacks with forged certificates.<br>- [Source](https://developer.mozilla.org/en-US/docs/Web/Security/Public_Key_Pinning)*
+> *__The Public Key Pinning Extension for HTTP__ (HPKP) is a security feature that tells a web client to associate a specific cryptographic public key with a certain web server to prevent [MITM](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) attacks with forged certificates.<br>- [From MDN](https://developer.mozilla.org/en-US/docs/Web/Security/Public_Key_Pinning)*
 
 * [RFC 7469](https://tools.ietf.org/html/rfc7469) - IETF RFC Public Key Pinning Extension for HTTP Specification.
 * [HTTP Public Key Pinning](https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning) - Wikipedia, the free encyclopedia.
@@ -886,6 +886,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 
 ### HTTP Strict Transport Security (HSTS)
+> *__HTTP Strict Transport Security__ (HSTS) is a HTTP header that instructs browsers to make all requests over HTTPS. If a browser sees an `http://` URL for a site that it knows has enabled Strict Transport, it will skip directly to HTTPS without issuing the initial insecure request. Even that first insecure request can be eliminated if site takes the final step of hardcoding their site into browsers as HTTPS-only.<br>- [From GitHub](https://github.com/konklone/cdns-to-https)*
 
 * -empty-
 
