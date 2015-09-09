@@ -522,6 +522,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## Crowdfunding platforms
 
 * [Indiegogo: The Largest Global Crowdfunding & Fundraising Site Online](https://www.indiegogo.com) - As the largest global site for fundraisers, Indiegogo helps individuals, groups and non-profits raise money online to make their ideas a reality through crowdfunding.
+* :cn: [zeczec](https://www.zeczec.com) - 台灣的群眾集資(Crowdfunding)平台.
 
 ## Donation Management
 
