@@ -927,7 +927,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [SecurityHeaders.io](https://securityheaders.io) - An easy way to asses the security based HTTP response headers of other sites.
 * [Logjam: How Diffie-Hellman Fails in Practice](https://weakdh.org) - The Logjam Attack weaknesses checker.
 * [SecurityHeaders.com](https://securityheaders.com) - Test a Website's Headers for Security Features.
-* [Check Your HTTP Security Headers](https://cyh.herokuapp.com/cyh)
+* [Check Your Headers](https://cyh.herokuapp.com/cyh) - Check your HTTP security headers to view and evaluate any website's security headers.
 * [HTTP Security Report](https://httpsecurityreport.com) - Analyzes websites' HTTP security and offers suggestions for improvement. Get an instant report of how your website measures up to the best practices. Check connection encryption, content security, information disclosure and cookies.
 * [Shodan](https://shodan.io) - Monitor Network Security.
 
