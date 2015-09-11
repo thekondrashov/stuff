@@ -192,7 +192,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## SEO
 
 * [A/B Testing](#ab-testing)
-* [Микроразметка (семантическая разметка)](#Микроразметка-семантическая-разметка)
+* [Semantic markup](#semantic-markup)
 * [SEO Articles](#seo-articles)
 * [Website Analytics](#website-analytics)
 * [SEO Misc](#seo-misc)
@@ -1039,8 +1039,9 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Hamburger vs Menu: The Final AB Test](http://exisweb.net/menu-eats-hamburger)
 
 
-## Микроразметка (семантическая разметка)
+## Semantic markup
 
+* [App Links](http://applinks.org) - Cross-platform, open source, and simple mobile deep-linking. :ru: Applinks – набирающий популярность стандарт для межплатформенной связи приложений
 * :ru: [Микроразметка статьи | ИТ "Шеф"](http://itchief.ru/lessons/modx-revo/modx-revo-microcosmica-article) - Микроразметка статьи с помощью "Schema.org".
 
 ## SEO Articles
