@@ -698,25 +698,25 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## Lazy loading
 > *Lazy loading boosts page speed by deferring the loading of images until they're in (or near) the viewport.<br>- [From GitHub](https://github.com/callmecavs/layzr.js)*
 
-* [Layzr.js](https://callmecavs.github.io/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading. :ru: Layzr.js — компактная, быстрая, современная библиотека для реализации «ленивой загрузки» (lazy loading). [![GitHub stars](https://img.shields.io/github/stars/callmecavs/layzr.js.svg?label=GitHub%20stars&style=flat-square)](https://github.com/callmecavs/layzr.js)
-* [Unveil.js](https://luis-almeida.github.io/unveil) - A very lightweight (less than 1k) plugin to lazy load images for jQuery or Zepto.js. [![GitHub stars](https://img.shields.io/github/stars/luis-almeida/unveil.svg?label=GitHub%20stars&style=flat-square)](https://github.com/luis-almeida/unveil)
-* [Lazy Load Plugin for jQuery](http://appelsiini.net/projects/lazyload) - Lazy Load delays loading of images in long web pages. Images outside of viewport wont be loaded before user scrolls to them. This is opposite of image preloading. ![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square) [![Latest Version](https://img.shields.io/github/release/tuupola/jquery_lazyload.svg?style=flat-square)](https://github.com/tuupola/jquery_lazyload/releases) [![GitHub stars](https://img.shields.io/github/stars/tuupola/jquery_lazyload.svg?label=GitHub%20stars&style=flat-square)](https://github.com/tuupola/jquery_lazyload)
+* [Layzr.js](https://callmecavs.github.io/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading. :ru: Layzr.js — компактная, быстрая, современная библиотека для реализации «ленивой загрузки» (lazy loading). [![GitHub stars](https://img.shields.io/github/stars/callmecavs/layzr.js.svg?style=social)](https://github.com/callmecavs/layzr.js)
+* [Unveil.js](https://luis-almeida.github.io/unveil) - A very lightweight (less than 1k) plugin to lazy load images for jQuery or Zepto.js. [![GitHub stars](https://img.shields.io/github/stars/luis-almeida/unveil.svg?style=social)](https://github.com/luis-almeida/unveil)
+* [Lazy Load Plugin for jQuery](http://appelsiini.net/projects/lazyload) - Lazy Load delays loading of images in long web pages. Images outside of viewport wont be loaded before user scrolls to them. This is opposite of image preloading. ![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square) [![Latest Version](https://img.shields.io/github/release/tuupola/jquery_lazyload.svg?style=social)](https://github.com/tuupola/jquery_lazyload/releases) [![GitHub stars](https://img.shields.io/github/stars/tuupola/jquery_lazyload.svg?style=social)](https://github.com/tuupola/jquery_lazyload)
 
 
 ## Progress bar
 
-* [ToProgress.js](https://djyde.github.io/ToProgress) - A lightweight, no-dependency top progress bar library. ToProgress — миниатюрная (2.2 KB) и максимально простая библиотека для создания прогресс-баров. Обладает всего семью методами: .increase(), .decrease(), .reset(), .finish(), .show(), .hide(), .setProgress(). [![GitHub stars](https://img.shields.io/github/stars/djyde/ToProgress.svg?label=GitHub%20stars&style=flat-square)](https://github.com/djyde/ToProgress) ![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)
+* [ToProgress.js](https://djyde.github.io/ToProgress) - A lightweight, no-dependency top progress bar library. ToProgress — миниатюрная (2.2 KB) и максимально простая библиотека для создания прогресс-баров. Обладает всего семью методами: .increase(), .decrease(), .reset(), .finish(), .show(), .hide(), .setProgress(). [![GitHub stars](https://img.shields.io/github/stars/djyde/ToProgress.svg?style=social)](https://github.com/djyde/ToProgress) ![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)
 
 
 ## Vanilla JS
 > *__Vanilla JavaScript__ is referred to the standard JavaScript – no framework. Vanilla in fact is not only used to describe the standard version of JavaScript but also other languages like CSS.<br>- [JavaScript Jargon: 10 Terms You Should Know](http://hongkiat.com/blog/?p=24420#9_Vanilla)*
 
-* [You Might Not Need jQuery](http://youmightnotneedjquery.com/) - Examples of how to do common event, element, ajax and utility operations with plain javascript.
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com) - Examples of how to do common event, element, ajax and utility operations with plain javascript.
 * [Vanilla Query - GitHub](https://github.com/makesites/vanilla-query/blob/master/build/vanilla-query.js) - A syntax-conversion for Vanilla JS & CSS3 methods using traditional jQuery conventions.
-* [10 Tips for Writing JavaScript without jQuery](http://tutorialzine.com/?p=3771) - Tutorialzine.
-* [Native JavaScript Equivalents of jQuery Methods: the DOM and Forms](http://www.sitepoint.com/jquery-vs-raw-javascript-1-dom-forms/) - SitePoint.
+* [10 Tips for Writing JavaScript without jQuery](http://tutorialzine.com?p=3771) - Tutorialzine.
+* [Native JavaScript Equivalents of jQuery Methods: the DOM and Forms](http://sitepoint.com?p=67349) - SitePoint.
 * [Plain JavaScript - Functions and Helpers](http://plainjs.com/javascript/) - Vanilla JavaScript utilities for writing powerful web applications without jQuery.
-* [Moving from jQuery](https://gist.github.com/harmstyler/7468978) - GitHub Gist.
+* [Moving from jQuery](https://gist.github.com/7468978) - GitHub Gist.
 
 
 ## JavaScript Misc
@@ -812,6 +812,10 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * :ru: [Главред](http://glvrd.ru) - Помогает очистить текст от словесного мусора, проверяет на соответствие информационному стилю.
 * :ru: [Свежий Взгляд online](http://quittance.ru/tautology.php) - поиск паронимии в русскоязычных текстах. Онлайн реализация алгоритма Дмитрия Кирсанова Свежий Взгляд.
 
+## Typographs
+> *__Типограф__ — это удобное средство онлайн подготовки текста к веб-изданию. Он помогает избежать монотонной корректировки, расстановки кавычек, неразрывных пробелов, специальных символов, исправляет некоторые ошибки ввода (опечатки) и так далее.<br>- [Из Хабрахабра](http://habr.ru/p/266563#comment_8567879)*
+
+* [Typograph in JavaScript](https://typograf.github.io) :ru: [Быль о типографе / Хабрахабр](http://habr.ru/p/266563) [![GitHub stars](https://img.shields.io/github/stars/typograf/typograf.svg?style=social)](https://github.com/typograf/typograf)
 
 
 # QR Codes
@@ -1282,7 +1286,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Custom Domain with Google App Engine now that Google Apps is not free anymore](http://stackoverflow.com/q/18560247) - Stack Overflow.
 * [Using App Engine with a custom domain, without paying for Google Apps?](http://stackoverflow.com/q/17619204) - Stack Overflow.
 * [Google App Engine: SSL Certificate Installation](https://www.digicert.com/ssl-certificate-installation-google-app-engine.htm) - DigiCert.
-* [Getting Started with the Cloud Datastore on PHP App Engine](https://gae-php-tips.appspot.com/?p=291) - Tips and Tricks for PHP on Google App Engine.
+* [Getting Started with the Cloud Datastore on PHP App Engine](https://gae-php-tips.appspot.com?p=291) - Tips and Tricks for PHP on Google App Engine.
 * [Подключаем Google в качестве CDN за полчаса](http://webo.in/articles/all/2009/08-google-cdn-in-minutes/) - webo.in.
 * [Google App Engine Archives - Ivan Kristianto](http://www.ivankristianto.com/tag/google-app-engine/)
 * [Статьи - Русская информация о Google App Engine](http://googleappengine.ru/articles/) - Все о Google App Engine на русском языке.
