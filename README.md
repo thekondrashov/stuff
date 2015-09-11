@@ -168,6 +168,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Literacy](#literacy)
 * [Plagiarism](#plagiarism)
 * [Spelling test (online)](#spelling-test-online)
+* [Typographs](#typographs)
 
 ## QR Codes
 
