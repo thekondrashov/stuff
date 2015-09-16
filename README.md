@@ -1207,7 +1207,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [CodePen](https://codepen.io) - CodePen is a playground for the front end side of the web & code editor in the browser. It's all about inspiration, education, and sharing.
 * [JSFiddle](https://jsfiddle.net) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor. :octocat: [JSFiddle Issues](https://github.com/jsfiddle/jsfiddle-issues)
 * [JS Bin - Collaborative JavaScript Debugging](https://jsbin.com) - A live pastebin for HTML, CSS & JavaScript and a range of processors, including SCSS, CoffeeScript, Jade and more... [![GitHub stars](https://img.shields.io/github/stars/jsbin/jsbin.svg?style=social)](https://github.com/jsbin/jsbin)
-* [GitHub Gist](https://gist.github.com) - Gist is a simple way to share snippets and pastes with others. All gists are Git repositories, so they are automatically versioned, forkable and usable from Git.
+* [GitHub Gist](https://gist.github.com) - Gist is a simple way to share snippets and pastes with others. All gists are Git repositories, so they are automatically versioned, forkable and usable from Git. Gists are an easy way to work with small bits of code without creating a fully fledged repository. However, Gists do not support directories. All files need to be added to the repository root.
 * [repl.it](https://repl.it) - Online Interpreters in JavaScript. Try Python, Ruby, Java, Node.js, Go, Scheme, C, C++, Lua, CoffeeScript and more programming languages. Online coding and REPL. Run and share code. [![GitHub stars](https://img.shields.io/github/stars/replit/repl.it.svg?style=social)](https://github.com/replit/repl.it)
 * [glot.io](https://glot.io) - An open source pastebin with runnable snippets and API. [![GitHub stars](https://img.shields.io/github/stars/prasmussen/glot.svg?style=social)](https://github.com/prasmussen/glot)
 * [Pastebin.com](https://pastebin.com) - #1 paste tool since 2002! Pastebin is a website where you can store text online for a set period of time.
@@ -1260,7 +1260,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## URL Shorteners
 
 * [Google URL Shortener](https://goo.gl)
-* [GitIO](https://git.io)
+* [Git.io](https://git.io) - is a simple URL shortener for GitHub. *[Read more about Git.io.](https://github.com/blog/985-git-io-github-url-shortener)*
 * [tr.im - url shortener](https://tr.im)
 * [TinyURL.com](http://tinyurl.com) (only HTTP)
 * [URL Shortener - url shortening service gg.gg](http://gg.gg) - GG.gg is the fastest and easy way to share, save, track your links. You can use GG.gg via our website or you can download GG.gg browser extentions. You can create also custom short url if You wanna get easy to remember url. GG.gg uses powerful webservers so all Your links works extremly fast. (only HTTP)
