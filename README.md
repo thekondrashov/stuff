@@ -305,7 +305,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 ## Browser Tests
 
-* [HTML5test](http://html5test.com) - The HTML5 test score is an indication of how well your browser supports the upcoming HTML5 standard and related specifications. How well does your browser support HTML5?
+* [HTML5test](http://html5test.com) - The HTML5 test score is an indication of how well your browser supports the upcoming HTML5 standard and related specifications. How well does your browser support HTML5? :ru: HTML5Test проверяет реализацию стандартов пятой ревизии языка разметки HTML. Максимальное соответствие стандартам оценивается в 555 баллов, это предел этого теста.
 * [Browserscope](http://www.browserscope.org/?category=network) - Browserscope is a community-driven project for profiling web browsers. The goals are to foster innovation by tracking browser functionality and to be a resource for web developers.
 
 ## Firefox
@@ -346,6 +346,9 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Pixodrom - Online OCR Service](http://pixodrom.com) - The service provides recognizing graphic images consisting of letters and digits with average efficiency 98% and higher. The API is usable and is made in step with the well-established standards. :ru: Автоматизированная система распознавания текста на изображениях.
 * [CAPTCHA solving service Anti-Captcha.Com](https://anti-captcha.com) - Crowdsource project which allows any automation application to solve hundreds of CAPTCHAs per minute. :ru: Anti Captcha: сервис автоматического распознавания капч - Проект который позволяет любому приложению автоматически распознавать капчу в сотни потоков в минуту.
 
+[↑ back to top](#table-of-contents)
+
+---
 
 # Chat
 
