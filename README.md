@@ -151,6 +151,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## PHP
 
 * [Phar](#phar)
+* [PHP Decoders](#php-decoders)
 * [PHP Misc](#php-misc)
 
 ## Regular expressions
@@ -776,6 +777,11 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * ![Stack Overflow](https://cdn.rawgit.com/Keyamoon/IcoMoon-Free/master/PNG/16px/0464-stackoverflow.png)  [php - How to make an executable phar?](https://stackoverflow.com/a/11082338) - Stack Overflow.
 * [Phar в PHP: преимущества и работа с PHAR](http://sitear.ru/material/phar-php) - SiteAR.ru.
 * [.phar — исполняемые PHP-архивы](http://habr.ru/p/118269) - Хабрахабр.
+
+## PHP Decoders
+
+* [UnPHP](https://www.unphp.net) - a free service for analyzing obfuscated and malicious PHP code.
+* [DDecode](http://ddecode.com/phpdecoder/) - Decoding Hidden Evals, base64 decode, gzinflates from PHP files.
 
 ## PHP Misc
 
