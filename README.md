@@ -1,8 +1,13 @@
-# Всякие всячины
+# All sorts of stuff
 
-My(A) curated list of goodies. The stuff you are actually looking for:
+> My(A) curated list of goodies.
+
+> *Items marked with ![Open-Source Software][OSS Icon] are open-source software.*
+
+The stuff you are actually looking for:
 
 ## Table of contents
+
 - [Bookmarks](#bookmarks)
 - [Books](#books)
 - [Browsers](#browsers)
@@ -272,7 +277,8 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [-empty-](#-empty-)
 
 ---
-# Интересности
+
+# Goodies
 
 
 # Bookmarks
@@ -283,7 +289,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Instapaper](https://instapaper.com) - A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.
 * [GrabDuck!](https://grabduck.com) - It is the only bookmarking service that offers full text search on your bookmarks. GrabDuck helps keep everything interesting that you find on the Web. :ru: Это единственный сервис закладок, который предлагает полнотекстовый поиск по вашим закладкам. GrabDuck помогает сохранять все интересное что Вы находите в интернете.
 
-[↑ back to top](#table-of-contents)
+**[⬆ back to top](#table-of-contents)**
 
 ---
 
@@ -774,7 +780,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 
 ## Phar
 
-* ![Stack Overflow](https://cdn.rawgit.com/Keyamoon/IcoMoon-Free/master/PNG/16px/0464-stackoverflow.png)  [php - How to make an executable phar?](https://stackoverflow.com/a/11082338) - Stack Overflow.
+* ![Stack Overflow][SO Icon]  [php - How to make an executable phar?](https://stackoverflow.com/a/11082338) - Stack Overflow.
 * [Phar в PHP: преимущества и работа с PHAR](http://sitear.ru/material/phar-php) - SiteAR.ru.
 * [.phar — исполняемые PHP-архивы](http://habr.ru/p/118269) - Хабрахабр.
 
@@ -910,7 +916,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [MDN article on HTTP Public Key Pinning (HPKP)](https://developer.mozilla.org/en-US/docs/Web/Security/Public_Key_Pinning)
 * :jp: [不正なSSL証明書を見破るPublic Key Pinningを試す - ぼちぼち日記](http://d.hatena.ne.jp/jovi0608/20140902/1409635279)
 * [Pin Creator](https://certpins.appspot.com) - Create your HPKP-pins to add to your site headers! Online public key pin calculator that makes calculations on server. This tool builds upon the go implementation of cert pinning in the key-pinning draft. [![GitHub stars](https://img.shields.io/github/stars/cem-/certpins.svg?style=social)](https://github.com/cem-/certpins)
-* ![Stack Overflow](https://cdn.rawgit.com/Keyamoon/IcoMoon-Free/master/PNG/16px/0464-stackoverflow.png)  [How to keep public key static, but rotate the certificate](https://stackoverflow.com/q/26290220) - Stack Overflow.
+* ![Stack Overflow][SO Icon]  [How to keep public key static, but rotate the certificate](https://stackoverflow.com/q/26290220) - Stack Overflow.
 
 
 ### HTTP Strict Transport Security (HSTS)
@@ -1323,7 +1329,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 * [Google Cloud Datastore Error](https://gist.github.com/37d0d0938aa821e004a2) - GitHub Gist.
 * [PHP Example - Cloud Storage](https://cloud.google.com/storage/docs/json_api/v1/json-api-php-samples) - Google Cloud Platform.
 * [Database aspects: The Memcache vs Datastore  on google app engine](http://dbaspects.blogspot.ru/2010/01/memcache-vs-datastore-on-google-app.html)
-* ![Stack Overflow](https://cdn.rawgit.com/Keyamoon/IcoMoon-Free/master/PNG/16px/0464-stackoverflow.png)  [Highest Voted 'google-app-engine php' Questions](http://stackoverflow.com/tags/google-app-engine+php) - Stack Overflow.
+* ![Stack Overflow][SO Icon]  [Highest Voted 'google-app-engine php' Questions](http://stackoverflow.com/tags/google-app-engine+php) - Stack Overflow.
 * :ru: [Google App Engine | Sigov.ru](http://sigov.ru/category/google-app-engine/)
 
 
@@ -1418,7 +1424,7 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## JS minifiers
 
 * [A JavaScript Compressor Rater](http://compressorrater.thruhere.net) - JavaScript Compressor and Comparison Tool.
-* [minify - Google Project Hosting](https://code.google.com/p/minify/) - Combines, minifies, and caches JavaScript and CSS files on demand to speed up page loads.
+* [minify - Google Project Hosting](https://code.google.com/p/minify/) - Combines, minifies, and caches JavaScript and CSS files on demand to speed up page loads. [![Open-Source Software][OSS Icon]](https://code.google.com/p/minify/)
 
 
 
@@ -1427,11 +1433,11 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## Cheat Sheets / Curated lists
 
 * [Cheat Sheets - Added Bytes](https://www.addedbytes.com/cheat-sheets/) - A selection of 31 awesome, printable quick references for a variety of languages and web technologies. These and more are also available at [Cheatography](http://www.cheatography.com).
-* [Learn X in Y minutes](http://learnxinyminutes.com) - Whirlwind tours of (several, hopefully many someday) popular and ought-to-be-more-popular programming languages, presented as valid, commented code and explained as they go. [![GitHub stars](https://img.shields.io/github/stars/adambard/learnxinyminutes-docs.svg?label=GitHub%20stars&style=flat-square)](https://github.com/adambard/learnxinyminutes-docs)
+* [Learn X in Y minutes](http://learnxinyminutes.com) - Whirlwind tours of (several, hopefully many someday) popular and ought-to-be-more-popular programming languages, presented as valid, commented code and explained as they go. [![GitHub stars](https://img.shields.io/github/stars/adambard/learnxinyminutes-docs.svg?style=social)](https://github.com/adambard/learnxinyminutes-docs)
 * [OverAPI.com | Collecting all the cheat sheets](http://overapi.com) - OverAPI.com is a site collecting all the cheatsheets,all!
 * [Best HTML and CSS Cheat Sheets » CSS Author](http://www.cssauthor.com/html-and-css-cheat-sheets/) - The best list of HTML and CSS Cheat sheets for developers, these cheats are really a great reference for developers, students etc..
 * [ZEEF | Curated Directory | Find information through people](https://zeef.com) - In the ZEEF Curated Directory, passionate people create top lists of links about their favourite topics. They have sifted and ranked the best results for you.
-* :octocat: [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. [![GitHub stars](https://img.shields.io/github/stars/ripienaar/free-for-dev.svg?label=GitHub%20stars&style=flat-square)](https://github.com/ripienaar/free-for-dev)
+* :octocat: [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. [![GitHub stars](https://img.shields.io/github/stars/ripienaar/free-for-dev.svg?style=social)](https://github.com/ripienaar/free-for-dev)
 * :ru: [205 шпаргалок для разработчика](http://habr.ru/p/254585) - Хабрахабр.
 * :ru: [Шпаргалки по HTML - Клуб PHP программистов](https://vk.com/wall-3183750_58803)
 
@@ -1530,3 +1536,12 @@ My(A) curated list of goodies. The stuff you are actually looking for:
 ## -empty-
 
 * [Other lists of …]
+
+---
+
+# License
+
+[The MIT License (MIT)](LICENSE)
+
+[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
+[SO Icon]: https://cdn.rawgit.com/Keyamoon/IcoMoon-Free/master/PNG/16px/0464-stackoverflow.png
