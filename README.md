@@ -326,6 +326,7 @@ The stuff you are actually looking for:
 ## Firefox
 
 * :octocat: [firefox-tweaks](https://github.com/dfkt/firefox-tweaks) - Attempt to make Firefox suck less. To apply these tweaks, type about:config in the URL bar, and use the config search bar to look up the individual settings. [![GitHub stars](https://img.shields.io/github/stars/dfkt/firefox-tweaks.svg?style=social)](https://github.com/dfkt/firefox-tweaks)
+* :octocat: [Arc Firefox Theme](https://github.com/horst3180/arc-firefox-theme) - Offical [Arc](https://github.com/horst3180/Arc-theme) Firefox theme. [![GitHub stars](https://img.shields.io/github/stars/horst3180/arc-firefox-theme.svg?style=social)](https://github.com/horst3180/arc-firefox-theme)
 
 ## User Agent Strings
 
