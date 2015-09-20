@@ -1547,5 +1547,5 @@ The stuff you are actually looking for:
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg "Open-Source Software"
 [SO Icon]: https://cdn.sstatic.net/stackoverflow/img/favicon.ico "Stack Overflow"
 [Habr Icon]: https://habrahabr.ru/favicon.ico "Habrahabr"
-[VK Icon]: https://vk.com/favicon.ico "VKontakte"
+[VK Icon]: https://vk.com/images/favicon_vk.ico "VKontakte"
 [MIT Icon]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=social "The MIT License (MIT)"
