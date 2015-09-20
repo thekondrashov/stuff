@@ -1544,5 +1544,5 @@ The stuff you are actually looking for:
 
 [The MIT License (MIT)](LICENSE)
 
-[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
-[SO Icon]: https://cdn.rawgit.com/Keyamoon/IcoMoon-Free/master/PNG/16px/0464-stackoverflow.png
+[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg "Open-Source Software"
+[SO Icon]: https://cdn.rawgit.com/Keyamoon/IcoMoon-Free/master/PNG/16px/0464-stackoverflow.png "Stack Overflow"
