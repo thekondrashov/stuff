@@ -115,6 +115,7 @@ The stuff you are actually looking for:
 ## Fonts
 
 * [Search Fonts](#search-fonts)
+* [Served Fonts](#served-fonts)
 * [Typefaces](#typefaces)
 
 
@@ -595,6 +596,10 @@ The stuff you are actually looking for:
 ## Search Fonts
 
 * :ru: [Фонтов.нет](http://fontov.net) - Самые красивые шрифты Photoshop и не только. Русские шрифты скачать бесплатно можно сразу же после просмотра. В нашей базе присутствуют бесплатные шрифты самых разных стилей. Стили шрифтов не ограничиваются только готическими шрифтами и шрифтом граффити.
+
+## Served Fonts
+
+* [Brick: Webfonts that actually look good](http://brick.im) - Brick is an open-source webfont service that serves fonts in their original form for high quality rendering across all browsers. [![GitHub stars](https://img.shields.io/github/stars/alfredxing/brick.svg?style=social)](https://github.com/alfredxing/brick)
 
 ## Typefaces
 
@@ -1491,6 +1496,7 @@ The stuff you are actually looking for:
 * [What should every programmer know about security?](http://stackoverflow.com/questions/2794016/what-should-every-programmer-know-about-security) - Stack Overflow.
 * [What technical details should a programmer of a web application consider before making the site public?](http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before) - Programmers Stack Exchange.
 * [Some notes about time](https://unix4lyfe.org/time/?v=1)
+* [Profession.is](http://profession.is) - beautiful résumé will lead you to your dream job.
 * [Пример резюме на анг](https://goo.gl/QrZbLQ)
 * [Пример резюме на анг #2](http://registry.jsonresume.org/brandonbrown)
 * [Пример резюме на анг #3](http://www.toptal.com/resume/mahmud-ridwan)
