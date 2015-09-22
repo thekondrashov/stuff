@@ -885,9 +885,11 @@ The stuff you are actually looking for:
 
 * :ru: [Алгоритм шифрования ГОСТ 28147-89](http://www.inssl.com/standart-of-cipher.html) - Информация о cтандарте шифрования ГОСТ 28147-89, краткое описание алгоритма шифрования. Криптоанализ алгоритма gost.
 
-### Hashing
+### ID Obfuscaters
+> *__ID Obfuscation__ allows you to turn a `1` into a `"df234FSafd"` and a `"p363fdte7"` into a `2364`. Your IDs stay the same, but the user cannot `++$id` anymore because `"df234FSafd" + 1` isn’t a thing. They use a hidden secret key, without which the strings are not reversible, so they’re relatively safe.<br>- [Auto-Incrementing IDs: Giving your Data Away](https://philsturgeon.uk/http/2015/09/03/auto-incrementing-to-destruction/) by Phil Sturgeon*
 
-* [Hashids - generate short unique ids from integers](http://hashids.org) - Generate short unique ids from integers. Use in url shortening or as unique ids. Available in JavaScript, Ruby, Python, Java, Scala, PHP, Perl, Swift, Clojure, Objective-C, C, C++11, Go, Erlang, Lua, Haskell, Elixir, Rust, ColdFusion, Groovy, Kotlin, Nim, VBA, CoffeeScript and for Node.js & .NET. [![PHP library](https://img.shields.io/github/stars/ivanakimov/hashids.php.svg?style=social)](https://github.com/ivanakimov/hashids.php)
+* [Hashids - generate short unique ids from integers](http://hashids.org) - Generate short unique ids from integers. Use in url shortening or as unique ids. Available in JavaScript, Ruby, Python, Java, Scala, PHP, Perl, Swift, Clojure, Objective-C, C, C++11, Go, Erlang, Lua, Haskell, Elixir, Rust, ColdFusion, Groovy, Kotlin, Nim, VBA, CoffeeScript and for Node.js & .NET. [HashIDs](https://philsturgeon.uk/http/2015/09/03/auto-incrementing-to-destruction/) - Apparently they’re not so secure and the salt can be guessed from about 30 hashes, so probably don’t use them, but if you’re stuck for anything else… :ru: [HashIDs](http://den.bz?p=2106) — очевидно, они не так безопасны и соль можно подделать приблизительно с 30 хэшами, так что, наверное, не используйте это, но, если вы застряли на чём-то ещё… [![PHP library](https://img.shields.io/github/stars/ivanakimov/hashids.php.svg?style=social)](https://github.com/ivanakimov/hashids.php)
+* [Auto-Incrementing IDs: Giving your Data Away](https://philsturgeon.uk/http/2015/09/03/auto-incrementing-to-destruction/) -  by Phil Sturgeon. :ru: [Автоинкрементные идентификаторы: раздача своих данных](http://den.bz?p=2106) - Если вы используете AUTO_INCREMENT идентификаторы, то люди могут скачать вашу базу данных. Перевод.
 
 ## HTTP Headers for Website and Web Application Security
 
