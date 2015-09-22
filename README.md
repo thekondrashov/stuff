@@ -339,7 +339,7 @@ The stuff you are actually looking for:
 # CAPTCHA
 
 ## CAPTCHA plugins
-> *A CAPTCHA (an acronym for "Completely Automated Public Turing test to tell Computers and Humans Apart") is a type of challenge-response test used in computing to determine whether or not the user is human.<br>- [From Wikipedia](https://en.wikipedia.org/wiki/CAPTCHA)*
+> *A CAPTCHA (an acronym for "Completely Automated Public Turing test to tell Computers and Humans Apart") is a type of challenge-response test used in computing to determine whether or not the user is human.<br>- ["CAPTCHA" @ Wikipedia](https://en.wikipedia.org/wiki/CAPTCHA)*
 
 > :ru: *CAPTCHA (от англ. — полностью автоматизированный публичный тест Тьюринга для различения компьютеров и людей) — компьютерный тест, используемый для того, чтобы определить, кем является пользователь системы: человеком или компьютером.<br>- [Из Wikipedia](https://ru.wikipedia.org/wiki/Капча)*
 
@@ -903,7 +903,7 @@ The stuff you are actually looking for:
 * [CSP Playground](http://cspplayground.com)
 
 ### CORS
-> *__Cross-origin resource sharing (CORS)__ is a mechanism that allows restricted resources (e.g. fonts, JavaScript, etc.) on a web page to be requested from another domain outside the domain from which the resource originated.<br>- [From Wikipedia](https://en.wikipedia.org/wiki/Cross-Origin_Resource_Sharing)*
+> *__Cross-origin resource sharing (CORS)__ is a mechanism that allows restricted resources (e.g. fonts, JavaScript, etc.) on a web page to be requested from another domain outside the domain from which the resource originated.<br>- ["Cross-origin resource sharing" @ Wikipedia](https://en.wikipedia.org/wiki/Cross-Origin_Resource_Sharing)*
 
 * [Enable CORS](http://enable-cors.org) - More details on how to enable CORS on your server. [![GitHub stars](https://img.shields.io/github/stars/monsur/enable-cors.org.svg?style=social)](https://github.com/monsur/enable-cors.org)
 * [test-cors.org](http://test-cors.org) - A tool to help test CORS requests. You can either send the CORS request to a remote server (to test if CORS is supported), or send the CORS request to a test server (to explore certain features of CORS). [![GitHub stars](https://img.shields.io/github/stars/monsur/test-cors.org.svg?style=social)](https://github.com/monsur/test-cors.org)
