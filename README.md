@@ -115,8 +115,8 @@ The stuff you are actually looking for:
 ## Fonts
 
 * [Search Fonts](#search-fonts)
-* [Served Fonts](#served-fonts)
 * [Typefaces](#typefaces)
+* [Typography services](#typography-services)
 
 
 ## GIT
@@ -597,10 +597,6 @@ The stuff you are actually looking for:
 
 * :ru: [Фонтов.нет](http://fontov.net) - Самые красивые шрифты Photoshop и не только. Русские шрифты скачать бесплатно можно сразу же после просмотра. В нашей базе присутствуют бесплатные шрифты самых разных стилей. Стили шрифтов не ограничиваются только готическими шрифтами и шрифтом граффити.
 
-## Served Fonts
-
-* [Brick: Webfonts that actually look good](http://brick.im) - Brick is an open-source webfont service that serves fonts in their original form for high quality rendering across all browsers. [![GitHub stars](https://img.shields.io/github/stars/alfredxing/brick.svg?style=social)](https://github.com/alfredxing/brick)
-
 ## Typefaces
 
 * [Monoid Open Source Coding Font](https://larsenwork.com/monoid/) - Monoid is a customizable, minimal + legible font optimized for coding. It's drawn over a 14px grid for bitmap-like sharpness. [![GitHub stars](https://img.shields.io/github/stars/larsenwork/monoid.svg?style=social)](https://github.com/larsenwork/monoid)
@@ -608,6 +604,10 @@ The stuff you are actually looking for:
 * [Hack](https://sourcefoundry.org/hack/) - A typeface designed for source code. [![GitHub stars](https://img.shields.io/github/stars/chrissimpkins/Hack.svg?style=social)](https://github.com/chrissimpkins/Hack) [![jsDelivr](https://img.shields.io/badge/jsDelivr-font--hack-brightgreen.svg?style=flat-square)](https://api.jsdelivr.com/v1/jsdelivr/libraries?name=font-hack)
 * [Fantasque Sans Mono](http://openfontlibrary.org/en/font/fantasque-sans-mono) - A programming font, designed with functionality in mind, and with some wibbly-wobbly handwriting-like fuzziness that makes it unassumingly cool (SIL Open Font License). Category: Monospaced. [![GitHub stars](https://img.shields.io/github/stars/belluzj/fantasque-sans.svg?style=social)](https://github.com/belluzj/fantasque-sans)
 * [Overpass Web Font](http://overpassfont.org) - open source web font family sponsored by Red Hat. [![GitHub stars](https://img.shields.io/github/stars/RedHatBrand/overpass.svg?style=social)](https://github.com/RedHatBrand/overpass)
+
+## Typography services
+
+* [Brick: Webfonts that actually look good](http://brick.im) - Brick is an open-source webfont service that serves fonts in their original form for high quality rendering across all browsers. [![GitHub stars](https://img.shields.io/github/stars/alfredxing/brick.svg?style=social)](https://github.com/alfredxing/brick)
 
 [↑ back to top](#table-of-contents)
 
