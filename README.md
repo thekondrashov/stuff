@@ -994,7 +994,6 @@ The stuff you are actually looking for:
 
 ### Generate and manage SSL certificates
 
-> Free
 * [Free SSL Certificates from a Free Certificate Authority](https://www.sslshopper.com/article-free-ssl-certificates-from-a-free-certificate-authority.html) - Are you looking for free SSL Certificates?
 * [TinyCert](https://www.tinycert.org) - Generate and manage SSL certificates free.
 * [Let's Encrypt](https://letsencrypt.org) - It’s free, automated, and open certificate authority. :ru: [Let’s Encrypt – свободный, бесплатный центр сертификации. Он должен обеспечить всех желающих совершенно бесплатными сертификатами, и тем самым, постепенно перевести весь интернет на шифрование трафика.](http://geektimes.ru/p/262524) [![Follow @letsencrypt](https://img.shields.io/twitter/url/https/letsencrypt.org.svg?label=@letsencrypt&style=social)](https://twitter.com/letsencrypt) [![GitHub stars](https://img.shields.io/github/stars/letsencrypt/letsencrypt.svg?style=social)](https://github.com/letsencrypt/letsencrypt)
@@ -1004,7 +1003,6 @@ The stuff you are actually looking for:
 * [Free Open Source Certificates - GoDaddy](https://www.godaddy.com/ssl/ssl-open-source.aspx) - Supporting the open source community with free GoDaddy SSL certificates. Free first year exclusively for qualified Open Source projects.
 * [CAcert.org](http://cacert.org) - a community-driven Certificate Authority that issues certificates to the public at large for free. :ru: [его root-сертификат не включён в большинство браузеров, поэтому сложная и интересная структура проекта практически бесполезна.](http://geektimes.ru/p/241630)
 * [Universal SSL by CloudFlare](https://blog.cloudflare.com/introducing-universal-ssl/) - The team at CloudFlare is excited to announce the release of Universal SSL™. Beginning today, we will support SSL connections to every CloudFlare customer, including the 2 million sites that have signed up for the free version of our service. :ru: [Cloudflare включил бесплатный SSL для всех сайтов / Хабрахабр](http://habr.ru/p/239507), [недостатки: через Cloudflare всегда проходит нешифрованный трафик.](http://geektimes.ru/p/241630)
-> Free trial
 * [90 days of Free SSL encryption - SSL.com](https://www.ssl.com/certificates/free) - Get your Free Class 1 validated and industrial strength encrypted SSL Certificate from SSL.com. Our free SSL Certificates have the same encryption strength and browser acceptance rates as the higher assurance validation SSL Certificates.
 * [Free SSL Certificate from Comodo | Extended Free SSL for 90 days](https://www.instantssl.com/free-ssl-certificate.html) - Learn why Free SSL Certificate from Comodo is trusted by majority of web browsers. Get Extended Free SSL for 90 days and secure your website in minutes.
 * [Positive Free SSL Certificates](https://www.positivessl.com/free-ssl-certificate.php) - Get your Free 30 day Trial SSL Certificate which is ideal for you to see how SSL can help your business.
