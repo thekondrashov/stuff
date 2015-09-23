@@ -766,7 +766,7 @@ The stuff you are actually looking for:
 
 
 # Localization
-> The word *internationalization* is often abbreviated to *i18n*, referring to the 18 letters between the letters *i* and *n*. *Localization* is sometimes abbreviated to *l10n*.<br>- [Internationalizing Your App - Google Chrome](https://developer.chrome.com/webstore/i18n)
+> The word *internationalization* is often abbreviated to *i18n*, referring to the 18 letters between the letters *i* and *n*. *Localization* is sometimes abbreviated to *l10n*.<br>["Internationalizing Your App" @ Chrome Developer](https://developer.chrome.com/webstore/i18n)
 
 ## Localization Management Platforms
 
