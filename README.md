@@ -584,11 +584,12 @@ The stuff you are actually looking for:
 * [Dmail](https://mail.delicious.com) - Self-Destructing Email. Finally, sent email has a delete button.
 * :ru: [Почтовые синонимы в Gmail](http://demin.ws/blog/russian/2012/09/06/gmail-aliases/) - Александр Дëмин.
 * [Hacking Gmail to use custom domains for free](http://simplyian.com/2015/01/07/Hacking-GMail-to-use-custom-domains-for-free/) - a free way to use your Gmail account with a custom domain: Mailgun.
-* [How to send and receive custom domain email with Gmail for free](https://medium.com/@gobudgie/7e8cb8574c3e) - via Zoho mail server account.
+* [How to send and receive custom domain email with Gmail for free](https://medium.com/gobudgie/7e8cb8574c3e) - via Zoho mail server account.
 * [TinyLetter](https://tinyletter.com) - TinyLetter is a personal newsletter service brought to you by the people behind MailChimp. People use it to send updates, digests, and dispatches to their fans and friends. Though they're built on the same infrastructure, TinyLetter is for people who don't need all the business features that come along with MailChimp. Simplicity is at the heart of everything we do at TinyLetter. TinyLetter is a completely free service.
 * [ProtonMail](https://protonmail.ch) - Secure email based in Switzerland with absolutely no compromises. Get your free encrypted email account today.
 * [Posteo](https://posteo.de/en) - an independent email service based in Berlin and are highly concerned with sustainability, security, privacy and usability. Posteo is completely ad-free and 100% powered by green energy from Greenpeace Energy.
-* :ru: [Кое-что о соглашениях об именах почтовых ящиков / Хабрахабр](http://habr.ru/p/126822)
+* :ru: ![Хабрахабр][Habr Icon] [Кое-что о соглашениях об именах почтовых ящиков](http://habr.ru/p/126822)
+* :ru: [Email Development Framework](https://dudeonthehorse.github.io/Email/) - Фреймворк для клевой верстки email рассылок. Иными словами - бутстрап для писем. ![Хабрахабр][Habr Icon] [Сумбурно о разработке писем](http://habr.ru/p/267499) [![GitHub stars](https://img.shields.io/github/stars/dudeonthehorse/Email.svg?style=social)](https://github.com/dudeonthehorse/Email)
 
 
 # Fonts
