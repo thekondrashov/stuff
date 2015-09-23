@@ -1,6 +1,6 @@
 # All sorts of stuff
 
-> My(A) curated list of goodies.
+> #### My(A) curated list of goodies.
 
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software.*
 
@@ -994,14 +994,17 @@ The stuff you are actually looking for:
 
 ### Generate and manage SSL certificates
 
+> Free
 * [Free SSL Certificates from a Free Certificate Authority](https://www.sslshopper.com/article-free-ssl-certificates-from-a-free-certificate-authority.html) - Are you looking for free SSL Certificates?
 * [TinyCert](https://www.tinycert.org) - Generate and manage SSL certificates free.
 * [Let's Encrypt](https://letsencrypt.org) - It’s free, automated, and open certificate authority. :ru: [Let’s Encrypt – свободный, бесплатный центр сертификации. Он должен обеспечить всех желающих совершенно бесплатными сертификатами, и тем самым, постепенно перевести весь интернет на шифрование трафика.](http://geektimes.ru/p/262524) [![Follow @letsencrypt](https://img.shields.io/twitter/url/https/letsencrypt.org.svg?label=@letsencrypt&style=social)](https://twitter.com/letsencrypt) [![GitHub stars](https://img.shields.io/github/stars/letsencrypt/letsencrypt.svg?style=social)](https://github.com/letsencrypt/letsencrypt)
+* :star: [WoSign Digital Certificates](https://buy.wosign.com/free/) - Free Client Certificate, get it within one minute, try it now! Support all types of browsers and servers, and support with Chinese in certificate subject, Support IDN domain names! [WoSign: Free 2y multi-domain SSL certificate (SAN/UCC)](https://www.ohling.org/blog/2015/02/wosign-free-2y-ssl-certificate.html)
 * [StartSSL™ Certificates](https://www.startssl.com) - StartCom Free SSL Client, S/Mime, Server, Domain Controller, Smartcard Certificates. :ru: [Получаем бесплатный SSL сертификат / Хабрахабр](http://habr.ru/p/127643), [есть ряд ограничений, к примеру, невозможность использовать сайт для финансовых операций и электронной коммерции.](http://geektimes.ru/p/241630)
 * [GlobalSign](https://www.globalsign.com/en/ssl/ssl-open-source/) - Free SSL Certificate for Open Source Projects.
 * [Free Open Source Certificates - GoDaddy](https://www.godaddy.com/ssl/ssl-open-source.aspx) - Supporting the open source community with free GoDaddy SSL certificates. Free first year exclusively for qualified Open Source projects.
 * [CAcert.org](http://cacert.org) - a community-driven Certificate Authority that issues certificates to the public at large for free. :ru: [его root-сертификат не включён в большинство браузеров, поэтому сложная и интересная структура проекта практически бесполезна.](http://geektimes.ru/p/241630)
 * [Universal SSL by CloudFlare](https://blog.cloudflare.com/introducing-universal-ssl/) - The team at CloudFlare is excited to announce the release of Universal SSL™. Beginning today, we will support SSL connections to every CloudFlare customer, including the 2 million sites that have signed up for the free version of our service. :ru: [Cloudflare включил бесплатный SSL для всех сайтов / Хабрахабр](http://habr.ru/p/239507), [недостатки: через Cloudflare всегда проходит нешифрованный трафик.](http://geektimes.ru/p/241630)
+> Free trial
 * [90 days of Free SSL encryption - SSL.com](https://www.ssl.com/certificates/free) - Get your Free Class 1 validated and industrial strength encrypted SSL Certificate from SSL.com. Our free SSL Certificates have the same encryption strength and browser acceptance rates as the higher assurance validation SSL Certificates.
 * [Free SSL Certificate from Comodo | Extended Free SSL for 90 days](https://www.instantssl.com/free-ssl-certificate.html) - Learn why Free SSL Certificate from Comodo is trusted by majority of web browsers. Get Extended Free SSL for 90 days and secure your website in minutes.
 * [Positive Free SSL Certificates](https://www.positivessl.com/free-ssl-certificate.php) - Get your Free 30 day Trial SSL Certificate which is ideal for you to see how SSL can help your business.
@@ -1011,7 +1014,6 @@ The stuff you are actually looking for:
 * [Globe FREE SSL - GlobeSSL](https://www.globessl.com/globe-free-ssl/) - A Domain Validation SSL Certificate to test for 30 days. Globe Free SSL Certificate is a 128/256 bit SSL Certificate designed to secure web sites, as well as intranets and extranets. Trusted by over 99.3% of current Internet users, Globe FREE SSL is the perfect solution to test functionality of an SSL Certificate. Globe FREE SSL Certificates do not carry warranty.
 * [Thawte Certificate Center](https://ssl-certificate-center.thawte.com/process/retail/trial_product_selector) - Manage Existing SSL Certificates, Renew SSL Certificates. Free 21-day Thawte trial SSL certificate.
 * [OpenCA Research Labs](https://pki.openca.org/projects/openca/) - The OpenCA PKI Project is a collaborative effort to develop a robust, full-featured and Open Source out-of-the-box Certification Authority implementing the most used protocols with full-strength cryptography world-wide.
-* :star: [WoSign Digital Certificates](https://buy.wosign.com/free/) - Free Client Certificate, get it within one minute, try it now! Support all types of browsers and servers, and support with Chinese in certificate subject, Support IDN domain names! [WoSign: Free 2y multi-domain SSL certificate (SAN/UCC)](https://www.ohling.org/blog/2015/02/wosign-free-2y-ssl-certificate.html)
 * [List of Third Party Certificate Authorities](http://www.dmoz.org/Computers/Security/Public_Key_Infrastructure/PKIX/Tools_and_Services/Third_Party_Certificate_Authorities/) :ru: Список центров сертификации.
 * :ru: [Бесплатные SSL-сертификаты на 2 года от WoSign / Хабрахабр](http://habr.ru/p/252529)
 * :ru: [Бесплатные SSL-сертификаты на 3 года с поддержкой до 100 доменов](https://blog.kai-zer.ru/besplatnyy-ssl-sertifikaty-na-3-goda-s-pod/)
@@ -1477,6 +1479,9 @@ The stuff you are actually looking for:
 
 * [Markdown Basics](https://help.github.com/articles/markdown-basics/) - Markdown Basics on GitHub.
 * [A Guide to Markdown for Simpler Web Writing | Scotch](https://scotch.io/bar-talk/a-guide-to-markdown-for-simpler-web-writing) - Руководство по языку разметки Markdown.
+* [Markdown Here wiki: Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Bitbucket Supported Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* [Markdown Cheatsheet by Assemble](http://assemble.io/docs/Cheatsheet-Markdown.html)
 
 ## Unicode
 
