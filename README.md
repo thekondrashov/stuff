@@ -658,6 +658,7 @@ The stuff you are actually looking for:
 * [Glyphish: Great icons for iOS 8](http://glyphish.com) - Icons for iOS 8 apps, nav bars, tab bars and other UI elements. @3x sizes too. [Icons from Glyphish.com on Google Chart](https://developers.google.com/chart/infographics/docs/dynamic_icons#icons-from-glyphishcom)
 * :octocat: [Subway Icon Set](https://github.com/mariuszostrowski/subway) - Subway is a set of 306 pixel perfect crafted icons optimized for iOS, Apple Watch, Windows and BlackBerry 10 delivered in PNG, SVG, XALM, PSD, CSH, SKETCH, PDF, AI and EPS format. [![GitHub stars](https://img.shields.io/github/stars/mariuszostrowski/subway.svg?style=social)](https://github.com/mariuszostrowski/subway)
 * [PaymentFont - A sleek Payment Webfont](http://paymentfont.io) - A sleek webfont containing 95 icons of all main payment operators and methods. [![Follow @vendocrat](https://img.shields.io/twitter/url/http/paymentfont.io.svg?label=@vendocrat&style=social)](https://twitter.com/vendocrat) [![GitHub stars](https://img.shields.io/github/stars/vendocrat/PaymentFont.svg?style=social)](https://github.com/vendocrat/PaymentFont)
+* [Socicon](http://socicon.com) - a social icons font with more than 50 icons from all major services. Socicon is free and easy to use. [Socicon Generator](http://socicon.com/generator) - create customized social icons in a sec. [![Follow @qimzu](https://img.shields.io/twitter/url/http/socicon.com.svg?label=@qimzu&style=social)](https://twitter.com/qimzu)
 
 ## Icon font generators
 
