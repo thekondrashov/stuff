@@ -547,7 +547,7 @@ The stuff you are actually looking for:
 
 ## Donation Management
 
-* [Gratipay - Voluntary Recurring Payments for Open Work](https://gratipay.com) - Gratipay (formerly Gittip) is a way to give money every week to people and teams you believe in. [Gratipay API](https://github.com/gratipay/gratipay.com#api) [![GitHub stars](https://img.shields.io/github/stars/gratipay/gratipay.com.svg?style=social)](https://github.com/gratipay/gratipay.com)
+* [Gratipay - Voluntary Recurring Payments for Open Work](https://gratipay.com) - Gratipay (formerly Gittip) is a way to give money every week to people and teams you believe in. [![Gratipay API][API Icon]](https://github.com/gratipay/gratipay.com#api) [![GitHub stars](https://img.shields.io/github/stars/gratipay/gratipay.com.svg?style=social)](https://github.com/gratipay/gratipay.com)
 * [Flattr - Social microdonations](https://flattr.com) - Flattr is a social microdonation system. With it you can easily share money to support things you like, and get support from your fans.
 * [Gumroad](https://gumroad.com) - Sell music, comics, software, books, and films directly to your audience.
 * [PayPal.Me, the link to getting paid](https://paypal.me) - Share your personal link with anyone so they can send money to your PayPal account in seconds. :ru: [PayPal запустил сервис PayPal.Me / Хабрахабр](http://habr.ru/p/265933)
@@ -1299,7 +1299,7 @@ The stuff you are actually looking for:
 * [tr.im - url shortener](https://tr.im)
 * [TinyURL.com](http://tinyurl.com) (only HTTP)
 * [URL Shortener - url shortening service gg.gg](http://gg.gg) - GG.gg is the fastest and easy way to share, save, track your links. You can use GG.gg via our website or you can download GG.gg browser extentions. You can create also custom short url if You wanna get easy to remember url. GG.gg uses powerful webservers so all Your links works extremly fast. (only HTTP)
-* [b1t.co - Shorten your URL](http://b1t.co) - Web's shortest URL minifier! (only HTTP). [b1t.co API](http://b1t.co/5f): For example the call, `http://b1t.co/Site/api/External/MakeUrlWithGet?callback=foo&url=google.com`
+* [b1t.co - Shorten your URL](http://b1t.co) - Web's shortest URL minifier! (only HTTP). [![b1t.co API][API Icon]](http://b1t.co/5f): For example the call, `http://b1t.co/Site/api/External/MakeUrlWithGet?callback=foo&url=google.com`
 * [Url Shorteners: Destroying the Web Since 2002](http://blog.codinghorror.com/url-shorteners-destroying-the-web-since-2002/)
 
 
@@ -1589,3 +1589,4 @@ SOFTWARE.
 [Habr Icon]: https://habrahabr.ru/favicon.ico "Habrahabr"
 [VK Icon]: https://vk.com/images/favicon_vk.ico "VKontakte"
 [MIT Icon]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=social "The MIT License (MIT)"
+[API Icon]: https://img.shields.io/badge/API-available-brightgreen.svg?style=flat-square "API Reference"
