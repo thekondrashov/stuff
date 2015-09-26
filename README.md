@@ -117,6 +117,7 @@ The stuff you are actually looking for:
 * [Search Fonts](#search-fonts)
 * [Typefaces](#typefaces)
 * [Typography services](#typography-services)
+* [Font Misc](#font-misc)
 
 
 ## GIT
@@ -498,6 +499,7 @@ The stuff you are actually looking for:
 
 ## CSS References
 
+* :octocat: [bendc / frontend-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices. [![GitHub stars](https://img.shields.io/github/stars/bendc/frontend-guidelines.svg?style=social)](https://github.com/bendc/frontend-guidelines)
 * [30 CSS селекторов, которые вы должны запомнить](http://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048) - Russian (Pусский) translation by [Dmitriy Troy](http://tutsplus.com/authors/dmitriy-troy) (you can also [view the original English article](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)).
 * [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/) - CSS Selectors & CSS Properties.
 * [CSS Reference | Codrops](http://tympanus.net/codrops/css_reference/) - An extensive CSS reference with all the important CSS properties and info to learn CSS from the basics.
@@ -610,6 +612,10 @@ The stuff you are actually looking for:
 
 * [Brick: Webfonts that actually look good](http://brick.im) - Brick is an open-source webfont service that serves fonts in their original form for high quality rendering across all browsers. [![GitHub stars](https://img.shields.io/github/stars/alfredxing/brick.svg?style=social)](https://github.com/alfredxing/brick)
 
+## Font Misc
+
+* :ru: [Словарь Шрифтовых Терминов - Справочник ParaType](http://paratype.ru/help)
+
 [↑ back to top](#table-of-contents)
 
 ---
@@ -690,8 +696,9 @@ The stuff you are actually looking for:
 ## JavaScript tutorials
 
 * :ru: [Современный учебник JavaScript](https://learn.javascript.ru/tutorial) - Перед вами учебник по JavaScript, начиная с основ, включающий в себя много тонкостей и фишек JavaScript/DOM. [![GitHub stars](https://img.shields.io/github/stars/iliakan/javascript-nodejs.svg?style=social)](https://github.com/iliakan/javascript-nodejs)
-* [JS: The Right Way](http://jstherightway.org/) - A quick reference to best practices for writing JavaScript -- links to code patterns and tutorials from around the web.
-* [Airbnb JavaScript Style Guide - GitHub](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript.
+* [JS: The Right Way](http://jstherightway.org) - A quick reference to best practices for writing JavaScript -- links to code patterns and tutorials from around the web.
+* :octocat: [Airbnb JavaScript Style Guide - GitHub](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript.
+* [JavaScript Standard Style](http://standardjs.com) - One Style to Rule Them All. [![GitHub stars](https://img.shields.io/github/stars/feross/standard.svg?style=social)](https://github.com/feross/standard)
 
 ## jQuery
 
@@ -824,6 +831,7 @@ The stuff you are actually looking for:
 * :octocat: [WhiteHouse / api-standards](https://github.com/WhiteHouse/api-standards) - This document provides guidelines and examples for White House Web APIs, encouraging consistency, maintainability, and best practices across applications. [![GitHub stars](https://img.shields.io/github/stars/WhiteHouse/api-standards.svg?style=social)](https://github.com/WhiteHouse/api-standards)
 * :octocat: [interagent / http-api-design](https://github.com/interagent/http-api-design) - This guide describes a set of HTTP+JSON API design practices, originally extracted from work on the Heroku Platform API. [![GitHub stars](https://img.shields.io/github/stars/interagent/http-api-design.svg?style=social)](https://github.com/interagent/http-api-design)
 * [The RESTful cookbook](http://restcookbook.com) - This site is about dealing with issues and questions people are facing over and over again when trying to create RESTful APIs. [![GitHub stars](https://img.shields.io/github/stars/restcookbook/restcookbook.svg?style=social)](https://github.com/restcookbook/restcookbook)
+* [Creating a RESTful API with PHP](http://coreymaynard.com/blog/creating-a-restful-api-with-php/) - by Corey Maynard.
 
 ## API testing tools
 
@@ -885,6 +893,7 @@ The stuff you are actually looking for:
 * [Security Response & Bug Bounty Platform - HackerOne](https://hackerone.com) - HackerOne is a platform for an improved security coordination process. Security teams use HackerOne to implement their responsible disclosure policy and host bug bounty programs.
 * [Bug Bounty Programs & Security Assessment | Crowdcurity](https://www.crowdcurity.com) - Crowdcurity's bug bounty platform connects your business with our global security researchers. Start your bug bounty program with us now.
 * [Synack](https://www.synack.com) - Synack provides a subscription Security-as-a-Service solution that brings the best and brightest minds of the security world into the reach of enterprises.
+* [XSSposed.org - the Cross-Site Scripting Archive](https://xssposed.org) - Open Bug Bounty, Coordinated and Full Disclosure, XSS vulnerabilities and attacks. XSSposed (which stands for 'XSS exposed') is open non-profit internet XSS archive where any security researcher can report a Cross-Site Scripting (XSS) vulnerability on any website.
 
 ## Cryptography
 
@@ -910,6 +919,7 @@ The stuff you are actually looking for:
 * [Content Security Policy Builder](https://cspbuilder.info) - Collect CSP alerts, review and approve legitimate content sources. Get a fully functional Content Security Policy for your website in just a few minutes.
 * [report-uri.io by Scott Helme](https://report-uri.io) - Violation reporting for CSP and HPKP policies.
 * [CSP Playground](http://cspplayground.com)
+* :octocat: [paragonie / csp-builder](https://github.com/paragonie/csp-builder) - Build Content-Security-Policy headers from a JSON file (or build them programmatically). [![GitHub stars](https://img.shields.io/github/stars/paragonie/csp-builder.svg?style=social)](https://github.com/paragonie/csp-builder)
 
 ### CORS
 > *__Cross-origin resource sharing (CORS)__ is a mechanism that allows restricted resources (e.g. fonts, JavaScript, etc.) on a web page to be requested from another domain outside the domain from which the resource originated.<br>- ["Cross-origin resource sharing" @ Wikipedia](https://en.wikipedia.org/wiki/Cross-Origin_Resource_Sharing)*
@@ -1272,6 +1282,7 @@ The stuff you are actually looking for:
 
 * [Pusher](https://pusher.com) - Pusher is a hosted API for quickly, easily and securely adding scalable realtime functionality to web and mobile apps.
 * [Post Hawk](http://post-hawk.com) - это сервис, предоставляющий простое и понятное API, для организации связи между приложенияими в реальном времени. Это могут быть, например, два браузера (чат между пользователями) или сервер и браузер (push-уведомления) или иная программа, имеющая возможность работы по протоколу Web Sockets. [Bitbucket](https://bitbucket.org/Slavenin/hawk_api)
+* [OneSignal - Multi-platform Push Notification Service](https://onesignal.com) - OneSignal provides Push Notification delivery and automation. We have SDKs for iOS, Android, Amazon, Windows Phone, Unity 3D, Phonegap, Marmalade & more!
 
 
 ## Status Pages
@@ -1471,6 +1482,7 @@ The stuff you are actually looking for:
 * [Test HTTP Status Codes](http://savanttools.com/test-http-status-codes) - Generate any arbitrary HTTP error code or status code or choose one from a list. From SavantTools - The smartest online tools for digital savants.
 * [HTTP Status Codes - RestApiTutorial.com](http://www.restapitutorial.com/httpstatuscodes.html) - HTTP status codes and how to use them in RESTful API or Web Services. [![GitHub stars](https://img.shields.io/github/stars/tfredrich/RestApiTutorial.com.svg?style=social)](https://github.com/tfredrich/RestApiTutorial.com)
 * [HTTP response codes - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Response_codes) - HTTP Response Codes indicate whether a specific HTTP requests has been successfully completed. Responses are grouped in five classes: informational responses, successful responses, redirections, client errors, and servers errors.
+* [HTTP Status Codes - REST & WOA Wiki](http://www.restpatterns.org/HTTP_Status_Codes)
 
 
 ## Markdown
@@ -1513,6 +1525,7 @@ The stuff you are actually looking for:
 * [Пример резюме на анг #7](http://kardash.net)
 * [Пример резюме на анг #8](http://benmetcalfe.com/blog/cv/)
 * [Пример резюме на анг #9](http://ian.pw/resume)
+* [Пример резюме на анг #10](http://coreymaynard.com/resume/)
 * [Пример резюме на рус](http://bioinformaticsinstitute.ru/resumes)
 * [Сравнение онлайн-консультантов для сайта: муки выбора / Хабрахабр](http://habr.ru/p/254529)
 * [DevDocs: Offline API Documentation Browser](http://devdocs.io) - DevDocs combines 64 reference documentations in a fast, organized, and searchable interface: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, etc.
