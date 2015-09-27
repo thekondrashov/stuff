@@ -1037,6 +1037,8 @@ The stuff you are actually looking for:
 
 * [SHAAAAAAAAAAAAA | Check your site for weak SHA-1 certificates](https://shaaaaaaaaaaaaa.com) - SHA-1 certificates are dangerously weak, and you probably have one. It's time to upgrade to SHA-2. Open source tool by @konklone. [![GitHub stars](https://img.shields.io/github/stars/konklone/shaaaaaaaaaaaaa.svg?style=social)](https://github.com/konklone/shaaaaaaaaaaaaa)
 * [Weak Diffie-Hellman and the Logjam Attack](https://weakdh.org)
+* [SSL Analyzer and SSL Certificate Checker by COMODO](https://sslanalyzer.comodoca.com) - Free SSL Certificate Checker, SSL Vulnerability Scanner and SSL Server Configuration Reporting Tool from COMODO. Simply enter a domain, URL or IP address.
+* [crt.sh](https://crt.sh) - Free CT Log Certificate Search Tool from COMODO. :octocat: [GitHub](https://github.com/crtsh)
 * [SSL Certificate Tools - SSLShopper](https://www.sslshopper.com/ssl-certificate-tools.html) - SSL Certificate Tools for troubleshooting SSL certificate related problems.
 * [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/) - A comprehensive free SSL test for your public web servers.
 * [Free SSL Web Server Tester | Wormly](https://wormly.com/test_ssl) - Free SSL web server testing tool.  Conducts a thorough analysis of your SSL / TLS web server configuration and performance.
