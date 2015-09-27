@@ -1039,6 +1039,7 @@ The stuff you are actually looking for:
 * [Weak Diffie-Hellman and the Logjam Attack](https://weakdh.org)
 * [SSL Analyzer and SSL Certificate Checker by COMODO](https://sslanalyzer.comodoca.com) - Free SSL Certificate Checker, SSL Vulnerability Scanner and SSL Server Configuration Reporting Tool from COMODO. Simply enter a domain, URL or IP address.
 * [crt.sh](https://crt.sh) - Free CT Log Certificate Search Tool from COMODO. :octocat: [GitHub](https://github.com/crtsh)
+* [SSL Checker by Symantec CryptoReport](https://cryptoreport.thawte.com) - Check SSL Certificate installation and scan for vulnerabilities like FREAK, Logjam, POODLE and Heartbleed.
 * [SSL Certificate Tools - SSLShopper](https://www.sslshopper.com/ssl-certificate-tools.html) - SSL Certificate Tools for troubleshooting SSL certificate related problems.
 * [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/) - A comprehensive free SSL test for your public web servers.
 * [Free SSL Web Server Tester | Wormly](https://wormly.com/test_ssl) - Free SSL web server testing tool.  Conducts a thorough analysis of your SSL / TLS web server configuration and performance.
