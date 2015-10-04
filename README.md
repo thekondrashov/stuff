@@ -1100,6 +1100,7 @@ The stuff you are actually looking for:
 
 ## SEO Articles
 * [What Every Programmer Should Know About SEO - kate{mats}](http://katemats.com/what-every-programmer-should-know-about-seo/)
+* :ru: [SEO — Стандарты верстки компании JetStyle](http://jetstyle.github.io/html-guidelines/seo.html) - Данный документ является краткой выдержкой из гайдлайнов поисковых систем по верстке. Соблюдение указанных ниже гайдлайнов обеспечит нам нормальную индексацию поисковиками и красивые сниппеты в поисковой выдаче.
 
 ## Website Analytics
 
@@ -1111,6 +1112,7 @@ The stuff you are actually looking for:
 * [Piwik - Free Web Analytics Software](https://piwik.org) - Piwik is the leading open-source analytics platform that gives you more than just powerful analytics: Free open-source software, 100% data ownership, User privacy protection, User-centric insights, Customisable and extensible. :ru: Piwik.org— мощный инструмент для веб-аналитики. Сервис предоставляет информацию по множествам метрик: посетители, действия, источники трафика, цели. Вокруг проекта сформировалось мощное комьюнити, написаны плагины практически под все популярные CMS, а также существуют мобильные версии под iOS и Android. [![GitHub stars](https://img.shields.io/github/stars/piwik/piwik.svg?style=social)](https://github.com/piwik/piwik)
 * [SharedCount: Social URL Analytics](http://sharedcount.com) - Track URL shares, likes, tweets, and more. Free Plan includes up to 10,000 daily queries.
 * :ru: [SiteControl - панель контроля за сайтами](http://site-control.ru) - SiteControl - удобное веб-приложение для вебмастера и оптимизатора. Оно позволяет контролировать множество seo параметров и рейтинг сайта в поисковых системах.
+* :ru: [Веб-аналитика — Стандарты верстки компании JetStyle](view-source:http://jetstyle.github.io/html-guidelines/webanalytics.html) - Данный документ является краткой выдержкой из туториалов систем аналитики по правильной установки и настройки счетчиков Google Analytics и Яндексе.Метрика.
 
 ## SEO Misc
 
