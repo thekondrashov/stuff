@@ -465,8 +465,9 @@ The stuff you are actually looking for:
 ### Bootstrap Misc
 
 * :octocat: [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom. [![GitHub stars](https://img.shields.io/github/stars/dypsilon/frontend-dev-bookmarks.svg?style=social)](https://github.com/dypsilon/frontend-dev-bookmarks)
-* [50 Must-have plugins for extending Twitter Bootstrap | Tutorialzine](http://tutorialzine.com/?p=3272) - In this article, you will find a collection of 50 must-have plugins you should know about for effective development with Twitter Bootstrap.
-* [50 Extensions and Plugins for Extending Bootstrap](http://speckyboy.com/?p=49574) - Bootstrap may at times not be enough for your project. To help you get more out of it, we have collected 50 plugins for extending Bootstrap.
+* :octocat: [Native Javascript for Bootstrap](http://thednp.github.io/bootstrap.native/) - The Bootstrap sweetest native Javascript library for vanilla Javascript lovers. [![jsDelivr CDN repository](https://img.shields.io/badge/jsDelivr-bootstrap.native-brightgreen.svg?style=flat-square)](https://www.jsdelivr.com/projects/bootstrap.native) [![GitHub stars](https://img.shields.io/github/stars/thednp/bootstrap.native.svg?style=social)](https://github.com/thednp/bootstrap.native)
+* [50 Must-have plugins for extending Twitter Bootstrap | Tutorialzine](http://tutorialzine.com?p=3272) - In this article, you will find a collection of 50 must-have plugins you should know about for effective development with Twitter Bootstrap.
+* [50 Extensions and Plugins for Extending Bootstrap](http://speckyboy.com?p=49574) - Bootstrap may at times not be enough for your project. To help you get more out of it, we have collected 50 plugins for extending Bootstrap.
 * :octocat: [cvrebert / bs-css-hacks](https://github.com/cvrebert/bs-css-hacks) - Index of CSS bugs/quirks/incompatibilities that Bootstrap works around. [![GitHub stars](https://img.shields.io/github/stars/cvrebert/bs-css-hacks.svg?style=social)](https://github.com/cvrebert/bs-css-hacks)
 * :ru: [Библиотека программиста - 25 лучших плагинов для расширения Bootstrap 3](https://vk.com/wall-54530371_3903)
 
@@ -604,7 +605,7 @@ The stuff you are actually looking for:
 
 * [Monoid Open Source Coding Font](https://larsenwork.com/monoid/) - Monoid is a customizable, minimal + legible font optimized for coding. It's drawn over a 14px grid for bitmap-like sharpness. [![GitHub stars](https://img.shields.io/github/stars/larsenwork/monoid.svg?style=social)](https://github.com/larsenwork/monoid)
 * [BLOKK font](http://blokkfont.com) - BLOKK font helps you create good looking mock-ups and wireframes, where layout is more important than latin words.
-* [Hack](https://sourcefoundry.org/hack/) - A typeface designed for source code. [![GitHub stars](https://img.shields.io/github/stars/chrissimpkins/Hack.svg?style=social)](https://github.com/chrissimpkins/Hack) [![jsDelivr](https://img.shields.io/badge/jsDelivr-font--hack-brightgreen.svg?style=flat-square)](https://api.jsdelivr.com/v1/jsdelivr/libraries?name=font-hack)
+* [Hack](https://sourcefoundry.org/hack/) - A typeface designed for source code. [![GitHub stars](https://img.shields.io/github/stars/chrissimpkins/Hack.svg?style=social)](https://github.com/chrissimpkins/Hack) [![jsDelivr CDN repository](https://img.shields.io/badge/jsDelivr-font--hack-brightgreen.svg?style=flat-square)](https://www.jsdelivr.com/projects/font-hack)
 * [Fantasque Sans Mono](http://openfontlibrary.org/en/font/fantasque-sans-mono) - A programming font, designed with functionality in mind, and with some wibbly-wobbly handwriting-like fuzziness that makes it unassumingly cool (SIL Open Font License). Category: Monospaced. [![GitHub stars](https://img.shields.io/github/stars/belluzj/fantasque-sans.svg?style=social)](https://github.com/belluzj/fantasque-sans)
 * [Overpass Web Font](http://overpassfont.org) - open source web font family sponsored by Red Hat. [![GitHub stars](https://img.shields.io/github/stars/RedHatBrand/overpass.svg?style=social)](https://github.com/RedHatBrand/overpass)
 
@@ -1413,13 +1414,13 @@ The stuff you are actually looking for:
 
 ## CDN
 
-* [jsDelivr](https://github.com/jsdelivr/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open source CDN that allows developers to host their own projects and anyone to link to our hosted files in their websites.
+* :octocat: [jsDelivr](https://github.com/jsdelivr/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open source CDN that allows developers to host their own projects and anyone to link to our hosted files in their websites.
 * [Microsoft Ajax Content Delivery Network](http://www.asp.net/ajax/cdn)
-* [Handpicked jQuery Plugins CDN](http://cdn.jque.re/) - The Handpicked jQuery Plugins Repository. A handpicked collection of jQuery plugins. [GitHub](https://github.com/SoHiggo/www.jque.re)
+* [Handpicked jQuery Plugins CDN](http://cdn.jque.re) - The Handpicked jQuery Plugins Repository. A handpicked collection of jQuery plugins. [GitHub](https://github.com/SoHiggo/www.jque.re)
 * [Baidu Open CDN Service](https://github.com/Clouda-team/baiducdnstatic) - GitHub.
-* [Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn/) - Bootstrap中文网开源项目免费 CDN 服务 - 我们致力于为Bootstrap一样优秀的开源项目提供稳定、快速的免费 CDN 服务.
-* [开放静态文件 CDN (STATICFILE.ORG)](http://www.staticfile.org/) - 为开源库提供稳定、快速的免费 CDN 服务. [GitHub](https://github.com/staticfile/static)
-* [Cached Commons](http://cachedcommons.org/) - NO LONGER SUPPORTED. [GitHub](https://github.com/lancejpollard/cached-commons)
+* [Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn) - Bootstrap中文网开源项目免费 CDN 服务 - 我们致力于为Bootstrap一样优秀的开源项目提供稳定、快速的免费 CDN 服务.
+* [开放静态文件 CDN (STATICFILE.ORG)](http://www.staticfile.org) - 为开源库提供稳定、快速的免费 CDN 服务. [GitHub](https://github.com/staticfile/static)
+* [Cached Commons](http://cachedcommons.org) - NO LONGER SUPPORTED. [GitHub](https://github.com/lancejpollard/cached-commons)
 
 ## Image optimization
 
