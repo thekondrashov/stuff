@@ -749,12 +749,13 @@ The stuff you are actually looking for:
 ## Vanilla JS
 > *__Vanilla JavaScript__ is referred to the standard JavaScript – no framework. Vanilla in fact is not only used to describe the standard version of JavaScript but also other languages like CSS.<br>- [JavaScript Jargon: 10 Terms You Should Know](http://hongkiat.com/blog/?p=24420#9_Vanilla)*
 
-* [You Might Not Need jQuery](http://youmightnotneedjquery.com) - Examples of how to do common event, element, ajax and utility operations with plain javascript.
-* [Vanilla Query - GitHub](https://github.com/makesites/vanilla-query/blob/master/build/vanilla-query.js) - A syntax-conversion for Vanilla JS & CSS3 methods using traditional jQuery conventions.
+* [Vanilla JS](http://vanilla-js.com) - a fast, lightweight, cross-platform framework for building incredible, powerful JavaScript applications. [![Vanilla JS button](http://vanilla-js.com/assets/button.png)](http://vanilla-js.com/assets/button.png)
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com) - Examples of how to do common event, element, ajax and utility operations with plain javascript. [![Follow @HubSpotDev](https://img.shields.io/twitter/url/http/youmightnotneedjquery.com.svg?label=@HubSpotDev&style=social)](https://twitter.com/HubSpotDev) [![GitHub stars](https://img.shields.io/github/stars/HubSpot/YouMightNotNeedjQuery.svg?style=social)](https://github.com/HubSpot/YouMightNotNeedjQuery)
+* :octocat: [Vanilla Query](https://github.com/makesites/vanilla-query/blob/master/build/vanilla-query.js) - A syntax-conversion for Vanilla JS & CSS3 methods using traditional jQuery conventions. [![GitHub stars](https://img.shields.io/github/stars/makesites/vanilla-query.svg?style=social)](https://github.com/makesites/vanilla-query)
 * [10 Tips for Writing JavaScript without jQuery](http://tutorialzine.com?p=3771) - Tutorialzine.
 * [Native JavaScript Equivalents of jQuery Methods: the DOM and Forms](http://sitepoint.com?p=67349) - SitePoint.
 * [Plain JavaScript - Functions and Helpers](http://plainjs.com/javascript/) - Vanilla JavaScript utilities for writing powerful web applications without jQuery.
-* [Moving from jQuery](https://gist.github.com/7468978) - GitHub Gist.
+* :octocat: [Moving from jQuery](https://gist.github.com/7468978) - GitHub Gist.
 
 
 ## JavaScript Misc
