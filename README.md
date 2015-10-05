@@ -278,11 +278,9 @@ The stuff you are actually looking for:
 
 * [-empty-](#-empty-)
 
----
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> :
-
----
+```
+```
 
 # Bookmarks
 
