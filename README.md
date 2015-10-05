@@ -564,6 +564,7 @@ The stuff you are actually looking for:
 ## Email Verification
 
 * [Email Address Verification Service | Kickbox](https://kickbox.io) - Determine which email addresses are real and high-quality for free. Upload and verify email lists our use our API for Node.js, PHP, Python, and Ruby. Kickbox offers 100 free daily verifications.
+* :octocat: [FGRibreau/mailchecker](https://github.com/FGRibreau/mailchecker) - Cross-language temporary (disposable/throwaway) email detection library. Covers 1979 fake email providers. :ru: Библиотека для проверки существования email-адреса. [![Follow @FGRibreau](https://img.shields.io/twitter/url/https/github.com/FGRibreau/mailchecker.svg?label=@FGRibreau&style=social)](https://twitter.com/FGRibreau) [![GitHub stars](https://img.shields.io/github/stars/FGRibreau/mailchecker.svg?style=social)](https://github.com/FGRibreau/mailchecker)
 
 ## Send email
 
