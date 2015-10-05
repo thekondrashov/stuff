@@ -1266,6 +1266,7 @@ The stuff you are actually looking for:
 * [repl.it](https://repl.it) - Online Interpreters in JavaScript. Try Python, Ruby, Java, Node.js, Go, Scheme, C, C++, Lua, CoffeeScript and more programming languages. Online coding and REPL. Run and share code. [![GitHub stars](https://img.shields.io/github/stars/replit/repl.it.svg?style=social)](https://github.com/replit/repl.it)
 * [glot.io](https://glot.io) - An open source pastebin with runnable snippets and API. [![GitHub stars](https://img.shields.io/github/stars/prasmussen/glot.svg?style=social)](https://github.com/prasmussen/glot)
 * [Pastebin.com](https://pastebin.com) - #1 paste tool since 2002! Pastebin is a website where you can store text online for a set period of time.
+* [Stikked](http://paste.scratchbook.ch) - an advanced and beautiful Open-Source PHP Pastebin, with the aim of keeping a simple and easy to use user interface. [![GitHub stars](https://img.shields.io/github/stars/claudehohl/Stikked.svg?style=social)](https://github.com/claudehohl/Stikked)
 * [Runnable](https://runnable.io) - Runnable lets you create Sandboxes (collections of one or more servers) to run the code in your GitHub repositories, on‑demand.
 * [Ideone.com](https://ideone.com) - Online Compiler and IDE C/C++, Java, PHP, Python, Perl and 40+ other compilers and interpreters. Ideone is something more than a pastebin; it's an online compiler and debugging tool which allows to compile and run code online in more than 40 programming languages.
 * [eval.in](https://eval.in) - paste and execute code online.
