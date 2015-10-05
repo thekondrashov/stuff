@@ -1612,7 +1612,7 @@ SOFTWARE.
 
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg "Open-Source Software"
 [SO Icon]: https://cdn.sstatic.net/stackoverflow/img/favicon.ico "Stack Overflow"
-[Habr Icon]: https://habrahabr.ru/favicon.ico "Habrahabr"
+[Habr Icon]: https://habrastorage.org/storage2/c57/b92/af4/c57b92af4ee0d37f787c211a068b1b95.png "Habrahabr"
 [VK Icon]: https://vk.com/images/favicon_vk.ico "VKontakte"
 [MIT Icon]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=social "The MIT License (MIT)"
 [API Icon]: https://img.shields.io/badge/API-available-brightgreen.svg?style=flat-square "API Reference"
