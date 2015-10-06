@@ -702,6 +702,7 @@ The stuff you are actually looking for:
 * [JavaScript Standard Style](http://standardjs.com) - One Style to Rule Them All. [![GitHub stars](https://img.shields.io/github/stars/feross/standard.svg?style=social)](https://github.com/feross/standard)
 
 ## jQuery
+> *__jQuery__ is a powerful JavaScript library that works in all browsers, and enables you to write much less code than you otherwise would with plain JavaScript<br>- ["Intro to jQuery" @ Thinkful.com](https://www.thinkful.com/learn/intro-to-jquery)*
 
 * [Unheap](http://www.unheap.com) - A tidy repository of jQuery plugins. Огромная коллекция реально качественных и нужных jQuery плагинов, грамотно расфасованная по области применения. В Unheap 5 основных разделов UI, Inputs, Media, Nav, Other и каждый из них содержит еще с десяток подкатегорий. В общей сложности на данный момент каталог содержит более 1000 различных плагинов.
 * [jQuery Plugins](http://jquery-plugins.net) - Daily Latest, Popular, Free jQuery Plugins & jQuery Tutorials & jQuery Articles & Demos.
