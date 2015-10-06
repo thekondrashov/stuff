@@ -138,7 +138,7 @@ The stuff you are actually looking for:
 ## JavaScript
 
 * [Charts](#charts)
-* [JavaScript tutorials](#javascript-tutorials)
+* :mortar_board: [JavaScript tutorials](#javascript-tutorials)
 * [jQuery](#jquery)
 * [Autocomplete](#autocomplete)
 * [Lazy loading](#lazy-loading)
