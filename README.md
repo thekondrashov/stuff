@@ -238,6 +238,7 @@ The stuff you are actually looking for:
 * [Push-notifications](#push-notifications)
 * [Status Pages](#status-pages)
 * [Stock Photos](#stock-photos)
+* [Stock Videos](#stock-videos)
 * [URL Shorteners](#url-shorteners)
 
 ## Video players
@@ -1316,6 +1317,10 @@ The stuff you are actually looking for:
 * [Unsplash](https://unsplash.com) - Free (do whatever you want) high-resolution stock photos. Download 10 new free stock photos every 10 days.
 * [30 Amazing Websites for Free Stock and Design Resources - Tuts+ Design & Illustration Article](https://design.tutsplus.com/articles/cms-24256) - Check out the wide range of websites dedicated to providing stocks and design assets in this resource packed article! Available for personal and commercial use, enjoy this list of high-quality freebies! :ru: 30 бесплатных ресурс с фотостоками и всякими халявами для дизайнеров.
 
+
+## Stock Videos
+
+* [BG Stock](https://html5backgroundvideos.com) - BG Stock's library of stock videos are all perfect for HTML5 video backgrounds for your website. [![Follow @BGStock](https://img.shields.io/twitter/url/https/html5backgroundvideos.com.svg?label=@BGStock&style=social)](https://twitter.com/BGStock)
 
 ## URL Shorteners
 
