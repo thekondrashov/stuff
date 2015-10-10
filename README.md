@@ -1034,6 +1034,7 @@ The stuff you are actually looking for:
 * [OpenCA Research Labs](https://pki.openca.org/projects/openca/) - The OpenCA PKI Project is a collaborative effort to develop a robust, full-featured and Open Source out-of-the-box Certification Authority implementing the most used protocols with full-strength cryptography world-wide.
 * [List of Third Party Certificate Authorities](http://www.dmoz.org/Computers/Security/Public_Key_Infrastructure/PKIX/Tools_and_Services/Third_Party_Certificate_Authorities/) :ru: Список центров сертификации.
 * :ru: [Бесплатные SSL-сертификаты на 2 года от WoSign / Хабрахабр](http://habr.ru/p/252529)
+* :ru: [Бесплатные SSL-сертификаты — теперь на 3 года от WoSign / Хабрахабр](http://habr.ru/p/257207)
 * :ru: [Бесплатные SSL-сертификаты на 3 года с поддержкой до 100 доменов](https://blog.kai-zer.ru/besplatnyy-ssl-sertifikaty-na-3-goda-s-pod/)
 * :ru: [Бесплатный валидный (подписанный) SSL-сертификат через StartSSL](http://valera.ws/2012.03.11~free-valid-signed-ssl-certificate-with-sratssl/) - Персональный блог Валерия Леонтьева.
 * :ru: [Устанавливаем бесплатный SSL–сертификат StartSSL на облачный VPS от Infobox](http://habr.ru/p/256283) -  Блог компании Infobox / Хабрахабр.
