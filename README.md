@@ -1362,6 +1362,7 @@ The stuff you are actually looking for:
 * [Namecheap Education Program: Free Domains for Students](https://nc.me) - The Namecheap Education Program provides free domains and email hosting for university students in the US, UK, and Canada.
 * [FreeDNS - Free DNS Hosting Service • Namecheap.com](https://www.namecheap.com/domains/freedns.aspx) - Reliable DNS service from Namecheap is provided completely free of charge, even if your domain is registered elsewhere.
 * [Simple Domain Name Registrar - iwantmyname](https://iwantmyname.com) - Buy your domain name for the best personal and business web applications, no web hosting required. Register international domains and country code domains for your online identity now.
+* :ru: [Send a message to domain's administrator - webnames.ru](https://webnames.ru/en/scripts/admin_contact.pl)
 * :ru: [Подбор красивого доменного имени / СоХабр](https://sohabr.net/habr/post/256507/)
 
 
