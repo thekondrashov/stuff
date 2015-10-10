@@ -141,6 +141,7 @@ The stuff you are actually looking for:
 * :mortar_board: [JavaScript tutorials](#javascript-tutorials)
 * [jQuery](#jquery)
 * [Autocomplete](#autocomplete)
+* [Clipboard](#clipboard)
 * [Lazy loading](#lazy-loading)
 * [Progress bar](#progress-bar)
 * [Vanilla JS](#vanilla-js)
@@ -734,6 +735,10 @@ The stuff you are actually looking for:
 * :octocat: [Ajax AutoComplete for jQuery](https://github.com/devbridge/jQuery-Autocomplete) - Ajax Autocomplete for jQuery allows you to easily create autocomplete/autosuggest boxes for text input fields. Has no dependencies other than jQuery. The standard jquery.autocomplete.js file is around 2.7KB when minified via Closure Compiler and gzipped.
 * [Awesomplete by Lea Verou](https://leaverou.github.io/awesomplete) - Awesomplete is an ultra lightweight, highly customizable, simple autocomplete widget with zero dependencies, built with modern standards for modern browsers. :ru: Awesomplete — великолепная реализация скрипта для автозаполнения форм. Базовый вариант использования Awesomplete даже не подразумевает написания JavaScript-кода, достаточно лишь указать определенные data-атрибуты c вариантами автозаполнения в HTML-разметке. [![GitHub stars](https://img.shields.io/github/stars/LeaVerou/awesomplete.svg?style=social)](https://github.com/LeaVerou/awesomplete)
 
+
+## Clipboard
+
+* :octocat: [clipboard.js - Copy to clipboard without Flash](https://zenorocha.github.io/clipboard.js) - Copy text to the clipboard shouldn't be hard. It shouldn't require dozens of steps to configure or hundreds of KBs to load. But most of all, it shouldn't depend on Flash or any bloated framework. That's why clipboard.js exists. [How did clipboard.js get 5000 stars in a few days?](https://medium.com/zenorocha/2b2248ba7bd8) [![GitHub stars](https://img.shields.io/github/stars/zenorocha/clipboard.js.svg?style=social)](https://github.com/zenorocha/clipboard.js)
 
 ## Lazy loading
 > *__Lazy loading__ boosts page speed by deferring the loading of images until they're in (or near) the viewport.<br>- From [GitHub](https://github.com/callmecavs/layzr.js)*
