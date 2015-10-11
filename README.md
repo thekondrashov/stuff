@@ -1043,6 +1043,7 @@ The stuff you are actually looking for:
 
 * [SSL Labs: SSL and TLS Deployment Best Practices](https://www.ssllabs.com/projects/best-practices/)
 * [OWASP: TLS Cheat Sheet](https://owasp.org/index.php/Transport_Layer_Protection_Cheat_Sheet) - This cheat sheet provides a simple model to follow when implementing transport layer protection for an application.
+* [Security/Server Side TLS - MozillaWiki](https://wiki.mozilla.org/Security/Server_Side_TLS) - The goal of this document is to help operational teams with the configuration of TLS on servers. All Mozilla sites and deployment should follow this recommendations. [Mozilla's SSL/TLS Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) - Generate Mozilla security recommended web server configuration files. [![GitHub stars](https://img.shields.io/github/stars/mozilla/server-side-tls.svg?style=social)](https://github.com/mozilla/server-side-tls)
 
 ### Tools To Test SSL Configurations
 
