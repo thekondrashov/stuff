@@ -1053,7 +1053,7 @@ The stuff you are actually looking for:
 * [crt.sh](https://crt.sh) - Free CT Log Certificate Search Tool from COMODO. :octocat: [GitHub](https://github.com/crtsh)
 * [SSL Checker by Symantec CryptoReport](https://cryptoreport.thawte.com) - Check SSL Certificate installation and scan for vulnerabilities like FREAK, Logjam, POODLE and Heartbleed.
 * [SSL Certificate Tools - SSLShopper](https://www.sslshopper.com/ssl-certificate-tools.html) - SSL Certificate Tools for troubleshooting SSL certificate related problems.
-* [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/) - A comprehensive free SSL test for your public web servers.
+* :star: [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/) - A comprehensive free SSL test for your public web servers. [![GitHub stars](https://img.shields.io/github/stars/ssllabs/ssllabs-scan.svg?style=social)](https://github.com/ssllabs/ssllabs-scan)
 * [Free SSL Web Server Tester | Wormly](https://wormly.com/test_ssl) - Free SSL web server testing tool.  Conducts a thorough analysis of your SSL / TLS web server configuration and performance.
 * [SSL Check](https://globalsign.ssllabs.com) - GlobalSign SSL Configuration Checker. Powered by Qualys SSL Labs. :ru: Средство проверки конфигурации SSL GlobalSign. Основано на технологиях Qualys SSL Labs.
 * [SSL Certificate Checker, SSL Diagnostic Tool, and SSL Verification Utility - SSLtools.com](http://www.ssltools.com) - Does the site have ssl installed? Use this tool to verify if ssl is properly installed. Great for ssl diagnostics.
