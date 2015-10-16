@@ -544,8 +544,11 @@ The stuff you are actually looking for:
 # Donations
 
 ## Crowdfunding platforms
+> *__Crowdfunding__ is the practice of funding a project or venture by raising monetary contributions from a large number of people, typically via the internet.<br>- ["Crowdfunding" @ Wikipedia](https://en.wikipedia.org/wiki/Crowdfunding)*
 
-* [Indiegogo: The Largest Global Crowdfunding & Fundraising Site Online](https://www.indiegogo.com) - As the largest global site for fundraisers, Indiegogo helps individuals, groups and non-profits raise money online to make their ideas a reality through crowdfunding.
+* [Kickstarter](https://kickstarter.com) - the world's largest funding platform for creative projects. A home for film, music, art, theater, games, comics, design, photography, and more. [![Follow @kickstarter](https://img.shields.io/twitter/url/http/www.kickstarter.com.svg?label=@kickstarter&style=social)](https://twitter.com/kickstarter)
+* [Indiegogo: The Largest Global Crowdfunding & Fundraising Site Online](https://indiegogo.com) - As the largest global site for fundraisers, Indiegogo helps individuals, groups and non-profits raise money online to make their ideas a reality through crowdfunding. [![Follow @Indiegogo](https://img.shields.io/twitter/url/http/www.indiegogo.com.svg?label=@Indiegogo&style=social)](https://twitter.com/indiegogo)
+* [RocketHub](https://rockethub.com) - an online crowdfunding platform. [![Follow @RocketHub](https://img.shields.io/twitter/url/http/www.rockethub.com.svg?label=@RocketHub&style=social)](https://twitter.com/rockethub)
 * :cn: [zeczec](https://www.zeczec.com) - 台灣的群眾集資(Crowdfunding)平台.
 
 ## Donation Management
