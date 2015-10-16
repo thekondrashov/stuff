@@ -682,7 +682,7 @@ The stuff you are actually looking for:
 ## Search Icons
 
 * [Free download of 10000+ icons in Windows 8, iOS 8 and Android style — Icons8](http://icons8.com) - The world's largest original set of free icons for Windows8/Metro and iOS 8 (iPhone). Daily updates based on most voted ideas.
-* [We Love Icon Fonts](http://weloveiconfonts.com) - A free & open source icon fonts hosting service for testing purposes. [GitHub](https://github.com/TimPietrusky/weloveiconfonts)
+* [We Love Icon Fonts](http://weloveiconfonts.com) - A free & open source icon fonts hosting service for testing purposes. [![Follow @WeLoveIconFonts](https://img.shields.io/twitter/url/http/weloveiconfonts.com.svg?label=@WeLoveIconFonts&style=social)](https://twitter.com/weloveiconfonts) [GitHub](https://github.com/TimPietrusky/weloveiconfonts)
 * [Decorator Icons](http://decorator.codable.org/iconsttf). [GitHub](https://github.com/uloga/decorator)
 * [Smashicons](http://smashicons.com) - Smashicons is the world's largest and most complete icon set with over 14000 icons for designers and developers.
 * [iconmelon](http://iconmelon.com) - svg icons library for web. :ru: iconmelon — набор векторных иконок, к которым можно применить SVG-фильтры и скачать архивом SVG-файлы. [![GitHub stars](https://img.shields.io/github/stars/legomushroom/iconmelon.svg?style=social)](https://github.com/legomushroom/iconmelon)
