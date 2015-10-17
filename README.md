@@ -1338,9 +1338,9 @@ The stuff you are actually looking for:
 * [Google URL Shortener](https://goo.gl)
 * [Git.io](https://git.io) - is a simple URL shortener for GitHub. *[Read more about Git.io.](https://github.com/blog/985-git-io-github-url-shortener)*
 * [tr.im - url shortener](https://tr.im)
-* [TinyURL.com](http://tinyurl.com) (only HTTP)
-* [URL Shortener - url shortening service gg.gg](http://gg.gg) - GG.gg is the fastest and easy way to share, save, track your links. You can use GG.gg via our website or you can download GG.gg browser extentions. You can create also custom short url if You wanna get easy to remember url. GG.gg uses powerful webservers so all Your links works extremly fast. (only HTTP)
-* [b1t.co - Shorten your URL](http://b1t.co) - Web's shortest URL minifier! (only HTTP). [![b1t.co API][API Icon]](http://b1t.co/5f): For example the call, `http://b1t.co/Site/api/External/MakeUrlWithGet?callback=foo&url=google.com`
+* [TinyURL.com](http://tinyurl.com) ![Only HTTP][Only HTTP Icon]
+* [URL Shortener - url shortening service gg.gg](http://gg.gg) - GG.gg is the fastest and easy way to share, save, track your links. You can use GG.gg via our website or you can download GG.gg browser extentions. You can create also custom short url if You wanna get easy to remember url. GG.gg uses powerful webservers so all Your links works extremly fast. ![Only HTTP][Only HTTP Icon]
+* [b1t.co - Shorten your URL](http://b1t.co) - Web's shortest URL minifier! ![Only HTTP][Only HTTP Icon] [![b1t.co API][API Icon]](http://b1t.co/5f): For example the call, `http://b1t.co/Site/api/External/MakeUrlWithGet?callback=foo&url=google.com`
 * :ru: [Shorte.st](https://sh.st) - Сокращай ссылки с помощью Shorte.st и зарабативай реальные деньги. Мы платим за каждый клик по Вашей сокращенной ссылке.
 * [Url Shorteners: Destroying the Web Since 2002](http://blog.codinghorror.com/url-shorteners-destroying-the-web-since-2002/)
 
@@ -1439,6 +1439,7 @@ The stuff you are actually looking for:
 
 
 ## CDN
+> *A __content delivery network__ or __content distribution network__ (__CDN__) is a large distributed system of servers deployed in multiple data centers across the Internet. The goal of a CDN is to serve content to end-users with high availability and high performance.<br>- ["Content delivery network" @ Wikipedia](https://en.wikipedia.org/wiki/Content_delivery_network)*
 
 * :octocat: [jsDelivr](https://github.com/jsdelivr/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open source CDN that allows developers to host their own projects and anyone to link to our hosted files in their websites.
 * [Microsoft Ajax Content Delivery Network](http://www.asp.net/ajax/cdn)
@@ -1638,3 +1639,4 @@ SOFTWARE.
 [VK Icon]: https://vk.com/images/favicon_vk.ico "VKontakte"
 [MIT Icon]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=social "The MIT License (MIT)"
 [API Icon]: https://img.shields.io/badge/API-available-brightgreen.svg?style=flat-square "API Reference"
+[Only HTTP Icon]: https://img.shields.io/badge/https-off-red.svg?style=flat-square "Only HTTP"
