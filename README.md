@@ -233,7 +233,6 @@ The stuff you are actually looking for:
 
 * [Convert anything to anything](#convert-anything-to-anything)
 * [Favicon Generators](#favicon-generators)
-* [Make HTTP requests](#make-http-requests)
 * [Pastebins](#pastebins)
 * [Placeholder images](#placeholder-images)
 * [Push-notifications](#push-notifications)
@@ -848,8 +847,10 @@ The stuff you are actually looking for:
 
 ## API testing tools
 
-* [Postman | Supercharge your API workflow](https://getpostman.com) - Postman is a powerful API testing suite which has become a must-have tool for many developers. Build, test, and document your APIs faster. More than a million developers already do. [GitHub](https://github.com/postmanlabs)
-
+* :star: [Postman - Supercharge your API workflow](https://getpostman.com) - a powerful API testing and development suite and a must-have tool for many developers. Build, test, and document your APIs faster. More than a million developers already do. Featured on the Chrome App Store. [![GitHub stars](https://img.shields.io/github/stars/postmanlabs/postman-app-support.svg?style=social)](https://github.com/postmanlabs/postman-app-support) [![Follow @postmanclient](https://img.shields.io/twitter/url/http/www.getpostman.com.svg?label=@postmanclient&style=social)](https://twitter.com/postmanclient)
+* [Hurl.it - Make HTTP requests](https://www.hurl.it) - Choose the request method, customize headers and POST parameters, add basic authorization or OAuth credentials, and even follow redirects. Then view the nicely formatted request and response. It's the perfect tool for testing APIs. Just enter a URL and click send. A [Runscope](https://www.runscope.com) community project. [![Follow @hurlit](https://img.shields.io/twitter/url/http/hurl.it.svg?label=@hurlit&style=social)](https://twitter.com/hurlit)
+* [HTTP Web-Sniffer](http://web-sniffer.net) - View request and response header of a HTTP connection, HTTP status codes and HTML source.
+* [httpbin(1): HTTP Client Testing Service](https://httpbin.org) - HTTP Request & Response Service, written in Python + Flask. Testing an HTTP Library can become difficult sometimes. RequestBin is fantastic for testing POST requests, but doesn't let you control the response. This exists to cover all kinds of HTTP scenarios. Additional endpoints are being considered. All endpoint responses are JSON-encoded. [![GitHub stars](https://img.shields.io/github/stars/Runscope/httpbin.svg?style=social)](https://github.com/Runscope/httpbin)
 
 
 # Russian spelling
@@ -1264,13 +1265,6 @@ The stuff you are actually looking for:
 * [Create a Windows 8.1 tile for your site - Build My Pinned Site - Microsoft Internet Explorer](http://buildmypinnedsite.com) - Create a Windows 8.1 tile for your site in minutes.
 * :octocat: [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) - A painfully obsessive cheat sheet to favicon sizes/types. [![GitHub stars](https://img.shields.io/github/stars/audreyr/favicon-cheat-sheet.svg?style=social)](https://github.com/audreyr/favicon-cheat-sheet)
 * [Favicons, Touch Icons, Tile Icons, etc. Which Do You Need? | CSS-Tricks](https://css-tricks.com/favicon-quiz/) - Philippe Bernard has done research on what it takes to make a favicon (and all the related graphics and markup). :ru: ![Хабрахабр][Habr Icon] [Перевод статьи](http://habr.ru/p/260777)
-
-## Make HTTP requests
-
-* [Hurl.it - Make HTTP requests](https://www.hurl.it) - Choose the request method, customize headers and POST parameters, add basic authorization or OAuth credentials, and even follow redirects. Then view the nicely formatted request and response. It's the perfect tool for testing APIs. Just enter a URL and click send. A [Runscope](https://www.runscope.com) community project. [![Follow Hurl.it on Twitter](https://img.shields.io/twitter/url/http/hurl.it.svg?label=Follow%20Hurl.it%20on%20Twitter&style=social)](https://twitter.com/hurlit)
-* [HTTP Web-Sniffer](http://web-sniffer.net) - View request and response header of a HTTP connection, HTTP status codes and HTML source.
-* [httpbin(1): HTTP Client Testing Service](https://httpbin.org) - HTTP Request & Response Service, written in Python + Flask. Testing an HTTP Library can become difficult sometimes. RequestBin is fantastic for testing POST requests, but doesn't let you control the response. This exists to cover all kinds of HTTP scenarios. Additional endpoints are being considered. All endpoint responses are JSON-encoded. [![GitHub stars](https://img.shields.io/github/stars/Runscope/httpbin.svg?style=social)](https://github.com/Runscope/httpbin)
-
 
 ## Pastebins
 > *A __pastebin__ is a type of web application where users can store plain text. They are most commonly used to share short source code snippets for code review via IRC.<br>- [From Wikipedia](https://en.wikipedia.org/wiki/Pastebin)*
