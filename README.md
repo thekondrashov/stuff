@@ -215,7 +215,7 @@ The stuff you are actually looking for:
 * [Continuous Integration](#continuous-integration)
 * [Mobile-Friendly tests](#mobile-friendly-tests)
 * [Validators](#validators)
-* [Website speed tests](#website-speed-tests)
+* [Website tests](#website-tests)
 
 
 
@@ -1177,8 +1177,14 @@ The stuff you are actually looking for:
 
 * [Microsoft Edge Dev: Static Scan](https://dev.modern.ie/tools/staticscan/) - Run this quick static code scan on any URL to check for out-of-date libraries, layout issues and accessibility. This tool analyzes the HTML, CSS, and JavaScript of a site or application for common coding issues. It warns about practices such as incomplete specification of CSS properties, invalid or incorrect doctypes, and obsolete versions of popular JavaScript libraries. [![GitHub stars](https://img.shields.io/github/stars/MicrosoftEdge/static-code-scan.svg?style=social)](https://github.com/MicrosoftEdge/static-code-scan)
 
+## Website tests
 
-## Website speed tests
+### Website tests for everything
+
+* [Nibbler - Test any website](http://nibbler.silktide.com) - Free tool for testing how good your website is, and what you can do to improve it. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology. Nibbler is completely free, but limited to one report per week
+* [Sitebeam - Test your websites for everything](http://sitebeam.net) - Sitebeam tells you about any website. Spelling mistakes, SEO, load speed, social media, code, W3C, accessibility & more in one tool. Tests websites in far more detail when Nibbler, and offers comprehensive suggestions on how to improve them. [![Follow @sitebeam](https://img.shields.io/twitter/url/http/sitebeam.net.svg?label=@sitebeam&style=social)](https://twitter.com/sitebeam)
+
+### Website speed tests
 
 * [WebPagetest - Website Performance and Optimization Test](https://webpagetest.org) - Run a free website speed test from around the globe using real browsers at consumer connection speeds with detailed optimization recommendations. [![GitHub stars](https://img.shields.io/github/stars/WPO-Foundation/webpagetest.svg?style=social)](https://github.com/WPO-Foundation/webpagetest)
 * [MaxCDN Tools](http://tools.maxcdn.com) - Compare the speed of two websites in 5 seconds from different locations around the world.
