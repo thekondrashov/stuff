@@ -1054,6 +1054,8 @@ The stuff you are actually looking for:
 
 * [SHAAAAAAAAAAAAA | Check your site for weak SHA-1 certificates](https://shaaaaaaaaaaaaa.com) - SHA-1 certificates are dangerously weak, and you probably have one. It's time to upgrade to SHA-2. Open source tool by @konklone. [![GitHub stars](https://img.shields.io/github/stars/konklone/shaaaaaaaaaaaaa.svg?style=social)](https://github.com/konklone/shaaaaaaaaaaaaa)
 * [Weak Diffie-Hellman and the Logjam Attack](https://weakdh.org)
+* [POODLE SSL Vulnerability Scanner by ExpeditedSSL](https://expeditedssl.com/poodle) - SSLv3 was released over 15 years ago and can no longer be considered secure. Check if your webserver is still using SSLv3 and whether or not it's vulnerable to the POODLE SSLv3 vulnerability.
+* [Simple SSL Scanner by ExpeditedSSL](https://expeditedssl.com/simple-ssl-scanner) - SSL Tests can quickly bog down in pages of technical details. We've got a simple test that you can pass to someone else in your organization to communicate to them the importance of using and addressing SSL issues.
 * [SSL Analyzer and SSL Certificate Checker by COMODO](https://sslanalyzer.comodoca.com) - Free SSL Certificate Checker, SSL Vulnerability Scanner and SSL Server Configuration Reporting Tool from COMODO. Simply enter a domain, URL or IP address.
 * [crt.sh](https://crt.sh) - Free CT Log Certificate Search Tool from COMODO. :octocat: [GitHub](https://github.com/crtsh)
 * [SSL Checker by Symantec CryptoReport](https://cryptoreport.thawte.com) - Check SSL Certificate installation and scan for vulnerabilities like FREAK, Logjam, POODLE and Heartbleed.
