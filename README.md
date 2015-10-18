@@ -954,13 +954,13 @@ The stuff you are actually looking for:
 * [MDN article on HTTP Public Key Pinning (HPKP)](https://developer.mozilla.org/en-US/docs/Web/Security/Public_Key_Pinning)
 * :jp: [不正なSSL証明書を見破るPublic Key Pinningを試す - ぼちぼち日記](http://d.hatena.ne.jp/jovi0608/20140902/1409635279)
 * [Pin Creator](https://certpins.appspot.com) - Create your HPKP-pins to add to your site headers! Online public key pin calculator that makes calculations on server. This tool builds upon the go implementation of cert pinning in the key-pinning draft. [![GitHub stars](https://img.shields.io/github/stars/cem-/certpins.svg?style=social)](https://github.com/cem-/certpins)
-* ![Stack Overflow][SO Icon]  [How to keep public key static, but rotate the certificate](https://stackoverflow.com/q/26290220) - Stack Overflow.
+* ![Stack Overflow][SO Icon] [How to keep public key static, but rotate the certificate](https://stackoverflow.com/q/26290220) - Stack Overflow.
 
 
 ### HTTP Strict Transport Security (HSTS)
 > *__HTTP Strict Transport Security__ (HSTS) is a HTTP header that instructs browsers to make all requests over HTTPS. If a browser sees an `http://` URL for a site that it knows has enabled Strict Transport, it will skip directly to HTTPS without issuing the initial insecure request. Even that first insecure request can be eliminated if site takes the final step of hardcoding their site into browsers as HTTPS-only.<br>- [From GitHub](https://github.com/konklone/cdns-to-https)*
 
-* -empty-
+* :ru: [RFC 6797 — Строгая транспортная безопасность HTTP (HSTS)](http://rfc2.ru/6797.rfc) - Русский перевод спецификации RFC 6797.
 
 
 ### HTTP Header References
@@ -970,7 +970,7 @@ The stuff you are actually looking for:
 * [Wikipedia page on List of HTTP headers](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
 * [RFC 2616: Header Field Definitions](http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html)
 * :ru: [Список заголовков HTTP](https://ru.wikipedia.org/wiki/Список_заголовков_HTTP) - Материал из Википедии.
-* :ru: [RFC 2068 — Протокол Передачи Гипертекста - HTTP/1.1](http://www.novopromo.ru/http/rfc2068/index.htm) - Русский перевод спецификации RFC 2068.
+* :ru: [RFC 2068 — Протокол Передачи Гипертекста - HTTP/1.1](http://rfc2.ru/2068.rfc) - Русский перевод спецификации RFC 2068.
 * [Presentation: HTTP Security Headers](https://zerdah.github.io/sec-header-talk/) - A Quick Introduction by Adam Hart. [![GitHub stars](https://img.shields.io/github/stars/zerdah/sec-header-talk.svg?style=social)](https://github.com/zerdah/sec-header-talk)
 
 
@@ -1544,7 +1544,7 @@ The stuff you are actually looking for:
 
 ## Uncategorized
 
-* [RFC](http://rfc2.ru) - Наиболее полная в Рунете коллекция документов RFC, переведённых на русский язык.
+* :ru: [RFC](http://rfc2.ru) - Наиболее полная в Рунете коллекция документов RFC, переведённых на русский язык.
 * [Internet FAQ Archives - Online Education - faqs.org](http://faqs.org) - Internet RFC/STD/FYI/BCP Archives.
 * [IANA Database of Top Level Domains](http://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 * [What should every programmer know about security?](http://stackoverflow.com/questions/2794016/what-should-every-programmer-know-about-security) - Stack Overflow.
