@@ -713,9 +713,9 @@ The stuff you are actually looking for:
 * [Unheap](http://www.unheap.com) - A tidy repository of jQuery plugins. Огромная коллекция реально качественных и нужных jQuery плагинов, грамотно расфасованная по области применения. В Unheap 5 основных разделов UI, Inputs, Media, Nav, Other и каждый из них содержит еще с десяток подкатегорий. В общей сложности на данный момент каталог содержит более 1000 различных плагинов.
 * [jQuery Plugins](http://jquery-plugins.net) - Daily Latest, Popular, Free jQuery Plugins & jQuery Tutorials & jQuery Articles & Demos.
 * [jQuery 2 DotNet](http://www.jquery2dotnet.com) - jquery and mvc tutorial with examples.
-* [zClip :: jQuery ZeroClipboard](http://steamdev.com/zclip) - zClip is a lightweight jQuery copy to clipboard plugin built using the Zero Clipboard library.
-* [Thoughtfully Crafted Front-End Components - Formstone](https://formstone.it) - Not a framework. Just a collection of thoughtfully crafted front-end components. Библиотека Formstone — активно развивающийся набор плагинов для известной библиотеки jQuery. Сервис содержит огромный инструментарий для выполнения различного рода задач. [GitHub](https://github.com/Formstone/Formstone)
-* [ScrollUp](https://github.com/markgoodyear/scrollup) - ScrollUp is a lightweight jQuery plugin to create a customisable "Scroll to top" feature that will work with any website, with ease. Scrollup — удобный плагин jQuery для самых ленивых веб-разработчиков. Он решает единственную задачу — добавить на страницу классический элемент — ссылку, появляющуюся при скроллинге страницы, по клику на которую, страница будет проскроллена назад к верху. В отличие от простой ссылки в самом низу страницы, элемент добавляемый расширением — динамический. Для его кастомизации доступен солидный набор параметров.
+* [Thoughtfully Crafted Front-End Components - Formstone](https://formstone.it) - Not a framework. Just a collection of thoughtfully crafted front-end components. :ru: Библиотека Formstone — активно развивающийся набор плагинов для известной библиотеки jQuery. Сервис содержит огромный инструментарий для выполнения различного рода задач. [![GitHub stars](https://img.shields.io/github/stars/Formstone/Formstone.svg?style=social)](https://github.com/Formstone/Formstone)
+* :octocat: [ScrollUp](https://github.com/markgoodyear/scrollup) - ScrollUp is a lightweight jQuery plugin to create a customisable "Scroll to top" feature that will work with any website, with ease. :ru: Scrollup — удобный плагин jQuery для самых ленивых веб-разработчиков. Он решает единственную задачу — добавить на страницу классический элемент — ссылку, появляющуюся при скроллинге страницы, по клику на которую, страница будет проскроллена назад к верху. В отличие от простой ссылки в самом низу страницы, элемент добавляемый расширением — динамический. Для его кастомизации доступен солидный набор параметров.
+* :octocat: [jQuery Tips Everyone Should Know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) - A collection of simple tips to help up your jQuery game. [![GitHub stars](https://img.shields.io/github/stars/AllThingsSmitty/jquery-tips-everyone-should-know.svg?style=social)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
 
 
 ### jQuery Cheatsheet
@@ -731,7 +731,7 @@ The stuff you are actually looking for:
 * [jQuery Plugin Boilerplate, revisited](http://stefangabos.ro/jquery/jquery-plugin-boilerplate-revisited/) - Stefan Gabos.
 * [jQuery Coding Standards and Best Practices](http://lab.abhinayrathore.com/jquery-standards/) - jQuery Coding Standards and Best Practices guide for helping prgrammers write better jQuery code.
 * [Signs of a poorly written jQuery plugin](https://remysharp.com/2010/06/03/signs-of-a-poorly-written-jquery-plugin) - How do you know if the plugin is good to use?
-* [шаблон для плагинов jQuery, который позволяет отказаться от стиля, навязываемого им](http://habr.ru/p/172975#comment_6009529) - Хабрахабр. [Pastebin](http://pastebin.com/ydqFcZpR)
+* :ru: [шаблон для плагинов jQuery, который позволяет отказаться от стиля, навязываемого им](http://habr.ru/p/172975#comment_6009529) - Хабрахабр. [Pastebin](http://pastebin.com/ydqFcZpR)
 
 
 ## Autocomplete
@@ -742,6 +742,7 @@ The stuff you are actually looking for:
 
 ## Clipboard
 
+* [ZeroClipboard](http://zeroclipboard.org) - The library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface. The "Zero" signifies that the library is invisible and the user interface is left entirely up to you. [![GitHub stars](https://img.shields.io/github/stars/zeroclipboard/zeroclipboard.svg?style=social)](https://github.com/zeroclipboard/zeroclipboard)
 * :octocat: [clipboard.js - Copy to clipboard without Flash](https://zenorocha.github.io/clipboard.js) - Copy text to the clipboard shouldn't be hard. It shouldn't require dozens of steps to configure or hundreds of KBs to load. But most of all, it shouldn't depend on Flash or any bloated framework. That's why clipboard.js exists. [How did clipboard.js get 5000 stars in a few days?](https://medium.com/zenorocha/2b2248ba7bd8) [![GitHub stars](https://img.shields.io/github/stars/zenorocha/clipboard.js.svg?style=social)](https://github.com/zenorocha/clipboard.js)
 
 ## Lazy loading
