@@ -128,7 +128,7 @@ The stuff you are actually looking for:
 
 ## Icons
 
-* [Icon font kits](#icon-font-kits)
+* [Icon kits](#icon-font-kits)
 * [Icon font generators](#icon-font-generators)
 * [Raster icons](#raster-icons)
 * [Search Icons](#search-icons)
@@ -645,7 +645,7 @@ The stuff you are actually looking for:
 
 # Icons
 
-## Icon font kits
+## Icon kits
 
 * [GLYPHICONS](https://glyphicons.com) - Library of precisely prepared monochromatic icons and symbols.
 * [Font Awesome Cheat Sheet](http://fontawesome.bootstrapcheatsheets.com) - Font Awesome | Bootstrap Cheat Sheets
@@ -672,6 +672,7 @@ The stuff you are actually looking for:
 * [PaymentFont - A sleek Payment Webfont](http://paymentfont.io) - A sleek webfont containing 95 icons of all main payment operators and methods. [![Follow @vendocrat](https://img.shields.io/twitter/url/http/paymentfont.io.svg?label=@vendocrat&style=social)](https://twitter.com/vendocrat) [![GitHub stars](https://img.shields.io/github/stars/vendocrat/PaymentFont.svg?style=social)](https://github.com/vendocrat/PaymentFont)
 * [Socicon](http://socicon.com) - a social icons font with more than 50 icons from all major services. Socicon is free and easy to use. [Socicon Generator](http://socicon.com/generator) - create customized social icons in a sec. [![Follow @qimzu](https://img.shields.io/twitter/url/http/socicon.com.svg?label=@qimzu&style=social)](https://twitter.com/qimzu)
 * [Maki by Mapbox](https://mapbox.com/maki) - A pixel-perfect point of interest icon set for web and mobile. Open source map icons that scale as you zoom in and out. [![GitHub stars](https://img.shields.io/github/stars/mapbox/maki.svg?style=social)](https://github.com/mapbox/maki)
+* [Simple Icons](https://simpleicons.org) - SVG icons for popular brands. [![GitHub stars](https://img.shields.io/github/stars/danleech/simple-icons.svg?style=social)](https://github.com/danleech/simple-icons)
 
 ## Icon font generators
 
