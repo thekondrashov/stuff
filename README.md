@@ -104,6 +104,7 @@ The stuff you are actually looking for:
 
 * [Crowdfunding platforms](#crowdfunding-platforms)
 * [Donation Management](#donation-management)
+* [Donations Misc](#donations-misc)
 
 ## Email
 
@@ -561,6 +562,11 @@ The stuff you are actually looking for:
 * [Ribbon](https://ribbon.co) - Ribbon is the simplest way to send and receive money from friends, even if they don't have an account. It's fast, free, and secure. [![Follow @ribbon](https://img.shields.io/twitter/url/https/ribbon.co.svg?label=@ribbon&style=social)](https://twitter.com/ribbon)
 * [Payy](https://payy.me) - Your page on the web for accepting payments.
 * :ru: [Я соберу](http://yasobe.ru) - Собирайте деньги на подарок другу или на доброе дело с помощью красивой персональной страницы в Яндекс.Деньгах.
+
+## Donations Misc
+
+* [Plasso](https://plasso.co) - makes accepting and making payments quick & easy. Pay for things. Get paid for things. Buy things. Sell things. [![Follow @paywithplasso](https://img.shields.io/twitter/url/https/plasso.co.svg?label=@paywithplasso&style=social)](https://twitter.com/paywithplasso)
+* [Sellwire](http://sellwire.net) - the easiest way to sell your digital goods online. [![Follow @sellwireapp](https://img.shields.io/twitter/url/http/sellwire.net.svg?label=@sellwireapp&style=social)](https://twitter.com/sellwireapp)
 
 # Email
 
