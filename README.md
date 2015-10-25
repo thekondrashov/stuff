@@ -680,6 +680,7 @@ The stuff you are actually looking for:
 * [Maki by Mapbox](https://mapbox.com/maki) - A pixel-perfect point of interest icon set for web and mobile. Open source map icons that scale as you zoom in and out. [![GitHub stars](https://img.shields.io/github/stars/mapbox/maki.svg?style=social)](https://github.com/mapbox/maki)
 * [Simple Icons](https://simpleicons.org) - SVG icons for popular brands. [![GitHub stars](https://img.shields.io/github/stars/danleech/simple-icons.svg?style=social)](https://github.com/danleech/simple-icons)
 * [Stackicons by Parker Bennett](http://stackicons.com) - are icon fonts for web designers with added flexibility, including multiple button shapes and a unique multi-color option. Free and open source, Stackicons-Social includes finely-crafted icons for over 60 social brands. [![GitHub stars](https://img.shields.io/github/stars/parkerbennett/stackicons.svg?style=social)](https://github.com/parkerbennett/stackicons)
+* [Open Iconic, a free and open icon set](https://useiconic.com/open) - the open source sibling of Iconic. It is a hyper-legible collection of 223 icons in SVG, webfont and raster formats. Ready to use with Bootstrap and Foundation. [![Follow @useiconic](https://img.shields.io/twitter/url/https/useiconic.com/open.svg?label=@useiconic&style=social)](https://twitter.com/useiconic) [![GitHub stars](https://img.shields.io/github/stars/iconic/open-iconic.svg?style=social)](https://github.com/iconic/open-iconic)
 
 ## Icon font generators
 
