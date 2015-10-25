@@ -679,6 +679,7 @@ The stuff you are actually looking for:
 * [Socicon](http://socicon.com) - a social icons font with more than 50 icons from all major services. Socicon is free and easy to use. [Socicon Generator](http://socicon.com/generator) - create customized social icons in a sec. [![Follow @qimzu](https://img.shields.io/twitter/url/http/socicon.com.svg?label=@qimzu&style=social)](https://twitter.com/qimzu)
 * [Maki by Mapbox](https://mapbox.com/maki) - A pixel-perfect point of interest icon set for web and mobile. Open source map icons that scale as you zoom in and out. [![GitHub stars](https://img.shields.io/github/stars/mapbox/maki.svg?style=social)](https://github.com/mapbox/maki)
 * [Simple Icons](https://simpleicons.org) - SVG icons for popular brands. [![GitHub stars](https://img.shields.io/github/stars/danleech/simple-icons.svg?style=social)](https://github.com/danleech/simple-icons)
+* [Stackicons by Parker Bennett](http://stackicons.com) - are icon fonts for web designers with added flexibility, including multiple button shapes and a unique multi-color option. Free and open source, Stackicons-Social includes finely-crafted icons for over 60 social brands. [![GitHub stars](https://img.shields.io/github/stars/parkerbennett/stackicons.svg?style=social)](https://github.com/parkerbennett/stackicons)
 
 ## Icon font generators
 
