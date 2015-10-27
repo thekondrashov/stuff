@@ -1627,6 +1627,7 @@ The stuff you are actually looking for:
 * [Your Web, documented · WebPlatform.org](https://webplatform.org) - The latest information on how to use the technology that runs the web — HTML, CSS, JavaScript and more. [![tweet](https://img.shields.io/twitter/url/http/www.webplatform.org.svg?style=social)](https://twitter.com/webplatform)
 * [Free Diagnostic Tools | Wormly](https://wormly.com/tools) - Wormly has a few useful, simple, free tools to make your sysadmin life a bit easier.  Including: Web server security scan, SMTP, POP3, FTP testing and Remote Ping.
 * [Kilobyte SVG Challenge by johan](http://nomosapiens.com/kilobyte-svg-challenge/) - Your mission, should you choose to accept it: make your favourite logo in 1024 bytes or less. [![GitHub stars](https://img.shields.io/github/stars/johan/kilobyte-svg-challenge.svg?style=social)](https://github.com/johan/kilobyte-svg-challenge)
+* :star: [Noun Project - Icons for Everything](https://thenounproject.com) - Creating, Sharing and Celebrating the World’s Visual Language.
 
 
 # Finally
