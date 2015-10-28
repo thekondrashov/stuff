@@ -1025,6 +1025,7 @@ The stuff you are actually looking for:
 
 * [Check login status](http://status.phplernen.org) - Check your login status at different internet services at once.
 * [Hide My Ass!](https://www.hidemyass.com) - A Virtual Private Network (VPN) encrypts your internet connection to make it secure. We offer the best global VPN network and reliable VPN service. Enjoy our VPN sale & try out our fast VPN.
+* :ru: [IPHide.info](https://iphide.info) - Уменьшение интернет-трафика и анономность в сети.
 * [href.li: hide your referrer](https://href.li) - Make a short link with an expiry date.
 * [Fix Windows 10 privacy](https://fix10.isleaked.com) - This site describes certain privacy-invading features of Windows 10 and how to fix them. Make sure you disabled all privacy-invasive options. :ru: [Исправь шпионскую Windows 10](https://fix10.isleaked.com/ru) [![@IsLeaked](https://img.shields.io/twitter/url/https/isleaked.com.svg?label=@IsLeaked&style=social)](https://twitter.com/IsLeaked)
 * :octocat: [10se1ucgo / DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) - Uses some known methods that attempt to disable tracking in Windows 10. [![GitHub stars](https://img.shields.io/github/stars/10se1ucgo/DisableWinTracking.svg?style=social)](https://github.com/10se1ucgo/DisableWinTracking)
