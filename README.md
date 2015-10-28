@@ -1513,6 +1513,7 @@ The stuff you are actually looking for:
 
 ## JS minifiers
 
+* :star: [Refresh-SF](https://gpbmike.github.io/refresh-sf/) - Online JavaScript/CSS Compressor. This is simply a UI wrapper in the form of a website for minification tools that already exist. This tool uses [UglifyJS 2](https://github.com/mishoo/UglifyJS2), [Clean-CSS](https://github.com/GoalSmashers/clean-css) and [HTML Minifier](https://github.com/kangax/html-minifier). [![GitHub stars](https://img.shields.io/github/stars/gpbmike/refresh-sf.svg?style=social)](https://github.com/gpbmike/refresh-sf)
 * [A JavaScript Compressor Rater](http://compressorrater.thruhere.net) - JavaScript Compressor and Comparison Tool.
 * [minify - Google Project Hosting](https://code.google.com/p/minify/) - Combines, minifies, and caches JavaScript and CSS files on demand to speed up page loads. [![Open-Source Software][OSS Icon]](https://code.google.com/p/minify/)
 
