@@ -1337,7 +1337,7 @@ The stuff you are actually looking for:
 ## Push-notifications
 
 * [Pusher](https://pusher.com) - Pusher is a hosted API for quickly, easily and securely adding scalable realtime functionality to web and mobile apps.
-* [Post Hawk](http://post-hawk.com) - это сервис, предоставляющий простое и понятное API, для организации связи между приложенияими в реальном времени. Это могут быть, например, два браузера (чат между пользователями) или сервер и браузер (push-уведомления) или иная программа, имеющая возможность работы по протоколу Web Sockets. [Bitbucket](https://bitbucket.org/Slavenin/hawk_api)
+* :ru: [Post Hawk](http://post-hawk.com) - это сервис, предоставляющий простое и понятное API, для организации связи между приложенияими в реальном времени. Это могут быть, например, два браузера (чат между пользователями) или сервер и браузер (push-уведомления) или иная программа, имеющая возможность работы по протоколу Web Sockets. [Bitbucket](https://bitbucket.org/Slavenin/hawk_api)
 * [OneSignal - Multi-platform Push Notification Service](https://onesignal.com) - OneSignal provides Push Notification delivery and automation. We have SDKs for iOS, Android, Amazon, Windows Phone, Unity 3D, Phonegap, Marmalade & more!
 
 
@@ -1628,6 +1628,7 @@ The stuff you are actually looking for:
 * [Free Diagnostic Tools | Wormly](https://wormly.com/tools) - Wormly has a few useful, simple, free tools to make your sysadmin life a bit easier.  Including: Web server security scan, SMTP, POP3, FTP testing and Remote Ping.
 * [Kilobyte SVG Challenge by johan](http://nomosapiens.com/kilobyte-svg-challenge/) - Your mission, should you choose to accept it: make your favourite logo in 1024 bytes or less. [![GitHub stars](https://img.shields.io/github/stars/johan/kilobyte-svg-challenge.svg?style=social)](https://github.com/johan/kilobyte-svg-challenge)
 * :star: [Noun Project - Icons for Everything](https://thenounproject.com) - Creating, Sharing and Celebrating the World’s Visual Language.
+* [ipfs.pics](http://ipfs.pics) - Decentralized image hosting website. Never lose your images by uploading them on ipfs. :ru: [Открылся P2P-хостинг картинок IPFS (InterPlanetary File System) / Geektimes](http://geektimes.ru/p/264522) [![Follow @IpfsPics](https://img.shields.io/twitter/url/http/ipfs.pics.svg?label=@IpfsPics&style=social)](https://twitter.com/ipfspics) [![GitHub stars](https://img.shields.io/github/stars/ipfspics/server.svg?style=social)](https://github.com/ipfspics/server)
 
 
 # Finally
