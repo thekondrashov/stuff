@@ -129,7 +129,7 @@ The stuff you are actually looking for:
 
 ## Icons
 
-* [Icon kits](#icon-font-kits)
+* [Icon kits](#icon-kits)
 * [Icon font generators](#icon-font-generators)
 * [Raster icons](#raster-icons)
 * [Search Icons](#search-icons)
