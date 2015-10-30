@@ -923,12 +923,14 @@ The stuff you are actually looking for:
 
 ## Bounty programes
 
+* [Bugsheet](http://bugsheet.com/directory) - The most comprehensive community curated list of bug bounties and disclosure programs. [![Follow @bugsheet](https://img.shields.io/twitter/url/http/bugsheet.com/directory.svg?label=@bugsheet&style=social)](https://twitter.com/bugsheet)
 * [Bounty programes](http://bugbounty.info) - This is a simple site intended to keep track of the bug bounty programmes.
 * [Bugcrowd | List Of Bug Bounty Programs](https://bugcrowd.com/list-of-bug-bounty-programs) - A comprehensive, up to date list of bug bounty and disclosure programs from across the web curated by the Bugcrowd researcher community.
 * [Security Response & Bug Bounty Platform - HackerOne](https://hackerone.com) - HackerOne is a platform for an improved security coordination process. Security teams use HackerOne to implement their responsible disclosure policy and host bug bounty programs.
 * [Bug Bounty Programs & Security Assessment | Crowdcurity](https://www.crowdcurity.com) - Crowdcurity's bug bounty platform connects your business with our global security researchers. Start your bug bounty program with us now.
 * [Synack](https://www.synack.com) - Synack provides a subscription Security-as-a-Service solution that brings the best and brightest minds of the security world into the reach of enterprises.
 * [XSSposed.org - the Cross-Site Scripting Archive](https://xssposed.org) - Open Bug Bounty, Coordinated and Full Disclosure, XSS vulnerabilities and attacks. XSSposed (which stands for 'XSS exposed') is open non-profit internet XSS archive where any security researcher can report a Cross-Site Scripting (XSS) vulnerability on any website.
+* [Bountysource](https://bountysource.com) - the funding platform for open-source software. Users can improve the open-source projects they love by creating/collecting bounties and pledging to fundraisers. ["Bountysource"](https://en.wikipedia.org/wiki/Bountysource) @ Wikipedia
 
 ## Cryptography
 
