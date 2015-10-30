@@ -390,7 +390,7 @@ The stuff you are actually looking for:
 * [GitHub color codes for programming languages](https://github.com/doda/github-language-colors) - A mapping of which colors github uses to represent different programming languages in their "Languages" tab on each repository.
 * [What colour is it?](http://whatcolourisit.scn9a.org) - the time....... now in colour.
 * [Snazzy Maps - Free Styles for Google Maps](https://snazzymaps.com) - Snazzy Maps is a repository of different color schemes for Google Maps aimed towards web designers and developers.
-* [GradifyCSS — модуль, который находит основные цвета в изображениях и создает масштабируемый CSS градиент](http://gradifycss.com). [![GitHub stars](https://img.shields.io/github/stars/fraser-hemp/gradify.svg?style=social)](https://github.com/fraser-hemp/gradify)
+* [Gradify](http://gradifycss.com) - a module which finds the most prominent colors in any image, and produces a scalable, responsive CSS gradient. This can provide a less jarring experience as image placeholders. :ru: GradifyCSS — модуль, который находит основные цвета в изображениях и создает масштабируемый CSS градиент. [![GitHub stars](https://img.shields.io/github/stars/fraser-hemp/gradify.svg?style=social)](https://github.com/fraser-hemp/gradify)
 
 
 
