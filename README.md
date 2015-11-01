@@ -637,6 +637,7 @@ The stuff you are actually looking for:
 
 ## Code hostings
 
+* [GitHosting - Git SCM Wiki](https://git.wiki.kernel.org/index.php/GitHosting) - Public Git hosting sites.
 * [GitLab](https://gitlab.com) - Create, review and deploy code together. Better than GitHub.
 * [Chisel - Fossil SCM Hosting](http://chiselapp.com)
 * [Comparison of source code hosting facilities](https://en.wikipedia.org/wiki/Comparison_of_source_code_hosting_facilities) - Wikipedia, the free encyclopedia.
