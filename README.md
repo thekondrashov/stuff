@@ -228,7 +228,9 @@ The stuff you are actually looking for:
 
 ## Textures, patterns, backgrounds
 
+* [Polygonal art](#polygonal-art)
 * [Texture resources](#texture-resources)
+
 
 ## Utils
 
@@ -1269,6 +1271,15 @@ The stuff you are actually looking for:
 
 # Textures, patterns, backgrounds
 
+
+## Polygonal art
+
+### Online triangle pattern generators
+
+* [Trianglify](https://qrohlf.com/trianglify-generator/) - no-coding-required triangle pattern generator. It uses [Trianglify](https://github.com/qrohlf/trianglify) library to generate colorful patterns. The online tool automatically generates the vibrant and geometric style SVG background images that are constructed from triangles. You can specify the amount of objects, their size, color and even set the output format. [![GitHub stars](https://img.shields.io/github/stars/qrohlf/trianglify-generator.svg?style=social)](https://github.com/qrohlf/trianglify-generator)
+
+
+
 ## Texture resources
 
 * [Subtle Patterns](http://subtlepatterns.com) - Free textures for your next web project.
@@ -1276,6 +1287,7 @@ The stuff you are actually looking for:
 * [Gridprint](http://gridprint.in) - Free alternative sketchbooks for web-designers and app-designers. It's a library of grids for easy creation of sketches of your projects. Printing is done directly from the website. :ru: [Библиотека сеток для эскизов сайтов и мобильных приложений с возможностью печати из браузера](https://vk.com/wall-46465252_43993)
 * [\[CG Textures\] - Textures for 3D, graphic design and Photoshop!](http://cgtextures.com) - 100.000+ high resolution textures, free for personal and commercial use!
 * [EPISCURA](https://episcura.com) - Huge Free Library of CG Textures, HDRs, and Snapshots. :ru: Сайт с разнообразными бесплатными текстурами.
+
 
 # Utils
 
