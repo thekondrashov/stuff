@@ -1147,6 +1147,7 @@ The stuff you are actually looking for:
 ## SEO Articles
 * [What Every Programmer Should Know About SEO - kate{mats}](http://katemats.com/what-every-programmer-should-know-about-seo/)
 * :ru: [SEO — Стандарты верстки компании JetStyle](http://jetstyle.github.io/html-guidelines/seo.html) - Данный документ является краткой выдержкой из гайдлайнов поисковых систем по верстке. Соблюдение указанных ниже гайдлайнов обеспечит нам нормальную индексацию поисковиками и красивые сниппеты в поисковой выдаче.
+* :ru: [Чек-лист из 68 пунктов для продвижения сайта в ТОП10 Яндекса / Мегамозг](http://megamozg.ru/p/21020)
 
 ## Website Analytics
 
