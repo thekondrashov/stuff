@@ -1648,6 +1648,7 @@ The stuff you are actually looking for:
 * [Kilobyte SVG Challenge by johan](http://nomosapiens.com/kilobyte-svg-challenge/) - Your mission, should you choose to accept it: make your favourite logo in 1024 bytes or less. [![GitHub stars](https://img.shields.io/github/stars/johan/kilobyte-svg-challenge.svg?style=social)](https://github.com/johan/kilobyte-svg-challenge)
 * :star: [Noun Project - Icons for Everything](https://thenounproject.com) - Creating, Sharing and Celebrating the World’s Visual Language.
 * [ipfs.pics](http://ipfs.pics) - Decentralized image hosting website. Never lose your images by uploading them on ipfs. :ru: [Открылся P2P-хостинг картинок IPFS (InterPlanetary File System) / Geektimes](http://geektimes.ru/p/264522) [![Follow @IpfsPics](https://img.shields.io/twitter/url/http/ipfs.pics.svg?label=@IpfsPics&style=social)](https://twitter.com/ipfspics) [![GitHub stars](https://img.shields.io/github/stars/ipfspics/server.svg?style=social)](https://github.com/ipfspics/server)
+* :ru: [Docs.cntd.ru](http://docs.cntd.ru) - Электронный Фонд нормативных и справочных документов.
 
 
 # Finally
