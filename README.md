@@ -1390,6 +1390,7 @@ The stuff you are actually looking for:
 * [TinyURL.com](http://tinyurl.com) ![Only HTTP][Only HTTP Icon]
 * [URL Shortener - url shortening service gg.gg](http://gg.gg) - GG.gg is the fastest and easy way to share, save, track your links. You can use GG.gg via our website or you can download GG.gg browser extentions. You can create also custom short url if You wanna get easy to remember url. GG.gg uses powerful webservers so all Your links works extremly fast. ![Only HTTP][Only HTTP Icon]
 * [b1t.co - Shorten your URL](http://b1t.co) - Web's shortest URL minifier! ![Only HTTP][Only HTTP Icon] [![b1t.co API][API Icon]](http://b1t.co/5f): For example the call, `http://b1t.co/Site/api/External/MakeUrlWithGet?callback=foo&url=google.com`
+* :ru: [RLU.Ru](https://rlu.ru) - сервис коротких ссылок. Доступны дополнения для браузеров и API. Пользуясь RLU.Ru, вы также можете получать дополнительный заработок на размещении ссылок. [![RLU.Ru API][API Icon]](https://rlu.ru/texts/4.html)
 * :ru: [Shorte.st](https://sh.st) - Сокращай ссылки с помощью Shorte.st и зарабативай реальные деньги. Мы платим за каждый клик по Вашей сокращенной ссылке.
 * [Url Shorteners: Destroying the Web Since 2002](http://blog.codinghorror.com/url-shorteners-destroying-the-web-since-2002/)
 
