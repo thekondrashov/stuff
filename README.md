@@ -1127,7 +1127,7 @@ The stuff you are actually looking for:
 * [Pwnie Awards](http://pwnies.com) - The Pwnie Awards is an annual awards ceremony celebrating the achievements and failures of security researchers and the security community.
 * [OAuth Security Cheatsheet](http://oauthsecurity.com) - This document describes common OAuth/Single Sign On/OpenID-related vulnerabilities. Many cross-site interactions are vulnerable to different kinds of leakings and hijackings.
 * [Is TLS Fast Yet?](https://istlsfastyet.com) - TLS has exactly one performance problem: it is not used widely enough. Everything else can be optimized. [![GitHub stars](https://img.shields.io/github/stars/igrigorik/istlsfastyet.com.svg?style=social)](https://github.com/igrigorik/istlsfastyet.com)
-* [Trustworthy Internet Movement - SSL Pulse](https://www.trustworthyinternet.org/ssl-pulse/) - Survey of the SSL Implementation of the Most Popular Web Sites.
+* [Trustworthy Internet Movement - SSL Pulse](https://www.trustworthyinternet.org/ssl-pulse/) - periodic Internet-wide surveys of TLS configuration, a monthly scan of about 150,000 most popular TLS-enabled web sites in the world. Project run by SSL Labs.
 
 
 
