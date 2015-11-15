@@ -818,6 +818,7 @@ The stuff you are actually looking for:
 * [Lokalise - Локализуйте ваше приложение в команде](https://lokali.se) ([on Russian](https://lokali.se/ru)) - Lokalise предлагает систему управления переводами и услуги профессиональных переводов, которые позволяют компаниям выйти на международный рынок.
 * [Online software translation and project management · WebTranslateIt](https://webtranslateit.com) - WebTranslateIt is a translation project management and collaborative translation platform for software and dynamic content translation. 30-days free trial.
 * [BabelZilla](http://babelzilla.org) - BabelZilla is a community for developers and translators of extension for Mozilla Applications.
+* :ru: [![Хабрахабр][Habr Icon] Обзор 7 онлайн-сервисов для локализации ПО](http://habr.ru/p/229031)
 
 
 ## Localization Misc
