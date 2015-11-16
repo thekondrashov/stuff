@@ -253,6 +253,7 @@ The stuff you are actually looking for:
 
 * [Domain Name Registration](#domain-name-registration)
 * [Google App Engine](#google-app-engine)
+* [Uptime monitoring](#uptime-monitoring)
 * [WHOIS](#whois)
 * [Free hosting](#free-hosting)
 * [Paid hosting](#paid-hosting)
@@ -1442,6 +1443,14 @@ The stuff you are actually looking for:
 * [Database aspects: The Memcache vs Datastore  on google app engine](http://dbaspects.blogspot.ru/2010/01/memcache-vs-datastore-on-google-app.html)
 * ![Stack Overflow][SO Icon]  [Highest Voted 'google-app-engine php' Questions](http://stackoverflow.com/tags/google-app-engine+php) - Stack Overflow.
 * :ru: [Google App Engine | Sigov.ru](http://sigov.ru/category/google-app-engine/)
+
+
+## Uptime monitoring
+
+* [Happy Apps](http://happyapps.io) - Keep Your Apps Happy. Sophisticated uptime monitoring without the noise. :ru: отличный бесплатный сервис, неограниченное количество сайтов, минимум 5 минут между проверками, удобная панель управления, хранение истории проверок неограниченное. [![Follow @gohappyapps](https://img.shields.io/twitter/url/http/www.happyapps.io.svg?label=@gohappyapps&style=social)](https://twitter.com/gohappyapps)
+* [Uptime Robot](https://uptimerobot.com) - Free Website Uptime Monitoring. :ru: бесплатно можно мониторить 5 сайтов, минимальная частота проверки - 5 минут, история хранится 1 месяц. [![Follow @uptimerobot](https://img.shields.io/twitter/url/http/uptimerobot.com.svg?label=@uptimerobot&style=social)](https://twitter.com/uptimerobot)
+* [Monitor.Us](http://monitor.us) - FREE monitoring software, website monitoring, application and software monitoring tools. All-in-one FREE monitoring software and tools from Monitor.Us. :ru: до 2х сайтов, частота проверки 30 минут, хранение истории 2 сутки. [![Follow @Monitor_Us](https://img.shields.io/twitter/url/http/www.monitor.us.svg?label=@Monitor_Us&style=social)](https://twitter.com/monitor_us)
+* [Site24x7](https://site24x7.com) - Site24x7 offers both free & paid website monitoring services. Monitor websites remotely and receive instant email/sms alerts if your website becomes unavailable. View uptime & performance graphs of your website monitors. :ru: до 5 сайтов, минимальная частота проверки 10 минут, истории в бесплатном тарифном плане нет. [![Follow @Site24x7](https://img.shields.io/twitter/url/http/www.site24x7.com.svg?label=@Site24x7&style=social)](https://twitter.com/site24x7)
 
 
 ## WHOIS
