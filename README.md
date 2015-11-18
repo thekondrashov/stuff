@@ -1076,6 +1076,7 @@ The stuff you are actually looking for:
 * :ru: [Бесплатные SSL-сертификаты на 3 года с поддержкой до 100 доменов](https://blog.kai-zer.ru/besplatnyy-ssl-sertifikaty-na-3-goda-s-pod/)
 * :ru: [Бесплатный валидный (подписанный) SSL-сертификат через StartSSL](http://valera.ws/2012.03.11~free-valid-signed-ssl-certificate-with-sratssl/) - Персональный блог Валерия Леонтьева.
 * :ru: [Устанавливаем бесплатный SSL–сертификат StartSSL на облачный VPS от Infobox](http://habr.ru/p/256283) -  Блог компании Infobox / Хабрахабр.
+* :ru: [HTTPS.menu](http://https.menu) - поиск SSL сертификатов. [![Хабрахабр][Habr Icon]](http://habr.ru/p/271139) На данный момент в поиске участвуют только самые популярные SSL сертификаты, для которых собрана точная информация по параметрам (поддержка IDN, поддержка поддоменов и т. д.).
 
 ### Recommended Practices
 
