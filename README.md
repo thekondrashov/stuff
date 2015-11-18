@@ -1481,8 +1481,7 @@ The stuff you are actually looking for:
 
 * :ru: [Хостинг от Timeweb](http://timeweb.com/ru/) - Ваш платный, но доступный и мощный веб хостинг сайтов.
 * :ru: [Платный хостинг сайтов от RadiusHost](http://www.radiushost.ru/ru/services/hosting/)
-* :ru: [Поиск виртуальных серверов - VDS.menu](http://vds.menu)
-* :ru: [Поиск виртуального хостинга - SHARED.menu](http://shared.menu). [Habr](http://habr.ru/p/263273)
+* :ru: [Хостинг Кафе](http://hosting.cafe) - Сайт HOSTING.cafe объединяет в себе 6 различных проектов, предназначенных для поиска виртуальных серверов, виртуального хостинга, выделенных серверов, SSL сертификатов, лицензий на панели управления и места для резервных копий. [![Хабрахабр][Habr Icon] Хостинг Кафе](http://habr.ru/p/271139)
 
 
 
