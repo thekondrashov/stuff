@@ -1398,6 +1398,7 @@ The stuff you are actually looking for:
 * [Bit.do](http://bit.do) - Make a long URL short, easy to remember and to share. With traffic stats. ![Only HTTP][Only HTTP Icon]
 * :ru: [RLU.Ru](https://rlu.ru) - сервис коротких ссылок. Доступны дополнения для браузеров и API. Пользуясь RLU.Ru, вы также можете получать дополнительный заработок на размещении ссылок. [![RLU.Ru API][API Icon]](https://rlu.ru/texts/4.html)
 * :ru: [Shorte.st](https://sh.st) - Сокращай ссылки с помощью Shorte.st и зарабативай реальные деньги. Мы платим за каждый клик по Вашей сокращенной ссылке.
+* :ru: [u.to](http://u.to) - Сокращение длинных ссылок. Полная статистика переходов. Человеко-понятные URL. ![Only HTTP][Only HTTP Icon]
 * [Url Shorteners: Destroying the Web Since 2002](http://blog.codinghorror.com/url-shorteners-destroying-the-web-since-2002/)
 
 
