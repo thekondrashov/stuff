@@ -708,6 +708,8 @@ The stuff you are actually looking for:
 * [Decorator Icons](http://decorator.codable.org/iconsttf). [GitHub](https://github.com/uloga/decorator)
 * [Smashicons](http://smashicons.com) - Smashicons is the world's largest and most complete icon set with over 14000 icons for designers and developers.
 * [iconmelon](http://iconmelon.com) - svg icons library for web. :ru: iconmelon — набор векторных иконок, к которым можно применить SVG-фильтры и скачать архивом SVG-файлы. [![GitHub stars](https://img.shields.io/github/stars/legomushroom/iconmelon.svg?style=social)](https://github.com/legomushroom/iconmelon)
+* [iconmonstr](http://iconmonstr.com) - Discover 1000+ free simple icons for your next project. Available in both PNG and SVG.
+* [FlatIcon](http://www.flaticon.com) - Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT. Thousands of free icons in the largest database of free vector icons!
 
 
 
