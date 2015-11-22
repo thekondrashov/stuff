@@ -1390,7 +1390,9 @@ The stuff you are actually looking for:
 * [BG Stock](https://html5backgroundvideos.com) - BG Stock's library of stock videos are all perfect for HTML5 video backgrounds for your website. [![Follow @BGStock](https://img.shields.io/twitter/url/https/html5backgroundvideos.com.svg?label=@BGStock&style=social)](https://twitter.com/BGStock)
 
 ## URL Shorteners
+> *__URL shortening__ is a technique to convert a long URL (site or page address) to a shorter version. This shorter version of the URL is usually cleaner and easier to share or remember. When someone accesses the shortened address, the browser redirects to the original (large) url address.<br>- ["URL shortening" @ Wikipedia](https://en.wikipedia.org/wiki/URL_shortening)*
 
+* [List of URL Shorteners](http://bit.do/list-of-url-shorteners.php)
 * [Google URL Shortener](https://goo.gl)
 * [Git.io](https://git.io) - is a simple URL shortener for GitHub. *[Read more about Git.io.](https://github.com/blog/985-git-io-github-url-shortener)*
 * [tr.im - url shortener](https://tr.im)
