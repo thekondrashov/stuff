@@ -614,6 +614,7 @@ The stuff you are actually looking for:
 
 ## Search Fonts
 
+* [FontCDN](http://fontcdn.org) - A search tool for Google web fonts. [Blog post](http://news.bootswatch.com/post/125928533622) [![GitHub stars](https://img.shields.io/github/stars/thomaspark/fontcdn.svg?style=social)](https://github.com/thomaspark/fontcdn)
 * :ru: [WebFont.ru](http://webfont.ru) - коллекция бесплатных шрифтов для веб-сайтов. Вся прелесть этого сервиса в редакторе шрифтов, где можно выбрать нужные символы, тем самым оптимизировав размер.
 * :ru: [Фонтов.нет](http://fontov.net) - Самые красивые шрифты Photoshop и не только. Русские шрифты скачать бесплатно можно сразу же после просмотра. В нашей базе присутствуют бесплатные шрифты самых разных стилей. Стили шрифтов не ограничиваются только готическими шрифтами и шрифтом граффити.
 
