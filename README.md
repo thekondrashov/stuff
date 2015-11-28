@@ -484,6 +484,7 @@ The stuff you are actually looking for:
 * :ru: [CSS3 анимации для начинающих](http://devdocs.ru/verstka/css3-animations-for-beginners/)
 * [Magic Animations CSS3](http://minimamente.com/example/magic_animations/) - CSS3 Animations with special effects. [![GitHub stars](https://img.shields.io/github/stars/miniMAC/magic.svg?style=social)](https://github.com/miniMAC/magic)
 * [AniCollection](https://anicollection.github.io) - The easiest way to find, use and share CSS3 animations. We are putting together awesome animations from many libraries and many people. :ru: AniCollection, коллекция из 79 примеров CSS-анимаций с примерами кода. [![GitHub stars](https://img.shields.io/github/stars/anicollection/anicollection.svg?style=social)](https://github.com/anicollection/anicollection)
+* [Ceaser](http://matthewlein.com/ceaser/) - an interactive CSS easing animation tool by Matthew Lein. It lets you build any kind of ease you want, and comes with many of the Penner Easing Equations.
 
 
 ## CSS Hacks
