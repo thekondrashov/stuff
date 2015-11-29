@@ -382,7 +382,7 @@ The stuff you are actually looking for:
 
 ## Color Scheme Generators
 
-* [Flatuicolorpicker](http://www.flatuicolorpicker.com) - A project digging the Flat Color Picker which gives you the perfect colors for flat designs.
+* :octocat: [Bootflat Flat UI Color Picker](http://bootflat.github.io/color-picker) - a project digging the Flat Color Picker which gives you the perfect colors for flat designs. [Flatuicolorpicker](http://www.flatuicolorpicker.com)
 * [Flat UI Colors](http://flatuicolors.com) - This small web app helps you to copy the colors from Flat UI. It's kind of responsive, so you can use it with a tiny browser like a widget.
 * [Coolors](http://coolors.co/app) - Generate infinite color palettes for your designs and share, export or save it in your profile.
 * [dyecol](http://dyecol.com) - dyecol is a beautiful color generator for your web projects. dyecol generates colors at random and they're beautiful. ![tweet](https://img.shields.io/twitter/url/http/dyecol.com.svg?label=tweet&style=social)
