@@ -441,13 +441,14 @@ The stuff you are actually looking for:
 ### Bootstrap themes & templates
 
 * [BootstrapBay - Bootstrap Themes & Templates](http://bootstrapbay.com) - Buy & sell premium Bootstrap themes & templates in the BootstrapBay marketplace. Find a high quality theme for your next web project today!
-* [40 лучших шаблонов, основанных на Bootstrap 3. Некоторые даже бесплатны.](http://webdesignledger.com/resources/premium-bootstrap-themes-templates)
+* :ru: [40 лучших шаблонов, основанных на Bootstrap 3. Некоторые даже бесплатны.](http://webdesignledger.com/resources/premium-bootstrap-themes-templates)
 * [Free unique bootstrap themes, templates, and bootstrap snippets](http://www.designbootstrap.com) - Designbootstrap offers 100% Free and unique bootstrap themes, templates, and bootstrap snippets for beginners and experts alike.
 * [Flat UI by Designmodo](http://designmodo.com/flat/) - Contains a huge number of basic components, icons and glyphs, which simplify your work when it comes to new projects. Responsive Layout. Based on Bootstrap. [GitHub](https://github.com/designmodo/Flat-UI)
 * [Bootstrap Stage - Bootstrap themes, templates, and gallery](http://www.bootstrapstage.com/free-themes/) - Find a starting place in this curated list of free Bootstrap themes and templates. Get your next project bootstrap project started now.
-* [50+ Best Free Bootstrap Admin Templates » CSS Author](http://www.cssauthor.com/bootstrap-admin-templates/) - An excellent collection of free bootstrap admin templates for developers, these are enormous timesaver in your workflow, explore for more. ![VKontakte][VK Icon] [50 лучших Bootstrap шаблонов для админки - Клуб PHP программистов](https://vk.com/wall-3183750_58797)
+* [50+ Best Free Bootstrap Admin Templates » CSS Author](http://www.cssauthor.com/bootstrap-admin-templates/) - An excellent collection of free bootstrap admin templates for developers, these are enormous timesaver in your workflow, explore for more. :ru:  ![VKontakte][VK Icon] [50 лучших Bootstrap шаблонов для админки - Клуб PHP программистов](https://vk.com/wall-3183750_58797)
 * [Best Free Bootstrp 3 Template - DevsTrend](http://www.devstrend.com/best-free-bootstrp-3-template/) - Best Free Bootstrp 3 Template-Bootstrap is the most popular free front-end framework for faster and easier web development.
 * [Bootstrap themes and templates | PrepBootstrap](https://prepbootstrap.com) - The ultimate source of free and premium Bootstrap themes, templates and other widgets in complete code examples. Download a sample and start building your webpage. Updated to the latest Bootstrap 3 version.
+* [Bootstrap Zero](http://www.bootstrapzero.com) - Totally free Bootstrap themes and templates organized by collection. All themes are responsive, free to download and Bootstrap ready.
 
 ### Offcanvas navigation menu
 
