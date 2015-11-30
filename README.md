@@ -165,6 +165,7 @@ The stuff you are actually looking for:
 
 ## Regular expressions
 
+* [Learn regular expressions](#learn-regular-expressions)
 * [Online regex testers](#online-regex-testers)
 
 ## RESTful API
@@ -852,6 +853,12 @@ The stuff you are actually looking for:
 
 
 # Regular expressions
+
+## Learn regular expressions
+
+### Online interactive regular expression tutorials
+
+* [RegexOne](http://regexone.com) - a set of interactive lessons and exercises to help you learn regular expressions.
 
 ## Online regex testers
 
