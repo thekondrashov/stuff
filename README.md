@@ -1475,7 +1475,7 @@ The stuff you are actually looking for:
 
 ## WHOIS
 
-* [ICANN WHOIS](http://whois.icann.org) - Official ICANN WHOIS Search.
+* [ICANN WHOIS](https://whois.icann.org) - Official ICANN WHOIS Search.
 * [Whois7.ru](http://whois7.ru) - Whois Service, IP Whois, DNS Digger.
 * [Whois - DomainTools](https://whois.domaintools.com) - Research domain ownership with Whois Lookup: Get ownership info, IP address history, rank, traffic, SEO & more. Find available domains & domains for sale.
 * [DNS Lookup tool, Reverse DNS lookup tool - www.DNSWatch.info](https://www.dnswatch.info) - Lookup DNS records with exact performance measuring, monitor your dns servers!
