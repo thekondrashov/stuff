@@ -1004,6 +1004,7 @@ The stuff you are actually looking for:
 ### HTTP Strict Transport Security (HSTS)
 > *__HTTP Strict Transport Security__ (HSTS) is a HTTP header that instructs browsers to make all requests over HTTPS. If a browser sees an `http://` URL for a site that it knows has enabled Strict Transport, it will skip directly to HTTPS without issuing the initial insecure request. Even that first insecure request can be eliminated if site takes the final step of hardcoding their site into browsers as HTTPS-only.<br>- [From GitHub](https://github.com/konklone/cdns-to-https)*
 
+* [How to clear HSTS Settings in Major Browsers](http://classically.me/blogs/how-clear-hsts-settings-major-browsers) - by Jeremy Edgell.
 * :ru: [RFC 6797 — Строгая транспортная безопасность HTTP (HSTS)](http://rfc2.ru/6797.rfc) - Русский перевод спецификации RFC 6797.
 
 
