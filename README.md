@@ -1121,6 +1121,7 @@ The stuff you are actually looking for:
 * [SSLtools.com](http://www.ssltools.com) - SSL Certificate Checker, SSL Diagnostic Tool, and SSL Verification Utility. Does the site have ssl installed? Use this tool to verify if ssl is properly installed. Great for ssl diagnostics.
 * [Check Certificate Revocation Lists the OCSP status of an (SSL) Certificate](https://certificate.revocationcheck.com) - Check the OCSP and CRL revocation status, compliance and performance for any website, certificate or server.
 * [SSL-Tools.net](https://ssl-tools.net)
+* [SSL Checker](https://www.sslchecker.com) - essential SSL tools that are easy to work with.
 
 
 
