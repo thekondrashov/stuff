@@ -252,6 +252,7 @@ The stuff you are actually looking for:
 
 ## Web Hosting
 
+* [DNS related tools](#dns-related-tools)
 * [Domain Name Registration](#domain-name-registration)
 * [Google App Engine](#google-app-engine)
 * [Uptime monitoring](#uptime-monitoring)
@@ -1117,6 +1118,7 @@ The stuff you are actually looking for:
 * [JS Certification Authority :)](https://kjur.github.io/jsrsasign/tool_ca.html) - jsrsasign : The 'jsrsasign' (RSA-Sign JavaScript Library) is a open source free pure JavaScript implementation of PKCS#1 v2.1 RSASSA-PKCS1-v1_5 RSA signing and validation algorithm. [![GitHub stars](https://img.shields.io/github/stars/kjur/jsrsasign.svg?style=social)](https://github.com/kjur/jsrsasign)
 * [SSLtools.com](http://www.ssltools.com) - SSL Certificate Checker, SSL Diagnostic Tool, and SSL Verification Utility. Does the site have ssl installed? Use this tool to verify if ssl is properly installed. Great for ssl diagnostics.
 * [Check Certificate Revocation Lists the OCSP status of an (SSL) Certificate](https://certificate.revocationcheck.com) - Check the OCSP and CRL revocation status, compliance and performance for any website, certificate or server.
+* [SSL-Tools.net](https://ssl-tools.net)
 
 
 
@@ -1434,6 +1436,13 @@ The stuff you are actually looking for:
 ---
 
 # Web Hosting
+
+## DNS related tools
+
+* [ViewDNS.info](http://viewdns.info) - Your one source for DNS related tools! [DNS Report](http://viewdns.info/dnsreport/) - a complete report on the DNS settings for your domain.
+* [DNS Lookup - Who.is](https://who.is/dns) - Search for name server and DNS record information for domain names using our free tools.
+* [IPv6 test](http://ipv6-test.com/validate.php) - This tool lets you test the IPv6 configuration and connectivity of a web server.
+* [IP/IPv6 Test](http://ip6tools.com) - Test web servers for IPv6 compability, get extended information about server, ISP, MX, IPv4 and settings.
 
 ## Domain Name Registration
 
