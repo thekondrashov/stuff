@@ -1627,8 +1627,10 @@ The stuff you are actually looking for:
 * [Graphemica](http://graphemica.com) - Browse Unicode Characters.
 * [Unicodinator](http://unicodinator.com) - a tool for visually navigating the Unicode blocks and codepoints 0000 through DFFF.
 * [Shapecatcher](http://shapecatcher.com) - You need to find a specific Unicode character? With Shapecatcher.com you can search through a database of characters by simply drawing your character into a box. It can find the most similar character shapes for your drawing. :ru: этот отличный сайт позволяет вам нарисовать искомую иконку, после чего предлагает вам список похожих символов Юникода.
+* [Charcodes](http://charcod.es) - Unicode for fun and profit!
+* [Unitools](https://www.unicod.es) - a suite of tools for working with Unicode in the browser.
 * [HTML Symbol Codes and Entities — HTML Arrows](http://htmlarrows.com) - The most beautiful HTML arrows, currency and copyright symbols you will ever see, plus all those other pesky ASCII and HEX codes you can never remember.
-* :octocat: [ᕙ༼ຈل͜ຈ༽ᕗ cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - get some cool ascii faces. [![GitHub stars](https://img.shields.io/github/stars/maxogden/cool-ascii-faces.svg?style=social)](https://github.com/maxogden/cool-ascii-faces)
+* :octocat: [ᕙ༼ຈل͜ຈ༽ᕗ cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - get some cool ascii faces. [![GitHub stars](https://img.shields.io/github/stars/maxogden/cool-ascii-faces.svg?style=social)](https://github.com/maxogden/cool-ascii-faces) [Some handpicked Unicode Art](https://www.unicod.es/#lll)
 
 ## XPath
 
