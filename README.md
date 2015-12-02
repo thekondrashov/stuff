@@ -1353,6 +1353,7 @@ The stuff you are actually looking for:
 * [Pastie](https://pastie.org)
 * [Ubuntu Pastebin](http://pastebin.ubuntu.com)
 * [codepad](http://codepad.org) - codepad is an online compiler/interpreter, and a simple collaboration tool. Paste your code, and codepad will run it and give you a short URL you can use to share it in chat or email.
+* [PHP Sandbox](http://sandbox.onlinephpfunctions.com) - Run, execute and test PHP code from your browser.
 * :ru: [CopyPaste](https://cp.skobk.in) - Простой сервис. Аналог pastebin.com и других. [Bitbucket](https://bitbucket.org/skobkin/copypaste2/wiki/Home)
 * :ru: [Code.Re](http://code.re) - Сервис Code.Re предоставляет возможность быстро загрузить в сеть ваш программный код.
 * :ru: [PasteBin.ru](http://pastebin.ru) - помогаем работать и общаться: скопировал, вставил, отправил. ![Хабрахабр][Habr Icon] [Отдам домен и сайт pastebin.ru](http://habr.ru/p/268347)
