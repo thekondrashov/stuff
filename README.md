@@ -1133,6 +1133,7 @@ The stuff you are actually looking for:
 ## Web security blogs
 
 * [Scott Helme](https://scotthelme.co.uk) - Information Security Consultant.
+* [BetterCrypto.org](https://bettercrypto.org)
 * [oxdef](https://www.oxdef.info) - Some thoughts about web security.
 * [Jonathan Rudenberg](https://titanous.com)
 * [Noncombatant by Chris Palmer](https://nonfreesoftware.org)
