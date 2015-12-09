@@ -1638,11 +1638,13 @@ The stuff you are actually looking for:
 * :octocat: [ᕙ༼ຈل͜ຈ༽ᕗ cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - get some cool ascii faces. [![GitHub stars](https://img.shields.io/github/stars/maxogden/cool-ascii-faces.svg?style=social)](https://github.com/maxogden/cool-ascii-faces) [Some handpicked Unicode Art](https://www.unicod.es/#lll)
 
 ## XPath
+> *__XPath__, the __XML Path Language__, is a query language for selecting nodes from an XML document.<br>- ["XPath" @ Wikipedia](https://en.wikipedia.org/wiki/XPath)*
 
-* [Примеры XPath](https://msdn.microsoft.com/ru-ru/library/vstudio/ms256086%28v=vs.100%29.aspx) - В этом разделе проводится обзор синтаксических примеров, используемых в справочной документации по XPath.
 * [XPath Axes - W3SCHOOLS](http://www.w3schools.com/xpath/xpath_axes.asp)
 * [XPath axes - Jesper Tverskov](http://www.xmlplease.com/axis)
-* [Выражения XPath](http://zvon.org/xxl/XPathTutorial/Output_rus/examples.html)
+* [XPath 1.0 Tutorial @ZVON.org](http://zvon.org/comp/r/tut-XPath_1.html#intro)
+* :ru: [Примеры XPath](https://msdn.microsoft.com/ru-ru/library/vstudio/ms256086%28v=vs.100%29.aspx) - В этом разделе проводится обзор синтаксических примеров, используемых в справочной документации по XPath.
+* :ru: [Выражения XPath](http://zvon.org/xxl/XPathTutorial/Output_rus/examples.html)
 
 
 ## Uncategorized
