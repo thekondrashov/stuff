@@ -1078,6 +1078,7 @@ The stuff you are actually looking for:
 * [90 days of Free SSL encryption - SSL.com](https://www.ssl.com/certificates/free) - Get your Free Class 1 validated and industrial strength encrypted SSL Certificate from SSL.com. Our free SSL Certificates have the same encryption strength and browser acceptance rates as the higher assurance validation SSL Certificates.
 * [Free SSL Certificate from Comodo](https://www.comodo.com/e-commerce/ssl-certificates/free-ssl-certificate.php) - Try 90 days Free SSL Certificate from comodo and instantly secure your website with no cost or commitment.
 * [Free SSL Certificate from Comodo | Extended Free SSL for 90 days](https://www.instantssl.com/free-ssl-certificate.html) - Learn why Free SSL Certificate from Comodo is trusted by majority of web browsers. Get Extended Free SSL for 90 days and secure your website in minutes.
+* [ProntoSSL](https://www.prontossl.com) - Positive SSL Trial FREE 90 day test SSL certificate, one time restriction, secures a single domain.
 * [Positive Free SSL Certificates](https://www.positivessl.com/free-ssl-certificate.php) - Get your Free 30 day Trial SSL Certificate which is ideal for you to see how SSL can help your business.
 * [30-day free trial SSL certificate from RapidSSL](https://www.freessl.com) - These SSL certificates are fully functional for 30 days, ideal for testing.
 * [Symantec™ Trust Center](https://trustcenter.websecurity.symantec.com/process/retail/trial_initial) - SSL Test Certificate 30-day FREE Trial.
