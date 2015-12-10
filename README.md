@@ -696,6 +696,7 @@ The stuff you are actually looking for:
 * [Entypo](http://entypo.com) - a suite of 411 carefully crafted premium pictograms by Daniel Bruce.
 * [Foundation Icon Fonts](http://zurb.com/playground/foundation-icon-fonts-3) - A freshly updated icon font set that you can use with CSS on your next Foundation project. [![GitHub stars](https://img.shields.io/github/stars/zurb/foundation-icons.svg?style=social)](https://github.com/zurb/foundation-icons)
 * :octocat: [Topcoat Icons](https://github.com/topcoat/icons) - Open Source Icons designed for Topcoat. [![cdnjs CDN repository](https://img.shields.io/badge/cdnjs-topcoat--icons-brightgreen.svg?style=flat-square)](https://cdnjs.com/libraries/topcoat-icons/) [![GitHub stars](https://img.shields.io/github/stars/topcoat/icons.svg?style=social)](https://github.com/topcoat/icons)
+* [Animaticons](http://animaticons.co) - a growing set of beautiful, high-resolution, animated GIF icons that you can customize. They are perfect for websites, emails, presentations and more.
 
 ## Icon font generators
 
