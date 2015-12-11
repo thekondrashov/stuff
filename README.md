@@ -559,6 +559,7 @@ The stuff you are actually looking for:
 * [RocketHub](https://rockethub.com) - an online crowdfunding platform. [![Follow @RocketHub](https://img.shields.io/twitter/url/http/www.rockethub.com.svg?label=@RocketHub&style=social)](https://twitter.com/rockethub)
 * :ru: [BOOMSTARTER — Сделай жизнь ярче!](https://boomstarter.ru) - Boomstarter привлекает финансирование для широкого спектра креативных проектов. Нацелен в первую очередь на российские проекты, созданные для нужд соотечественников. [![Follow @BoomstarterRu](https://img.shields.io/twitter/url/http/boomstarter.ru.svg?label=@BoomstarterRu&style=social)](https://twitter.com/boomstarterru)
 * :cn: [zeczec](https://zeczec.com) - 台灣的群眾集資(Crowdfunding)平台.
+* 🇮🇳  [Ketto](https://www.ketto.org) - an Best Online Crowdfunding Platform and Website in India for fundraising of Social, Charity, Movies, Music, Personal and Creative causes. :ru: [![Geektimes][Habr Icon] Индийский «Kickstarter»](http://geektimes.ru/p/267356)
 
 ## Donation Management
 
