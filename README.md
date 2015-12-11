@@ -1051,6 +1051,7 @@ The stuff you are actually looking for:
 ## Personal privacy
 
 * [Check login status](http://status.phplernen.org) - Check your login status at different internet services at once.
+* [DuckDuckGo](https://duckduckgo.com) - The search engine that doesn't track you. A superior search experience with smarter answers, less clutter and real privacy. [![GitHub stars](https://img.shields.io/github/stars/duckduckgo/duckduckgo.svg?style=social)](https://github.com/duckduckgo/duckduckgo)
 * [Web Browser Privacy Check](http://ipinfo.info/html/privacy-check) - See what privacy information is exposed  by your webbrowser and test the effectiveness of your proxy.
 * [Hide My Ass!](https://www.hidemyass.com) - A Virtual Private Network (VPN) encrypts your internet connection to make it secure. We offer the best global VPN network and reliable VPN service. Enjoy our VPN sale & try out our fast VPN.
 * :ru: [IPHide.info](https://iphide.info) - Уменьшение интернет-трафика и анономность в сети.
