@@ -836,6 +836,7 @@ The stuff you are actually looking for:
 ## Localization Misc
 
 * [Duolingo](https://www.duolingo.com) - Learn languages completely free, without ads or hidden charges. It's fun, easy, and scientifically proven.
+* [translatewiki.net](https://translatewiki.net) - Open source translation community.
 
 
 # PHP
