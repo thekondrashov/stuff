@@ -963,6 +963,7 @@ The stuff you are actually looking for:
 
 ### GOST 28147-89
 
+* :ru: [![Хабрахабр][Habr Icon] Open-source реализации отечественных криптоГОСТов](http://habr.ru/p/273055)
 * :ru: [Алгоритм шифрования ГОСТ 28147-89](http://www.inssl.com/standart-of-cipher.html) - Информация о cтандарте шифрования ГОСТ 28147-89, краткое описание алгоритма шифрования. Криптоанализ алгоритма gost.
 
 ### ID Obfuscaters
