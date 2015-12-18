@@ -730,8 +730,8 @@ The stuff you are actually looking for:
 
 ## JavaScript benchmark playgrounds
 
-* [jsPerf](https://jsperf.com) - A performance playground for JavaScript developers. Easily create and share test cases and run cross-browser benchmarks to find out which code snippet is most efficient. But even if you don’t add tests yourself, you can still use it as a JavaScript performance knowledge base. ![GitHub stars](https://img.shields.io/github/stars/jsperf/jsperf.com.svg?style=social)
-* [JSBench](https://jsbench.github.io) - JavaScript benchmark playground. User-friendly interface, sync with your github, code highlighting and etc. :ru: [![Хабрахабр][Habr Icon] Создаём проект c OAuth и NoSQL за $0,00](http://habr.ru/p/272911) ![GitHub stars](https://img.shields.io/github/stars/jsbench/jsbench.github.io.svg?style=social)
+* [jsPerf](https://jsperf.com) - A performance playground for JavaScript developers. Easily create and share test cases and run cross-browser benchmarks to find out which code snippet is most efficient. But even if you don’t add tests yourself, you can still use it as a JavaScript performance knowledge base. [![GitHub stars](https://img.shields.io/github/stars/jsperf/jsperf.com.svg?style=social)](https://github.com/jsperf/jsperf.com)
+* [JSBench](https://jsbench.github.io) - JavaScript benchmark playground. User-friendly interface, sync with your github, code highlighting and etc. :ru: [![Хабрахабр][Habr Icon] Создаём проект c OAuth и NoSQL за $0,00](http://habr.ru/p/272911) [![GitHub stars](https://img.shields.io/github/stars/jsbench/jsbench.github.io.svg?style=social)](https://github.com/jsbench.github.io)
 
 
 ## JavaScript tutorials
