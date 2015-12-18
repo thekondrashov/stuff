@@ -139,6 +139,7 @@ The stuff you are actually looking for:
 ## JavaScript
 
 * [Charts](#charts)
+* [JavaScript benchmark playgrounds](#javascript-benchmark-playgrounds)
 * :mortar_board: [JavaScript tutorials](#javascript-tutorials)
 * [jQuery](#jquery)
 * [Autocomplete](#autocomplete)
@@ -727,6 +728,12 @@ The stuff you are actually looking for:
 * [Chartist - Simple responsive charts built with SVG](https://gionkunz.github.io/chartist-js/) - Create responsive, scalable and good looking charts with chartist.js. :ru: Chartist.js — инструмент для создания красивых и отзывчивых диаграмм. [![GitHub stars](https://img.shields.io/github/stars/gionkunz/chartist-js.svg?style=social)](https://github.com/gionkunz/chartist-js)
 
 
+## JavaScript benchmark playgrounds
+
+* [jsPerf](https://jsperf.com) - A performance playground for JavaScript developers. Easily create and share test cases and run cross-browser benchmarks to find out which code snippet is most efficient. But even if you don’t add tests yourself, you can still use it as a JavaScript performance knowledge base. ![GitHub stars](https://img.shields.io/github/stars/jsperf/jsperf.com.svg?style=social)
+* [JSBench](https://jsbench.github.io) - JavaScript benchmark playground. User-friendly interface, sync with your github, code highlighting and etc. :ru: [![Хабрахабр][Habr Icon] Создаём проект c OAuth и NoSQL за $0,00](http://habr.ru/p/272911) ![GitHub stars](https://img.shields.io/github/stars/jsbench/jsbench.github.io.svg?style=social)
+
+
 ## JavaScript tutorials
 
 * :ru: [Современный учебник JavaScript](https://learn.javascript.ru/tutorial) - Перед вами учебник по JavaScript, начиная с основ, включающий в себя много тонкостей и фишек JavaScript/DOM. [![GitHub stars](https://img.shields.io/github/stars/iliakan/javascript-nodejs.svg?style=social)](https://github.com/iliakan/javascript-nodejs)
@@ -807,6 +814,7 @@ The stuff you are actually looking for:
 * :octocat: [ECMAScript 6 Tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today by Addy Osmani. [![GitHub stars](https://img.shields.io/github/stars/addyosmani/es6-tools.svg?style=social)](https://github.com/addyosmani/es6-tools)
 * [Waves](http://fian.my.id/Waves) - Click effect inspired by Google's Material Design. :ru: Waves — библиотека для создания волнового эффекта при клике на объект с JQuery. [![GitHub stars](https://img.shields.io/github/stars/fians/Waves.svg?style=social)](https://github.com/fians/Waves)
 * [UAParser.js](https://faisalman.github.io/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser. Supports browser & node.js environment. Also available as jQuery/Zepto plugin, Component/Bower/Meteor package, & RequireJS/AMD module. [![GitHub stars](https://img.shields.io/github/stars/faisalman/ua-parser-js.svg?style=social)](https://github.com/faisalman/ua-parser-js)
+* :ru: [![Хабрахабр][Habr Icon] Шорткаты в JavaScript](http://habr.ru/p/273267) - Эти сокращения в некоторых случаях могут облегчить чтение кода, а также существенно уменьшить его количество.
 
 
 
