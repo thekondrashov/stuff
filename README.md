@@ -1374,6 +1374,7 @@ The stuff you are actually looking for:
 * [PHP Sandbox](http://sandbox.onlinephpfunctions.com) - Run, execute and test PHP code from your browser. You can test your PHP code here on many php versions.
 * [eval.so](http://eval.so) - Eval.so provides a free and open source web platform for you to evaluate code in many situations. Whether you want to make sure your code works on another computer, or you found some code online that you don't trust, simply run it on Eval.so, and have your answer in no time. [GitHub](https://github.com/eval-so)
 * [lpaste — Lambda pastebin](http://lpaste.net) - Paste service written in Haskell for functional programmers. [![GitHub stars](https://img.shields.io/github/stars/chrisdone/lpaste.svg?style=social)](https://github.com/chrisdone/lpaste)
+* [CodePile](https://www.codepile.net) - a simple, powerful, collaborative code sharing hub, designed to make sharing and working on code together easy, beautiful, and interactive.
 * [Pastie](https://pastie.org)
 * [Ubuntu Pastebin](http://pastebin.ubuntu.com)
 * [codepad](http://codepad.org) - codepad is an online compiler/interpreter, and a simple collaboration tool. Paste your code, and codepad will run it and give you a short URL you can use to share it in chat or email.
