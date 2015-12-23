@@ -802,9 +802,12 @@ The stuff you are actually looking for:
 * :octocat: [Vanilla Query](https://github.com/makesites/vanilla-query/blob/master/build/vanilla-query.js) - A syntax-conversion for Vanilla JS & CSS3 methods using traditional jQuery conventions. [![GitHub stars](https://img.shields.io/github/stars/makesites/vanilla-query.svg?style=social)](https://github.com/makesites/vanilla-query)
 * [10 Tips for Writing JavaScript without jQuery](http://tutorialzine.com?p=3771) - Tutorialzine.
 * [Native JavaScript Equivalents of jQuery Methods: the DOM and Forms](http://sitepoint.com?p=67349) - SitePoint.
-* [Plain JavaScript - Functions and Helpers](http://plainjs.com/javascript/) - Vanilla JavaScript utilities for writing powerful web applications without jQuery.
+* [Plain JavaScript - Functions and Helpers](https://plainjs.com/javascript/) - Vanilla JavaScript utilities for writing powerful web applications without jQuery.
 * :octocat: [Moving from jQuery](https://gist.github.com/7468978) - GitHub Gist.
 * [Bliss.js: Heavenly JavaScript](http://blissfuljs.com) - Want to use Vanilla JS but find native APIs a bit unwieldy? Bliss is for you. [![GitHub stars](https://img.shields.io/github/stars/leaverou/bliss.svg?style=social)](https://github.com/leaverou/bliss)
+* :octocat: [Balalaika.js](https://github.com/finom/balalaika) - The tiny DOM library (603 bytes gzipped!). Balalaika provides you tiny replacement for huge DOM libraries such as jQuery and Zepto. It contains few methods which should be sufficient for vanilla.js developers. [![GitHub stars](https://img.shields.io/github/stars/finom/balalaika.svg?style=social)](https://github.com/finom/balalaika)
+* :octocat: [bala.js](https://github.com/finom/bala) - A function for elements selection in 408 chars for vanilla.js developers. [![Хабрахабр][Habr Icon] bala.js — убийца jQuery в 408 символах кода](http://habr.ru/p/273751) [![GitHub stars](https://img.shields.io/github/stars/finom/bala.svg?style=social)](https://github.com/finom/bala)
+* [Microjs](http://microjs.com) - Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit! [![GitHub stars](https://img.shields.io/github/stars/madrobby/microjs.com.svg?style=social)](https://github.com/madrobby/microjs.com)
 
 
 ## JavaScript Misc
@@ -812,6 +815,7 @@ The stuff you are actually looking for:
 * [Usage of JavaScript libraries for websites](http://w3techs.com/technologies/overview/javascript_library/all)
 * :octocat: [Essential JavaScript website](https://github.com/ericelliott/essential-javascript-links) - A curated list by Eric Elliott and friends. [![GitHub stars](https://img.shields.io/github/stars/ericelliott/essential-javascript-links.svg?style=social)](https://github.com/ericelliott/essential-javascript-links)
 * :octocat: [ECMAScript 6 Tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today by Addy Osmani. [![GitHub stars](https://img.shields.io/github/stars/addyosmani/es6-tools.svg?style=social)](https://github.com/addyosmani/es6-tools)
+* :octocat: [Native Javascript for Bootstrap](http://thednp.github.io/bootstrap.native/) - a set of scripts developed with native Javascript for Bootstrap 3 series, and featuring superior performance compared to the original jQuery Plugins. [![GitHub stars](https://img.shields.io/github/stars/thednp/bootstrap.native.svg?style=social)](https://github.com/thednp/bootstrap.native)
 * [Waves](http://fian.my.id/Waves) - Click effect inspired by Google's Material Design. :ru: Waves — библиотека для создания волнового эффекта при клике на объект с JQuery. [![GitHub stars](https://img.shields.io/github/stars/fians/Waves.svg?style=social)](https://github.com/fians/Waves)
 * [UAParser.js](https://faisalman.github.io/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser. Supports browser & node.js environment. Also available as jQuery/Zepto plugin, Component/Bower/Meteor package, & RequireJS/AMD module. [![GitHub stars](https://img.shields.io/github/stars/faisalman/ua-parser-js.svg?style=social)](https://github.com/faisalman/ua-parser-js)
 * :ru: [![Хабрахабр][Habr Icon] Шорткаты в JavaScript](http://habr.ru/p/273267) - Эти сокращения в некоторых случаях могут облегчить чтение кода, а также существенно уменьшить его количество.
@@ -1529,6 +1533,7 @@ The stuff you are actually looking for:
 * :ru: [Хостинг tcphost.net](https://sohabr.net/habr/post/250037/) - Бесплатный хостинг для студентов.
 * [YouHosting](http://www.youhosting.com/en/page/plans) - Become a Web Hosting Reseller For Free!
 * :ru: [Бесплатный хостинг JH5.Studio](http://jh5.ru/osp.html) - JH5.Studio предлагаем интересным проектам бессрочный, бесплатный хостинг. Внимание количество заявок ограничено! [ВКонтакте](https://vk.com/wall-3183750_48714)
+* 🇺🇦  [ho.ua](http://www.ho.ua) - VPS хостинг, бесплатный хостинг с php.
 * [Divshot - Static Web Hosting for Developers and Designers](https://divshot.com) - One platform for static web hosting and Bootstrap Builder for single page apps. CDN, SSL, and pushState support with amazing developer and CLI tools.
 * [Free Web Hosting with PHP, MySQL and cPanel, No Ads](http://www.000webhost.com) - 000webhost.com ($0.00 webhost), is an industry leader in providing top class free web hosting services without advertising! There are no hidden costs, no adverts, and no restrictive terms.
 * [IBM Bluemix - Next-Generation Cloud App Development Platform](https://console.ng.bluemix.net) - Bluemix is an open standards, cloud platform for building, running, and managing apps and services.
