@@ -744,6 +744,7 @@ The stuff you are actually looking for:
 ## jQuery
 > *__jQuery__ is a powerful JavaScript library that works in all browsers, and enables you to write much less code than you otherwise would with plain JavaScript<br>- ["Intro to jQuery" @ Thinkful.com](https://www.thinkful.com/learn/intro-to-jquery)*
 
+* [jQuery source viewer](http://james.padolsey.com/jquery/) - by [James Padolse](http://james.padolsey.com).
 * [Unheap](http://www.unheap.com) - A tidy repository of jQuery plugins. Огромная коллекция реально качественных и нужных jQuery плагинов, грамотно расфасованная по области применения. В Unheap 5 основных разделов UI, Inputs, Media, Nav, Other и каждый из них содержит еще с десяток подкатегорий. В общей сложности на данный момент каталог содержит более 1000 различных плагинов.
 * [jQuery Plugins](http://jquery-plugins.net) - Daily Latest, Popular, Free jQuery Plugins & jQuery Tutorials & jQuery Articles & Demos.
 * [jQuery 2 DotNet](http://www.jquery2dotnet.com) - jquery and mvc tutorial with examples.
@@ -1695,6 +1696,7 @@ The stuff you are actually looking for:
 * [Пример резюме на анг #10](http://coreymaynard.com/resume/)
 * [Пример резюме на анг #11](http://furbo.org/resume)
 * [Пример резюме на анг #12](https://securitee.org/files/CV.pdf) (pdf)
+* [Пример резюме на анг #13](http://james.padolsey.com/cv) (pdf)
 * [Пример резюме на рус](http://bioinformaticsinstitute.ru/resumes)
 * [Сравнение онлайн-консультантов для сайта: муки выбора / Хабрахабр](http://habr.ru/p/254529)
 * [DevDocs: Offline API Documentation Browser](http://devdocs.io) - DevDocs combines 64 reference documentations in a fast, organized, and searchable interface: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, etc.
