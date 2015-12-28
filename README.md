@@ -463,6 +463,7 @@ The stuff you are actually looking for:
 * [Trunk-js | A Responsive Web Solution](http://www.roblukedesign.com/trunk/trunk.html) - A responsive web design to hide top navigation into a navigation drawer on Tablets and Mobile Phones.
 * [jQuery.mmenu, app look-alike menus with sliding submenus](http://mmenu.frebsite.nl) - The best jQuery menu plugin for creating app look-alike, on-canvas and off-canvas, responsive, sliding menus for your website and webapp. [Github](https://github.com/BeSite/jQuery.mmenu)
 * [Navigation - Formstone](https://formstone.it/components/navigation/) - A jQuery plugin for simple responsive navigation. [GitHub](https://github.com/Formstone/Formstone/blob/master/docs/navigation.md)
+* [Off canvas - Web Fundamentals - Google Developers](https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns/off-canvas?hl=en)
 
 ### Guide to Bootstrap
 
