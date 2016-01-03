@@ -1104,6 +1104,7 @@ The stuff you are actually looking for:
 * [Free SSL Certificate from Comodo](https://www.comodo.com/e-commerce/ssl-certificates/free-ssl-certificate.php) - Try 90 days Free SSL Certificate from comodo and instantly secure your website with no cost or commitment.
 * [Free SSL Certificate from Comodo | Extended Free SSL for 90 days](https://www.instantssl.com/free-ssl-certificate.html) - Learn why Free SSL Certificate from Comodo is trusted by majority of web browsers. Get Extended Free SSL for 90 days and secure your website in minutes.
 * [ProntoSSL](https://www.prontossl.com) - Positive SSL Trial FREE 90 day test SSL certificate, one time restriction, secures a single domain.
+* :ru: [EMAPO SSL](https://www.emaro-ssl.ru/shop/Comodo/comodo_free_ssl/) - Бесплатный SSL сертификат на 90 дней Comodo PositiveSSL.
 * [Positive Free SSL Certificates](https://www.positivessl.com/free-ssl-certificate.php) - Get your Free 30 day Trial SSL Certificate which is ideal for you to see how SSL can help your business.
 * [30-day free trial SSL certificate from RapidSSL](https://www.freessl.com) - These SSL certificates are fully functional for 30 days, ideal for testing.
 * [Symantec™ Trust Center](https://trustcenter.websecurity.symantec.com/process/retail/trial_initial) - SSL Test Certificate 30-day FREE Trial.
