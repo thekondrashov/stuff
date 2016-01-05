@@ -330,6 +330,8 @@ The stuff you are actually looking for:
 * [Peacekeeper - free universal browser test for HTML5 from Futuremark](http://peacekeeper.futuremark.com) - See which HTML5 browser is the fastest browser with this free browser speed test. Test your PC, smartphone or tablet. Works with any browser on any device. :ru: Peacekeeper от разработчика компьютерных бенчмарков Futuremark учитывает многие аспекты работы браузера, в основном это рендеринг, математические операции и работа памяти. [![Follow @FM_Peacekeeper](https://img.shields.io/twitter/url/http/peacekeeper.futuremark.com.svg?label=@FM_Peacekeeper&style=social)](https://twitter.com/FM_Peacekeeper)
 * [WebXPRT 2015 v1998](https://www.principledtechnologies.com/benchmarkxprt/webxprt/2015/v1998/)
 * [Browserscope](http://www.browserscope.org?category=network) - Browserscope is a community-driven project for profiling web browsers. The goals are to foster innovation by tracking browser functionality and to be a resource for web developers.
+* [RoboHornet](http://www.robohornet.org) - a benchmark designed around performance pain points real web developers care about. [![GitHub stars](https://img.shields.io/github/stars/robohornet/robohornet.svg?style=social)](https://github.com/robohornet/robohornet)
+* [Dromaeo](http://dromaeo.com) - JavaScript Performance Testing.
 
 ## Firefox
 
