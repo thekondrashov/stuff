@@ -906,6 +906,7 @@ The stuff you are actually looking for:
 * :star: [Postman - Supercharge your API workflow](https://getpostman.com) - a powerful API testing and development suite and a must-have tool for many developers. Build, test, and document your APIs faster. More than a million developers already do. Featured on the Chrome App Store. [![GitHub stars](https://img.shields.io/github/stars/postmanlabs/postman-app-support.svg?style=social)](https://github.com/postmanlabs/postman-app-support) [![Follow @postmanclient](https://img.shields.io/twitter/url/http/www.getpostman.com.svg?label=@postmanclient&style=social)](https://twitter.com/postmanclient)
 * [Hurl.it - Make HTTP requests](https://www.hurl.it) - Choose the request method, customize headers and POST parameters, add basic authorization or OAuth credentials, and even follow redirects. Then view the nicely formatted request and response. It's the perfect tool for testing APIs. Just enter a URL and click send. A [Runscope](https://www.runscope.com) community project. [![Follow @hurlit](https://img.shields.io/twitter/url/http/hurl.it.svg?label=@hurlit&style=social)](https://twitter.com/hurlit)
 * [HTTP Web-Sniffer](http://web-sniffer.net) - View request and response header of a HTTP connection, HTTP status codes and HTML source.
+* [HTTP Header Check with an online CURL tool](https://tools.keycdn.com/curl) - KeyCDN Tools.
 * [httpbin(1): HTTP Client Testing Service](https://httpbin.org) - HTTP Request & Response Service, written in Python + Flask. Testing an HTTP Library can become difficult sometimes. RequestBin is fantastic for testing POST requests, but doesn't let you control the response. This exists to cover all kinds of HTTP scenarios. Additional endpoints are being considered. All endpoint responses are JSON-encoded. [![GitHub stars](https://img.shields.io/github/stars/Runscope/httpbin.svg?style=social)](https://github.com/Runscope/httpbin)
 
 
@@ -1153,6 +1154,7 @@ The stuff you are actually looking for:
 * [The SSL Store Tools](https://www.thesslstore.com/ssltools/) - free SSL tools like SSL Certificate checker, CSR Generator, SSL Convertor, SSL CSR Decoder & more. Check Website SSL Certificate by Using our Free SSL tools.
 * [SSL-Tools.net](https://ssl-tools.net)
 * [SSL Checker](https://www.sslchecker.com) - essential SSL tools that are easy to work with.
+* [TLS Logjam Tester - DHE_EXPORT Checker - CVE-2015-4000](https://tools.keycdn.com/logjam), [SSL FREAK Test - CVE-2015-0204](https://tools.keycdn.com/freak), [Decoder & Validate SSL certificates](https://tools.keycdn.com/ssl) - KeyCDN Tools.
 
 
 
@@ -1284,7 +1286,8 @@ The stuff you are actually looking for:
 * [GTmetrix | Website Speed and Performance Optimization](https://gtmetrix.com) - GTmetrix is a free tool that analyzes your page's speed performance. Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them. :ru: GTMetrix основан на руководстве по повышению производительности ресурса от Yahoo, оценка выводится по 100-балльной шкале. GTMetrix работает с не менее чем 50 различными метриками. GTMetrix предлагает диаграмму-водопад, препарируя процесс загрузки, а также весьма продвинутую историю загрузки. [Если вы хотите понять, как повысить производительность вашего ресурса, это один из лучших инструментов.](http://habr.ru/p/263781)
 * [Pingdom Website Speed Test](http://fpt.pingdom.com) - Use this free Website Speed Test to analyze the load speed of your websites, and learn how to make them faster.
 * [WebWait - Benchmark Your Website](http://webwait.com) - See how fast your website loads, test the speed of your ISP/website connection, with the WebWait web benchmark. :ru: Webwait — простой, но очень полезный инструмент. Основная задача сервиса — показать, за какое время полностью загрузится страница именно в вашем браузере. Таким образом, это не серверный инструмент, сервис запускается локально. Webwait загружает страницу снова и снова, а затем показывает средний и медианный результат времени загрузки. [Habr](http://habr.ru/p/263781)
-* [Website Performance Test](http://website-performance.org) - Test the speed of your webpage's load time for free.  Get suggestions on ways to improve your website's speed, and improve your search ranking.
+* [Website Performance Test - KeyCDN Tools](http://website-performance.org) - Test the speed of your webpage's load time for free.  Get suggestions on ways to improve your website's speed, and improve your search ranking.
+* [Website Speed Test](https://tools.keycdn.com/speed) - This website speed test includes a waterfall breakdown and the website preview. You can run the site speed test from various test locations and easly share the website speed results with others. [Ping Test](https://tools.keycdn.com/ping)
 * :ru: [webo.in](https://webo.in) - Методы уменьшения времени загрузки страницы и загрузки сайта у конечного пользователя. Проверка сайта и проверка скорости. Оптимизация времени загрузки сайта.
 
 
