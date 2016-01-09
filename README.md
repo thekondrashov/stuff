@@ -900,6 +900,7 @@ The stuff you are actually looking for:
 * :octocat: [interagent / http-api-design](https://github.com/interagent/http-api-design) - This guide describes a set of HTTP+JSON API design practices, originally extracted from work on the Heroku Platform API. [![GitHub stars](https://img.shields.io/github/stars/interagent/http-api-design.svg?style=social)](https://github.com/interagent/http-api-design)
 * [The RESTful cookbook](http://restcookbook.com) - This site is about dealing with issues and questions people are facing over and over again when trying to create RESTful APIs. [![GitHub stars](https://img.shields.io/github/stars/restcookbook/restcookbook.svg?style=social)](https://github.com/restcookbook/restcookbook)
 * [Creating a RESTful API with PHP](http://coreymaynard.com/blog/creating-a-restful-api-with-php/) - by Corey Maynard.
+* [Is it RESTful?](https://isitrestful.com) - This site helps people to figure out if their Web site and APIs are RESTful, by interactively interrogating them and applying a suite of cloud-based analytics. Or, it gives a completely random answer.
 
 ## API testing tools
 
