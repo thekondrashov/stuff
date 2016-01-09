@@ -1661,6 +1661,8 @@ The stuff you are actually looking for:
 * [HTTP response codes - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Response_codes) - HTTP Response Codes indicate whether a specific HTTP requests has been successfully completed. Responses are grouped in five classes: informational responses, successful responses, redirections, client errors, and servers errors.
 * [HTTP Status Codes - REST & WOA Wiki](http://www.restpatterns.org/HTTP_Status_Codes)
 * :octocat: [joho/7XX-rfc](https://github.com/joho/7XX-rfc) - An RFC for the 7XX range of HTTP status codes covering developer fouls. :ru: RFC для 7xx кодов состояния HTTP — Ошибки разработчиков. [![GitHub stars](https://img.shields.io/github/stars/joho/7XX-rfc.svg?style=social)](https://github.com/joho/7XX-rfc)
+* :smile: [HTTP Status Cats](https://www.flickr.com/photos/girliemac/sets/72157628409467125) - by Tomomi Imura on flickr. [![API by Rogério Vicente][API Icon]](https://http.cat)
+* :smile: [HTTP Status Dogs](https://httpstatusdogs.com) - Hypertext Transfer Protocol response status codes. And dogs. Inspired by HTTP Status Cats.
 
 
 ## Markdown
