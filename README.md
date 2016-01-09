@@ -224,8 +224,8 @@ The stuff you are actually looking for:
 
 ## Text editors
 
+* [JetBrains IDEs](#jetbrains-ides)
 * [Sublime Text](#sublime-text)
-* [WebStorm](#webStorm)
 * [Text editors Misc](#text-editors-misc)
 
 ## Textures, patterns, backgrounds
@@ -1292,12 +1292,21 @@ The stuff you are actually looking for:
 
 # Text editors
 
+## JetBrains IDEs
+
+### JetBrains IDEs plugins
+
+* :octocat: [Material Theme UI](https://github.com/ChrisRM/material-theme-jetbrains) - a [Material Theme](https://github.com/equinusocio/material-theme) port of both the IDE and Color scheme for JetBrains products. [![GitHub stars](https://img.shields.io/github/stars/ChrisRM/material-theme-jetbrains.svg?style=social)](https://github.com/ChrisRM/material-theme-jetbrains)
+* :octocat: [CodeGlance](https://github.com/Vektah/CodeGlance) - Intelij plugin that displays a zoomed out overview or minimap similar to the one found in Sublime into the editor pane. The minimap allows for quick scrolling letting you jump straight to sections of code. [![GitHub stars](https://img.shields.io/github/stars/Vektah/CodeGlance.svg?style=social)](https://github.com/Vektah/CodeGlance)
+* :ru: [Лучший редактор для веб-разработки / СоХабр](https://sohabr.net/habr/post/254329/)
+
+
 ## Sublime Text
 
 ### Sublime Text plugins
 
-* [Markdown plugin for Sublime Text - GitHub](https://github.com/SublimeText-Markdown/MarkdownEditing) - Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
-* [Sublime Text packages for Front-end Development — Medium](https://medium.com/@vilcins/d7b35a89e16d) - Sublime Text is my favorite text editor for code and it’s the most beautiful editor I have laid eyes on. I just love it!… На Medium: Подборка Sublime Text плагинов для фронтенд разработки.
+* :octocat: [Markdown plugin for Sublime Text](https://github.com/SublimeText-Markdown/MarkdownEditing) - Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
+* [Sublime Text packages for Front-end Development — Medium](https://medium.com/vilcins/d7b35a89e16d) - Sublime Text is my favorite text editor for code and it’s the most beautiful editor I have laid eyes on. I just love it!… На Medium: Подборка Sublime Text плагинов для фронтенд разработки.
 * :ru: [Как сделать из Sublime Text удобный переводчик или обзор полезного плагина YandexTranslate](http://pafnuty.name/statyi/146-yandex-translate.html)
 
 
@@ -1313,11 +1322,6 @@ The stuff you are actually looking for:
 * [Dayle Rees Colour Scheme Previews](https://daylerees.github.io) - Colour schemes for a variety of editors created by Dayle Rees. [GitHub](https://github.com/daylerees/colour-schemes)
 * [Colorsublime](http://colorsublime.com) - Color your Sublime Text editor trying your favorite theme online before downloading it for free. [GitHub](https://github.com/Colorsublime/Colorsublime-Themes)
 * [Solarized - Ethan Schoonover](http://ethanschoonover.com/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes. [GitHub](https://github.com/altercation/solarized). [A port of the popular Solarized Theme for Sublime Text 2](https://github.com/braver/Solarized)
-
-
-## WebStorm
-
-* [Лучший редактор для веб-разработки / СоХабр](https://sohabr.net/habr/post/254329/)
 
 
 ## Text editors Misc
