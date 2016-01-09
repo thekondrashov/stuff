@@ -1170,6 +1170,7 @@ The stuff you are actually looking for:
 * [Jonathan Rudenberg](https://titanous.com)
 * [Noncombatant by Chris Palmer](https://nonfreesoftware.org)
 * [kura.io](https://kura.io/t/ssl/)
+* [DigiNinja](https://digi.ninja/blog.php) - Blog by Robin Wood.
 * :ru: [dxdt.ru](https://dxdt.ru)
 * :ru: [BugTraq.Ru](https://bugtraq.ru) - является одним из самых старых и популярных русскоязычных серверов, посвященных информационной безопасности.
 
