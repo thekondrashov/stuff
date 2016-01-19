@@ -1719,6 +1719,7 @@ The stuff you are actually looking for:
 * [Пример резюме на анг #15](http://resume.github.io/?weierophinney)
 * [Пример резюме на анг #16](https://jonbake.com/assets/pdfs/resume.pdf) (pdf)
 * [Пример резюме на анг #17](https://www.mnot.net/personal/resume.html)
+* [Пример резюме на анг #18](http://www.vasanthk.com/#/resume)
 * [Пример резюме на рус](http://bioinformaticsinstitute.ru/resumes)
 * [Сравнение онлайн-консультантов для сайта: муки выбора / Хабрахабр](http://habr.ru/p/254529)
 * [DevDocs: Offline API Documentation Browser](http://devdocs.io) - DevDocs combines 64 reference documentations in a fast, organized, and searchable interface: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, etc.
