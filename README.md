@@ -875,6 +875,7 @@ The stuff you are actually looking for:
 
 
 # Regular expressions
+> Some people, when confronted with a problem, think, “I know, I’ll use regular expressions.” Now they have two problems.<br>**— Jamie Zawinksi, [regex.info](http://regex.info/blog/2006-09-15/247)**
 
 ## Learn regular expressions
 
