@@ -629,6 +629,7 @@ The stuff you are actually looking for:
 
 ## Typefaces
 
+* [Google Noto Fonts](https://www.google.com/get/noto/) - Noto's goal is to provide a beautiful reading experience for everyone and for all languages. With visual harmony when multiple languages share a page. With multiple styles and weights. And Freely available to all. [![GitHub stars](https://img.shields.io/github/stars/googlei18n/noto-fonts.svg?style=social)](https://github.com/googlei18n/noto-fonts)
 * [Monoid Open Source Coding Font](https://larsenwork.com/monoid/) - Monoid is a customizable, minimal + legible font optimized for coding. It's drawn over a 14px grid for bitmap-like sharpness. [![GitHub stars](https://img.shields.io/github/stars/larsenwork/monoid.svg?style=social)](https://github.com/larsenwork/monoid)
 * [BLOKK font](http://blokkfont.com) - BLOKK font helps you create good looking mock-ups and wireframes, where layout is more important than latin words.
 * [Hack](https://sourcefoundry.org/hack/) - A typeface designed for source code. [![GitHub stars](https://img.shields.io/github/stars/chrissimpkins/Hack.svg?style=social)](https://github.com/chrissimpkins/Hack) [![jsDelivr CDN repository](https://img.shields.io/badge/jsDelivr-font--hack-brightgreen.svg?style=flat-square)](https://www.jsdelivr.com/projects/font-hack)
