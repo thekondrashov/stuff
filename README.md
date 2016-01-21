@@ -1670,11 +1670,12 @@ The stuff you are actually looking for:
 
 ## Markdown
 
-* [Markdown Basics](https://help.github.com/articles/markdown-basics/) - Markdown Basics on GitHub.
+* :octocat: [Markdown Basics](https://help.github.com/articles/markdown-basics/) - Markdown Basics on GitHub.
 * [A Guide to Markdown for Simpler Web Writing | Scotch](https://scotch.io/bar-talk/a-guide-to-markdown-for-simpler-web-writing) - Руководство по языку разметки Markdown.
-* [Markdown Here wiki: Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* :star: :octocat: [Markdown Here wiki: Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Bitbucket Supported Markdown](https://bitbucket.org/tutorials/markdowndemo)
 * [Markdown Cheatsheet by Assemble](http://assemble.io/docs/Cheatsheet-Markdown.html)
+* [MarkdownTutorial.com](http://markdowntutorial.com) - Lessons to help guide new writers into Markdown written by [@gjtorikian](https://github.com/gjtorikian). [![GitHub stars](https://img.shields.io/github/stars/gjtorikian/markdowntutorial.com.svg?style=social)](https://github.com/gjtorikian/markdowntutorial.com)
 
 ## Unicode
 
