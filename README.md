@@ -745,6 +745,7 @@ The stuff you are actually looking for:
 * [JS: The Right Way](http://jstherightway.org) - A quick reference to best practices for writing JavaScript -- links to code patterns and tutorials from around the web.
 * :octocat: [Airbnb JavaScript Style Guide - GitHub](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript.
 * [JavaScript Standard Style](http://standardjs.com) - One Style to Rule Them All. [![GitHub stars](https://img.shields.io/github/stars/feross/standard.svg?style=social)](https://github.com/feross/standard)
+* :octocat: [Simplified JavaScript Jargon](https://github.com/HugoGiraudel/SJSJ) - a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words. The idea is not to replace individual documentations, but to act as some kind of glossary that can be easily referenced. :ru: [Упрощённый JavaScript-жаргон](https://github.com/andrew--r/SJSJ) [![GitHub stars](https://img.shields.io/github/stars/HugoGiraudel/SJSJ.svg?style=social)](https://github.com/HugoGiraudel/SJSJ)
 
 ## jQuery
 > *__jQuery__ is a powerful JavaScript library that works in all browsers, and enables you to write much less code than you otherwise would with plain JavaScript<br>- ["Intro to jQuery" @ Thinkful.com](https://www.thinkful.com/learn/intro-to-jquery)*
