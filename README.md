@@ -61,7 +61,6 @@ The stuff you are actually looking for:
 * [User Agent Strings](#user-agent-strings)
 
 
-
 ## CAPTCHA
 
 * [CAPTCHA plugins](#captcha-plugins)
@@ -71,7 +70,6 @@ The stuff you are actually looking for:
 ## Chat
 
 * [Chat providers](#chat-providers)
-
 
 
 ## Color
@@ -85,16 +83,6 @@ The stuff you are actually looking for:
 * [WordPress](#wordpress)
 * [CMS Misc](#cms-misc)
 
-
-## CSS
-
-* [Bootstrap](#bootstrap)
-* [CSS Animation](#css-animation)
-* [CSS Hacks](#css-hacks)
-* [CSS Preprocessors](#css-preprocessors)
-* [CSS References](#css-references)
-* [CSS Sprite Generators](#css-sprite-generators)
-* [CSS Misc](#css-misc)
 
 ## Digests
 
@@ -133,7 +121,6 @@ The stuff you are actually looking for:
 * [Icon font generators](#icon-font-generators)
 * [Raster icons](#raster-icons)
 * [Search Icons](#search-icons)
-
 
 
 ## JavaScript
@@ -219,7 +206,6 @@ The stuff you are actually looking for:
 * [Mobile-Friendly tests](#mobile-friendly-tests)
 * [Validators](#validators)
 * [Website tests](#website-tests)
-
 
 
 ## Text editors
@@ -427,8 +413,21 @@ The stuff you are actually looking for:
 * :ru: [iTrack - Сервис определения CMS](http://itrack.ru/whatcms/) - Сервис определения CMS позволяет узнать какая система управления сайтом (движок сайта) установлена на нем. Определение CMS идет по характерным признакам систем и не гарантирует идеальной точности. 
 
 
-
 # CSS
+
+<table>
+  <tr>
+    <td><a href="#bootstrap">Bootstrap</a></td>
+    <td><a href="#css-animation">CSS Animation</a></td>
+    <td><a href="#css-hacks">CSS Hacks</a></td>
+    <td><a href="#css-preprocessors">CSS Preprocessors</a></td>
+  </tr>
+  <tr>
+    <td><a href="#css-references">CSS References</a></td>
+    <td><a href="#css-sprite-generators">CSS Sprite Generators</a></td>
+    <td colspan="2"><a href="#css-misc">CSS Misc</a></td>
+  </tr>
+</table>
 
 ## Bootstrap
 
@@ -1774,31 +1773,15 @@ The stuff you are actually looking for:
 
 ---
 
+# Credits
+
+- [Alexandr Kondrashov](https://github.com/thekondrashov)
+- [*someone else*](https://github.com)
+- [All Contributors](https://github.com/thekondrashov/stuff/contributors)
+
 # License
 
-```bash
-The MIT License (MIT)
-
-Copyright (c) 2015 Alexandr Kondrashov
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+The MIT License (MIT). Please see [License File](https://github.com/thekondrashov/stuff/blob/master/LICENSE) for more information.
 
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg "Open-Source Software"
 [SO Icon]: https://cdn.sstatic.net/stackoverflow/img/favicon.ico "Stack Overflow"
