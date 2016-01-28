@@ -1610,7 +1610,8 @@ The stuff you are actually looking for:
 
 ### Online Picture Resizer
 
-* [Resize, shrink, and crop your pictures online for free at PicResize.com](http://picresize.com) - Crop and Resize photos, images, or pictures online for FREE! Resize photos before posting them on Facebook, Twitter, Pinterest, Reddit, Tumblr, or blog!
+* [Resize, shrink, and crop your pictures online for free at PicResize.com](http://picresize.com) - Crop and Resize photos, images, or pictures online for FREE! Resize photos before posting them on Facebook, Twitter, Pinterest, Reddit, Tumblr, or blog! ![Only HTTP][Only HTTP Icon]
+* [THUMBER](http://thumber.io) - Cloud image processing platform. :ru: [![Хабрахабр][Habr Icon] Облачный ресайзинг изображений](https://habr.ru/p/275739) ![Only HTTP][Only HTTP Icon]
 
 ### Compress GIF
 
