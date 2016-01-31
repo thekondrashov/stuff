@@ -115,14 +115,6 @@ The stuff you are actually looking for:
 * [GIT Misc](#git-misc)
 
 
-## Icons
-
-* [Icon kits](#icon-kits)
-* [Icon font generators](#icon-font-generators)
-* [Raster icons](#raster-icons)
-* [Search Icons](#search-icons)
-
-
 ## JavaScript
 
 * [Charts](#charts)
@@ -669,6 +661,15 @@ The stuff you are actually looking for:
 
 # Icons
 
+<table>
+  <tr>
+    <td><a href="#icon-kits">Icon kits</a></td>
+    <td><a href="#icon-font-generators">Icon font generators</a></td>
+    <td><a href="#raster-icons">Raster icons</a></td>
+    <td><a href="#search-icons">Search Icons</a></td>
+  </tr>
+</table>
+
 ## Icon kits
 
 * [GLYPHICONS](https://glyphicons.com) - Library of precisely prepared monochromatic icons and symbols.
@@ -722,6 +723,7 @@ The stuff you are actually looking for:
 * [iconmelon](http://iconmelon.com) - svg icons library for web. :ru: iconmelon — набор векторных иконок, к которым можно применить SVG-фильтры и скачать архивом SVG-файлы. [![GitHub stars](https://img.shields.io/github/stars/legomushroom/iconmelon.svg?style=social)](https://github.com/legomushroom/iconmelon)
 * [iconmonstr](http://iconmonstr.com) - Discover 1000+ free simple icons for your next project. Available in both PNG and SVG.
 * [FlatIcon](http://www.flaticon.com) - Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT. Thousands of free icons in the largest database of free vector icons!
+* :ru: [![Хабрахабр][Habr Icon] Лучшие бесплатные коллекции векторных иконок](https://habr.ru/p/276249) - Огромная коллекция из 51 набора иконок, представленных в различных форматах: `@font-face`, SVG, EPS, AI, PSD, Sketch.
 
 
 
