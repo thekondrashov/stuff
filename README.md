@@ -1475,6 +1475,7 @@ The stuff you are actually looking for:
 * :ru: [Shorte.st](https://sh.st) - Сокращай ссылки с помощью Shorte.st и зарабативай реальные деньги. Мы платим за каждый клик по Вашей сокращенной ссылке.
 * :ru: [u.to](http://u.to) - Сокращение длинных ссылок. Полная статистика переходов. Человеко-понятные URL. ![Only HTTP][Only HTTP Icon]
 * [Url Shorteners: Destroying the Web Since 2002](http://blog.codinghorror.com/url-shorteners-destroying-the-web-since-2002/)
+* [![Stack Overflow][SO Icon] How to code a URL shortener?](https://stackoverflow.com/q/742013)
 
 
 
