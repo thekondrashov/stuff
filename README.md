@@ -1767,6 +1767,7 @@ The stuff you are actually looking for:
 * :star: [Noun Project - Icons for Everything](https://thenounproject.com) - Creating, Sharing and Celebrating the World’s Visual Language.
 * [ipfs.pics](http://ipfs.pics) - Decentralized image hosting website. Never lose your images by uploading them on ipfs. :ru: [Открылся P2P-хостинг картинок IPFS (InterPlanetary File System) / Geektimes](http://geektimes.ru/p/264522) [![Follow @IpfsPics](https://img.shields.io/twitter/url/http/ipfs.pics.svg?label=@IpfsPics&style=social)](https://twitter.com/ipfspics) [![GitHub stars](https://img.shields.io/github/stars/ipfspics/server.svg?style=social)](https://github.com/ipfspics/server)
 * :ru: [Docs.cntd.ru](http://docs.cntd.ru) - Электронный Фонд нормативных и справочных документов.
+* :ru: [Открытая база ГОСТов](http://standartgost.ru) - Все ГОСТы, СНИиПы, нормативные документы, национальные стандарты: сканы и тексты, бесплатно.
 
 
 # Finally
