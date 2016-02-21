@@ -1690,6 +1690,7 @@ The stuff you are actually looking for:
 * [Unitools](https://www.unicod.es) - a suite of tools for working with Unicode in the browser.
 * [HTML Symbol Codes and Entities — HTML Arrows](http://htmlarrows.com) - The most beautiful HTML arrows, currency and copyright symbols you will ever see, plus all those other pesky ASCII and HEX codes you can never remember.
 * :octocat: [ᕙ༼ຈل͜ຈ༽ᕗ cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - get some cool ascii faces. [![GitHub stars](https://img.shields.io/github/stars/maxogden/cool-ascii-faces.svg?style=social)](https://github.com/maxogden/cool-ascii-faces) [Some handpicked Unicode Art](https://www.unicod.es/#lll)
+* [Donger List](http://dongerlist.com) - a set of unicode characters assembled to form a text emoticon. Sometimes also refered to as emojicons, emoticons, kaomoji, kawaii faces, japanese emoticons, or text faces.
 
 ## XPath
 > *__XPath__, the __XML Path Language__, is a query language for selecting nodes from an XML document.<br>- ["XPath" @ Wikipedia](https://en.wikipedia.org/wiki/XPath)*
