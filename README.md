@@ -497,7 +497,7 @@ The stuff you are actually looking for:
 ## CSS Preprocessors
 
 * [CSS PRE](http://csspre.com) - CSS Preprocessors - preprocessor comparisons and reference guide, play around with all code snippets, explore tools for conversion from/to CSS. [GitHub](https://github.com/futekov/csspre)
-* [Learn LESS in 10 Minutes (or Less) | Tutorialzine](http://tutorialzine.com/?p=6208) - In this quick lesson we are going to cover the basics of Less. It is the most widely used CSS pre-processor at the moment, with hugely popular projects like Bootstrap adopting it. Туториал «Изучите Less за 10 минут».
+* [Learn LESS in 10 Minutes (or Less) | Tutorialzine](http://tutorialzine.com?p=6208) - In this quick lesson we are going to cover the basics of Less. It is the most widely used CSS pre-processor at the moment, with hugely popular projects like Bootstrap adopting it. Туториал «Изучите Less за 10 минут».
 
 
 ## CSS References
@@ -510,6 +510,7 @@ The stuff you are actually looking for:
 * [CSS4-Selectors](http://css4-selectors.com) - CSS4-Selectors provide information about the upcoming Cascading Style Sheets on Level 4 draft - short CSS4.
 * :ru: [20 лучших сайтов со справочниками по CSS](http://www.cssauthor.com/css-reference/)
 * :ru: [Шпаргалки по CSS - Клуб PHP программистов](https://vk.com/wall-3183750_58809)
+* :ru: [![Хабрахабр][Habr Icon] Все способы вертикального выравнивания в CSS](https://habr.ru/p/277433)
 
 
 ## CSS Sprite Generators
