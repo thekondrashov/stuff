@@ -774,7 +774,8 @@ The stuff you are actually looking for:
 * [jQuery Plugin Boilerplate, revisited](http://stefangabos.ro/jquery/jquery-plugin-boilerplate-revisited/) - Stefan Gabos.
 * [jQuery Coding Standards and Best Practices](http://lab.abhinayrathore.com/jquery-standards/) - jQuery Coding Standards and Best Practices guide for helping prgrammers write better jQuery code.
 * [Signs of a poorly written jQuery plugin](https://remysharp.com/2010/06/03/signs-of-a-poorly-written-jquery-plugin) - How do you know if the plugin is good to use?
-* :ru: [шаблон для плагинов jQuery, который позволяет отказаться от стиля, навязываемого им](http://habr.ru/p/172975#comment_6009529) - Хабрахабр. [Pastebin](http://pastebin.com/ydqFcZpR)
+* :ru: [![Хабрахабр][Habr Icon] Шаблон для плагинов jQuery, который позволяет отказаться от стиля, навязываемого им](http://habr.ru/p/172975#comment_6009529) [Pastebin](http://pastebin.com/ydqFcZpR)
+* :ru: [![Хабрахабр][Habr Icon] Правила хорошего тона при написании плагина на jQuery](https://habr.ru/p/277603)
 
 
 ## Autocomplete
