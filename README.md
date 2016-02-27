@@ -389,9 +389,10 @@ The stuff you are actually looking for:
 * :ru: [Niklan](http://niklan.net) - Блог начинающего веб-разработчика (Nikita Malyshev).
 * [How to Use Bootswatch Themes in Drupal 7](http://www.webwash.net/tutorials/how-use-bootswatch-themes-drupal-7) - Web Wash.
 * [Drupal CDN](http://maxcdn4support.wpengine.com/tutorial/drupal-cdn/)
-* [HTTP Parallel Request & Threading Library](https://www.drupal.org/project/httprl/)
-* https://www.drupal.org/project/bu
-* :octocat: [Drupal 7 custom module boilerplate](https://github.com/topsitemakers/drupal7-boilerplate) - Full featured custom module boilerplate with already setup structure and default functionality. The module and all example code is built completely using Drupal best practices and standards. [![GitHub stars](https://img.shields.io/github/stars/topsitemakers/drupal7-boilerplate.svg?style=social)](https://github.com/topsitemakers/drupal7-boilerplate)
+* [HTTP Parallel Request & Threading Library](https://drupal.org/project/httprl)
+* https://drupal.org/project/bu
+* :octocat: [Drupal 7 custom module boilerplate](https://github.com/aramboyajyan/drupal7-boilerplate) - Full featured custom module boilerplate with already setup structure and default functionality. The module and all example code is built completely using Drupal best practices and standards. [![GitHub stars](https://img.shields.io/github/stars/aramboyajyan/drupal7-boilerplate.svg?style=social)](https://github.com/aramboyajyan/drupal7-boilerplate)
+* [dgo.to](http://dgo.to) - shorten and smarten common URLs for drupal.org. [Source code](http://dgo.to/dgoto) ![Only HTTP][Only HTTP Icon]
 
 
 ## WordPress
@@ -1468,6 +1469,7 @@ The stuff you are actually looking for:
 * [Google URL Shortener](https://goo.gl)
 * [Git.io](https://git.io) - is a simple URL shortener for GitHub. *[Read more about Git.io.](https://github.com/blog/985-git-io-github-url-shortener)*
 * [tr.im - url shortener](https://tr.im)
+* [s.coop](https://s.coop) - The ethical URL shortener.
 * [TinyURL.com](http://tinyurl.com) ![Only HTTP][Only HTTP Icon]
 * [URL Shortener - url shortening service gg.gg](http://gg.gg) - GG.gg is the fastest and easy way to share, save, track your links. You can use GG.gg via our website or you can download GG.gg browser extentions. You can create also custom short url if You wanna get easy to remember url. GG.gg uses powerful webservers so all Your links works extremly fast. ![Only HTTP][Only HTTP Icon]
 * [b1t.co - Shorten your URL](http://b1t.co) - Web's shortest URL minifier! ![Only HTTP][Only HTTP Icon] [![b1t.co API][API Icon]](http://b1t.co/5f): For example the call, `http://b1t.co/Site/api/External/MakeUrlWithGet?callback=foo&url=google.com`
