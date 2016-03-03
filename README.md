@@ -1185,6 +1185,7 @@ The stuff you are actually looking for:
 * [DigiNinja](https://digi.ninja/blog.php) - Blog by Robin Wood.
 * :ru: [dxdt.ru](https://dxdt.ru)
 * :ru: [BugTraq.Ru](https://bugtraq.ru) - является одним из самых старых и популярных русскоязычных серверов, посвященных информационной безопасности.
+* :ru: [Взрывной блог](https://bo0om.ru) - Взлом и защита, с перевесом первого. Несерьёзный блог о серьёзных вещах.
 
 
 ## Security Misc
