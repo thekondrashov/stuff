@@ -2,7 +2,7 @@
 
 > #### My(A) curated list of goodies.
 
-> *Items marked with ![Open-Source Software][OSS Icon] are open-source software.*
+<!-- > *Items marked with ![Open-Source Software][OSS Icon] are open-source software.* -->
 
 The stuff you are actually looking for:
 
@@ -830,6 +830,7 @@ The stuff you are actually looking for:
 * :octocat: [Native Javascript for Bootstrap](http://thednp.github.io/bootstrap.native/) - a set of scripts developed with native Javascript for Bootstrap 3 series, and featuring superior performance compared to the original jQuery Plugins. [![GitHub stars](https://img.shields.io/github/stars/thednp/bootstrap.native.svg?style=social)](https://github.com/thednp/bootstrap.native)
 * [Waves](http://fian.my.id/Waves) - Click effect inspired by Google's Material Design. :ru: Waves — библиотека для создания волнового эффекта при клике на объект с JQuery. [![GitHub stars](https://img.shields.io/github/stars/fians/Waves.svg?style=social)](https://github.com/fians/Waves)
 * [UAParser.js](https://faisalman.github.io/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser. Supports browser & node.js environment. Also available as jQuery/Zepto plugin, Component/Bower/Meteor package, & RequireJS/AMD module. [![GitHub stars](https://img.shields.io/github/stars/faisalman/ua-parser-js.svg?style=social)](https://github.com/faisalman/ua-parser-js)
+* :octocat: [okayNav jQuery Plugin](https://github.com/VPenkov/okayNav) - The world's okayest responsive navigation. [Play with it on CodePen](https://codepen.io/VPenkov/pen/wMZBOg) [![GitHub stars](https://img.shields.io/github/stars/VPenkov/okayNav.svg?style=social)](https://github.com/VPenkov/okayNav)
 * :ru: [![Хабрахабр][Habr Icon] Шорткаты в JavaScript](http://habr.ru/p/273267) - Эти сокращения в некоторых случаях могут облегчить чтение кода, а также существенно уменьшить его количество.
 
 
@@ -908,6 +909,7 @@ The stuff you are actually looking for:
 * :octocat: [WhiteHouse / api-standards](https://github.com/WhiteHouse/api-standards) - This document provides guidelines and examples for White House Web APIs, encouraging consistency, maintainability, and best practices across applications. [![GitHub stars](https://img.shields.io/github/stars/WhiteHouse/api-standards.svg?style=social)](https://github.com/WhiteHouse/api-standards)
 * :octocat: [interagent / http-api-design](https://github.com/interagent/http-api-design) - This guide describes a set of HTTP+JSON API design practices, originally extracted from work on the Heroku Platform API. [![GitHub stars](https://img.shields.io/github/stars/interagent/http-api-design.svg?style=social)](https://github.com/interagent/http-api-design)
 * [The RESTful cookbook](http://restcookbook.com) - This site is about dealing with issues and questions people are facing over and over again when trying to create RESTful APIs. [![GitHub stars](https://img.shields.io/github/stars/restcookbook/restcookbook.svg?style=social)](https://github.com/restcookbook/restcookbook)
+* :octocat: [Awesome REST](https://github.com/marmelab/awesome-rest) - A collaborative list of great resources about RESTful API architecture, development, test, and performance. [![Awesome][Awesome Icon]](https://github.com/sindresorhus/awesome) [![GitHub stars](https://img.shields.io/github/stars/marmelab/awesome-rest.svg?style=social)](https://github.com/marmelab/awesome-rest)
 * [Creating a RESTful API with PHP](http://coreymaynard.com/blog/creating-a-restful-api-with-php/) - by Corey Maynard.
 * [Is it RESTful?](https://isitrestful.com) - This site helps people to figure out if their Web site and APIs are RESTful, by interactively interrogating them and applying a suite of cloud-based analytics. Or, it gives a completely random answer. [![GitHub stars](https://img.shields.io/github/stars/mnot/isitrestful.svg?style=social)](https://github.com/mnot/isitrestful)
 
@@ -1491,6 +1493,7 @@ The stuff you are actually looking for:
 
 * [HTML5 Video Player | Video.js](http://videojs.com) - Video.js is a JavaScript and CSS library that makes it easier to work with and build on HTML5 video. This is also known as an HTML5 Video Player. [![tweet](https://img.shields.io/twitter/url/http/videojs.com.svg?label=@videojs&style=social)](https://twitter.com/videojs) [![GitHub stars](https://img.shields.io/github/stars/videojs/video.js.svg?style=social)](https://github.com/videojs/video.js)
 * [Flowplayer: The web video player](https://flowplayer.org) - The HTML5 video player for the web. [![tweet](https://img.shields.io/twitter/url/http/flowplayer.org.svg?label=@flowplayer&style=social)](https://twitter.com/flowplayer) [![GitHub stars](https://img.shields.io/github/stars/flowplayer/flowplayer.svg?style=social)](https://github.com/flowplayer/flowplayer)
+* [JW Player](https://jwplayer.com) - the world's most popular embeddable media player with over 18 billion monthly streams. [![GitHub stars](https://img.shields.io/github/stars/jwplayer/jwplayer.svg?style=social)](https://github.com/jwplayer/jwplayer)
 * :ru: [Uppod - плеер для сайта (Flash и HTML5), видео, аудио и фото](http://uppod.ru) [![tweet](https://img.shields.io/twitter/url/http/uppod.ru.svg?label=@uppod_ru&style=social)](https://twitter.com/uppod_ru)
 * :octocat: [jQuery Video Extend](https://github.com/andchir/jquery-video-extend) - HTML5 Video Extend. :ru: [jQuery Video Extend — расширение возможностей HTML5 видео плеера / Хабрахабр](http://habr.ru/p/264719) [![GitHub stars](https://img.shields.io/github/stars/andchir/jquery-video-extend.svg?style=social)](https://github.com/andchir/jquery-video-extend)
 
@@ -1736,6 +1739,7 @@ The stuff you are actually looking for:
 * [Пример резюме на анг #17](https://www.mnot.net/personal/resume.html)
 * [Пример резюме на анг #18](http://www.vasanthk.com/#/resume)
 * [Пример резюме на анг #19](https://evertpot.com/resume)
+* [Пример резюме на анг #20](http://joshbranchaud.com/media/JoshBranchaud-Resume.pdf) (pdf)
 * [Пример резюме на рус](http://bioinformaticsinstitute.ru/resumes)
 * [Сравнение онлайн-консультантов для сайта: муки выбора / Хабрахабр](http://habr.ru/p/254529)
 * [DevDocs: Offline API Documentation Browser](http://devdocs.io) - DevDocs combines 64 reference documentations in a fast, organized, and searchable interface: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, etc.
@@ -1756,6 +1760,8 @@ The stuff you are actually looking for:
 |[![badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)|[Created by Sindre Sorhus](https://github.com/sindresorhus/awesome) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome.svg?style=social)](https://github.com/sindresorhus/awesome)|
 |[![Project Stats](https://openhub.net/p/windows-package-manager/widgets/project_thin_badge.gif)](https://openhub.net/p/windows-package-manager/widgets/project_thin_badge.gif)|https://openhub.net/p/windows-package-manager/widgets|
 |[![Google Analytics Beacon](https://ga-beacon.appspot.com/UA-57742328-1/vendocrat/PaymentFont)](https://github.com/igrigorik/ga-beacon)|:octocat: [igrigorik / ga-beacon](https://github.com/igrigorik/ga-beacon) - Google Analytics Beacon - Google Analytics collector-as-a-service (using GA measurement protocol). [![GitHub stars](https://img.shields.io/github/stars/igrigorik/ga-beacon.svg?style=social)](https://github.com/igrigorik/ga-beacon)|
+|[![Build history](https://buildstats.info/appveyor/chart/dustinmoris/ci-buildstats)](https://buildstats.info/appveyor/chart/dustinmoris/ci-buildstats)<br>[![NuGet Badge](https://buildstats.info/nuget/nunit)](https://buildstats.info/nuget/nunit)|[BuildStats.info](https://buildstats.info) - Little SVG widget to display AppVeyor, TravisCI or CircleCI build history charts and other SVG badges. [![GitHub stars](https://img.shields.io/github/stars/dustinmoris/CI-BuildStats.svg?style=social)](https://github.com/dustinmoris/CI-BuildStats)|
+|[![GitHub version](https://badge.fury.io/gh/twbs%2Fbootstrap.svg)](https://badge.fury.io/gh/twbs%2Fbootstrap.svg)|[Version Badge](https://badge.fury.io) - the best way for package authors to tie their source code and documentation to installable package releases.|
 
 * [SVG Weirdness](https://github.com/emilbjorklund/svg-weirdness/issues) - A repository for documenting bugs and other weird SVG behaviors, inspired by [Scott Jehl’s “Device Bugs” repo](https://github.com/scottjehl/Device-Bugs). Странности SVG, репозиторий на GitHub, в котором авторы начали собирать проблемы и решения.
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com) - Fake online REST API for developers. [GitHub](https://github.com/typicode/jsonplaceholder)
@@ -1802,3 +1808,4 @@ The MIT License (MIT). Please see [License File](https://github.com/thekondrasho
 [MIT Icon]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=social "The MIT License (MIT)"
 [API Icon]: https://img.shields.io/badge/API-available-brightgreen.svg?style=flat-square "API Reference"
 [Only HTTP Icon]: https://img.shields.io/badge/https-off-red.svg?style=flat-square "Only HTTP"
+[Awesome Icon]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg "Awesome"
