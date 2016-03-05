@@ -868,9 +868,9 @@ The stuff you are actually looking for:
 
 ## Phar
 
-* ![Stack Overflow][SO Icon]  [php - How to make an executable phar?](https://stackoverflow.com/a/11082338) - Stack Overflow.
+* [![Stack Overflow][SO Icon] php - How to make an executable phar?](https://stackoverflow.com/a/11082338)
 * [Phar в PHP: преимущества и работа с PHAR](http://sitear.ru/material/phar-php) - SiteAR.ru.
-* [.phar — исполняемые PHP-архивы](http://habr.ru/p/118269) - Хабрахабр.
+* [.phar — исполняемые PHP-архивы](https://habr.ru/p/118269) - Хабрахабр.
 
 ## PHP Decoders
 
@@ -881,6 +881,7 @@ The stuff you are actually looking for:
 
 * [phpToday - Latest PHP news, links and discussions](https://www.phptoday.org) - PHPToday is a website for PHP developers to share useful links and latest news. Learn something new everyday. [GitHub](https://github.com/phptodayorg/php-must-watch)
 * [Introduction to PHP Security - Part 1 - Application Performance Monitoring Blog | AppDynamics](http://blog.appdynamics.com/php/introduction-to-php-security-part-1/) - It is a question that has daunted software engineers for decades: how secure is my software application? Modern web application development has evolved to a point where one can build and launch an entire product or company revolved around a full-fledged software-as-a-service.
+* [![Stack Overflow][SO Icon] What does this symbol mean in PHP?](https://stackoverflow.com/q/3737139) - `&`, `=&`, `&=`, `&&`, `%`, `!!`, `@`, `?:`, `??`, `:`, `::`, `\`, `->`, `=>`, `^`, `>>`, `<<`, `<<<`, `=`, `==`, `===`, `!==`, `!=`, `<>`, `<=>`, `|`, `||`, `~`, `+`, `+=`, `++`, `.=`, `.`, `,`, `$$`, `\``, `<?=`, `[]`, `<?`, `...`, `**`, `#`, `_`.
 
 
 # Regular expressions
