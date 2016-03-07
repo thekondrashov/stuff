@@ -1186,6 +1186,7 @@ The stuff you are actually looking for:
 * [Noncombatant by Chris Palmer](https://nonfreesoftware.org)
 * [kura.io](https://kura.io/t/ssl/)
 * [DigiNinja](https://digi.ninja/blog.php) - Blog by Robin Wood.
+* [Sucuri Blog](https://blog.sucuri.net) - Website Security News.
 * :ru: [dxdt.ru](https://dxdt.ru)
 * :ru: [BugTraq.Ru](https://bugtraq.ru) - является одним из самых старых и популярных русскоязычных серверов, посвященных информационной безопасности.
 * :ru: [Взрывной блог](https://bo0om.ru) - Взлом и защита, с перевесом первого. Несерьёзный блог о серьёзных вещах.
