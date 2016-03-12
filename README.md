@@ -59,6 +59,7 @@ The stuff you are actually looking for:
 * [Browser Tests](#browser-tests)
 * [Firefox](#firefox)
 * [User Agent Strings](#user-agent-strings)
+* [Browsers Misc](#browsers-misc)
 
 
 ## CAPTCHA
@@ -318,7 +319,11 @@ The stuff you are actually looking for:
 
 ## User Agent Strings
 
-* [UserAgentString.com - List of  User Agent Strings](http://useragentstring.com/pages/useragentstring.php) - Understand what information is contained in a user agent string. Get an analysis of your or any other user agent string. Find lists of user agent strings from browsers, crawlers, spiders, bots, validators and others..
+* [UserAgentString.com - List of  User Agent Strings](http://useragentstring.com/pages/useragentstring.php) - Understand what information is contained in a user agent string. Get an analysis of your or any other user agent string. Find lists of user agent strings from browsers, crawlers, spiders, bots, validators and others.
+
+## Browsers Misc
+
+* [Brave browser](https://www.brave.com) - reinventing the browser as a user-first platform for speed, privacy, better ads, and beyond. [GitHub](https://github.com/brave)
 
 [↑ back to top](#table-of-contents)
 
@@ -1409,6 +1414,7 @@ The stuff you are actually looking for:
 * [Ideone.com](https://ideone.com) - Online Compiler and IDE C/C++, Java, PHP, Python, Perl and 40+ other compilers and interpreters. Ideone is something more than a pastebin; it's an online compiler and debugging tool which allows to compile and run code online in more than 40 programming languages.
 * [eval.in](https://eval.in) - paste and execute code online.
 * [Plunker](http://plnkr.co) - an online community for creating, collaborating on and sharing your web development ideas. [![Follow @filearts](https://img.shields.io/twitter/url/http/plnkr.co.svg?label=@filearts&style=social)](https://twitter.com/filearts) [![GitHub stars](https://img.shields.io/github/stars/filearts/plunker_www.svg?style=social)](https://github.com/filearts/plunker_www)
+* [Online PHP shell](https://3v4l.org) - Execute your php code; get performance statistics and compare output from 150+ different PHP versions.
 * [PHP Sandbox](http://sandbox.onlinephpfunctions.com) - Run, execute and test PHP code from your browser. You can test your PHP code here on many php versions.
 * [eval.so](http://eval.so) - Eval.so provides a free and open source web platform for you to evaluate code in many situations. Whether you want to make sure your code works on another computer, or you found some code online that you don't trust, simply run it on Eval.so, and have your answer in no time. [GitHub](https://github.com/eval-so)
 * [lpaste — Lambda pastebin](http://lpaste.net) - Paste service written in Haskell for functional programmers. [![GitHub stars](https://img.shields.io/github/stars/chrisdone/lpaste.svg?style=social)](https://github.com/chrisdone/lpaste)
